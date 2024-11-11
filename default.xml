@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2024-11-11T18:24:04+09:00</updated>
+  <updated>2024-11-11T10:19:19Z</updated>
   <link href="https://a.example.com"></link>
   <entry>
     <title>4:orielly_books_soon: Kubernetesパターン 第2版</title>
@@ -400,7 +400,7 @@
     <link href="https://qiita.com/moritalous/items/0c5f4a2f0a6980e1968e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: ウォーターフォールの反省と、アジャイルの成功に必要なもの</title>
+    <title>3:qiita_trend: ウォーターフォールの反省とアジャイルの成功に必要なもの</title>
     <updated>2024-11-10T14:29:31Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/1934460</id>
     <link href="https://qiita.com/swiri/items/be7703dd0b204c4c2ae0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
@@ -508,10 +508,28 @@
     <link href="https://www.youtube.com/watch?v=IfQHT1rTFAA" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 「良いサンプルコード」を考える</title>
+    <updated>2024-11-11T04:01:47Z</updated>
+    <id>https://zenn.dev/mizchi/articles/good-sample-code</id>
+    <link href="https://zenn.dev/mizchi/articles/good-sample-code" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 【2024年版】Dockerfileのベストプラクティスを整理しながらNode.jsで実践する</title>
+    <updated>2024-11-11T02:50:00Z</updated>
+    <id>https://zenn.dev/mutex_inc/articles/nodejs-ts-docker-best-practice</id>
+    <link href="https://zenn.dev/mutex_inc/articles/nodejs-ts-docker-best-practice" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: spansql へのレクイエム、あるいは Go における Spanner GoogleSQL 方言パーサの現状</title>
     <updated>2024-11-11T01:56:40Z</updated>
     <id>https://zenn.dev/apstndb/articles/requirem-for-spansql</id>
     <link href="https://zenn.dev/apstndb/articles/requirem-for-spansql" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Azure の運用を支える AIOps #1【イントロ編】</title>
+    <updated>2024-11-10T15:07:36Z</updated>
+    <id>https://zenn.dev/openjny/articles/78f91604a8c30f</id>
+    <link href="https://zenn.dev/openjny/articles/78f91604a8c30f" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: T extends (...args: infer R) => unknown ? R : never ← ナニコレ</title>
@@ -536,6 +554,12 @@
     <updated>2024-11-10T12:58:17Z</updated>
     <id>https://zenn.dev/takakiriy/articles/edba260bda5aa3</id>
     <link href="https://zenn.dev/takakiriy/articles/edba260bda5aa3" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: データエンジニア向けSnowflakeプライバシー保護機能②合成データ</title>
+    <updated>2024-11-10T12:29:35Z</updated>
+    <id>https://zenn.dev/taro_cccmkhd/articles/2aa501bd841128</id>
+    <link href="https://zenn.dev/taro_cccmkhd/articles/2aa501bd841128" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Rails8お試し(Authentication GeneratorとSolidQueue/Cache/Cable)</title>
@@ -580,28 +604,10 @@
     <link href="https://zenn.dev/yohei/articles/2024-11-09-pg-duckdb" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 重い計算をタイムアウトする</title>
-    <updated>2024-11-09T08:41:49Z</updated>
-    <id>https://zenn.dev/termoshtt/articles/tokio-task-cancel</id>
-    <link href="https://zenn.dev/termoshtt/articles/tokio-task-cancel" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Reactの`state`に大容量データを保存するのは危険？</title>
-    <updated>2024-11-09T06:31:38Z</updated>
-    <id>https://zenn.dev/crebo_tech/articles/article-0014-20241109</id>
-    <link href="https://zenn.dev/crebo_tech/articles/article-0014-20241109" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: Next.js知識ゼロから生成AI頼みでWebアプリを作って思ったこと</title>
     <updated>2024-11-09T05:40:52Z</updated>
     <id>https://zenn.dev/robustonian/articles/nextjs_gen_ai</id>
     <link href="https://zenn.dev/robustonian/articles/nextjs_gen_ai" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Goのwasmで笑い男の顔はめサイトを作ってみた</title>
-    <updated>2024-11-09T04:31:17Z</updated>
-    <id>https://zenn.dev/ponyo877/articles/b506e03bbcbec8</id>
-    <link href="https://zenn.dev/ponyo877/articles/b506e03bbcbec8" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 1から始めるTailwindCSS</title>
@@ -620,12 +626,6 @@
     <updated>2024-11-08T11:05:41Z</updated>
     <id>https://zenn.dev/crayfisher_zari/articles/204f212c84c0a0</id>
     <link href="https://zenn.dev/crayfisher_zari/articles/204f212c84c0a0" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 私たちの t_wada になるメリット</title>
-    <updated>2024-11-08T10:38:43Z</updated>
-    <id>https://zenn.dev/yamayuski/articles/become-our-t-wada</id>
-    <link href="https://zenn.dev/yamayuski/articles/become-our-t-wada" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:arco_linux_youtube: Arco : 4335 Migrating ArcoLinux-Chadwm to Almalinux - focus on Chadwm script</title>
@@ -4822,22 +4822,28 @@
     <link href="https://tech.findy.co.jp/entry/2024/11/11/070000" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: フロントエンドフレームワークからサーバーにアクセスするパターン | フューチャー技術ブログ</title>
+    <updated>2024-11-11T04:46:36Z</updated>
+    <id>tag:future-architect.github.io,2024-11-11:/articles/20241111a/</id>
+    <link href="https://future-architect.github.io/articles/20241111a/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 出した覚えのない論文が勝手に自分の名前で聞いたことのない論文雑誌に載っていた...内容もAIが書いたとしか思えない→その目的があまりに狡猾すぎる</title>
     <updated>2024-11-10T10:47:14Z</updated>
     <id>tag:togetter.com,2024-11-10:/li/2463455</id>
     <link href="https://togetter.com/li/2463455" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 夢に向けて古民家をフルリノベ。EcoFlow家庭用蓄電池を導入し、家の全電力をまかないたい - 家電 Watch[Sponsored]</title>
+    <updated>2024-11-11T00:23:17Z</updated>
+    <id>tag:kaden.watch.impress.co.jp,2024-11-11:/docs/topic/special/1633833.html</id>
+    <link href="https://kaden.watch.impress.co.jp/docs/topic/special/1633833.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 電波新聞社、「マイコンBASICマガジンDELUXE PasocomMini PC-8801mkIISR大全集」を2025年春発売</title>
     <updated>2024-11-11T01:55:45Z</updated>
     <id>tag:pc.watch.impress.co.jp,2024-11-11:/docs/news/1638246.html</id>
     <link href="https://pc.watch.impress.co.jp/docs/news/1638246.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: フロントエンドフレームワークからサーバーにアクセスするパターン | フューチャー技術ブログ</title>
-    <updated>2024-11-11T04:46:36Z</updated>
-    <id>tag:future-architect.github.io,2024-11-11:/articles/20241111a/</id>
-    <link href="https://future-architect.github.io/articles/20241111a/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: VAIO株式会社の株主に関するお知らせ</title>
@@ -4852,10 +4858,16 @@
     <link href="https://togetter.com/li/2463592" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 夢に向けて古民家をフルリノベ。EcoFlow家庭用蓄電池を導入し、家の全電力をまかないたい - 家電 Watch[Sponsored]</title>
-    <updated>2024-11-11T00:23:17Z</updated>
-    <id>tag:kaden.watch.impress.co.jp,2024-11-11:/docs/topic/special/1633833.html</id>
-    <link href="https://kaden.watch.impress.co.jp/docs/topic/special/1633833.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: “生成AI活用”の上位10％は生産性が2倍近く向上するが「下位3分の1は効果なし」の理由。研究者1000人以上でMITが検証（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+    <updated>2024-11-11T00:05:30Z</updated>
+    <id>tag:www.techno-edge.net,2024-11-11:/article/2024/11/11/3817.html</id>
+    <link href="https://www.techno-edge.net/article/2024/11/11/3817.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AWS IAM再入門 - Qiita</title>
+    <updated>2021-01-31T14:15:37Z</updated>
+    <id>tag:qiita.com,2021-01-31:/aminosan000/items/49d11f95529907cee1dc</id>
+    <link href="https://qiita.com/aminosan000/items/49d11f95529907cee1dc" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 理研ら、初の光量子コンピュータの開発に成功</title>
@@ -4864,22 +4876,10 @@
     <link href="https://pc.watch.impress.co.jp/docs/news/1638284.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: “生成AI活用”の上位10％は生産性が2倍近く向上するが「下位3分の1は効果なし」の理由。研究者1000人以上でMITが検証（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
-    <updated>2024-11-11T00:05:30Z</updated>
-    <id>tag:www.techno-edge.net,2024-11-11:/article/2024/11/11/3817.html</id>
-    <link href="https://www.techno-edge.net/article/2024/11/11/3817.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「良いサンプルコード」を考える</title>
-    <updated>2024-11-11T04:17:43Z</updated>
-    <id>tag:zenn.dev,2024-11-11:/mizchi/articles/good-sample-code</id>
-    <link href="https://zenn.dev/mizchi/articles/good-sample-code" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 完全にオープンで再現可能な大規模言語モデル「OpenCoder」がリリースされる</title>
-    <updated>2024-11-11T03:09:57Z</updated>
-    <id>tag:gigazine.net,2024-11-11:/news/20241111-opencoder-llm/</id>
-    <link href="https://gigazine.net/news/20241111-opencoder-llm/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 家のWi-Fiルーター、ずっと“置きっぱなし”にしていませんか？　今年も年に一度の「見直し」を　</title>
+    <updated>2024-11-10T23:16:47Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2024-11-10:/docs/special/1634454.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/special/1634454.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 10年かかって現場に届いたモバイル革命。コロナ禍とDXが開いたデスクレスワーカー市場の扉｜tebiki ブログ</title>
@@ -4894,16 +4894,16 @@
     <link href="https://www.ryuzee.com/contents/blog/14595" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 完全にオープンで再現可能な大規模言語モデル「OpenCoder」がリリースされる</title>
+    <updated>2024-11-11T03:09:57Z</updated>
+    <id>tag:gigazine.net,2024-11-11:/news/20241111-opencoder-llm/</id>
+    <link href="https://gigazine.net/news/20241111-opencoder-llm/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 東大推薦合格や入賞を果たす生徒も､秋田県採用｢博士号教員｣の探究指導が凄い | 東洋経済education×ICT</title>
     <updated>2024-11-10T06:53:50Z</updated>
     <id>tag:toyokeizai.net,2024-11-10:/articles/-/837190</id>
     <link href="https://toyokeizai.net/articles/-/837190" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: JavaScriptのthisもこれで完璧！呼び出し方で変わる5つのパターン - Qiita</title>
-    <updated>2024-11-09T22:00:58Z</updated>
-    <id>tag:qiita.com,2024-11-09:/tomada/items/a11fd30b333d0d15738d</id>
-    <link href="https://qiita.com/tomada/items/a11fd30b333d0d15738d" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: DuckDB/DuckDB-Wasm と Postgres と S3 を組み合わせるメモ</title>
@@ -4912,21 +4912,15 @@
     <link href="https://zenn.dev/voluntas/scraps/8d7dd5291965e9" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: JavaScriptのthisもこれで完璧！呼び出し方で変わる5つのパターン - Qiita</title>
+    <updated>2024-11-09T22:00:58Z</updated>
+    <id>tag:qiita.com,2024-11-09:/tomada/items/a11fd30b333d0d15738d</id>
+    <link href="https://qiita.com/tomada/items/a11fd30b333d0d15738d" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: さようならLodash、TypeScript時代の新星ユーティリティ【Radash】 - コハム</title>
     <updated>2024-11-07T01:38:21Z</updated>
     <id>tag:cohamu.com,2024-11-07:/entry/20241107/1730943000</id>
     <link href="https://cohamu.com/entry/20241107/1730943000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 家のWi-Fiルーター、ずっと“置きっぱなし”にしていませんか？　今年も年に一度の「見直し」を　</title>
-    <updated>2024-11-10T23:16:47Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2024-11-10:/docs/special/1634454.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/special/1634454.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: iOS 18.1でロック状態のiPhoneを一定時間後に再起動する「非アクティブ時再起動」機能がひそかに加わる</title>
-    <updated>2024-11-10T19:02:56Z</updated>
-    <id>tag:gigazine.net,2024-11-10:/news/20241110-iphone-inactivity-reboot-code/</id>
-    <link href="https://gigazine.net/news/20241110-iphone-inactivity-reboot-code/" rel="alternate"></link>
   </entry>
 </feed>
