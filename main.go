@@ -89,8 +89,15 @@ func main() {
 			Author:      &feeds.Author{Name: "triggerwaffle", Email: "johndoe@example.com"},
 			Description: "rss of " + group,
 			Link:        &feeds.Link{Href: LINK},
-			Updated:     time.Now(),
-			Copyright:   "triggerwaffle",
+			/*Image: &feeds.Image{
+				Url:    "https://iconbox.fun/wp/wp-content/uploads/466_s_h.svg",
+				Title:  "feed icon",
+				Link:   "https://a.example.com",
+				Width:  100,
+				Height: 100,
+			},*/
+			Updated:   time.Now(),
+			Copyright: "triggerwaffle",
 		}
 		for i := range items {
 			feed.Items = append(feed.Items, &feeds.Item{
