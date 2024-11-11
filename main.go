@@ -85,9 +85,12 @@ func main() {
 	for group, items := range groupedItems {
 		feed := &feeds.Feed{
 			Title:       TITLE + " - " + group,
+			Subtitle:    group,
+			Author:      &feeds.Author{Name: "triggerwaffle", Email: "johndoe@example.com"},
 			Description: "rss of " + group,
 			Link:        &feeds.Link{Href: LINK},
 			Updated:     time.Now(),
+			Copyright:   "triggerwaffle",
 		}
 		for i := range items {
 			feed.Items = append(feed.Items, &feeds.Item{

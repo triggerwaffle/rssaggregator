@@ -1,9 +1,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2024-11-12T02:09:09+09:00</updated>
+  <updated>2024-11-12T02:25:20+09:00</updated>
+  <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
+  <author>
+    <name>triggerwaffle</name>
+    <email>johndoe@example.com</email>
+  </author>
   <entry>
     <title>4:orielly_books_soon: Kubernetesパターン 第2版</title>
     <updated>2024-09-26T00:00:00+09:00</updated>
@@ -4829,16 +4834,16 @@
     <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1638221.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 生成AIにアプリを作らせるコツ｜erukiti</title>
-    <updated>2024-11-11T03:51:52Z</updated>
-    <id>tag:note.com,2024-11-11:/erukiti/n/nc4dacc513ec6</id>
-    <link href="https://note.com/erukiti/n/nc4dacc513ec6" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: ウォーターフォールの反省と、アジャイルの成功に必要なもの - Qiita</title>
     <updated>2024-11-11T03:56:25Z</updated>
     <id>tag:qiita.com,2024-11-11:/swiri/items/be7703dd0b204c4c2ae0</id>
     <link href="https://qiita.com/swiri/items/be7703dd0b204c4c2ae0" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 生成AIにアプリを作らせるコツ｜erukiti</title>
+    <updated>2024-11-11T03:51:52Z</updated>
+    <id>tag:note.com,2024-11-11:/erukiti/n/nc4dacc513ec6</id>
+    <link href="https://note.com/erukiti/n/nc4dacc513ec6" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 生成AIに一気に舵を切るサイボウズ　AIもシュシュッと使えるkintoneへ (1/3)</title>
@@ -4853,16 +4858,16 @@
     <link href="https://qiita.com/k12da/items/9d552729d9153212b62d" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 電波新聞社、「マイコンBASICマガジンDELUXE PasocomMini PC-8801mkIISR大全集」を2025年春発売</title>
-    <updated>2024-11-11T01:55:45Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2024-11-11:/docs/news/1638246.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/1638246.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Google Cloud の生成 AI: 入門レベルから上級レベルまでの新しいトレーニング コンテンツ | Google Cloud 公式ブログ</title>
     <updated>2024-04-23T03:55:19Z</updated>
     <id>tag:cloud.google.com,2024-04-23:/blog/ja/topics/training-certifications/new-generative-ai-trainings-from-google-cloud</id>
     <link href="https://cloud.google.com/blog/ja/topics/training-certifications/new-generative-ai-trainings-from-google-cloud" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 電波新聞社、「マイコンBASICマガジンDELUXE PasocomMini PC-8801mkIISR大全集」を2025年春発売</title>
+    <updated>2024-11-11T01:55:45Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2024-11-11:/docs/news/1638246.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/1638246.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: YouTubeで「IMG_XXXX」と検索すると古い動画が山ほど出てくる理由とは？</title>
@@ -4883,22 +4888,16 @@
     <link href="https://gigazine.net/news/20241111-opencoder-llm/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: “生成AI活用”の上位10％は生産性が2倍近く向上するが「下位3分の1は効果なし」の理由。研究者1000人以上でMITが検証（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
-    <updated>2024-11-11T00:05:30Z</updated>
-    <id>tag:www.techno-edge.net,2024-11-11:/article/2024/11/11/3817.html</id>
-    <link href="https://www.techno-edge.net/article/2024/11/11/3817.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「DDoS攻撃はビジネスとして複数の料金プランを提示」「乗っ取ったルーターをプロキシとして提供」―横浜国大 吉岡教授に聞く、家庭用Wi-Fiルーター悪用の実態　</title>
-    <updated>2024-11-10T23:29:17Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2024-11-10:/docs/special/1629544.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/special/1629544.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: どう使う？LG、伸ばしたりねじったりできる変形ディスプレイ</title>
     <updated>2024-11-11T04:52:06Z</updated>
     <id>tag:pc.watch.impress.co.jp,2024-11-11:/docs/news/1638318.html</id>
     <link href="https://pc.watch.impress.co.jp/docs/news/1638318.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: “生成AI活用”の上位10％は生産性が2倍近く向上するが「下位3分の1は効果なし」の理由。研究者1000人以上でMITが検証（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+    <updated>2024-11-11T00:05:30Z</updated>
+    <id>tag:www.techno-edge.net,2024-11-11:/article/2024/11/11/3817.html</id>
+    <link href="https://www.techno-edge.net/article/2024/11/11/3817.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 家のWi-Fiルーター、ずっと“置きっぱなし”にしていませんか？　今年も年に一度の「見直し」を　</title>
@@ -4907,15 +4906,21 @@
     <link href="https://internet.watch.impress.co.jp/docs/special/1634454.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Windowsにゼロから WSL2 + Docker CE + React環境を構築する全手順 - Qiita</title>
-    <updated>2022-07-10T23:03:55Z</updated>
-    <id>tag:qiita.com,2022-07-10:/yamazombie/items/4071dfb28e2465da7e3b</id>
-    <link href="https://qiita.com/yamazombie/items/4071dfb28e2465da7e3b" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Blueskyに「長文の分割投稿が簡単になる機能」や「画像投稿時にラベルを付与する機能」が追加される</title>
     <updated>2024-11-11T03:30:46Z</updated>
     <id>tag:gigazine.net,2024-11-11:/news/20241111-bluesky-threads-button-image-label/</id>
     <link href="https://gigazine.net/news/20241111-bluesky-threads-button-image-label/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「DDoS攻撃はビジネスとして複数の料金プランを提示」「乗っ取ったルーターをプロキシとして提供」―横浜国大 吉岡教授に聞く、家庭用Wi-Fiルーター悪用の実態　</title>
+    <updated>2024-11-10T23:29:17Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2024-11-10:/docs/special/1629544.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/special/1629544.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Windowsにゼロから WSL2 + Docker CE + React環境を構築する全手順 - Qiita</title>
+    <updated>2022-07-10T23:03:55Z</updated>
+    <id>tag:qiita.com,2022-07-10:/yamazombie/items/4071dfb28e2465da7e3b</id>
+    <link href="https://qiita.com/yamazombie/items/4071dfb28e2465da7e3b" rel="alternate"></link>
   </entry>
 </feed>

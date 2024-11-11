@@ -1,9 +1,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - reddit</title>
   <id>https://a.example.com</id>
-  <updated>2024-11-12T02:09:09+09:00</updated>
+  <updated>2024-11-12T02:25:20+09:00</updated>
+  <rights>triggerwaffle</rights>
   <subtitle>rss of reddit</subtitle>
   <link href="https://a.example.com"></link>
+  <author>
+    <name>triggerwaffle</name>
+    <email>johndoe@example.com</email>
+  </author>
   <entry>
     <title>2:reddit aggregaor: Slackware was born in 1993, when Patrick Volkerding was a student at Minnesota State University Moorhead and helped a professor install SLS. Today Slackware is the oldest distribution that’s still maintained, and Volkerding is still the person handling that.</title>
     <updated>2024-11-11T12:41:48Z</updated>
@@ -11,16 +16,16 @@
     <link href="https://www.reddit.com/r/linux/comments/1gor9yw/slackware_was_born_in_1993_when_patrick/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:reddit aggregaor: Visual Basic 6 rebuilt in C# - complete with form designer and IDE, runs directly in browser (WASM)</title>
-    <updated>2024-11-11T06:18:45Z</updated>
-    <id>t3_1golrpb</id>
-    <link href="https://www.reddit.com/r/programming/comments/1golrpb/visual_basic_6_rebuilt_in_c_complete_with_form/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:reddit aggregaor: [i3wm] Why use Hyprland when I have i3</title>
     <updated>2024-11-11T15:52:16Z</updated>
     <id>t3_1govd76</id>
     <link href="https://www.reddit.com/r/unixporn/comments/1govd76/i3wm_why_use_hyprland_when_i_have_i3/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:reddit aggregaor: Visual Basic 6 rebuilt in C# - complete with form designer and IDE, runs directly in browser (WASM)</title>
+    <updated>2024-11-11T06:18:45Z</updated>
+    <id>t3_1golrpb</id>
+    <link href="https://www.reddit.com/r/programming/comments/1golrpb/visual_basic_6_rebuilt_in_c_complete_with_form/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:reddit aggregaor: Finally!!!!!</title>
@@ -47,16 +52,16 @@
     <link href="https://www.reddit.com/r/CompTIA/comments/1gos77l/security_passed_in_2_weeks_on_a_budget/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:reddit aggregaor: emiT - a Time Travelling Programming language.</title>
-    <updated>2024-11-11T05:58:55Z</updated>
-    <id>t3_1golfwz</id>
-    <link href="https://www.reddit.com/r/ProgrammingLanguages/comments/1golfwz/emit_a_time_travelling_programming_language/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:reddit aggregaor: I have built a playground of easing functions with ready-to-copy Tailwind CSS classes</title>
     <updated>2024-11-11T11:46:45Z</updated>
     <id>t3_1goqcwo</id>
     <link href="https://www.reddit.com/r/tailwindcss/comments/1goqcwo/i_have_built_a_playground_of_easing_functions/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:reddit aggregaor: emiT - a Time Travelling Programming language.</title>
+    <updated>2024-11-11T05:58:55Z</updated>
+    <id>t3_1golfwz</id>
+    <link href="https://www.reddit.com/r/ProgrammingLanguages/comments/1golfwz/emit_a_time_travelling_programming_language/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:reddit aggregaor: Massive MOVEit Vulnerability Breach: Hacker Leaks Employee Data from Amazon, McDonald's, HSBC, HP, and Potentially 1000+ Other Companies | InfoStealers</title>
@@ -65,16 +70,16 @@
     <link href="https://www.reddit.com/r/cybersecurity/comments/1gowemt/massive_moveit_vulnerability_breach_hacker_leaks/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:reddit aggregaor: How to Gain Hands-on Kubernetes Experience for real world</title>
-    <updated>2024-11-11T09:14:05Z</updated>
-    <id>t3_1goo75s</id>
-    <link href="https://www.reddit.com/r/kubernetes/comments/1goo75s/how_to_gain_handson_kubernetes_experience_for/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:reddit aggregaor: Recommendations for vendor-neutral BGP training videos?</title>
     <updated>2024-11-11T13:45:47Z</updated>
     <id>t3_1gosiul</id>
     <link href="https://www.reddit.com/r/networking/comments/1gosiul/recommendations_for_vendorneutral_bgp_training/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:reddit aggregaor: How to Gain Hands-on Kubernetes Experience for real world</title>
+    <updated>2024-11-11T09:14:05Z</updated>
+    <id>t3_1goo75s</id>
+    <link href="https://www.reddit.com/r/kubernetes/comments/1goo75s/how_to_gain_handson_kubernetes_experience_for/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:reddit aggregaor: CC1101 Jammer NOOB Tutorial</title>
@@ -89,10 +94,16 @@
     <link href="https://www.reddit.com/r/tryhackme/comments/1gossfp/what_feedback_do_you_want_when_you_complete_a_room/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:reddit aggregaor: How to prove Starbucks shutdowns our payment terminals on purpose (union busting)</title>
-    <updated>2024-11-11T16:23:16Z</updated>
-    <id>t3_1gow45g</id>
-    <link href="https://www.reddit.com/r/HowToHack/comments/1gow45g/how_to_prove_starbucks_shutdowns_our_payment/" rel="alternate"></link>
+    <title>2:reddit aggregaor: Leak of the Year: Hacker Leaks Data from Amazon, HSBC, HP, and Potentially 1000+ Other Companies</title>
+    <updated>2024-11-11T14:37:35Z</updated>
+    <id>t3_1gotmrx</id>
+    <link href="https://www.reddit.com/r/blackhat/comments/1gotmrx/leak_of_the_year_hacker_leaks_data_from_amazon/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:reddit aggregaor: Advent of SQL: Ideas for challenges 🎁</title>
+    <updated>2024-11-11T13:51:44Z</updated>
+    <id>t3_1gosn9o</id>
+    <link href="https://www.reddit.com/r/SQL/comments/1gosn9o/advent_of_sql_ideas_for_challenges/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:reddit aggregaor: Haskell Meetup in Stockholm on December 2</title>
@@ -101,22 +112,10 @@
     <link href="https://www.reddit.com/r/haskell/comments/1gopmqf/haskell_meetup_in_stockholm_on_december_2/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:reddit aggregaor: Leak of the Year: Hacker Leaks Data from Amazon, HSBC, HP, and Potentially 1000+ Other Companies</title>
-    <updated>2024-11-11T14:37:35Z</updated>
-    <id>t3_1gotmrx</id>
-    <link href="https://www.reddit.com/r/blackhat/comments/1gotmrx/leak_of_the_year_hacker_leaks_data_from_amazon/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:reddit aggregaor: Is there a TUI text editor with design philosophy similar to that of Byobu?</title>
     <updated>2024-11-11T14:30:28Z</updated>
     <id>t3_1gotgyd</id>
     <link href="https://www.reddit.com/r/commandline/comments/1gotgyd/is_there_a_tui_text_editor_with_design_philosophy/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:reddit aggregaor: Advent of SQL: Ideas for challenges 🎁</title>
-    <updated>2024-11-11T13:51:44Z</updated>
-    <id>t3_1gosn9o</id>
-    <link href="https://www.reddit.com/r/SQL/comments/1gosn9o/advent_of_sql_ideas_for_challenges/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:reddit aggregaor: GitHub Actions, Devbox, and Elm</title>
@@ -147,6 +146,12 @@
     <updated>2024-11-10T19:56:51Z</updated>
     <id>t3_1go9b12</id>
     <link href="https://www.reddit.com/r/hacking/comments/1go9b12/fbi_spike_in_hacked_police_emails_fake_subpoenas/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:reddit aggregaor: Silly Nmap question</title>
+    <updated>2024-11-11T11:44:13Z</updated>
+    <id>t3_1goqbih</id>
+    <link href="https://www.reddit.com/r/HowToHack/comments/1goqbih/silly_nmap_question/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:reddit aggregaor: Give it a shot</title>
