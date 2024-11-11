@@ -1,7 +1,8 @@
 // github trend等の 時間をおいてかぶる
 // github awesomelist dotfile更新ウォッチ
 // change favicon
-
+// white list black list
+// rssのブランチを分ける
 package main
 
 import (
@@ -83,9 +84,10 @@ func main() {
 	// create new feeds for each group and write to files
 	for group, items := range groupedItems {
 		feed := &feeds.Feed{
-			Title:   TITLE + " - " + group,
-			Link:    &feeds.Link{Href: LINK},
-			Updated: time.Now(),
+			Title:       TITLE + " - " + group,
+			Description: "rss of " + group,
+			Link:        &feeds.Link{Href: LINK},
+			Updated:     time.Now(),
 		}
 		for i := range items {
 			feed.Items = append(feed.Items, &feeds.Item{
