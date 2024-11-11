@@ -1,0 +1,22 @@
+version: '3'
+
+tasks:
+  update-go:
+    cmds:
+      - name: update Go code
+        cmd: go mod tidy -go=$(go version | awk '{print $3}'|sed 's/^..//')
+  format-go:
+    cmds:
+      - name: Format Go code
+        cmd: go fmt main.go
+
+  format-json:
+    cmds:
+      - name: Format JSON file
+        cmd: jq . feeds.json | sponge feeds.json
+
+  all:
+    cmds:
+      - task: update-go
+      - task: format-go
+      - task: format-json
