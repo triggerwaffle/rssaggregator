@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2024-11-12T00:57:01Z</updated>
+  <updated>2024-11-12T06:17:23Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -9,6 +9,24 @@
     <name>triggerwaffle</name>
     <email>johndoe@example.com</email>
   </author>
+  <entry>
+    <title>2:archlinux_new_packages: rhythmbox 3.4.8-2 x86_64</title>
+    <updated>2024-11-12T05:32:24Z</updated>
+    <id>tag:archlinux.org,2024-11-12:/packages/extra/x86_64/rhythmbox/202411120532</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rhythmbox/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyperfine 1.19.0-1 x86_64</title>
+    <updated>2024-11-12T01:52:28Z</updated>
+    <id>tag:archlinux.org,2024-11-12:/packages/extra/x86_64/hyperfine/202411120152</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyperfine/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: seatd 0.9.1-1 x86_64</title>
+    <updated>2024-11-12T01:13:22Z</updated>
+    <id>tag:archlinux.org,2024-11-12:/packages/extra/x86_64/seatd/202411120113</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/seatd/" rel="alternate"></link>
+  </entry>
   <entry>
     <title>2:archlinux_new_packages: secrets 10.3-1 any</title>
     <updated>2024-11-11T23:04:06Z</updated>
@@ -292,22 +310,94 @@
     <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-pa-in/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-oc 133.0b7-1 any</title>
-    <updated>2024-11-11T17:29:44Z</updated>
-    <id>tag:archlinux.org,2024-11-11:/packages/extra/any/firefox-developer-edition-i18n-oc/202411111729</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-oc/" rel="alternate"></link>
+    <title>2:aur_new_packages: elecap-git</title>
+    <updated>2024-11-12T04:38:05Z</updated>
+    <id>elecap-git-1731386285</id>
+    <link href="https://aur.archlinux.org/packages/elecap-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-nn-no 133.0b7-1 any</title>
-    <updated>2024-11-11T17:29:44Z</updated>
-    <id>tag:archlinux.org,2024-11-11:/packages/extra/any/firefox-developer-edition-i18n-nn-no/202411111729</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-nn-no/" rel="alternate"></link>
+    <title>2:aur_new_packages: brotab</title>
+    <updated>2024-11-12T04:31:29Z</updated>
+    <id>brotab-1731385889</id>
+    <link href="https://aur.archlinux.org/packages/brotab" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-nl 133.0b7-1 any</title>
-    <updated>2024-11-11T17:29:43Z</updated>
-    <id>tag:archlinux.org,2024-11-11:/packages/extra/any/firefox-developer-edition-i18n-nl/202411111729</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-nl/" rel="alternate"></link>
+    <title>2:aur_new_packages: ringcentral-community-app-bin</title>
+    <updated>2024-11-12T04:03:52Z</updated>
+    <id>ringcentral-community-app-bin-1731384232</id>
+    <link href="https://aur.archlinux.org/packages/ringcentral-community-app-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: sshpass-totp</title>
+    <updated>2024-11-12T03:32:09Z</updated>
+    <id>sshpass-totp-1731382329</id>
+    <link href="https://aur.archlinux.org/packages/sshpass-totp" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: fortunate</title>
+    <updated>2024-11-12T03:17:36Z</updated>
+    <id>fortunate-1731381456</id>
+    <link href="https://aur.archlinux.org/packages/fortunate" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: epic-asset-manager</title>
+    <updated>2024-11-12T02:48:04Z</updated>
+    <id>epic-asset-manager-1731379684</id>
+    <link href="https://aur.archlinux.org/packages/epic-asset-manager" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: stable-diffusion.cpp-vulkan-git</title>
+    <updated>2024-11-12T02:45:54Z</updated>
+    <id>stable-diffusion.cpp-vulkan-git-1731379554</id>
+    <link href="https://aur.archlinux.org/packages/stable-diffusion.cpp-vulkan-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: luanti-client</title>
+    <updated>2024-11-12T02:39:57Z</updated>
+    <id>luanti-client-1731379197</id>
+    <link href="https://aur.archlinux.org/packages/luanti-client" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: luanti-server</title>
+    <updated>2024-11-12T02:39:57Z</updated>
+    <id>luanti-server-1731379197</id>
+    <link href="https://aur.archlinux.org/packages/luanti-server" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: luanti-common</title>
+    <updated>2024-11-12T02:39:57Z</updated>
+    <id>luanti-common-1731379197</id>
+    <link href="https://aur.archlinux.org/packages/luanti-common" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: luanti-documentation</title>
+    <updated>2024-11-12T02:39:57Z</updated>
+    <id>luanti-documentation-1731379197</id>
+    <link href="https://aur.archlinux.org/packages/luanti-documentation" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: python-insightface</title>
+    <updated>2024-11-12T02:29:36Z</updated>
+    <id>python-insightface-1731378576</id>
+    <link href="https://aur.archlinux.org/packages/python-insightface" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: curl-static-bin</title>
+    <updated>2024-11-12T02:18:13Z</updated>
+    <id>curl-static-bin-1731377893</id>
+    <link href="https://aur.archlinux.org/packages/curl-static-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: tencent-docs-electron</title>
+    <updated>2024-11-12T01:36:53Z</updated>
+    <id>tencent-docs-electron-1731375413</id>
+    <link href="https://aur.archlinux.org/packages/tencent-docs-electron" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: umi-ocr-bin</title>
+    <updated>2024-11-12T01:36:06Z</updated>
+    <id>umi-ocr-bin-1731375366</id>
+    <link href="https://aur.archlinux.org/packages/umi-ocr-bin" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:aur_new_packages: rabbitremotecontrol-bin</title>
@@ -818,95 +908,5 @@
     <updated>2024-11-09T14:59:52Z</updated>
     <id>qqc2-desktop-style-fractional-1731164392</id>
     <link href="https://aur.archlinux.org/packages/qqc2-desktop-style-fractional" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: python-virtualenv-tools3-git</title>
-    <updated>2024-11-09T14:50:37Z</updated>
-    <id>python-virtualenv-tools3-git-1731163837</id>
-    <link href="https://aur.archlinux.org/packages/python-virtualenv-tools3-git" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: python-virtualenv-tools3</title>
-    <updated>2024-11-09T14:40:09Z</updated>
-    <id>python-virtualenv-tools3-1731163209</id>
-    <link href="https://aur.archlinux.org/packages/python-virtualenv-tools3" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: cyc-desktop-bin</title>
-    <updated>2024-11-09T13:37:22Z</updated>
-    <id>cyc-desktop-bin-1731159442</id>
-    <link href="https://aur.archlinux.org/packages/cyc-desktop-bin" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: cptserv-cli</title>
-    <updated>2024-11-09T10:30:50Z</updated>
-    <id>cptserv-cli-1731148250</id>
-    <link href="https://aur.archlinux.org/packages/cptserv-cli" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: gnome-shell-extension-pano-bin</title>
-    <updated>2024-11-09T10:22:36Z</updated>
-    <id>gnome-shell-extension-pano-bin-1731147756</id>
-    <link href="https://aur.archlinux.org/packages/gnome-shell-extension-pano-bin" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: python-gmplot-git</title>
-    <updated>2024-11-09T09:43:08Z</updated>
-    <id>python-gmplot-git-1731145388</id>
-    <link href="https://aur.archlinux.org/packages/python-gmplot-git" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: gr-smart_meters-git</title>
-    <updated>2024-11-09T09:29:34Z</updated>
-    <id>gr-smart_meters-git-1731144574</id>
-    <link href="https://aur.archlinux.org/packages/gr-smart_meters-git" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: gr-fhss_utils-git</title>
-    <updated>2024-11-09T09:27:00Z</updated>
-    <id>gr-fhss_utils-git-1731144420</id>
-    <link href="https://aur.archlinux.org/packages/gr-fhss_utils-git" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: gr-timing_utils-git</title>
-    <updated>2024-11-09T09:24:22Z</updated>
-    <id>gr-timing_utils-git-1731144262</id>
-    <link href="https://aur.archlinux.org/packages/gr-timing_utils-git" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: gr-pdu_utils-git</title>
-    <updated>2024-11-09T09:17:58Z</updated>
-    <id>gr-pdu_utils-git-1731143878</id>
-    <link href="https://aur.archlinux.org/packages/gr-pdu_utils-git" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: librewolf-extension-tridactyl-bin</title>
-    <updated>2024-11-09T09:16:05Z</updated>
-    <id>librewolf-extension-tridactyl-bin-1731143765</id>
-    <link href="https://aur.archlinux.org/packages/librewolf-extension-tridactyl-bin" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: brlcad-bin</title>
-    <updated>2024-11-09T02:40:42Z</updated>
-    <id>brlcad-bin-1731120042</id>
-    <link href="https://aur.archlinux.org/packages/brlcad-bin" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: jwt_tool</title>
-    <updated>2024-11-09T02:20:08Z</updated>
-    <id>jwt_tool-1731118808</id>
-    <link href="https://aur.archlinux.org/packages/jwt_tool" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: votar</title>
-    <updated>2024-11-08T23:40:36Z</updated>
-    <id>votar-1731109236</id>
-    <link href="https://aur.archlinux.org/packages/votar" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: smaz2-git</title>
-    <updated>2024-11-08T22:30:24Z</updated>
-    <id>smaz2-git-1731105024</id>
-    <link href="https://aur.archlinux.org/packages/smaz2-git" rel="alternate"></link>
   </entry>
 </feed>
