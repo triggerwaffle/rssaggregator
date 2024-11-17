@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2024-11-16T18:15:14Z</updated>
+  <updated>2024-11-17T01:04:51Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -10,304 +10,334 @@
     <email>johndoe@example.com</email>
   </author>
   <entry>
+    <title>2:archlinux_new_packages: aarch64-linux-gnu-binutils 2.43-1 x86_64</title>
+    <updated>2024-11-16T23:53:38Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/aarch64-linux-gnu-binutils/202411162353</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/aarch64-linux-gnu-binutils/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: pysolfc 3.1.0-1 any</title>
+    <updated>2024-11-16T22:39:13Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/pysolfc/202411162239</id>
+    <link href="https://archlinux.org/packages/extra/any/pysolfc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: corectrl 1.4.3-1 x86_64</title>
+    <updated>2024-11-16T22:15:51Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/corectrl/202411162215</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/corectrl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-bitstring 4.2.3-2 any</title>
+    <updated>2024-11-16T22:07:39Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-bitstring/202411162207</id>
+    <link href="https://archlinux.org/packages/extra/any/python-bitstring/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: simh 3.12.5-1 x86_64</title>
+    <updated>2024-11-16T21:41:43Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/simh/202411162141</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/simh/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: uutils-coreutils 0.0.28-1 x86_64</title>
+    <updated>2024-11-16T21:39:45Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/uutils-coreutils/202411162139</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/uutils-coreutils/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rio 0.2.1-1 x86_64</title>
+    <updated>2024-11-16T21:39:44Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/rio/202411162139</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rio/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-wheezy-template 3.2.3-1 x86_64</title>
+    <updated>2024-11-16T21:33:23Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/python-wheezy-template/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-wheezy-template/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-jiter 0.7.1-1 x86_64</title>
+    <updated>2024-11-16T21:33:22Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/python-jiter/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-jiter/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-fastparquet 2024.11.0-1 x86_64</title>
+    <updated>2024-11-16T21:33:22Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/python-fastparquet/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-fastparquet/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyprland 0.45.0-2 x86_64</title>
+    <updated>2024-11-16T21:33:21Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/hyprland/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyprland/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-tempora 5.7.0-1 any</title>
+    <updated>2024-11-16T21:33:20Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-tempora/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-tempora/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pytest-freezegun 0.4.2-9 any</title>
+    <updated>2024-11-16T21:33:20Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-pytest-freezegun/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-pytest-freezegun/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pytest-bdd 8.0.0-1 any</title>
+    <updated>2024-11-16T21:33:19Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-pytest-bdd/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-pytest-bdd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-portend 3.2.0-2 any</title>
+    <updated>2024-11-16T21:33:19Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-portend/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-portend/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-openai 1.54.4-1 any</title>
+    <updated>2024-11-16T21:33:18Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-openai/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-openai/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-mss 10.0.0-1 any</title>
+    <updated>2024-11-16T21:33:18Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-mss/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-mss/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-kubernetes 31.0.0-1 any</title>
+    <updated>2024-11-16T21:33:17Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-kubernetes/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-kubernetes/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-kombu 5.4.2-3 any</title>
+    <updated>2024-11-16T21:33:17Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-kombu/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-kombu/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-internetarchive 5.0.4-1 any</title>
+    <updated>2024-11-16T21:33:16Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-internetarchive/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-internetarchive/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-inline-snapshot 0.14.0-1 any</title>
+    <updated>2024-11-16T21:33:16Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-inline-snapshot/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-inline-snapshot/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-filelock 3.16.1-1 any</title>
+    <updated>2024-11-16T21:33:15Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-filelock/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-filelock/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-elasticsearch 8.16.0-1 any</title>
+    <updated>2024-11-16T21:33:15Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-elasticsearch/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-elasticsearch/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-cherrypy 18.10.0-1 any</title>
+    <updated>2024-11-16T21:33:14Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-cherrypy/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-cherrypy/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-cheroot 10.0.1-3 any</title>
+    <updated>2024-11-16T21:33:14Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-cheroot/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-cheroot/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-gherkin 30.0.4-1 any</title>
+    <updated>2024-11-16T21:33:13Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-gherkin/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-gherkin/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-durationpy 0.9-1 any</title>
+    <updated>2024-11-16T21:33:13Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-durationpy/202411162133</id>
+    <link href="https://archlinux.org/packages/extra/any/python-durationpy/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: perl-class-methodmaker 2.25-1 x86_64</title>
+    <updated>2024-11-16T21:24:35Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/perl-class-methodmaker/202411162124</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/perl-class-methodmaker/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libsieve 2.3.1-6 x86_64</title>
+    <updated>2024-11-16T21:24:34Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libsieve/202411162124</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libsieve/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: bugzilla 5.2-1 any</title>
+    <updated>2024-11-16T21:24:33Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/bugzilla/202411162124</id>
+    <link href="https://archlinux.org/packages/extra/any/bugzilla/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: phosh-mobile-settings 0.43.0-1 x86_64</title>
+    <updated>2024-11-16T21:24:29Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra-testing/x86_64/phosh-mobile-settings/202411162124</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/phosh-mobile-settings/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: squeekboard 1.43.0-1 x86_64</title>
+    <updated>2024-11-16T21:22:17Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra-testing/x86_64/squeekboard/202411162122</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/squeekboard/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: phosh 0.43.0-1 x86_64</title>
+    <updated>2024-11-16T21:22:17Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra-testing/x86_64/phosh/202411162122</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/phosh/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: phoc 0.43.0-1 x86_64</title>
+    <updated>2024-11-16T21:22:16Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra-testing/x86_64/phoc/202411162122</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/phoc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libcall-ui 0.1.4-1 x86_64</title>
+    <updated>2024-11-16T21:22:16Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra-testing/x86_64/libcall-ui/202411162122</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/libcall-ui/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: k9s 0.32.7-1 x86_64</title>
+    <updated>2024-11-16T21:12:57Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra-testing/x86_64/k9s/202411162112</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/k9s/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: sage-data-cunningham_tables 1.0-1 any</title>
+    <updated>2024-11-16T21:01:20Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/sage-data-cunningham_tables/202411162101</id>
+    <link href="https://archlinux.org/packages/extra/any/sage-data-cunningham_tables/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: aquamarine 0.5.0-1 x86_64</title>
+    <updated>2024-11-16T20:47:16Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/aquamarine/202411162047</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/aquamarine/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: mkinitcpio-tinyssh 0.0.5-1 any</title>
+    <updated>2024-11-16T20:42:46Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/mkinitcpio-tinyssh/202411162042</id>
+    <link href="https://archlinux.org/packages/extra/any/mkinitcpio-tinyssh/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-memcached 3.3.0-1 x86_64</title>
+    <updated>2024-11-16T20:13:44Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/php-memcached/202411162013</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-memcached/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-memcached 3.3.0-1 x86_64</title>
+    <updated>2024-11-16T20:13:43Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/php-legacy-memcached/202411162013</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-memcached/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: gn 0.2201.feafd101-1 x86_64</title>
+    <updated>2024-11-16T20:13:43Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/gn/202411162013</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/gn/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: geoip-database-extra 20241116-1 any</title>
+    <updated>2024-11-16T20:13:42Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/geoip-database-extra/202411162013</id>
+    <link href="https://archlinux.org/packages/extra/any/geoip-database-extra/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: geoip-database 20241116-1 any</title>
+    <updated>2024-11-16T20:13:41Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/geoip-database/202411162013</id>
+    <link href="https://archlinux.org/packages/extra/any/geoip-database/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: sudo 1.9.16.p1-1 x86_64</title>
+    <updated>2024-11-16T20:00:27Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/core/x86_64/sudo/202411162000</id>
+    <link href="https://archlinux.org/packages/core/x86_64/sudo/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: fwupd-docs 2.0.1-2 x86_64</title>
+    <updated>2024-11-16T19:53:57Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/fwupd-docs/202411161953</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/fwupd-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: fwupd 2.0.1-2 x86_64</title>
+    <updated>2024-11-16T19:53:57Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/fwupd/202411161953</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/fwupd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: kio-extras 24.11.80-2 x86_64</title>
+    <updated>2024-11-16T19:49:42Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/kde-unstable/x86_64/kio-extras/202411161949</id>
+    <link href="https://archlinux.org/packages/kde-unstable/x86_64/kio-extras/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-textual 0.86.1-1 any</title>
+    <updated>2024-11-16T19:28:29Z</updated>
+    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-textual/202411161928</id>
+    <link href="https://archlinux.org/packages/extra/any/python-textual/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:archlinux_new_packages: niri 0.1.10.1-1 x86_64</title>
     <updated>2024-11-16T18:10:33Z</updated>
     <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/niri/202411161810</id>
     <link href="https://archlinux.org/packages/extra/x86_64/niri/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: python-wheel 0.45.0-1 any</title>
-    <updated>2024-11-16T18:10:32Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-wheel/202411161810</id>
-    <link href="https://archlinux.org/packages/extra/any/python-wheel/" rel="alternate"></link>
+    <title>2:aur_new_packages: hextoggle-bin</title>
+    <updated>2024-11-16T23:05:31Z</updated>
+    <id>hextoggle-bin-1731798331</id>
+    <link href="https://aur.archlinux.org/packages/hextoggle-bin" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: python-packaging 24.2-1 any</title>
-    <updated>2024-11-16T18:10:31Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/python-packaging/202411161810</id>
-    <link href="https://archlinux.org/packages/extra/any/python-packaging/" rel="alternate"></link>
+    <title>2:aur_new_packages: bp-bin</title>
+    <updated>2024-11-16T22:51:09Z</updated>
+    <id>bp-bin-1731797469</id>
+    <link href="https://aur.archlinux.org/packages/bp-bin" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: edk2-shell 202408.01-1 any</title>
-    <updated>2024-11-16T18:10:31Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/edk2-shell/202411161810</id>
-    <link href="https://archlinux.org/packages/extra/any/edk2-shell/" rel="alternate"></link>
+    <title>2:aur_new_packages: text-viewer</title>
+    <updated>2024-11-16T22:10:46Z</updated>
+    <id>text-viewer-1731795046</id>
+    <link href="https://aur.archlinux.org/packages/text-viewer" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: edk2-ovmf 202408.01-1 any</title>
-    <updated>2024-11-16T18:10:30Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/edk2-ovmf/202411161810</id>
-    <link href="https://archlinux.org/packages/extra/any/edk2-ovmf/" rel="alternate"></link>
+    <title>2:aur_new_packages: implosion</title>
+    <updated>2024-11-16T21:32:12Z</updated>
+    <id>implosion-1731792732</id>
+    <link href="https://aur.archlinux.org/packages/implosion" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: edk2-arm 202408.01-1 any</title>
-    <updated>2024-11-16T18:10:30Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/edk2-arm/202411161810</id>
-    <link href="https://archlinux.org/packages/extra/any/edk2-arm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: edk2-aarch64 202408.01-1 any</title>
-    <updated>2024-11-16T18:10:29Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/edk2-aarch64/202411161810</id>
-    <link href="https://archlinux.org/packages/extra/any/edk2-aarch64/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: cantor 24.11.80-2 x86_64</title>
-    <updated>2024-11-16T17:44:31Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/kde-unstable/x86_64/cantor/202411161744</id>
-    <link href="https://archlinux.org/packages/kde-unstable/x86_64/cantor/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: jupyterlab 4.3.1-1 any</title>
-    <updated>2024-11-16T17:42:37Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/jupyterlab/202411161742</id>
-    <link href="https://archlinux.org/packages/extra/any/jupyterlab/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-dulwich 0.22.6-1 x86_64</title>
-    <updated>2024-11-16T17:33:12Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/python-dulwich/202411161733</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/python-dulwich/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: tailwindcss-language-server 0.0.27-1 any</title>
-    <updated>2024-11-16T17:33:11Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/tailwindcss-language-server/202411161733</id>
-    <link href="https://archlinux.org/packages/extra/any/tailwindcss-language-server/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: eslint 9.15.0-1 any</title>
-    <updated>2024-11-16T17:33:11Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/any/eslint/202411161733</id>
-    <link href="https://archlinux.org/packages/extra/any/eslint/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: opensc 0.26.0-2 x86_64</title>
-    <updated>2024-11-16T15:51:37Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/opensc/202411161551</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/opensc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: restic 0.17.3-1 x86_64</title>
-    <updated>2024-11-16T15:47:48Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/restic/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/restic/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: rclone 1.68.2-1 x86_64</title>
-    <updated>2024-11-16T15:47:47Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/rclone/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/rclone/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-libblockdev 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:47Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/python-libblockdev/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/python-libblockdev/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: podman-docker 5.3.0-1 x86_64</title>
-    <updated>2024-11-16T15:47:46Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/podman-docker/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/podman-docker/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: podman 5.3.0-1 x86_64</title>
-    <updated>2024-11-16T15:47:46Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/podman/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/podman/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nvme-cli 2.11-1 x86_64</title>
-    <updated>2024-11-16T15:47:45Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/nvme-cli/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nvme-cli/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libnvme 1.11.1-1 x86_64</title>
-    <updated>2024-11-16T15:47:45Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libnvme/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libnvme/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev-swap 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:44Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev-swap/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev-swap/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev-smart 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:44Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev-smart/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev-smart/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev-part 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:44Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev-part/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev-part/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev-nvme 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:43Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev-nvme/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev-nvme/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev-nvdimm 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:43Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev-nvdimm/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev-nvdimm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev-mpath 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:42Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev-mpath/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev-mpath/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev-mdraid 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:42Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev-mdraid/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev-mdraid/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev-lvm 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:41Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev-lvm/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev-lvm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev-loop 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:41Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev-loop/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev-loop/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev-fs 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:40Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev-fs/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev-fs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev-dm 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:40Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev-dm/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev-dm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev-crypto 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:40Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev-crypto/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev-crypto/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev-btrfs 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:39Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev-btrfs/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev-btrfs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libblockdev 3.2.1-2 x86_64</title>
-    <updated>2024-11-16T15:47:39Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/libblockdev/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libblockdev/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: incus-tools 6.7-1 x86_64</title>
-    <updated>2024-11-16T15:47:38Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/incus-tools/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/incus-tools/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: incus 6.7-1 x86_64</title>
-    <updated>2024-11-16T15:47:38Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/incus/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/incus/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: go-tools 4:0.27.0-1 x86_64</title>
-    <updated>2024-11-16T15:47:37Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/go-tools/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/go-tools/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: go-md2man 2.0.5-1 x86_64</title>
-    <updated>2024-11-16T15:47:37Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/go-md2man/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/go-md2man/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: fzf 0.56.3-1 x86_64</title>
-    <updated>2024-11-16T15:47:36Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/fzf/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/fzf/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: cilium-cli 0.16.20-1 x86_64</title>
-    <updated>2024-11-16T15:47:36Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/cilium-cli/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/cilium-cli/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: buildah 1.38.0-1 x86_64</title>
-    <updated>2024-11-16T15:47:35Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/buildah/202411161547</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/buildah/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-tpm2-pytss 2.3.0-1 x86_64</title>
-    <updated>2024-11-16T15:27:36Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/python-tpm2-pytss/202411161527</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/python-tpm2-pytss/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: toolbox 0.1.1-1 x86_64</title>
-    <updated>2024-11-16T14:43:46Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/toolbox/202411161443</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/toolbox/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nwg-dock-hyprland 0.3.3-1 x86_64</title>
-    <updated>2024-11-16T14:39:41Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/nwg-dock-hyprland/202411161439</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nwg-dock-hyprland/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: swayimg 3.5-1 x86_64</title>
-    <updated>2024-11-16T14:32:48Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/swayimg/202411161432</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/swayimg/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: cargo-nextest 0.9.84-1 x86_64</title>
-    <updated>2024-11-16T14:29:30Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/cargo-nextest/202411161429</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/cargo-nextest/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: rebels-in-the-sky 1.0.21-1 x86_64</title>
-    <updated>2024-11-16T14:27:40Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/rebels-in-the-sky/202411161427</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/rebels-in-the-sky/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: bacon 3.3.0-1 x86_64</title>
-    <updated>2024-11-16T14:27:39Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/bacon/202411161427</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/bacon/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: openh264 2.5.0-1 x86_64</title>
-    <updated>2024-11-16T13:56:18Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra/x86_64/openh264/202411161356</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/openh264/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-pytest-bdd 8.0.0-1 any</title>
-    <updated>2024-11-16T13:43:02Z</updated>
-    <id>tag:archlinux.org,2024-11-16:/packages/extra-testing/any/python-pytest-bdd/202411161343</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-pytest-bdd/" rel="alternate"></link>
+    <title>2:aur_new_packages: magic-tape.sh-git</title>
+    <updated>2024-11-16T18:15:37Z</updated>
+    <id>magic-tape.sh-git-1731780937</id>
+    <link href="https://aur.archlinux.org/packages/magic-tape.sh-git" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:aur_new_packages: rjsupplicant</title>
@@ -878,35 +908,5 @@
     <updated>2024-11-14T07:43:43Z</updated>
     <id>python-bases-1731570223</id>
     <link href="https://aur.archlinux.org/packages/python-bases" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: python-bases-doc</title>
-    <updated>2024-11-14T07:43:43Z</updated>
-    <id>python-bases-doc-1731570223</id>
-    <link href="https://aur.archlinux.org/packages/python-bases-doc" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: chatbox-ce-bin</title>
-    <updated>2024-11-14T05:53:05Z</updated>
-    <id>chatbox-ce-bin-1731563585</id>
-    <link href="https://aur.archlinux.org/packages/chatbox-ce-bin" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: windsurf</title>
-    <updated>2024-11-14T03:46:38Z</updated>
-    <id>windsurf-1731555998</id>
-    <link href="https://aur.archlinux.org/packages/windsurf" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: gcg-bin</title>
-    <updated>2024-11-14T02:40:59Z</updated>
-    <id>gcg-bin-1731552059</id>
-    <link href="https://aur.archlinux.org/packages/gcg-bin" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: activate-linux-toggle</title>
-    <updated>2024-11-14T01:04:50Z</updated>
-    <id>activate-linux-toggle-1731546290</id>
-    <link href="https://aur.archlinux.org/packages/activate-linux-toggle" rel="alternate"></link>
   </entry>
 </feed>
