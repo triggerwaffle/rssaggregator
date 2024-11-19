@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2024-11-19T12:24:57Z</updated>
+  <updated>2024-11-19T18:17:36Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -10,304 +10,358 @@
     <email>johndoe@example.com</email>
   </author>
   <entry>
+    <title>2:archlinux_new_packages: cargo-public-api 0.42.0-1 x86_64</title>
+    <updated>2024-11-19T18:16:21Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/cargo-public-api/202411191816</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/cargo-public-api/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-textual 0.86.3-1 any</title>
+    <updated>2024-11-19T17:47:50Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/python-textual/202411191747</id>
+    <link href="https://archlinux.org/packages/extra/any/python-textual/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pymupdf 1.24.14-1 x86_64</title>
+    <updated>2024-11-19T17:43:50Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/python-pymupdf/202411191743</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-pymupdf/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-xsl 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:26Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-xsl/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-xsl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-tidy 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:25Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-tidy/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-tidy/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-sqlite 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:24Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-sqlite/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-sqlite/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-sodium 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:24Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-sodium/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-sodium/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-snmp 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:23Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-snmp/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-snmp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-pspell 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:22Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-pspell/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-pspell/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-phpdbg 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:22Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-phpdbg/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-phpdbg/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-pgsql 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:21Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-pgsql/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-pgsql/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-odbc 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:20Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-odbc/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-odbc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-gd 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:19Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-gd/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-gd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-fpm 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:19Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-fpm/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-fpm/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-enchant 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:18Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-enchant/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-enchant/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-embed 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:17Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-embed/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-embed/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-dblib 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:17Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-dblib/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-dblib/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-cgi 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:16Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-cgi/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-cgi/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-apache 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:15Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-apache/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-apache/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy 8.2.26-1 x86_64</title>
+    <updated>2024-11-19T17:43:14Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy/202411191743</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ansible 11.0.0-1 any</title>
+    <updated>2024-11-19T17:39:49Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/ansible/202411191739</id>
+    <link href="https://archlinux.org/packages/extra/any/ansible/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-xsl 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:16Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-xsl/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-xsl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-tidy 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:15Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-tidy/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-tidy/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-sqlite 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:14Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-sqlite/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-sqlite/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-sodium 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:13Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-sodium/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-sodium/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-snmp 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:13Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-snmp/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-snmp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-pspell 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:12Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-pspell/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-pspell/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-phpdbg 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:11Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-phpdbg/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-phpdbg/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-pgsql 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:11Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-pgsql/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-pgsql/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-odbc 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:10Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-odbc/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-odbc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-gd 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:09Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-gd/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-gd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-fpm 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:08Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-fpm/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-fpm/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-enchant 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:08Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-enchant/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-enchant/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-embed 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:07Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-embed/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-embed/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-dblib 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:06Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-dblib/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-dblib/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-cgi 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:06Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-cgi/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-cgi/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-apache 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:05Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-apache/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-apache/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php 8.3.14-1 x86_64</title>
+    <updated>2024-11-19T17:26:04Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php/202411191726</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: iproute2 6.12.0-1 x86_64</title>
+    <updated>2024-11-19T17:05:08Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/core-testing/x86_64/iproute2/202411191705</id>
+    <link href="https://archlinux.org/packages/core-testing/x86_64/iproute2/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libheif 1.19.4-1 x86_64</title>
+    <updated>2024-11-19T16:00:26Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/libheif/202411191600</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/libheif/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libinput 1.27.0-1 x86_64</title>
+    <updated>2024-11-19T15:54:46Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/libinput/202411191554</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/libinput/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: sane-airscan 0.99.30-1 x86_64</title>
+    <updated>2024-11-19T15:49:05Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/sane-airscan/202411191549</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/sane-airscan/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-looseversion 1.3.0-5 any</title>
+    <updated>2024-11-19T15:47:01Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/python-looseversion/202411191547</id>
+    <link href="https://archlinux.org/packages/extra/any/python-looseversion/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: metronome 1.3.0-1 x86_64</title>
+    <updated>2024-11-19T15:15:48Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/metronome/202411191515</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/metronome/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libngtcp2 1.9.0-1 x86_64</title>
+    <updated>2024-11-19T15:10:46Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/libngtcp2/202411191510</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libngtcp2/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: composer 2.8.3-1 any</title>
+    <updated>2024-11-19T14:57:12Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/composer/202411191457</id>
+    <link href="https://archlinux.org/packages/extra/any/composer/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyprland 0.45.1-2 x86_64</title>
+    <updated>2024-11-19T13:30:36Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/hyprland/202411191330</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyprland/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: opensc 0.26.0-3 x86_64</title>
+    <updated>2024-11-19T12:28:31Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/opensc/202411191228</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/opensc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: neochat 24.08.3-2 x86_64</title>
+    <updated>2024-11-19T12:22:01Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/neochat/202411191222</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/neochat/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:archlinux_new_packages: minio-client 2024.11.17-1 x86_64</title>
     <updated>2024-11-19T12:00:22Z</updated>
     <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/minio-client/202411191200</id>
     <link href="https://archlinux.org/packages/extra/x86_64/minio-client/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: television 0.5.0-1 x86_64</title>
-    <updated>2024-11-19T11:49:32Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/television/202411191149</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/television/" rel="alternate"></link>
+    <title>2:aur_new_packages: isz-tool-git</title>
+    <updated>2024-11-19T15:48:10Z</updated>
+    <id>isz-tool-git-1732031290</id>
+    <link href="https://aur.archlinux.org/packages/isz-tool-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: gitleaks 8.21.2-1 x86_64</title>
-    <updated>2024-11-19T11:35:52Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/gitleaks/202411191135</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/gitleaks/" rel="alternate"></link>
+    <title>2:aur_new_packages: riscv64-linux-gnu-gcc-full</title>
+    <updated>2024-11-19T15:43:29Z</updated>
+    <id>riscv64-linux-gnu-gcc-full-1732031009</id>
+    <link href="https://aur.archlinux.org/packages/riscv64-linux-gnu-gcc-full" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: melange 0.15.11-1 x86_64</title>
-    <updated>2024-11-19T11:34:18Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/melange/202411191134</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/melange/" rel="alternate"></link>
+    <title>2:aur_new_packages: python-dt-apriltags-git</title>
+    <updated>2024-11-19T14:50:04Z</updated>
+    <id>python-dt-apriltags-git-1732027804</id>
+    <link href="https://aur.archlinux.org/packages/python-dt-apriltags-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: borgmatic 1.9.2-1 any</title>
-    <updated>2024-11-19T11:30:08Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/borgmatic/202411191130</id>
-    <link href="https://archlinux.org/packages/extra/any/borgmatic/" rel="alternate"></link>
+    <title>2:aur_new_packages: voidsprite</title>
+    <updated>2024-11-19T14:34:16Z</updated>
+    <id>voidsprite-1732026856</id>
+    <link href="https://aur.archlinux.org/packages/voidsprite" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: calf 0.90.4-1 x86_64</title>
-    <updated>2024-11-19T09:14:02Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/calf/202411190914</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/calf/" rel="alternate"></link>
+    <title>2:aur_new_packages: rust-beta-bin</title>
+    <updated>2024-11-19T14:33:41Z</updated>
+    <id>rust-beta-bin-1732026821</id>
+    <link href="https://aur.archlinux.org/packages/rust-beta-bin" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: fortunecraft 1.8.3-2 x86_64</title>
-    <updated>2024-11-19T09:11:54Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/fortunecraft/202411190911</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/fortunecraft/" rel="alternate"></link>
+    <title>2:aur_new_packages: voidsprite-bin</title>
+    <updated>2024-11-19T14:11:46Z</updated>
+    <id>voidsprite-bin-1732025506</id>
+    <link href="https://aur.archlinux.org/packages/voidsprite-bin" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: python-pymupdf 1.24.13-2 x86_64</title>
-    <updated>2024-11-19T09:06:07Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/python-pymupdf/202411190906</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-pymupdf/" rel="alternate"></link>
+    <title>2:aur_new_packages: duniter</title>
+    <updated>2024-11-19T13:52:35Z</updated>
+    <id>duniter-1732024355</id>
+    <link href="https://aur.archlinux.org/packages/duniter" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: zathura-pdf-mupdf 0.4.4-5 x86_64</title>
-    <updated>2024-11-19T09:04:27Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/zathura-pdf-mupdf/202411190904</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/zathura-pdf-mupdf/" rel="alternate"></link>
+    <title>2:aur_new_packages: dbus-codegen-go</title>
+    <updated>2024-11-19T13:39:59Z</updated>
+    <id>dbus-codegen-go-1732023599</id>
+    <link href="https://aur.archlinux.org/packages/dbus-codegen-go" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: python-trustme 1.2.0-1 any</title>
-    <updated>2024-11-19T09:04:26Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/any/python-trustme/202411190904</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-trustme/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-mupdf 1.24.11-1 x86_64</title>
-    <updated>2024-11-19T08:57:47Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/python-mupdf/202411190857</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-mupdf/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mupdf-tools 1.24.11-1 x86_64</title>
-    <updated>2024-11-19T08:57:46Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/mupdf-tools/202411190857</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/mupdf-tools/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mupdf-gl 1.24.11-1 x86_64</title>
-    <updated>2024-11-19T08:57:46Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/mupdf-gl/202411190857</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/mupdf-gl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mupdf 1.24.11-1 x86_64</title>
-    <updated>2024-11-19T08:57:45Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/mupdf/202411190857</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/mupdf/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libmupdf 1.24.11-1 x86_64</title>
-    <updated>2024-11-19T08:57:44Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/libmupdf/202411190857</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/libmupdf/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-tpm2-pytss 2.3.0-2 x86_64</title>
-    <updated>2024-11-19T08:37:31Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/python-tpm2-pytss/202411190837</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-tpm2-pytss/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-gphoto2 2.5.1-1 x86_64</title>
-    <updated>2024-11-19T08:21:37Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/python-gphoto2/202411190821</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-gphoto2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nwg-shell 0.5.42-1 any</title>
-    <updated>2024-11-19T08:13:49Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/nwg-shell/202411190813</id>
-    <link href="https://archlinux.org/packages/extra/any/nwg-shell/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-starlette 0.41.3-1 any</title>
-    <updated>2024-11-19T08:11:45Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/python-starlette/202411190811</id>
-    <link href="https://archlinux.org/packages/extra/any/python-starlette/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ttf-font-awesome 6.7.0-1 any</title>
-    <updated>2024-11-19T08:09:59Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/ttf-font-awesome/202411190809</id>
-    <link href="https://archlinux.org/packages/extra/any/ttf-font-awesome/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: otf-font-awesome 6.7.0-1 any</title>
-    <updated>2024-11-19T08:09:59Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/otf-font-awesome/202411190809</id>
-    <link href="https://archlinux.org/packages/extra/any/otf-font-awesome/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-httplib2 0.22.0-7 any</title>
-    <updated>2024-11-19T07:48:10Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/python-httplib2/202411190748</id>
-    <link href="https://archlinux.org/packages/extra/any/python-httplib2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: zlib-ng 2.2.2-2 x86_64</title>
-    <updated>2024-11-19T07:45:23Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/zlib-ng/202411190745</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/zlib-ng/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: zlib-ng-compat 2.2.2-2 x86_64</title>
-    <updated>2024-11-19T07:45:22Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/zlib-ng-compat/202411190745</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/zlib-ng-compat/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: intellij-idea-community-edition 4:2024.3-1 x86_64</title>
-    <updated>2024-11-19T07:42:10Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/intellij-idea-community-edition/202411190742</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/intellij-idea-community-edition/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ttf-sarasa-gothic 1.0.24-1 any</title>
-    <updated>2024-11-19T07:42:09Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/ttf-sarasa-gothic/202411190742</id>
-    <link href="https://archlinux.org/packages/extra/any/ttf-sarasa-gothic/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-cloudflare 2.12.5-1 any</title>
-    <updated>2024-11-19T07:42:08Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/python-cloudflare/202411190742</id>
-    <link href="https://archlinux.org/packages/extra/any/python-cloudflare/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libultrahdr 1.3.0-1 x86_64</title>
-    <updated>2024-11-19T07:32:18Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/libultrahdr/202411190732</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libultrahdr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: openpgl 0.7.0-1 x86_64</title>
-    <updated>2024-11-19T07:05:54Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/openpgl/202411190705</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/openpgl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nlopt 2.9.0-1 x86_64</title>
-    <updated>2024-11-19T06:28:41Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/nlopt/202411190628</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/nlopt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-extension-mailvelope 5.2.0-1 any</title>
-    <updated>2024-11-19T06:25:13Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/firefox-extension-mailvelope/202411190625</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-extension-mailvelope/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-argparse-manpage 4.6-1 any</title>
-    <updated>2024-11-19T06:14:01Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/python-argparse-manpage/202411190614</id>
-    <link href="https://archlinux.org/packages/extra/any/python-argparse-manpage/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: librdkafka 2.6.1-1 x86_64</title>
-    <updated>2024-11-19T05:12:36Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/librdkafka/202411190512</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/librdkafka/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-aiogram 3.15.0-1 any</title>
-    <updated>2024-11-19T05:12:35Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/any/python-aiogram/202411190512</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-aiogram/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: jrnl 4.2-1 any</title>
-    <updated>2024-11-19T05:12:34Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/any/jrnl/202411190512</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/jrnl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: seaweedfs 3.80-1 x86_64</title>
-    <updated>2024-11-19T04:37:02Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/seaweedfs/202411190437</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/seaweedfs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: virtualbox-host-modules-arch 7.1.4-10 x86_64</title>
-    <updated>2024-11-19T03:25:00Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/virtualbox-host-modules-arch/202411190325</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/virtualbox-host-modules-arch/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vhba-module-dkms 20240917-13 x86_64</title>
-    <updated>2024-11-19T03:25:00Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/vhba-module-dkms/202411190325</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/vhba-module-dkms/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vhba-module 20240917-13 x86_64</title>
-    <updated>2024-11-19T03:24:59Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/vhba-module/202411190324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/vhba-module/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: tp_smapi 0.44-97 x86_64</title>
-    <updated>2024-11-19T03:24:58Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/tp_smapi/202411190324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/tp_smapi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nvidia-open 565.57.01-7 x86_64</title>
-    <updated>2024-11-19T03:24:57Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/nvidia-open/202411190324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/nvidia-open/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nvidia 565.57.01-7 x86_64</title>
-    <updated>2024-11-19T03:24:57Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/nvidia/202411190324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/nvidia/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: netfilter-fullconenat r73.0cf3b48-409 x86_64</title>
-    <updated>2024-11-19T03:24:56Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/netfilter-fullconenat/202411190324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/netfilter-fullconenat/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux-headers 6.12.arch1-1 x86_64</title>
-    <updated>2024-11-19T03:24:55Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/core-testing/x86_64/linux-headers/202411190324</id>
-    <link href="https://archlinux.org/packages/core-testing/x86_64/linux-headers/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux-zen-headers 6.12.zen1-1 x86_64</title>
-    <updated>2024-11-19T03:24:54Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/linux-zen-headers/202411190324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/linux-zen-headers/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux-docs 6.12.arch1-1 x86_64</title>
-    <updated>2024-11-19T03:24:53Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/core-testing/x86_64/linux-docs/202411190324</id>
-    <link href="https://archlinux.org/packages/core-testing/x86_64/linux-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux-zen-docs 6.12.zen1-1 x86_64</title>
-    <updated>2024-11-19T03:24:51Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/linux-zen-docs/202411190324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/linux-zen-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux 6.12.arch1-1 x86_64</title>
-    <updated>2024-11-19T03:24:51Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/core-testing/x86_64/linux/202411190324</id>
-    <link href="https://archlinux.org/packages/core-testing/x86_64/linux/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux-zen 6.12.zen1-1 x86_64</title>
-    <updated>2024-11-19T03:24:49Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/linux-zen/202411190324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/linux-zen/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-anything-arch 6.1.2-110 x86_64</title>
-    <updated>2024-11-19T03:24:49Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/deepin-anything-arch/202411190324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/deepin-anything-arch/" rel="alternate"></link>
+    <title>2:aur_new_packages: radion</title>
+    <updated>2024-11-19T13:27:07Z</updated>
+    <id>radion-1732022827</id>
+    <link href="https://aur.archlinux.org/packages/radion" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:aur_new_packages: downloads-sorter</title>
@@ -854,59 +908,5 @@
     <updated>2024-11-17T16:26:43Z</updated>
     <id>zeon-k98_pro-conffix-1731860803</id>
     <link href="https://aur.archlinux.org/packages/zeon-k98_pro-conffix" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: plymouth-theme-nekopara-chocola-git</title>
-    <updated>2024-11-17T16:11:07Z</updated>
-    <id>plymouth-theme-nekopara-chocola-git-1731859867</id>
-    <link href="https://aur.archlinux.org/packages/plymouth-theme-nekopara-chocola-git" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: python-kthread</title>
-    <updated>2024-11-17T15:48:20Z</updated>
-    <id>python-kthread-1731858500</id>
-    <link href="https://aur.archlinux.org/packages/python-kthread" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: python-matchering</title>
-    <updated>2024-11-17T15:31:53Z</updated>
-    <id>python-matchering-1731857513</id>
-    <link href="https://aur.archlinux.org/packages/python-matchering" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: thextech-assetpack-aod</title>
-    <updated>2024-11-17T15:29:56Z</updated>
-    <id>thextech-assetpack-aod-1731857396</id>
-    <link href="https://aur.archlinux.org/packages/thextech-assetpack-aod" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: thextech-assetpack-smbx13</title>
-    <updated>2024-11-17T15:29:43Z</updated>
-    <id>thextech-assetpack-smbx13-1731857383</id>
-    <link href="https://aur.archlinux.org/packages/thextech-assetpack-smbx13" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: thextech-git</title>
-    <updated>2024-11-17T15:29:22Z</updated>
-    <id>thextech-git-1731857362</id>
-    <link href="https://aur.archlinux.org/packages/thextech-git" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: otb-eldur</title>
-    <updated>2024-11-17T14:58:19Z</updated>
-    <id>otb-eldur-1731855499</id>
-    <link href="https://aur.archlinux.org/packages/otb-eldur" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: python-odoo17-jid</title>
-    <updated>2024-11-17T14:49:22Z</updated>
-    <id>python-odoo17-jid-1731854962</id>
-    <link href="https://aur.archlinux.org/packages/python-odoo17-jid" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: python-odoo18-jid</title>
-    <updated>2024-11-17T14:49:22Z</updated>
-    <id>python-odoo18-jid-1731854962</id>
-    <link href="https://aur.archlinux.org/packages/python-odoo18-jid" rel="alternate"></link>
   </entry>
 </feed>
