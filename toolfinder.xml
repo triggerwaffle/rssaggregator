@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2024-11-19T18:17:36Z</updated>
+  <updated>2024-11-20T01:01:09Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -10,304 +10,376 @@
     <email>johndoe@example.com</email>
   </author>
   <entry>
-    <title>2:archlinux_new_packages: cargo-public-api 0.42.0-1 x86_64</title>
-    <updated>2024-11-19T18:16:21Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/cargo-public-api/202411191816</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/cargo-public-api/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-textual 0.86.3-1 any</title>
-    <updated>2024-11-19T17:47:50Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/python-textual/202411191747</id>
-    <link href="https://archlinux.org/packages/extra/any/python-textual/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-pymupdf 1.24.14-1 x86_64</title>
-    <updated>2024-11-19T17:43:50Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/python-pymupdf/202411191743</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-pymupdf/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-xsl 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:26Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-xsl/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-xsl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-tidy 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:25Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-tidy/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-tidy/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-sqlite 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:24Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-sqlite/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-sqlite/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-sodium 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:24Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-sodium/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-sodium/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-snmp 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:23Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-snmp/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-snmp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-pspell 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:22Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-pspell/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-pspell/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-phpdbg 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:22Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-phpdbg/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-phpdbg/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-pgsql 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:21Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-pgsql/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-pgsql/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-odbc 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:20Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-odbc/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-odbc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-gd 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:19Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-gd/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-gd/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-fpm 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:19Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-fpm/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-fpm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-enchant 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:18Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-enchant/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-enchant/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-embed 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:17Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-embed/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-embed/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-dblib 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:17Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-dblib/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-dblib/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-cgi 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:16Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-cgi/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-cgi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy-apache 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:15Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy-apache/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-apache/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-legacy 8.2.26-1 x86_64</title>
-    <updated>2024-11-19T17:43:14Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-legacy/202411191743</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ansible 11.0.0-1 any</title>
-    <updated>2024-11-19T17:39:49Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/ansible/202411191739</id>
-    <link href="https://archlinux.org/packages/extra/any/ansible/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-xsl 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:16Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-xsl/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-xsl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-tidy 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:15Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-tidy/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-tidy/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-sqlite 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:14Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-sqlite/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-sqlite/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-sodium 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:13Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-sodium/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-sodium/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-snmp 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:13Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-snmp/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-snmp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-pspell 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:12Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-pspell/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-pspell/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-phpdbg 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:11Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-phpdbg/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-phpdbg/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-pgsql 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:11Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-pgsql/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-pgsql/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-odbc 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:10Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-odbc/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-odbc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-gd 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:09Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-gd/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-gd/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-fpm 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:08Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-fpm/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-fpm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-enchant 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:08Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-enchant/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-enchant/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-embed 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:07Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-embed/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-embed/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-dblib 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:06Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-dblib/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-dblib/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-cgi 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:06Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-cgi/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-cgi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-apache 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:05Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php-apache/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-apache/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php 8.3.14-1 x86_64</title>
-    <updated>2024-11-19T17:26:04Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/php/202411191726</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:archlinux_new_packages: iproute2 6.12.0-1 x86_64</title>
-    <updated>2024-11-19T17:05:08Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/core-testing/x86_64/iproute2/202411191705</id>
-    <link href="https://archlinux.org/packages/core-testing/x86_64/iproute2/" rel="alternate"></link>
+    <updated>2024-11-19T23:56:27Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/core/x86_64/iproute2/202411192356</id>
+    <link href="https://archlinux.org/packages/core/x86_64/iproute2/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: libheif 1.19.4-1 x86_64</title>
-    <updated>2024-11-19T16:00:26Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/libheif/202411191600</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/libheif/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: evisum 0.6.1-3 x86_64</title>
+    <updated>2024-11-19T23:08:50Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/evisum/202411192308</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/evisum/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: libinput 1.27.0-1 x86_64</title>
-    <updated>2024-11-19T15:54:46Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/libinput/202411191554</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/libinput/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: thunderbird-i18n-zh-tw 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:58:06Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-zh-tw/202411192258</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-zh-tw/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: sane-airscan 0.99.30-1 x86_64</title>
-    <updated>2024-11-19T15:49:05Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/sane-airscan/202411191549</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/sane-airscan/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: thunderbird-i18n-zh-cn 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:58:05Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-zh-cn/202411192258</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-zh-cn/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: python-looseversion 1.3.0-5 any</title>
-    <updated>2024-11-19T15:47:01Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/python-looseversion/202411191547</id>
-    <link href="https://archlinux.org/packages/extra/any/python-looseversion/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: thunderbird-i18n-vi 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:58:05Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-vi/202411192258</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-vi/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: metronome 1.3.0-1 x86_64</title>
-    <updated>2024-11-19T15:15:48Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/metronome/202411191515</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/metronome/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: thunderbird-i18n-uz 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:58:04Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-uz/202411192258</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-uz/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: libngtcp2 1.9.0-1 x86_64</title>
-    <updated>2024-11-19T15:10:46Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/libngtcp2/202411191510</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libngtcp2/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: thunderbird-i18n-uk 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:58:03Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-uk/202411192258</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-uk/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: composer 2.8.3-1 any</title>
-    <updated>2024-11-19T14:57:12Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/any/composer/202411191457</id>
-    <link href="https://archlinux.org/packages/extra/any/composer/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: thunderbird-i18n-tr 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:58:03Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-tr/202411192258</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-tr/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hyprland 0.45.1-2 x86_64</title>
-    <updated>2024-11-19T13:30:36Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/hyprland/202411191330</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/hyprland/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: thunderbird-i18n-th 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:58:02Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-th/202411192258</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-th/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: opensc 0.26.0-3 x86_64</title>
-    <updated>2024-11-19T12:28:31Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/opensc/202411191228</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/opensc/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: thunderbird-i18n-sv-se 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:58:01Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-sv-se/202411192258</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-sv-se/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: neochat 24.08.3-2 x86_64</title>
-    <updated>2024-11-19T12:22:01Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/neochat/202411191222</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/neochat/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: thunderbird-i18n-sr 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:58:01Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-sr/202411192258</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-sr/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: minio-client 2024.11.17-1 x86_64</title>
-    <updated>2024-11-19T12:00:22Z</updated>
-    <id>tag:archlinux.org,2024-11-19:/packages/extra/x86_64/minio-client/202411191200</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/minio-client/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: thunderbird-i18n-sq 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:58:00Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-sq/202411192258</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-sq/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-sl 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:59Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-sl/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-sl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-sk 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:59Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-sk/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-sk/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-ru 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:58Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-ru/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-ru/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-ro 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:57Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-ro/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-ro/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-rm 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:57Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-rm/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-rm/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-pt-pt 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:56Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-pt-pt/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-pt-pt/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-pt-br 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:55Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-pt-br/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-pt-br/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-pl 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:55Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-pl/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-pl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-pa-in 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:54Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-pa-in/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-pa-in/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-nn-no 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:53Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-nn-no/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-nn-no/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-nl 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:53Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-nl/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-nl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-nb-no 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:52Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-nb-no/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-nb-no/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-ms 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:51Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-ms/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-ms/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-lt 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:51Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-lt/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-lt/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-ko 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:50Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-ko/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-ko/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-kk 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:49Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-kk/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-kk/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-kab 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:49Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-kab/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-kab/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-ka 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:48Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-ka/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-ka/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-ja 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:47Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-ja/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-ja/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-it 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:47Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-it/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-it/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-is 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:46Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-is/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-is/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-id 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:45Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-id/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-id/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-hy-am 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:45Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-hy-am/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-hy-am/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-hu 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:44Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-hu/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-hu/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-hsb 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:43Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-hsb/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-hsb/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-hr 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:43Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-hr/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-hr/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-he 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:42Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-he/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-he/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-gl 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:41Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-gl/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-gl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-gd 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:41Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-gd/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-gd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-ga-ie 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:40Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-ga-ie/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-ga-ie/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-fy-nl 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:39Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-fy-nl/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-fy-nl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-fr 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:39Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-fr/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-fr/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-fi 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:38Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-fi/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-fi/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-eu 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:37Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-eu/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-eu/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-et 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:37Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-et/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-et/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-es-es 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:36Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-es-es/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-es-es/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-es-ar 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:35Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-es-ar/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-es-ar/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-i18n-en-us 128.4.4-1 x86_64</title>
+    <updated>2024-11-19T22:57:35Z</updated>
+    <id>tag:archlinux.org,2024-11-19:/packages/extra-testing/x86_64/thunderbird-i18n-en-us/202411192257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-en-us/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: minicube64</title>
+    <updated>2024-11-19T21:39:07Z</updated>
+    <id>minicube64-1732052347</id>
+    <link href="https://aur.archlinux.org/packages/minicube64" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: lowkey-git</title>
+    <updated>2024-11-19T21:13:41Z</updated>
+    <id>lowkey-git-1732050821</id>
+    <link href="https://aur.archlinux.org/packages/lowkey-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: nheko-scrollfix</title>
+    <updated>2024-11-19T21:05:26Z</updated>
+    <id>nheko-scrollfix-1732050326</id>
+    <link href="https://aur.archlinux.org/packages/nheko-scrollfix" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: z26</title>
+    <updated>2024-11-19T20:41:54Z</updated>
+    <id>z26-1732048914</id>
+    <link href="https://aur.archlinux.org/packages/z26" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: jitsi-meet-desktop-git</title>
+    <updated>2024-11-19T20:36:51Z</updated>
+    <id>jitsi-meet-desktop-git-1732048611</id>
+    <link href="https://aur.archlinux.org/packages/jitsi-meet-desktop-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: tukai</title>
+    <updated>2024-11-19T20:27:00Z</updated>
+    <id>tukai-1732048020</id>
+    <link href="https://aur.archlinux.org/packages/tukai" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: ruby-request_store</title>
+    <updated>2024-11-19T20:07:11Z</updated>
+    <id>ruby-request_store-1732046831</id>
+    <link href="https://aur.archlinux.org/packages/ruby-request_store" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: spotify-electron-bin</title>
+    <updated>2024-11-19T19:39:07Z</updated>
+    <id>spotify-electron-bin-1732045147</id>
+    <link href="https://aur.archlinux.org/packages/spotify-electron-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: torge</title>
+    <updated>2024-11-19T19:26:01Z</updated>
+    <id>torge-1732044361</id>
+    <link href="https://aur.archlinux.org/packages/torge" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: reliq</title>
+    <updated>2024-11-19T19:25:37Z</updated>
+    <id>reliq-1732044337</id>
+    <link href="https://aur.archlinux.org/packages/reliq" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: nitro-beta-bin</title>
+    <updated>2024-11-19T19:17:58Z</updated>
+    <id>nitro-beta-bin-1732043878</id>
+    <link href="https://aur.archlinux.org/packages/nitro-beta-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: nitro-bin</title>
+    <updated>2024-11-19T19:02:15Z</updated>
+    <id>nitro-bin-1732042935</id>
+    <link href="https://aur.archlinux.org/packages/nitro-bin" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:aur_new_packages: isz-tool-git</title>
@@ -836,77 +908,5 @@
     <updated>2024-11-17T18:01:35Z</updated>
     <id>python-powerxrd-1731866495</id>
     <link href="https://aur.archlinux.org/packages/python-powerxrd" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: carch-bin</title>
-    <updated>2024-11-17T17:53:00Z</updated>
-    <id>carch-bin-1731865980</id>
-    <link href="https://aur.archlinux.org/packages/carch-bin" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: ofxstatement-paypal</title>
-    <updated>2024-11-17T17:50:20Z</updated>
-    <id>ofxstatement-paypal-1731865820</id>
-    <link href="https://aur.archlinux.org/packages/ofxstatement-paypal" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: ofxstatement-revolut</title>
-    <updated>2024-11-17T17:50:00Z</updated>
-    <id>ofxstatement-revolut-1731865800</id>
-    <link href="https://aur.archlinux.org/packages/ofxstatement-revolut" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: cadet-process</title>
-    <updated>2024-11-17T17:32:38Z</updated>
-    <id>cadet-process-1731864758</id>
-    <link href="https://aur.archlinux.org/packages/cadet-process" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: cadet-core</title>
-    <updated>2024-11-17T17:26:46Z</updated>
-    <id>cadet-core-1731864406</id>
-    <link href="https://aur.archlinux.org/packages/cadet-core" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: sreda</title>
-    <updated>2024-11-17T17:23:03Z</updated>
-    <id>sreda-1731864183</id>
-    <link href="https://aur.archlinux.org/packages/sreda" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: python-samplerate</title>
-    <updated>2024-11-17T17:18:14Z</updated>
-    <id>python-samplerate-1731863894</id>
-    <link href="https://aur.archlinux.org/packages/python-samplerate" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: python-quiffen</title>
-    <updated>2024-11-17T17:17:05Z</updated>
-    <id>python-quiffen-1731863825</id>
-    <link href="https://aur.archlinux.org/packages/python-quiffen" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: io</title>
-    <updated>2024-11-17T17:11:16Z</updated>
-    <id>io-1731863476</id>
-    <link href="https://aur.archlinux.org/packages/io" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: tinyc</title>
-    <updated>2024-11-17T16:47:29Z</updated>
-    <id>tinyc-1731862049</id>
-    <link href="https://aur.archlinux.org/packages/tinyc" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: sfil</title>
-    <updated>2024-11-17T16:27:45Z</updated>
-    <id>sfil-1731860865</id>
-    <link href="https://aur.archlinux.org/packages/sfil" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: zeon-k98_pro-conffix</title>
-    <updated>2024-11-17T16:26:43Z</updated>
-    <id>zeon-k98_pro-conffix-1731860803</id>
-    <link href="https://aur.archlinux.org/packages/zeon-k98_pro-conffix" rel="alternate"></link>
   </entry>
 </feed>
