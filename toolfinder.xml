@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2024-11-24T12:22:15Z</updated>
+  <updated>2024-11-24T18:15:38Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -10,304 +10,322 @@
     <email>johndoe@example.com</email>
   </author>
   <entry>
+    <title>2:archlinux_new_packages: librist 0.2.11-1 x86_64</title>
+    <updated>2024-11-24T13:54:17Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/librist/202411241354</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/librist/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: htmldoc 1.9.19-1 x86_64</title>
+    <updated>2024-11-24T13:54:16Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/htmldoc/202411241354</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/htmldoc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: roctracer 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:15Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/roctracer/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/roctracer/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocthrust 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:14Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocthrust/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocthrust/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocsparse 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:14Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocsparse/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocsparse/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocsolver 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:13Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocsolver/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocsolver/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocrand 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:12Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocrand/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocrand/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocprofiler-register 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:12Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocprofiler-register/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocprofiler-register/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocprofiler 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:11Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocprofiler/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocprofiler/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocminfo 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:10Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocminfo/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocminfo/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-smi-lib 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:10Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocm-smi-lib/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocm-smi-lib/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-opencl-runtime 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:09Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocm-opencl-runtime/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocm-opencl-runtime/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-llvm 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:08Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocm-llvm/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocm-llvm/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-gdb 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:07Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocm-gdb/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocm-gdb/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-device-libs 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:06Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocm-device-libs/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocm-device-libs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-dbgapi 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:06Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocm-dbgapi/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocm-dbgapi/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocfft 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:05Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocfft/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocfft/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocblas 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:04Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocblas/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocblas/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocalution 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:03Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rocalution/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rocalution/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rccl 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:03Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/rccl/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rccl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: miopen-hip 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:02Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/miopen-hip/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/miopen-hip/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hsakmt-roct 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:01Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/hsakmt-roct/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hsakmt-roct/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hsa-amd-aqlprofile-bin 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:00Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/hsa-amd-aqlprofile-bin/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hsa-amd-aqlprofile-bin/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hipsparse 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:31:00Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/hipsparse/202411241331</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hipsparse/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hipsolver 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:30:59Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/hipsolver/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hipsolver/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hiprand 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:30:58Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/hiprand/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hiprand/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hipify-clang 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:30:58Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/hipify-clang/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hipify-clang/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hipfft 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:30:57Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/hipfft/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hipfft/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hipcub 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:30:56Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/hipcub/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hipcub/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hipblaslt 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:30:55Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/hipblaslt/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hipblaslt/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hipblas 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:30:55Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/hipblas/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hipblas/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hip-runtime-nvidia 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:30:54Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/hip-runtime-nvidia/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hip-runtime-nvidia/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hip-runtime-amd 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:30:53Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/hip-runtime-amd/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hip-runtime-amd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: composable-kernel 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:30:52Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/composable-kernel/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/composable-kernel/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: comgr 6.2.4-1 x86_64</title>
+    <updated>2024-11-24T13:30:52Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/comgr/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/comgr/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocprim 6.2.4-1 any</title>
+    <updated>2024-11-24T13:30:50Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/any/rocprim/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/any/rocprim/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-core 6.2.4-1 any</title>
+    <updated>2024-11-24T13:30:50Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/any/rocm-core/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/any/rocm-core/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-cmake 6.2.4-1 any</title>
+    <updated>2024-11-24T13:30:49Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/any/rocm-cmake/202411241330</id>
+    <link href="https://archlinux.org/packages/extra/any/rocm-cmake/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-tpm2-pytss 2.3.0-2 x86_64</title>
+    <updated>2024-11-24T13:24:29Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/python-tpm2-pytss/202411241324</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-tpm2-pytss/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-gphoto2 2.5.1-1 x86_64</title>
+    <updated>2024-11-24T13:24:28Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/python-gphoto2/202411241324</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-gphoto2/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: librdkafka 2.6.1-1 x86_64</title>
+    <updated>2024-11-24T13:24:27Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/librdkafka/202411241324</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/librdkafka/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-trustme 1.2.0-1 any</title>
+    <updated>2024-11-24T13:24:26Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/any/python-trustme/202411241324</id>
+    <link href="https://archlinux.org/packages/extra/any/python-trustme/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-copr 2.0-1 any</title>
+    <updated>2024-11-24T13:24:25Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/any/python-copr/202411241324</id>
+    <link href="https://archlinux.org/packages/extra/any/python-copr/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-aiogram 3.15.0-1 any</title>
+    <updated>2024-11-24T13:24:24Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/any/python-aiogram/202411241324</id>
+    <link href="https://archlinux.org/packages/extra/any/python-aiogram/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: jrnl 4.2-1 any</title>
+    <updated>2024-11-24T13:24:24Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/any/jrnl/202411241324</id>
+    <link href="https://archlinux.org/packages/extra/any/jrnl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: copr-cli 2.0-1 any</title>
+    <updated>2024-11-24T13:24:23Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/any/copr-cli/202411241324</id>
+    <link href="https://archlinux.org/packages/extra/any/copr-cli/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: odin dev_2024_11-2 x86_64</title>
+    <updated>2024-11-24T13:11:17Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/odin/202411241311</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/odin/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ruby-irb 1.13.1-2 any</title>
+    <updated>2024-11-24T12:59:40Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/any/ruby-irb/202411241259</id>
+    <link href="https://archlinux.org/packages/extra/any/ruby-irb/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ruby-rdoc 6.6.3.1-2 any</title>
+    <updated>2024-11-24T12:45:45Z</updated>
+    <id>tag:archlinux.org,2024-11-24:/packages/extra/any/ruby-rdoc/202411241245</id>
+    <link href="https://archlinux.org/packages/extra/any/ruby-rdoc/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:archlinux_new_packages: deepin-session 1.2.10-1 x86_64</title>
     <updated>2024-11-24T11:11:59Z</updated>
     <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-session/202411241111</id>
     <link href="https://archlinux.org/packages/extra/x86_64/deepin-session/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: gitoxide 0.39.0-1 x86_64</title>
-    <updated>2024-11-24T10:46:57Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/gitoxide/202411241046</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/gitoxide/" rel="alternate"></link>
+    <title>2:aur_new_packages: st-community-git</title>
+    <updated>2024-11-24T18:09:21Z</updated>
+    <id>st-community-git-1732471761</id>
+    <link href="https://aur.archlinux.org/packages/st-community-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hugo 0.139.2-1 x86_64</title>
-    <updated>2024-11-24T10:28:31Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/hugo/202411241028</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/hugo/" rel="alternate"></link>
+    <title>2:aur_new_packages: roaming-profiles</title>
+    <updated>2024-11-24T16:53:03Z</updated>
+    <id>roaming-profiles-1732467183</id>
+    <link href="https://aur.archlinux.org/packages/roaming-profiles" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: yubikey-touch-detector 1.12.1-1 x86_64</title>
-    <updated>2024-11-24T10:24:38Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/yubikey-touch-detector/202411241024</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/yubikey-touch-detector/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: collision 3.9.0-2 x86_64</title>
-    <updated>2024-11-24T10:05:56Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/collision/202411241005</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/collision/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libqt5xdg 3.12.0-6 x86_64</title>
-    <updated>2024-11-24T09:46:04Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/libqt5xdg/202411240946</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libqt5xdg/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: kmymoney 5.1.3-21 x86_64</title>
-    <updated>2024-11-24T09:46:03Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/kmymoney/202411240946</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/kmymoney/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: fcitx5-qt 5.1.8-4 x86_64</title>
-    <updated>2024-11-24T09:46:02Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/fcitx5-qt/202411240946</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/fcitx5-qt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: fcitx-qt6 1.2.7-33 x86_64</title>
-    <updated>2024-11-24T09:46:02Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/fcitx-qt6/202411240946</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/fcitx-qt6/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: fcitx-qt5 1.2.7-33 x86_64</title>
-    <updated>2024-11-24T09:46:01Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/fcitx-qt5/202411240946</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/fcitx-qt5/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dtkwidget 5.7.1-4 x86_64</title>
-    <updated>2024-11-24T09:46:00Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/dtkwidget/202411240946</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dtkwidget/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dtklog 0.0.1-5 x86_64</title>
-    <updated>2024-11-24T09:46:00Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/dtklog/202411240946</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dtklog/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dtkgui 1:5.7.1-4 x86_64</title>
-    <updated>2024-11-24T09:45:59Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/dtkgui/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dtkgui/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dtkdeclarative 5.7.1-4 x86_64</title>
-    <updated>2024-11-24T09:45:58Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/dtkdeclarative/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dtkdeclarative/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dtkcore 1:5.7.1-4 x86_64</title>
-    <updated>2024-11-24T09:45:58Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/dtkcore/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dtkcore/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-system-monitor 6.0.21-4 x86_64</title>
-    <updated>2024-11-24T09:45:57Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-system-monitor/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-system-monitor/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-session-ui 6.0.21-4 x86_64</title>
-    <updated>2024-11-24T09:45:57Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-session-ui/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-session-ui/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-screen-recorder 5.12.17-5 x86_64</title>
-    <updated>2024-11-24T09:45:56Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-screen-recorder/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-screen-recorder/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-reader 5.10.29-13 x86_64</title>
-    <updated>2024-11-24T09:45:55Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-reader/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-reader/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-qt5platform-plugins 5.6.31-4 x86_64</title>
-    <updated>2024-11-24T09:45:55Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-qt5platform-plugins/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-qt5platform-plugins/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-qt5integration 5.6.31-4 x86_64</title>
-    <updated>2024-11-24T09:45:54Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-qt5integration/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-qt5integration/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-qt-dbus-factory 6.0.1-4 x86_64</title>
-    <updated>2024-11-24T09:45:53Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-qt-dbus-factory/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-qt-dbus-factory/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-menu 5.0.1-20 x86_64</title>
-    <updated>2024-11-24T09:45:53Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-menu/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-menu/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-kwin 5.25.19-4 x86_64</title>
-    <updated>2024-11-24T09:45:52Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-kwin/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-kwin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-image-viewer 5.9.14-6 x86_64</title>
-    <updated>2024-11-24T09:45:51Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-image-viewer/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-image-viewer/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-file-manager 1:6.0.43-4 x86_64</title>
-    <updated>2024-11-24T09:45:50Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-file-manager/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-file-manager/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-draw 6.0.10-8 x86_64</title>
-    <updated>2024-11-24T09:45:50Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-draw/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-draw/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-compressor 5.12.24-4 x86_64</title>
-    <updated>2024-11-24T09:45:49Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-compressor/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-compressor/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-clipboard 6.0.8-5 x86_64</title>
-    <updated>2024-11-24T09:45:48Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-clipboard/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-clipboard/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-calculator 5.8.24-10 x86_64</title>
-    <updated>2024-11-24T09:45:48Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-calculator/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-calculator/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-album 6.0.4-10 x86_64</title>
-    <updated>2024-11-24T09:45:47Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/deepin-album/202411240945</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-album/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-xmlpatterns 5.15.16-3 x86_64</title>
-    <updated>2024-11-24T09:44:22Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-xmlpatterns/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-xmlpatterns/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-xcb-private-headers 5.15.16+kde+r130-3 x86_64</title>
-    <updated>2024-11-24T09:44:21Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-xcb-private-headers/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-xcb-private-headers/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-x11extras 5.15.16-3 x86_64</title>
-    <updated>2024-11-24T09:44:21Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-x11extras/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-x11extras/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-websockets 5.15.16+kde+r2-3 x86_64</title>
-    <updated>2024-11-24T09:44:20Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-websockets/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-websockets/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-webengine 5.15.18-5 x86_64</title>
-    <updated>2024-11-24T09:44:19Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-webengine/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-webengine/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-webchannel 5.15.16+kde+r3-3 x86_64</title>
-    <updated>2024-11-24T09:44:19Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-webchannel/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-webchannel/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-wayland 5.15.16+kde+r59-3 x86_64</title>
-    <updated>2024-11-24T09:44:18Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-wayland/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-wayland/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-virtualkeyboard 5.15.16-3 x86_64</title>
-    <updated>2024-11-24T09:44:17Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-virtualkeyboard/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-virtualkeyboard/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-tools 5.15.16+kde+r3-3 x86_64</title>
-    <updated>2024-11-24T09:44:16Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-tools/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-tools/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-svg 5.15.16+kde+r5-3 x86_64</title>
-    <updated>2024-11-24T09:44:16Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-svg/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-svg/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-speech 5.15.16+kde+r1-3 x86_64</title>
-    <updated>2024-11-24T09:44:15Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-speech/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-speech/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-serialport 5.15.16-3 x86_64</title>
-    <updated>2024-11-24T09:44:14Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-serialport/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-serialport/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-sensors 5.15.16-3 x86_64</title>
-    <updated>2024-11-24T09:44:14Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-sensors/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-sensors/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-scxml 5.15.16-3 x86_64</title>
-    <updated>2024-11-24T09:44:13Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-scxml/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-scxml/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-script 5.15.18-4 x86_64</title>
-    <updated>2024-11-24T09:44:12Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-script/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-script/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-remoteobjects 5.15.16-3 x86_64</title>
-    <updated>2024-11-24T09:44:11Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-remoteobjects/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-remoteobjects/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-quickcontrols2 5.15.16+kde+r5-3 x86_64</title>
-    <updated>2024-11-24T09:44:11Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-quickcontrols2/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-quickcontrols2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-quickcontrols 5.15.16-3 x86_64</title>
-    <updated>2024-11-24T09:44:10Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-quickcontrols/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-quickcontrols/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qt5-quick3d 5.15.16+kde+r1-3 x86_64</title>
-    <updated>2024-11-24T09:44:09Z</updated>
-    <id>tag:archlinux.org,2024-11-24:/packages/extra/x86_64/qt5-quick3d/202411240944</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qt5-quick3d/" rel="alternate"></link>
+    <title>2:aur_new_packages: iio-hyprland-git</title>
+    <updated>2024-11-24T13:43:17Z</updated>
+    <id>iio-hyprland-git-1732455797</id>
+    <link href="https://aur.archlinux.org/packages/iio-hyprland-git" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:aur_new_packages: vnt-bin</title>
@@ -326,12 +344,6 @@
     <updated>2024-11-24T10:04:28Z</updated>
     <id>prometheus-snmp-exporter-git-1732442668</id>
     <link href="https://aur.archlinux.org/packages/prometheus-snmp-exporter-git" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: testing-srcinfo-specs</title>
-    <updated>2024-11-24T08:50:20Z</updated>
-    <id>testing-srcinfo-specs-1732438220</id>
-    <link href="https://aur.archlinux.org/packages/testing-srcinfo-specs" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:aur_new_packages: usaco-cli-bin</title>
@@ -896,17 +908,5 @@
     <updated>2024-11-21T13:39:55Z</updated>
     <id>vault-tasks-1732196395</id>
     <link href="https://aur.archlinux.org/packages/vault-tasks" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: vitables-git</title>
-    <updated>2024-11-21T13:00:39Z</updated>
-    <id>vitables-git-1732194039</id>
-    <link href="https://aur.archlinux.org/packages/vitables-git" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: python-voluptuous-openapi</title>
-    <updated>2024-11-21T11:52:44Z</updated>
-    <id>python-voluptuous-openapi-1732189964</id>
-    <link href="https://aur.archlinux.org/packages/python-voluptuous-openapi" rel="alternate"></link>
   </entry>
 </feed>
