@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2024-11-28T01:02:55Z</updated>
+  <updated>2024-11-28T06:19:04Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -9,6 +9,12 @@
     <name>triggerwaffle</name>
     <email>johndoe@example.com</email>
   </author>
+  <entry>
+    <title>2:archlinux_new_packages: clairvoyant 3.1.8-2 x86_64</title>
+    <updated>2024-11-28T01:23:37Z</updated>
+    <id>tag:archlinux.org,2024-11-28:/packages/extra/x86_64/clairvoyant/202411280123</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/clairvoyant/" rel="alternate"></link>
+  </entry>
   <entry>
     <title>2:archlinux_new_packages: gaphor 2.27.0-1 any</title>
     <updated>2024-11-28T00:37:35Z</updated>
@@ -304,10 +310,64 @@
     <link href="https://archlinux.org/packages/extra/x86_64/nemo-python/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: nemo-preview 6.4.0-1 x86_64</title>
-    <updated>2024-11-27T16:58:36Z</updated>
-    <id>tag:archlinux.org,2024-11-27:/packages/extra/x86_64/nemo-preview/202411271658</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nemo-preview/" rel="alternate"></link>
+    <title>2:aur_new_packages: tailwindcss-extra-bin</title>
+    <updated>2024-11-28T06:14:03Z</updated>
+    <id>tailwindcss-extra-bin-1732774443</id>
+    <link href="https://aur.archlinux.org/packages/tailwindcss-extra-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: mipsel-none-elf-gcc-git</title>
+    <updated>2024-11-28T03:59:55Z</updated>
+    <id>mipsel-none-elf-gcc-git-1732766395</id>
+    <link href="https://aur.archlinux.org/packages/mipsel-none-elf-gcc-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: mipsel-none-elf-binutils-git</title>
+    <updated>2024-11-28T03:57:45Z</updated>
+    <id>mipsel-none-elf-binutils-git-1732766265</id>
+    <link href="https://aur.archlinux.org/packages/mipsel-none-elf-binutils-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: frpc-desktop-bin</title>
+    <updated>2024-11-28T03:48:44Z</updated>
+    <id>frpc-desktop-bin-1732765724</id>
+    <link href="https://aur.archlinux.org/packages/frpc-desktop-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: go-blueprint-bin</title>
+    <updated>2024-11-28T03:26:48Z</updated>
+    <id>go-blueprint-bin-1732764408</id>
+    <link href="https://aur.archlinux.org/packages/go-blueprint-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: 10mb.video-git</title>
+    <updated>2024-11-28T03:25:58Z</updated>
+    <id>10mb.video-git-1732764358</id>
+    <link href="https://aur.archlinux.org/packages/10mb.video-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: avaloniavisualbasic-bin</title>
+    <updated>2024-11-28T03:01:09Z</updated>
+    <id>avaloniavisualbasic-bin-1732762869</id>
+    <link href="https://aur.archlinux.org/packages/avaloniavisualbasic-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: harsh-git</title>
+    <updated>2024-11-28T01:29:19Z</updated>
+    <id>harsh-git-1732757359</id>
+    <link href="https://aur.archlinux.org/packages/harsh-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: uiua-bin</title>
+    <updated>2024-11-28T01:25:15Z</updated>
+    <id>uiua-bin-1732757115</id>
+    <link href="https://aur.archlinux.org/packages/uiua-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: nodejs-utf8-byte-length</title>
+    <updated>2024-11-28T01:06:34Z</updated>
+    <id>nodejs-utf8-byte-length-1732755994</id>
+    <link href="https://aur.archlinux.org/packages/nodejs-utf8-byte-length" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:aur_new_packages: jpeg2png</title>
@@ -848,65 +908,5 @@
     <updated>2024-11-24T04:42:01Z</updated>
     <id>jre-zulu-fx-bin-1732423321</id>
     <link href="https://aur.archlinux.org/packages/jre-zulu-fx-bin" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: pince</title>
-    <updated>2024-11-24T04:34:16Z</updated>
-    <id>pince-1732422856</id>
-    <link href="https://aur.archlinux.org/packages/pince" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: jre-zulu-bin</title>
-    <updated>2024-11-24T04:30:40Z</updated>
-    <id>jre-zulu-bin-1732422640</id>
-    <link href="https://aur.archlinux.org/packages/jre-zulu-bin" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: dc-debian</title>
-    <updated>2024-11-24T03:36:38Z</updated>
-    <id>dc-debian-1732419398</id>
-    <link href="https://aur.archlinux.org/packages/dc-debian" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: drg_mod_integration-bin</title>
-    <updated>2024-11-24T02:05:28Z</updated>
-    <id>drg_mod_integration-bin-1732413928</id>
-    <link href="https://aur.archlinux.org/packages/drg_mod_integration-bin" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: python-pprp</title>
-    <updated>2024-11-24T01:43:44Z</updated>
-    <id>python-pprp-1732412624</id>
-    <link href="https://aur.archlinux.org/packages/python-pprp" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: zdhpctl</title>
-    <updated>2024-11-24T01:43:31Z</updated>
-    <id>zdhpctl-1732412611</id>
-    <link href="https://aur.archlinux.org/packages/zdhpctl" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: vapoursynth-plugin-vswobbly-git</title>
-    <updated>2024-11-23T23:48:52Z</updated>
-    <id>vapoursynth-plugin-vswobbly-git-1732405732</id>
-    <link href="https://aur.archlinux.org/packages/vapoursynth-plugin-vswobbly-git" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: vapoursynth-plugin-stgfunc-git</title>
-    <updated>2024-11-23T23:37:36Z</updated>
-    <id>vapoursynth-plugin-stgfunc-git-1732405056</id>
-    <link href="https://aur.archlinux.org/packages/vapoursynth-plugin-stgfunc-git" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: ontake-nezumi-p-git</title>
-    <updated>2024-11-23T23:29:59Z</updated>
-    <id>ontake-nezumi-p-git-1732404599</id>
-    <link href="https://aur.archlinux.org/packages/ontake-nezumi-p-git" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: maze-tui</title>
-    <updated>2024-11-23T22:19:47Z</updated>
-    <id>maze-tui-1732400387</id>
-    <link href="https://aur.archlinux.org/packages/maze-tui" rel="alternate"></link>
   </entry>
 </feed>
