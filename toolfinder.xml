@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2024-11-29T01:02:48Z</updated>
+  <updated>2024-11-29T06:18:48Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -9,6 +9,30 @@
     <name>triggerwaffle</name>
     <email>johndoe@example.com</email>
   </author>
+  <entry>
+    <title>2:archlinux_new_packages: sysprof 47.2-1 x86_64</title>
+    <updated>2024-11-29T01:28:22Z</updated>
+    <id>tag:archlinux.org,2024-11-29:/packages/extra/x86_64/sysprof/202411290128</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/sysprof/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libsysprof-capture 47.2-1 x86_64</title>
+    <updated>2024-11-29T01:28:21Z</updated>
+    <id>tag:archlinux.org,2024-11-29:/packages/extra/x86_64/libsysprof-capture/202411290128</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libsysprof-capture/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: flatpak-docs 1:1.15.12-1 x86_64</title>
+    <updated>2024-11-29T01:28:21Z</updated>
+    <id>tag:archlinux.org,2024-11-29:/packages/extra/x86_64/flatpak-docs/202411290128</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/flatpak-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: flatpak 1:1.15.12-1 x86_64</title>
+    <updated>2024-11-29T01:28:20Z</updated>
+    <id>tag:archlinux.org,2024-11-29:/packages/extra/x86_64/flatpak/202411290128</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/flatpak/" rel="alternate"></link>
+  </entry>
   <entry>
     <title>2:archlinux_new_packages: fusesoc 2.4.1-1 any</title>
     <updated>2024-11-28T20:49:07Z</updated>
@@ -286,28 +310,28 @@
     <link href="https://archlinux.org/packages/extra/x86_64/rust-src/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: rust-musl 1:1.83.0-1 x86_64</title>
-    <updated>2024-11-28T16:22:22Z</updated>
-    <id>tag:archlinux.org,2024-11-28:/packages/extra/x86_64/rust-musl/202411281622</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/rust-musl/" rel="alternate"></link>
+    <title>2:aur_new_packages: caprine-git</title>
+    <updated>2024-11-29T06:03:04Z</updated>
+    <id>caprine-git-1732860184</id>
+    <link href="https://aur.archlinux.org/packages/caprine-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: rust 1:1.83.0-1 x86_64</title>
-    <updated>2024-11-28T16:22:21Z</updated>
-    <id>tag:archlinux.org,2024-11-28:/packages/extra/x86_64/rust/202411281622</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/rust/" rel="alternate"></link>
+    <title>2:aur_new_packages: caprine-bin</title>
+    <updated>2024-11-29T05:54:45Z</updated>
+    <id>caprine-bin-1732859685</id>
+    <link href="https://aur.archlinux.org/packages/caprine-bin" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: lib32-rust-libs 1:1.83.0-1 x86_64</title>
-    <updated>2024-11-28T16:22:20Z</updated>
-    <id>tag:archlinux.org,2024-11-28:/packages/extra/x86_64/lib32-rust-libs/202411281622</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/lib32-rust-libs/" rel="alternate"></link>
+    <title>2:aur_new_packages: tile38</title>
+    <updated>2024-11-29T05:14:08Z</updated>
+    <id>tile38-1732857248</id>
+    <link href="https://aur.archlinux.org/packages/tile38" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: deepin-qt5integration 5.6.32-1 x86_64</title>
-    <updated>2024-11-28T16:13:29Z</updated>
-    <id>tag:archlinux.org,2024-11-28:/packages/extra/x86_64/deepin-qt5integration/202411281613</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-qt5integration/" rel="alternate"></link>
+    <title>2:aur_new_packages: gimoji</title>
+    <updated>2024-11-29T03:09:36Z</updated>
+    <id>gimoji-1732849776</id>
+    <link href="https://aur.archlinux.org/packages/gimoji" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:aur_new_packages: osm2world-git</title>
@@ -884,29 +908,5 @@
     <updated>2024-11-25T04:45:12Z</updated>
     <id>python-opensubtitles-com-1732509912</id>
     <link href="https://aur.archlinux.org/packages/python-opensubtitles-com" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: ttf-hancomfont</title>
-    <updated>2024-11-25T02:22:54Z</updated>
-    <id>ttf-hancomfont-1732501374</id>
-    <link href="https://aur.archlinux.org/packages/ttf-hancomfont" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: cashonize-appimage</title>
-    <updated>2024-11-25T01:16:04Z</updated>
-    <id>cashonize-appimage-1732497364</id>
-    <link href="https://aur.archlinux.org/packages/cashonize-appimage" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: dearrow-cli</title>
-    <updated>2024-11-24T22:18:33Z</updated>
-    <id>dearrow-cli-1732486713</id>
-    <link href="https://aur.archlinux.org/packages/dearrow-cli" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: aiwnios</title>
-    <updated>2024-11-24T21:02:20Z</updated>
-    <id>aiwnios-1732482140</id>
-    <link href="https://aur.archlinux.org/packages/aiwnios" rel="alternate"></link>
   </entry>
 </feed>
