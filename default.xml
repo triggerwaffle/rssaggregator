@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2024-12-02T01:05:12Z</updated>
+  <updated>2024-12-02T06:19:42Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -9,12 +9,6 @@
     <name>triggerwaffle</name>
     <email>johndoe@example.com</email>
   </author>
-  <entry>
-    <title>4:orielly_books_soon: Kubernetesパターン 第2版</title>
-    <updated>2024-09-26T00:00:00+09:00</updated>
-    <id>tag:www.oreilly.co.jp,2024-09-26:/books/9784814400881/</id>
-    <link href="http://www.oreilly.co.jp/books/9784814400881/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
-  </entry>
   <entry>
     <title>4:orielly_books_soon: SREをはじめよう</title>
     <updated>2024-10-08T00:00:00+09:00</updated>
@@ -50,12 +44,6 @@
     <updated>2024-10-23T00:00:00+09:00</updated>
     <id>tag:www.oreilly.co.jp,2024-10-23:/books/9784814400768/</id>
     <link href="http://www.oreilly.co.jp/books/9784814400768/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>4:orielly_books_soon: ハイパーモダンPython</title>
-    <updated>2024-09-27T00:00:00+09:00</updated>
-    <id>tag:www.oreilly.co.jp,2024-09-27:/books/9784814400928/</id>
-    <link href="http://www.oreilly.co.jp/books/9784814400928/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:orielly_books_soon: マスタリングAPIアーキテクチャ</title>
@@ -196,12 +184,6 @@
     <link href="https://zenn.dev/mehm8128/articles/adv2024-react-aria-intro" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 爆伸び中のGoライブラリhuma</title>
-    <updated>2024-11-30T15:00:02Z</updated>
-    <id>https://zenn.dev/mercy34/articles/1fa551165d8ac1</id>
-    <link href="https://zenn.dev/mercy34/articles/1fa551165d8ac1" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: どうやるの？CICDの実行時間をグッと短縮した方法</title>
     <updated>2024-11-30T15:00:02Z</updated>
     <id>https://zenn.dev/team_soda/articles/b10194a91dbd34</id>
@@ -212,6 +194,12 @@
     <updated>2024-11-30T15:00:02Z</updated>
     <id>https://zenn.dev/saldra/articles/178b2d3549081b</id>
     <link href="https://zenn.dev/saldra/articles/178b2d3549081b" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 爆伸び中のGoライブラリhuma</title>
+    <updated>2024-11-30T15:00:02Z</updated>
+    <id>https://zenn.dev/mercy34/articles/1fa551165d8ac1</id>
+    <link href="https://zenn.dev/mercy34/articles/1fa551165d8ac1" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: LibJSのざっくりとしたアーキテクチャと読み方</title>
@@ -1058,6 +1046,18 @@
     <updated>2024-11-17T15:23:03Z</updated>
     <id>tag:www.publickey1.jp,2024://2.8021</id>
     <link href="https://www.publickey1.jp/blog/24/webassemblyx86weblinux_guiwebvm_20.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: Linux 6.13-rc1公開、SDUC、NVMe 2.1をサポート</title>
+    <updated>2024-12-02T04:45:00Z</updated>
+    <id>urn:uuid:2cf580fb-ea66-8126-f84b-8bb705e7b39b</id>
+    <link href="https://gihyo.jp/article/2024/12/daily-linux-241202?utm_source=feed" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: 「中高生国際Rubyプログラミングコンテスト2024 in Mitaka」受賞者決定！</title>
+    <updated>2024-12-02T01:52:35Z</updated>
+    <id>urn:uuid:df9b45f6-0098-733c-7c27-ab871cb57651</id>
+    <link href="https://gihyo.jp/article/2024/12/ruby-procon2024-12?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: 第112回　MySQL Shell for VS Code GAリリース、PostgreSQLが2週連続で更新版リリース</title>
@@ -4486,22 +4486,10 @@
     <link href="https://gihyo.jp/article/2023/10/gishohaku9?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Windows、Mac、iPhone、Android間で手軽にファイルをやりとりできる「Upload Remote」／アプリをインストールして、同じネットワーク（Wi-Fi）に繋げるだけ【レビュー】</title>
-    <updated>2024-12-01T21:57:36Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2024-12-01:/docs/review/1643673.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/review/1643673.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: イラストに強すぎる画像生成AIモデル　SDXL系「NoobAI-XL」の衝撃 (1/5)</title>
     <updated>2024-12-01T22:15:31Z</updated>
     <id>tag:ascii.jp,2024-12-01:/elem/000/004/238/4238227/</id>
     <link href="https://ascii.jp/elem/000/004/238/4238227/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 執行役員になって1年くらい経ちました - Konifar's WIP</title>
-    <updated>2024-12-01T08:16:37Z</updated>
-    <id>tag:konifar.hatenablog.com,2024-12-01:/entry/2024/12/01/171150</id>
-    <link href="https://konifar.hatenablog.com/entry/2024/12/01/171150" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「1日に多めの水を飲むと健康に」は本当？――体重減量、頭痛軽減、糖尿制御など水分摂取量と健康の関係を徹底分析</title>
@@ -4510,10 +4498,10 @@
     <link href="https://www.itmedia.co.jp/news/articles/2411/29/news081.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 技術記事はそもそもバズらない……そうはいっても読まれたいに関する自身の考え - おうさまのみみはロバのみみ</title>
-    <updated>2024-12-01T14:10:35Z</updated>
-    <id>tag:luccafort.hatenablog.com,2024-12-01:/entry/2024/12/01/223253</id>
-    <link href="https://luccafort.hatenablog.com/entry/2024/12/01/223253" rel="alternate"></link>
+    <title>1:hatena_blog_it: Windows、Mac、iPhone、Android間で手軽にファイルをやりとりできる「Upload Remote」／アプリをインストールして、同じネットワーク（Wi-Fi）に繋げるだけ【レビュー】</title>
+    <updated>2024-12-01T21:57:36Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2024-12-01:/docs/review/1643673.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/review/1643673.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 長年の誤ったパスワードポリシーが推奨された原因はあの偉人の論文だった？ - YAMDAS現更新履歴</title>
@@ -4522,100 +4510,52 @@
     <link href="https://yamdas.hatenablog.com/entry/20241202/bad-password-policies" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OpenAPI Spec を出力できる DSL、TypeSpec の実践例 - ドワンゴ教育サービス開発者ブログ</title>
-    <updated>2024-12-01T12:23:26Z</updated>
-    <id>tag:blog.nnn.dev,2024-12-01:/entry/2024/12/01/210000</id>
-    <link href="https://blog.nnn.dev/entry/2024/12/01/210000" rel="alternate"></link>
+    <title>1:hatena_blog_it: 数十億パラメータの巨大AI、“たった1つのパラメータ”を削除するだけで完全崩壊。Appleなどが研究報告（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+    <updated>2024-12-01T23:17:26Z</updated>
+    <id>tag:www.techno-edge.net,2024-12-01:/article/2024/12/02/3882.html</id>
+    <link href="https://www.techno-edge.net/article/2024/12/02/3882.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 脳に収まるコードの書き方 - hitode909の日記</title>
-    <updated>2024-11-29T23:32:59Z</updated>
-    <id>tag:blog.sushi.money,2024-11-29:/entry/2024/11/29/235900</id>
-    <link href="https://blog.sushi.money/entry/2024/11/29/235900" rel="alternate"></link>
+    <title>1:hatena_blog_it: 小型スマホがオワコン化している理由--時代は「薄さ」を追求</title>
+    <updated>2024-12-01T23:59:32Z</updated>
+    <id>tag:japan.cnet.com,2024-12-01:/article/35226624/</id>
+    <link href="https://japan.cnet.com/article/35226624/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: イーロン・マスクがOpenAIの営利企業化の差し止め命令を裁判所に申請</title>
-    <updated>2024-12-01T21:47:21Z</updated>
-    <id>tag:gigazine.net,2024-12-01:/news/20241201-musk-files-lawsuit-againt-openai-and-microsoft/</id>
-    <link href="https://gigazine.net/news/20241201-musk-files-lawsuit-againt-openai-and-microsoft/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 100時間カレーと劇場版『忍たま乱太郎』のコラボ、グッズにも使われる背景素材が歪な箇所ありまくりの生成AI画像を使っていて炎上</title>
-    <updated>2024-12-01T14:07:16Z</updated>
-    <id>tag:togetter.com,2024-12-01:/li/2473833</id>
-    <link href="https://togetter.com/li/2473833" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: こたつを作るスペースがない人へ。Amazonで手に入る｢至福のセット｣</title>
-    <updated>2024-12-01T10:15:28Z</updated>
-    <id>tag:www.gizmodo.jp,2024-12-01:/2024/12/hot-carpet-and-lag-carpet-will-make-you-happy.html</id>
-    <link href="https://www.gizmodo.jp/2024/12/hot-carpet-and-lag-carpet-will-make-you-happy.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: マネーフォワードのインフラアーキテクチャ図</title>
-    <updated>2024-11-30T17:15:16Z</updated>
-    <id>tag:findy-tools.io,2024-11-30:/companies/moneyforward/94/20</id>
-    <link href="https://findy-tools.io/companies/moneyforward/94/20" rel="alternate"></link>
+    <title>1:hatena_blog_it: エンジニアも知っておきたい『プロジェクトマネジメント』〜カレー作りで学ぶPMBOKの実践的TIPS〜 - Uzabase for Engineers</title>
+    <updated>2024-12-02T01:43:12Z</updated>
+    <id>tag:tech.uzabase.com,2024-12-02:/entry/2024/12/01/000000</id>
+    <link href="https://tech.uzabase.com/entry/2024/12/01/000000" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 日本語LLMまとめ</title>
-    <updated>2023-09-13T13:24:58Z</updated>
-    <id>tag:llm-jp.github.io,2023-09-13:/awesome-japanese-llm/</id>
-    <link href="https://llm-jp.github.io/awesome-japanese-llm/" rel="alternate"></link>
+    <updated>2024-12-01T11:24:27Z</updated>
+    <id>tag:llm-jp.github.io,2024-12-01:/awesome-japanese-llm/</id>
+    <link href="https://llm-jp.github.io/awesome-japanese-llm/?s=09" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: テストレシピをやってみた - freee Developers Hub</title>
-    <updated>2024-12-01T08:50:24Z</updated>
-    <id>tag:developers.freee.co.jp,2024-12-01:/entry/freee-qa-advent-calendar2024-day1</id>
-    <link href="https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day1" rel="alternate"></link>
+    <title>1:hatena_blog_it: 執行役員になって1年くらい経ちました - Konifar's WIP</title>
+    <updated>2024-12-01T08:16:37Z</updated>
+    <id>tag:konifar.hatenablog.com,2024-12-01:/entry/2024/12/01/171150</id>
+    <link href="https://konifar.hatenablog.com/entry/2024/12/01/171150" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ClaudeのMCPを徹底解説！ & gpt-4o+MCP+YouTube APIの動画推薦チャットAIも作る - Qiita</title>
-    <updated>2024-12-01T14:31:04Z</updated>
-    <id>tag:qiita.com,2024-12-01:/sakasegawa/items/b091ad9931cea378099b</id>
-    <link href="https://qiita.com/sakasegawa/items/b091ad9931cea378099b" rel="alternate"></link>
+    <title>1:hatena_blog_it: 技術記事はそもそもバズらない……そうはいっても読まれたいに関する自身の考え - おうさまのみみはロバのみみ</title>
+    <updated>2024-12-01T14:10:35Z</updated>
+    <id>tag:luccafort.hatenablog.com,2024-12-01:/entry/2024/12/01/223253</id>
+    <link href="https://luccafort.hatenablog.com/entry/2024/12/01/223253" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: キーボードの音響に関する考察 - ぴろりのくせになまいきだ。</title>
-    <updated>2024-12-01T04:51:43Z</updated>
-    <id>tag:piroriblog.hatenablog.com,2024-12-01:/entry/2024/12/01/124054</id>
-    <link href="https://piroriblog.hatenablog.com/entry/2024/12/01/124054" rel="alternate"></link>
+    <title>1:hatena_blog_it: 情シスが情報収集するサイト集 - Qiita</title>
+    <updated>2024-11-30T10:30:55Z</updated>
+    <id>tag:qiita.com,2024-11-30:/nozawanatsu/items/e5e576d08663dffc4250</id>
+    <link href="https://qiita.com/nozawanatsu/items/e5e576d08663dffc4250" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ＡＩで衛星画像から土地用途を判別、市の税務職員らチャットＧＰＴで自作…３０分の１の費用</title>
-    <updated>2024-12-01T06:50:40Z</updated>
-    <id>tag:www.yomiuri.co.jp,2024-12-01:/national/20241201-OYT1T50016/</id>
-    <link href="https://www.yomiuri.co.jp/national/20241201-OYT1T50016/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: クラウドエンジニアになるために必要な技術 5選（ハンズオン付き） - Qiita</title>
-    <updated>2024-12-01T03:04:19Z</updated>
-    <id>tag:qiita.com,2024-12-01:/hiyanger/items/ff84c71775f6bc36363b</id>
-    <link href="https://qiita.com/hiyanger/items/ff84c71775f6bc36363b" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 3年間に及ぶ新規プロダクト開発の技術選定の振り返り - バイセル Tech Blog</title>
-    <updated>2024-12-01T08:41:54Z</updated>
-    <id>tag:tech.buysell-technologies.com,2024-12-01:/entry/adventcalendar2024-12-01</id>
-    <link href="https://tech.buysell-technologies.com/entry/adventcalendar2024-12-01" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 2.5兆トークンを学習したOSSのコード生成LLM「OpenCoder」公開　プロジェクトが明す、コードLLM構築に重要な3要素とは</title>
-    <updated>2024-12-01T02:02:44Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2024-12-01:/ait/articles/2411/30/news069.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2411/30/news069.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Rust と歩んだ 7 年間：プロダクションコードのための実践的テスト (Rust.Tokyo2024) | ドクセル</title>
-    <updated>2024-11-30T04:30:27Z</updated>
-    <id>tag:www.docswell.com,2024-11-30:/s/aoyagikouhei/ZJ4Q9Q-2024-11-30-131529</id>
-    <link href="https://www.docswell.com/s/aoyagikouhei/ZJ4Q9Q-2024-11-30-131529" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: なぜ僕はデザイナーの作ったデザインを「見づらい」と感じてしまうのか</title>
-    <updated>2024-12-01T01:27:04Z</updated>
-    <id>tag:yuheiy.com,2024-12-01:/2024-12-01-i-am-not-a-visual-thinker</id>
-    <link href="https://yuheiy.com/2024-12-01-i-am-not-a-visual-thinker" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「インドカレーのもと」を作り置きして、10分でインドカレーが作れる状態にしよう - #つくりおき</title>
+    <updated>2024-12-01T23:38:51Z</updated>
+    <id>tag:tsukurioki.hatenablog.com,2024-12-01:/entry/curry-moto</id>
+    <link href="https://tsukurioki.hatenablog.com/entry/curry-moto" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Python の isnumeric() の謎を追う："兆" は True、"垓" は False？ - ﾏｸﾞﾏｸﾞ (起動音)</title>
@@ -4624,39 +4564,99 @@
     <link href="https://shmug.hatenablog.com/entry/2024/12/01/000000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【2025年版】ReactとVue.jsどちらを選ぶべきか？【アドベントカレンダー2025】 - Qiita</title>
-    <updated>2024-11-30T12:31:09Z</updated>
-    <id>tag:qiita.com,2024-11-30:/7mpy/items/13068e2f0c5782089ebb</id>
-    <link href="https://qiita.com/7mpy/items/13068e2f0c5782089ebb" rel="alternate"></link>
+    <title>1:hatena_blog_it: GMOペパボを退職します | pyama.fun</title>
+    <updated>2024-12-02T01:33:02Z</updated>
+    <id>tag:pyama.fun,2024-12-02:/archives/4847</id>
+    <link href="https://pyama.fun/archives/4847" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Windows でドライブの空き領域を増やす - Microsoft サポート</title>
-    <updated>2024-11-30T16:58:45Z</updated>
-    <id>tag:support.microsoft.com,2024-11-30:/ja-jp/windows/windows-でドライブの空き領域を増やす-a18fae02-a0fa-8df9-9838-8970f9939de4</id>
-    <link href="https://support.microsoft.com/ja-jp/windows/windows-%E3%81%A7%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%AE%E7%A9%BA%E3%81%8D%E9%A0%98%E5%9F%9F%E3%82%92%E5%A2%97%E3%82%84%E3%81%99-a18fae02-a0fa-8df9-9838-8970f9939de4" rel="alternate"></link>
+    <title>1:hatena_blog_it: ロシアのハッカー、ターゲットの建物に“隣人のWi-Fi経由”で侵入　攻撃元は数千km離れた場所　ウクライナ侵攻直前に実行</title>
+    <updated>2024-12-01T23:18:28Z</updated>
+    <id>tag:www.itmedia.co.jp,2024-12-01:/news/articles/2411/29/news079.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2411/29/news079.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ファーウェイがAndroidと決別。これからは孤高の独自OSでひた走る</title>
-    <updated>2024-11-30T09:08:53Z</updated>
-    <id>tag:www.gizmodo.jp,2024-11-30:/2024/11/huawei-adopts-own-os.html</id>
-    <link href="https://www.gizmodo.jp/2024/11/huawei-adopts-own-os.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIとの会話をAIが要約する</title>
+    <updated>2024-12-02T02:05:56Z</updated>
+    <id>tag:dailyportalz.jp,2024-12-02:/kiji/AI-summarizes-talk-with-AI</id>
+    <link href="https://dailyportalz.jp/kiji/AI-summarizes-talk-with-AI" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ゲームの安っぽさ解消10選(初級～中級)｜Nes</title>
-    <updated>2024-11-30T15:28:08Z</updated>
-    <id>tag:note.com,2024-11-30:/nes_libragames/n/n9f0adca2a856</id>
-    <link href="https://note.com/nes_libragames/n/n9f0adca2a856" rel="alternate"></link>
+    <title>1:hatena_blog_it: カンファレンスのブースで「やめたこと」と「はじめたこと」</title>
+    <updated>2024-12-02T01:17:40Z</updated>
+    <id>tag:zenn.dev,2024-12-02:/bitkey_dev/articles/43f8aaec659e51</id>
+    <link href="https://zenn.dev/bitkey_dev/articles/43f8aaec659e51" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【保存版】仕事効率がアップする「Google Keep」×iPadで最強タスク管理！神アプリ活用術/Googleカレンダー連携OK【使い方】</title>
-    <updated>2024-12-01T00:33:17Z</updated>
-    <id>tag:www.youtube.com,2024-12-01:/watch</id>
-    <link href="https://www.youtube.com/watch?v=Vwdi_nsNfXU" rel="alternate"></link>
+    <title>1:hatena_blog_it: 100時間カレーと劇場版『忍たま乱太郎』のコラボ、グッズにも使われる背景素材が歪な箇所ありまくりの生成AI画像を使っていて炎上</title>
+    <updated>2024-12-01T14:07:16Z</updated>
+    <id>tag:togetter.com,2024-12-01:/li/2473833</id>
+    <link href="https://togetter.com/li/2473833" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Kaggleの生成AI集中コースより、古のNLPエンジニアが興味を持ったこと7選｜べいえりあ</title>
-    <updated>2024-12-01T03:38:45Z</updated>
-    <id>tag:note.com,2024-12-01:/csstudyabroad/n/n8a04ac51ae85</id>
-    <link href="https://note.com/csstudyabroad/n/n8a04ac51ae85" rel="alternate"></link>
+    <title>1:hatena_blog_it: パスキー認証の必須化/強制についての現状の課題と改善のための勘所 - r-weblife</title>
+    <updated>2024-12-02T03:08:43Z</updated>
+    <id>tag:ritou.hatenablog.com,2024-12-02:/entry/2024/12/01/000000</id>
+    <link href="https://ritou.hatenablog.com/entry/2024/12/01/000000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: USB起動でエラー!?　Arm版Windows 11のISOイメージを使ったクリーンインストールを試した顛末【イニシャルB】</title>
+    <updated>2024-12-01T22:18:31Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2024-12-01:/docs/column/shimizu/1640876.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/column/shimizu/1640876.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 私流、開発時における各 AI サービスの使い分け方</title>
+    <updated>2024-12-01T23:52:47Z</updated>
+    <id>tag:zenn.dev,2024-12-01:/magicmoment/articles/ai-service-tips-20241202</id>
+    <link href="https://zenn.dev/magicmoment/articles/ai-service-tips-20241202" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 小型スマホがオワコン化している理由--時代は「薄さ」を追求（CNET Japan） - Yahoo!ニュース</title>
+    <updated>2024-12-01T23:42:47Z</updated>
+    <id>tag:news.yahoo.co.jp,2024-12-01:/articles/904e6e49123eb04f228c2bf62c9b236402e98030</id>
+    <link href="https://news.yahoo.co.jp/articles/904e6e49123eb04f228c2bf62c9b236402e98030" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Rails の time_zone ヒヤリハット - freee Developers Hub</title>
+    <updated>2024-12-02T00:34:45Z</updated>
+    <id>tag:developers.freee.co.jp,2024-12-02:/entry/rails-time-zone-study</id>
+    <link href="https://developers.freee.co.jp/entry/rails-time-zone-study" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 司法省がGoogleに迫る「Chrome売却」の意味【西田宗千佳のイマトミライ】</title>
+    <updated>2024-12-01T23:56:50Z</updated>
+    <id>tag:www.watch.impress.co.jp,2024-12-01:/docs/series/nishida/1644009.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/series/nishida/1644009.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: イーロン・マスクがOpenAIの営利企業化の差し止め命令を裁判所に申請</title>
+    <updated>2024-12-01T21:47:21Z</updated>
+    <id>tag:gigazine.net,2024-12-01:/news/20241201-musk-files-lawsuit-againt-openai-and-microsoft/</id>
+    <link href="https://gigazine.net/news/20241201-musk-files-lawsuit-againt-openai-and-microsoft/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: マルチモーダルLLMで複雑な画像を攻略：AOAIでGPT-4oをFine-tuning - Insight Edge Tech Blog</title>
+    <updated>2024-12-02T01:01:26Z</updated>
+    <id>tag:techblog.insightedge.jp,2024-12-02:/entry/llm-multi-modal-recognition</id>
+    <link href="https://techblog.insightedge.jp/entry/llm-multi-modal-recognition" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: どこで学んだ？ ChatGPT、ECサイトの設計に「ダークパターン」を組み込んでくることが判明【やじうまWatch】</title>
+    <updated>2024-12-02T02:36:25Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2024-12-02:/docs/yajiuma/1644051.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/1644051.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: トヨタが次世代EVの投入延期、初のギガキャスト導入で開発課題が浮上か</title>
+    <updated>2024-12-01T23:49:38Z</updated>
+    <id>tag:xtech.nikkei.com,2024-12-01:/atcl/nxt/column/18/00001/10024/</id>
+    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/10024/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OpenAPI Spec を出力できる DSL、TypeSpec の実践例 - ドワンゴ教育サービス開発者ブログ</title>
+    <updated>2024-12-01T12:23:26Z</updated>
+    <id>tag:blog.nnn.dev,2024-12-01:/entry/2024/12/01/210000</id>
+    <link href="https://blog.nnn.dev/entry/2024/12/01/210000" rel="alternate"></link>
   </entry>
 </feed>
