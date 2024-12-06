@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2024-12-06T01:03:22Z</updated>
+  <updated>2024-12-06T06:18:58Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -9,6 +9,12 @@
     <name>triggerwaffle</name>
     <email>johndoe@example.com</email>
   </author>
+  <entry>
+    <title>4:orielly_books_soon: Tidy First?</title>
+    <updated>2024-12-25T00:00:00+09:00</updated>
+    <id>tag:www.oreilly.co.jp,2024-12-25:/books/9784814400911/</id>
+    <link href="http://www.oreilly.co.jp/books/9784814400911/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
+  </entry>
   <entry>
     <title>4:orielly_books_soon: SREをはじめよう</title>
     <updated>2024-10-08T00:00:00+09:00</updated>
@@ -26,12 +32,6 @@
     <updated>2024-11-19T00:00:00+09:00</updated>
     <id>tag:www.oreilly.co.jp,2024-11-19:/books/9784814400935/</id>
     <link href="http://www.oreilly.co.jp/books/9784814400935/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>4:orielly_books_soon: Tidy First?</title>
-    <updated>2024-12-25T00:00:00+09:00</updated>
-    <id>tag:www.oreilly.co.jp,2024-12-25:/books/9784814400911/</id>
-    <link href="http://www.oreilly.co.jp/books/9784814400911/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:orielly_books_soon: コンピュータシステムの理論と実装 第2版</title>
@@ -1052,6 +1052,18 @@
     <updated>2024-11-26T15:09:09Z</updated>
     <id>tag:www.publickey1.jp,2024://2.8033</id>
     <link href="https://www.publickey1.jp/blog/24/javascriptdeno.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: Qualcomm IoT platform向けのパブリックベータ、Ubuntu Security Research Alliance Program</title>
+    <updated>2024-12-13T00:32:00Z</updated>
+    <id>urn:uuid:89939e29-770e-ba92-703d-ccfe91ddfcd5</id>
+    <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202412/06?utm_source=feed" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: React 19安定版がリリース</title>
+    <updated>2024-12-06T01:40:00Z</updated>
+    <id>urn:uuid:ea094688-d5a6-8aa2-7130-a269c8baed91</id>
+    <link href="https://gihyo.jp/article/2024/12/react-19?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: トリケラトプスの襟飾りにインスパイア ―Debian 13 “Trixie”のデフォルトデスクトップテーマが決定</title>
@@ -4504,22 +4516,10 @@
     <link href="https://www.gizmodo.jp/2024/12/chatgpt-pro-openai-o1.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: React v19 – React</title>
-    <updated>2024-12-05T21:47:25Z</updated>
-    <id>tag:react.dev,2024-12-05:/blog/2024/12/05/react-19</id>
-    <link href="https://react.dev/blog/2024/12/05/react-19" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: エンジニア不足の中で どう技術的負債と向き合ったのか RevComm Research の場合 -</title>
-    <updated>2023-11-21T14:49:08Z</updated>
-    <id>tag:speakerdeck.com,2023-11-21:/revcomm_inc/enziniabu-zu-nozhong-de-douji-shu-de-fu-zhai-toxiang-kihe-tutanoka-revcomm-research-nochang-he</id>
-    <link href="https://speakerdeck.com/revcomm_inc/enziniabu-zu-nozhong-de-douji-shu-de-fu-zhai-toxiang-kihe-tutanoka-revcomm-research-nochang-he" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「バカのフリ」ができる人間は、本当に強い。</title>
-    <updated>2024-12-04T23:07:24Z</updated>
-    <id>tag:blog.tinect.jp,2024-12-04:/</id>
-    <link href="https://blog.tinect.jp/?p=88365" rel="alternate"></link>
+    <title>1:hatena_blog_it: “歩くスピードが遅い人”は寿命が短い傾向　やせ型なら最大20年低く　47万人以上で検証、英国チームが19年に発表</title>
+    <updated>2024-12-05T23:31:26Z</updated>
+    <id>tag:www.itmedia.co.jp,2024-12-05:/news/articles/2412/06/news064.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2412/06/news064.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Mozillaがブランドを刷新へ ～新しいロゴやフォントをお披露目／黒×緑のモダンな装いに。アスキーアートスタイルの新しい恐竜マスコットもかわいい【やじうまの杜】</title>
@@ -4528,16 +4528,46 @@
     <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/1645295.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 日本人はソブリンクラウドを理解できるか？｜ミック</title>
-    <updated>2024-12-05T06:21:05Z</updated>
-    <id>tag:note.com,2024-12-05:/mickmack/n/n29efd9281ba7</id>
-    <link href="https://note.com/mickmack/n/n29efd9281ba7" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「来月からエンジニアリングマネージャーやってね」と言われたら</title>
+    <updated>2022-12-16T04:36:32Z</updated>
+    <id>tag:aloerina01.github.io,2022-12-16:/blog/2022-12-16-1</id>
+    <link href="https://aloerina01.github.io/blog/2022-12-16-1" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: TypeScript/JavaScript Array完全攻略2024 | フューチャー技術ブログ</title>
-    <updated>2024-12-05T03:57:01Z</updated>
-    <id>tag:future-architect.github.io,2024-12-05:/articles/20241205a/</id>
-    <link href="https://future-architect.github.io/articles/20241205a/" rel="alternate"></link>
+    <title>1:hatena_blog_it: React v19 – React</title>
+    <updated>2024-12-05T21:47:25Z</updated>
+    <id>tag:react.dev,2024-12-05:/blog/2024/12/05/react-19</id>
+    <link href="https://react.dev/blog/2024/12/05/react-19" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 技術系の最新情報ってどこから得てますか？ - KAYAC Engineers' Blog</title>
+    <updated>2024-12-06T04:34:52Z</updated>
+    <id>tag:techblog.kayac.com,2024-12-06:/where-do-you-get-the-latest-tech-updates</id>
+    <link href="https://techblog.kayac.com/where-do-you-get-the-latest-tech-updates" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: エンジニア不足の中で どう技術的負債と向き合ったのか RevComm Research の場合 -</title>
+    <updated>2023-11-21T14:49:08Z</updated>
+    <id>tag:speakerdeck.com,2023-11-21:/revcomm_inc/enziniabu-zu-nozhong-de-douji-shu-de-fu-zhai-toxiang-kihe-tutanoka-revcomm-research-nochang-he</id>
+    <link href="https://speakerdeck.com/revcomm_inc/enziniabu-zu-nozhong-de-douji-shu-de-fu-zhai-toxiang-kihe-tutanoka-revcomm-research-nochang-he" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: キティちゃんが喫煙、暴行──“破天荒キティ”Xで出回る　中国SNS発のAI画像か　「 イメージ壊れる」の声も</title>
+    <updated>2024-12-06T02:31:29Z</updated>
+    <id>tag:www.itmedia.co.jp,2024-12-06:/news/articles/2412/06/news132.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2412/06/news132.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: わんぱくな JSON ストリームパーサーを見る日 - ぽ靴な缶</title>
+    <updated>2024-12-06T00:04:24Z</updated>
+    <id>tag:blog.pokutuna.com,2024-12-06:/entry/wanpaku-langchain-jsonoutputparser</id>
+    <link href="https://blog.pokutuna.com/entry/wanpaku-langchain-jsonoutputparser" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ネット上でパクリ疑惑が寄せられたら、戦え！ - Business & Law（ビジネスアンドロー）</title>
+    <updated>2022-07-29T20:22:34Z</updated>
+    <id>tag:businessandlaw.jp,2022-07-29:/articles/a20220722-1/</id>
+    <link href="https://businessandlaw.jp/articles/a20220722-1/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: コクヨ、思考整理を促すノート「Flow of Thoughts」</title>
@@ -4546,22 +4576,28 @@
     <link href="https://www.watch.impress.co.jp/docs/news/1645191.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: セイコーの「Wi-Fi時計」にエントリーモデル登場　電波時計が苦手な屋内でも正確に時刻を表示</title>
-    <updated>2024-12-05T11:05:06Z</updated>
-    <id>tag:www.itmedia.co.jp,2024-12-05:/news/articles/2412/05/news184.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2412/05/news184.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 高品質と高スピードを両立させるソフトウェアQA/Software QA that Supports Agility and Quality</title>
+    <updated>2024-12-05T03:19:58Z</updated>
+    <id>tag:speakerdeck.com,2024-12-05:/goyoki/software-qa-that-supports-agility-and-quality</id>
+    <link href="https://speakerdeck.com/goyoki/software-qa-that-supports-agility-and-quality" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「来月からエンジニアリングマネージャーやってね」と言われたら</title>
-    <updated>2022-12-16T04:36:32Z</updated>
-    <id>tag:aloerina01.github.io,2022-12-16:/blog/2022-12-16-1</id>
-    <link href="https://aloerina01.github.io/blog/2022-12-16-1" rel="alternate"></link>
+    <title>1:hatena_blog_it: 東京都がAI活用に向け有識者会議　開発中の生成AIプラットフォームに松尾豊教授「めちゃくちゃいい」</title>
+    <updated>2024-12-06T01:26:04Z</updated>
+    <id>tag:www.itmedia.co.jp,2024-12-06:/aiplus/articles/2412/06/news102.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2412/06/news102.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: SMS、MMS、RCS、iMessageの違いは？　今さら聞けないスマホの「メッセージ」サービス</title>
-    <updated>2024-12-05T09:03:59Z</updated>
-    <id>tag:www.itmedia.co.jp,2024-12-05:/mobile/articles/2412/05/news173.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2412/05/news173.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: TypeScript/JavaScript Array完全攻略2024 | フューチャー技術ブログ</title>
+    <updated>2024-12-05T03:57:01Z</updated>
+    <id>tag:future-architect.github.io,2024-12-05:/articles/20241205a/</id>
+    <link href="https://future-architect.github.io/articles/20241205a/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: k6拡張機能を活用したgRPC Webサーバーの負荷試験 - enechain Tech Blog</title>
+    <updated>2024-12-06T03:01:30Z</updated>
+    <id>tag:techblog.enechain.com,2024-12-06:/entry/k6-grpc-web</id>
+    <link href="https://techblog.enechain.com/entry/k6-grpc-web" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: QAチーム2年目を振り返る（体制編） - Nealle Developer's Blog</title>
@@ -4570,16 +4606,10 @@
     <link href="https://nealle-dev.hatenablog.com/entry/2024/12/06/01" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 元デジタル副大臣「103万を178万にするのはシステム改修が2026年1月までかかる」→「設定値の変更するだけでは？」「実行ファイルにハードコーディングしてるに決まってるだろ😠」</title>
-    <updated>2024-12-05T04:48:57Z</updated>
-    <id>tag:togetter.com,2024-12-05:/li/2475751</id>
-    <link href="https://togetter.com/li/2475751" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: “歩くスピードが遅い人”は寿命が短い傾向　やせ型なら最大20年低く　47万人以上で検証、英国チームが19年に発表</title>
-    <updated>2024-12-05T23:31:26Z</updated>
-    <id>tag:www.itmedia.co.jp,2024-12-05:/news/articles/2412/06/news064.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2412/06/news064.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: セイコーの「Wi-Fi時計」にエントリーモデル登場　電波時計が苦手な屋内でも正確に時刻を表示</title>
+    <updated>2024-12-05T11:05:06Z</updated>
+    <id>tag:www.itmedia.co.jp,2024-12-05:/news/articles/2412/05/news184.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2412/05/news184.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【AWS re:Invent 2024】人の労力を減らす、Amazon Bedrock Agents によるイベントドリブンエージェント作成を体験してきた - カミナシ エンジニアブログ</title>
@@ -4588,81 +4618,75 @@
     <link href="https://kaminashi-developer.hatenablog.jp/entry/12/5/amazon-bedrock-agents" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Google DeepMindが1枚の画像からプレイ可能な3D世界を生成できるAIモデル「Genie 2」を発表</title>
-    <updated>2024-12-05T04:50:39Z</updated>
-    <id>tag:gigazine.net,2024-12-05:/news/20241205-google-deepmind-genie-2/</id>
-    <link href="https://gigazine.net/news/20241205-google-deepmind-genie-2/" rel="alternate"></link>
+    <title>1:hatena_blog_it: DuckDB を使ったデータ品質保証の実践 - Timee Product Team Blog</title>
+    <updated>2024-12-04T16:12:41Z</updated>
+    <id>tag:tech.timee.co.jp,2024-12-04:/entry/data-quality-check-with-duckdb</id>
+    <link href="https://tech.timee.co.jp/entry/data-quality-check-with-duckdb" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GoogleのAIがSpotifyでの過去1年の音楽履歴を会話形式で総括してくれる「Spotify Wrapped AI Podcasts」が登場</title>
-    <updated>2024-12-05T08:47:58Z</updated>
-    <id>tag:gigazine.net,2024-12-05:/news/20241205-spotify-wrapped-ai-podcasts/</id>
-    <link href="https://gigazine.net/news/20241205-spotify-wrapped-ai-podcasts/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Panda CSSの基本的な使い方と導入手順 - iimon TECH BLOG</title>
+    <updated>2024-12-06T01:28:51Z</updated>
+    <id>tag:tech.iimon.co.jp,2024-12-06:/entry/2024/12/06</id>
+    <link href="https://tech.iimon.co.jp/entry/2024/12/06" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: “生きた神経細胞”を脳にインプラント。脳と機械の接続に一歩前進？【研究紹介】 | レバテックラボ（レバテックLAB）</title>
-    <updated>2024-12-06T00:33:20Z</updated>
-    <id>tag:levtech.jp,2024-12-06:/media/article/focus/detail_572/</id>
-    <link href="https://levtech.jp/media/article/focus/detail_572/" rel="alternate"></link>
+    <title>1:hatena_blog_it: LiteLLM を使って色々な LLM API サービスをいい感じに使いこなす</title>
+    <updated>2024-12-06T00:03:29Z</updated>
+    <id>tag:zenn.dev,2024-12-06:/magicmoment/articles/litellm-is-useful-202412</id>
+    <link href="https://zenn.dev/magicmoment/articles/litellm-is-useful-202412" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 生成AIを使ったらAPIの開発が捗った話 - Tabelog Tech Blog</title>
+    <updated>2024-12-06T01:11:10Z</updated>
+    <id>tag:tech-blog.tabelog.com,2024-12-06:/entry/advent-calendar-20241206</id>
+    <link href="https://tech-blog.tabelog.com/entry/advent-calendar-20241206" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「Windows 11 バージョン 24H2」の展開が新フェイズへ、より幅広い対象デバイスに提供／セーフガードの対象となっている問題には注意、手動更新は非推奨</title>
+    <updated>2024-12-05T23:57:35Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2024-12-05:/docs/news/1645268.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/1645268.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 自宅、オフィスでの仕事が楽しくなる！QAエンジニアのリモート環境 #リモートワーク - freee Developers Hub</title>
+    <updated>2024-12-06T01:17:16Z</updated>
+    <id>tag:developers.freee.co.jp,2024-12-06:/entry/freee-qa-advent-calendar2024-day6</id>
+    <link href="https://developers.freee.co.jp/entry/freee-qa-advent-calendar2024-day6" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: PCカメラの乗っ取り、実は簡単？　こっそりハックする手口を暴露：807th Lap</title>
+    <updated>2024-12-06T01:51:27Z</updated>
+    <id>tag:kn.itmedia.co.jp,2024-12-06:/kn/articles/2412/06/news060.html</id>
+    <link href="https://kn.itmedia.co.jp/kn/articles/2412/06/news060.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: アンドパッドSRE/CREメンバーによるCloudNative Days Winter 2024のおすすめセッション - ANDPAD Tech Blog</title>
+    <updated>2024-12-06T01:13:06Z</updated>
+    <id>tag:tech.andpad.co.jp,2024-12-06:/entry/2024/12/06/100000</id>
+    <link href="https://tech.andpad.co.jp/entry/2024/12/06/100000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 元VPoEがACESを選んだ理由　〜このチームと働きたい〜 - ACES エンジニアブログ</title>
+    <updated>2024-12-06T01:37:26Z</updated>
+    <id>tag:tech.acesinc.co.jp,2024-12-06:/entry/join-entry_kobaan</id>
+    <link href="https://tech.acesinc.co.jp/entry/join-entry_kobaan" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 大規模投票サービス「WINTICKET」だからこそ SRE の重要性を改めて感じた話 - CyberAgent SRG #ca_srg</title>
+    <updated>2024-12-06T01:55:17Z</updated>
+    <id>tag:ca-srg.dev,2024-12-06:/posts/winticket-embedded-sre</id>
+    <link href="https://ca-srg.dev/posts/winticket-embedded-sre" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: チーム全員で取り組む「デザインガイドライン輪読会」のすすめ - freee Developers Hub</title>
+    <updated>2024-12-06T01:40:06Z</updated>
+    <id>tag:developers.freee.co.jp,2024-12-06:/entry/design-guidelines-reading-meeting</id>
+    <link href="https://developers.freee.co.jp/entry/design-guidelines-reading-meeting" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 最も役に立つIT資格はネスペに、実務でも昇給でも効果を発揮</title>
     <updated>2024-12-04T22:00:27Z</updated>
     <id>tag:xtech.nikkei.com,2024-12-04:/atcl/nxt/column/18/03023/112700003/</id>
     <link href="https://xtech.nikkei.com/atcl/nxt/column/18/03023/112700003/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ThreadsでMastodonなどのActivityPub対応SNSのユーザーを直接フォローして新着投稿通知を受け取り可能に</title>
-    <updated>2024-12-05T05:32:03Z</updated>
-    <id>tag:gigazine.net,2024-12-05:/news/20241205-threads-follow-fediverse-mastodon/</id>
-    <link href="https://gigazine.net/news/20241205-threads-follow-fediverse-mastodon/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: DevRel から Enablement へ 〜より強い開発組織を目指して 〜</title>
-    <updated>2024-12-05T02:42:46Z</updated>
-    <id>tag:mixi-developers.mixi.co.jp,2024-12-05:/from-devrel-to-enablement-for-a-stronger-organization-a8330808a083</id>
-    <link href="https://mixi-developers.mixi.co.jp/from-devrel-to-enablement-for-a-stronger-organization-a8330808a083" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ”3度目”は成功するか　イトーヨーカドー、ネットスーパー再構築</title>
-    <updated>2024-12-05T07:40:10Z</updated>
-    <id>tag:www.watch.impress.co.jp,2024-12-05:/docs/news/1645218.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/1645218.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「Tidy First?」 読書感想文 - CARTA TECH BLOG</title>
-    <updated>2024-12-05T11:41:09Z</updated>
-    <id>tag:techblog.cartaholdings.co.jp,2024-12-05:/entry/2024/12/05/182140</id>
-    <link href="https://techblog.cartaholdings.co.jp/entry/2024/12/05/182140" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 知的好奇心を開放しよう - Speee DEVELOPER BLOG</title>
-    <updated>2024-12-05T11:09:06Z</updated>
-    <id>tag:tech.speee.jp,2024-12-05:/entry/unleash-curiosity</id>
-    <link href="https://tech.speee.jp/entry/unleash-curiosity" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 自作gemでモンキーパッチrbsを利用する - くりにっき</title>
-    <updated>2024-12-05T10:26:37Z</updated>
-    <id>tag:sue445.hatenablog.com,2024-12-05:/entry/2024/12/05/192612</id>
-    <link href="https://sue445.hatenablog.com/entry/2024/12/05/192612" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Googleの最先端動画生成モデル「Veo」と最高品質の画像生成モデル「Imagen 3」のプレビュー提供がAI開発プラットフォーム「Vertex AI」でスタート</title>
-    <updated>2024-12-05T04:51:28Z</updated>
-    <id>tag:gigazine.net,2024-12-05:/news/20241205-google-vertex-ai-veo-imagen-3/</id>
-    <link href="https://gigazine.net/news/20241205-google-vertex-ai-veo-imagen-3/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Project Sid: Many-agent simulations toward AI civilization</title>
-    <updated>2024-12-05T05:04:19Z</updated>
-    <id>tag:digitalhumanity.substack.com,2024-12-05:/p/project-sid-many-agent-simulations</id>
-    <link href="https://digitalhumanity.substack.com/p/project-sid-many-agent-simulations" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「Linux」システムの速度低下の原因特定に役立つコマンド5選</title>
-    <updated>2024-12-04T22:30:02Z</updated>
-    <id>tag:japan.zdnet.com,2024-12-04:/article/35226862/</id>
-    <link href="https://japan.zdnet.com/article/35226862/" rel="alternate"></link>
   </entry>
 </feed>
