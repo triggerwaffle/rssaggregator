@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2024-12-09T18:18:58Z</updated>
+  <updated>2024-12-10T01:05:19Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -124,10 +124,28 @@
     <link href="https://archlinux.org/news/incoming-changes-in-jdk-jre-21-packages-may-require-manual-intervention/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: バックエンドもフロントエンドもインフラも Terraform でつくってみた</title>
+    <updated>2024-12-09T09:00:01Z</updated>
+    <id>https://zenn.dev/terraform_jp/articles/tftftf-introduction</id>
+    <link href="https://zenn.dev/terraform_jp/articles/tftftf-introduction" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 小規模開発のためのフロントエンドテスト戦略</title>
+    <updated>2024-12-09T05:39:56Z</updated>
+    <id>https://zenn.dev/ik_takagishi/books/5c6c9fe3a7ad2c</id>
+    <link href="https://zenn.dev/ik_takagishi/books/5c6c9fe3a7ad2c" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Pythonのプロジェクト管理ツール uv のv0.5.3までの便利な機能 - dependencies編</title>
     <updated>2024-12-09T02:04:59Z</updated>
     <id>https://zenn.dev/turing_motors/articles/1435807a1b16d5</id>
     <link href="https://zenn.dev/turing_motors/articles/1435807a1b16d5" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: ユビーにパスキーを導入しました</title>
+    <updated>2024-12-09T00:38:15Z</updated>
+    <id>https://zenn.dev/ubie_dev/articles/87e2dcbc89e82e</id>
+    <link href="https://zenn.dev/ubie_dev/articles/87e2dcbc89e82e" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: VPoEとは何なのか？〜スタートアップにおける現実〜</title>
@@ -140,6 +158,12 @@
     <updated>2024-12-08T23:20:14Z</updated>
     <id>https://zenn.dev/lotz/articles/8d785d86e3906c</id>
     <link href="https://zenn.dev/lotz/articles/8d785d86e3906c" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: モノリポでGitHub Actionsで効率よくCI/CDや自動化を実装するTips 3選</title>
+    <updated>2024-12-08T22:47:44Z</updated>
+    <id>https://zenn.dev/finatext/articles/monorepo-github-actions</id>
+    <link href="https://zenn.dev/finatext/articles/monorepo-github-actions" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: LLMと数理最適化を組み合わせる</title>
@@ -208,40 +232,16 @@
     <link href="https://zenn.dev/tomoaki16/articles/3b1de92cae4a1d" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 筑波大学新歓 Web 2024 の舞台裏</title>
-    <updated>2024-12-07T15:03:17Z</updated>
-    <id>https://zenn.dev/ryoga_exe/articles/tsukuba-shinkan-web</id>
-    <link href="https://zenn.dev/ryoga_exe/articles/tsukuba-shinkan-web" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 楽しいインフラエンジニア入門</title>
-    <updated>2024-12-07T12:55:35Z</updated>
-    <id>https://zenn.dev/mozumasu/articles/mozumasu-infra-beginner</id>
-    <link href="https://zenn.dev/mozumasu/articles/mozumasu-infra-beginner" rel="alternate"></link>
+    <title>3:zenn_trend: Rustでpwdの代替コマンドを作ったよ</title>
+    <updated>2024-12-07T05:32:08Z</updated>
+    <id>https://zenn.dev/neinc_tech/articles/created-an-alternative-pwd-in-rust</id>
+    <link href="https://zenn.dev/neinc_tech/articles/created-an-alternative-pwd-in-rust" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Java Foreign Function & Memory API で WebGPU を叩く</title>
     <updated>2024-12-07T02:04:36Z</updated>
     <id>https://zenn.dev/kumazo/books/a0f7e481d7bafd</id>
     <link href="https://zenn.dev/kumazo/books/a0f7e481d7bafd" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Re: type-challengesから始めるTypeScript実践演習 初級〜中級編</title>
-    <updated>2024-12-06T10:26:42Z</updated>
-    <id>https://zenn.dev/yskn_sid25/books/type-challenges</id>
-    <link href="https://zenn.dev/yskn_sid25/books/type-challenges" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: フロントエンドの段階的モダナイズ、のための自走設計 (株式会社スタディスト様)</title>
-    <updated>2024-12-06T07:43:07Z</updated>
-    <id>https://zenn.dev/mizchi/articles/studist-modernize-frontend</id>
-    <link href="https://zenn.dev/mizchi/articles/studist-modernize-frontend" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: サクッと伝わるドキュメントを目指すためにエンジニアが意識していること</title>
-    <updated>2024-12-06T02:12:56Z</updated>
-    <id>https://zenn.dev/elmodev09/articles/050c2ed43d05f9</id>
-    <link href="https://zenn.dev/elmodev09/articles/050c2ed43d05f9" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: AWS学習ロードマップ</title>
@@ -268,22 +268,22 @@
     <link href="https://qiita.com/kjm_nuco/items/46bdbe06813faa52feb9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: VSCode+ChatGPTより爆速になれるAIエディタ【Cursor】無料プランあり</title>
-    <updated>2024-12-08T20:31:31Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1950891</id>
-    <link href="https://qiita.com/small_island/items/e6cd373ba4f9b124e848?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:qiita_trend: Windows で  "nslookup 使うな おじさん" 爆誕</title>
     <updated>2024-12-07T22:07:51Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/1947501</id>
     <link href="https://qiita.com/aktsmm/items/2f0cceaca3235b260b39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: Kaggle画像コンペでやっていること①</title>
-    <updated>2024-12-07T15:01:52Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1949965</id>
-    <link href="https://qiita.com/Kmat67916008/items/7aaa41be4e25bace43dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: VSCode+ChatGPTより爆速になれるAIエディタ【Cursor】無料プランあり</title>
+    <updated>2024-12-08T20:31:31Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1950891</id>
+    <link href="https://qiita.com/small_island/items/e6cd373ba4f9b124e848?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: M5core2でプリズムウォッチを作ってみた</title>
+    <updated>2024-12-09T02:43:53Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1951075</id>
+    <link href="https://qiita.com/sacoyuto/items/d28b14093c1383e56320?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: 入力文字数チェックで使用するテキストを作成できるマクロを作ってみた</title>
@@ -292,40 +292,16 @@
     <link href="https://qiita.com/h_akari/items/30e5a796f08f1783d0d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: CDKでEC2 Instance Connect EndpointなEC2インスタンスの構築</title>
-    <updated>2024-12-08T01:19:46Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1950181</id>
-    <link href="https://qiita.com/ryohk/items/7d4d439652e296fe96a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: 初心者でもわかる！「オンラインゲームにおける仕組み」を学んでみよう【前編】</title>
-    <updated>2024-12-07T08:39:30Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1850938</id>
-    <link href="https://qiita.com/4_mio_11/items/45f7ea6df34bec8e86c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: フロントエンドで自動ユニットテストについて</title>
-    <updated>2024-12-07T11:13:18Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1949803</id>
-    <link href="https://qiita.com/Carol_fan/items/b293237aef65ee48b940?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: Kaggle画像コンペでやっていること①</title>
+    <updated>2024-12-07T15:01:52Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1949965</id>
+    <link href="https://qiita.com/Kmat67916008/items/7aaa41be4e25bace43dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: AWSのCodeDeployでWindowsサーバにアプリをデプロイしてみる</title>
     <updated>2024-12-08T22:03:54Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/1941085</id>
     <link href="https://qiita.com/takahiro_fukushima/items/bb6aaf43b99529142b35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: flutter_genでアセット管理してみた</title>
-    <updated>2024-12-07T13:21:21Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1949877</id>
-    <link href="https://qiita.com/fujihara_hideyuki/items/d3288d13cdddc3924455?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: M5core2でプリズムウォッチを作ってみた</title>
-    <updated>2024-12-09T02:43:53Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1951075</id>
-    <link href="https://qiita.com/sacoyuto/items/d28b14093c1383e56320?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: LLMのハルシネーションについてちょっと詳しくなってみる</title>
@@ -340,40 +316,40 @@
     <link href="https://qiita.com/KeiJei/items/c2d25daf34bfe9a21ba9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:qiita_trend: o1 Proを使ってプロダクトのアイデア出しから実装までやってみる！</title>
+    <updated>2024-12-08T14:34:02Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1950743</id>
+    <link href="https://qiita.com/sakasegawa/items/ecaba2286bd292e22eaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:qiita_trend: 【時代はHono🔥!?】今さらながらNext.js App RouterユーザがHonoを調べてみた</title>
     <updated>2024-12-08T22:04:29Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/1950908</id>
     <link href="https://qiita.com/john-Q/items/394ba6ffdba08580f1bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: Webサイトのアクセシビリティにどう向き合う？</title>
-    <updated>2024-12-07T22:07:10Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1949482</id>
-    <link href="https://qiita.com/ymrl/items/16da88b2dd214b6c7c6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: flutter_genでアセット管理してみた</title>
+    <updated>2024-12-07T13:21:21Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1949877</id>
+    <link href="https://qiita.com/fujihara_hideyuki/items/d3288d13cdddc3924455?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 【AWS re:Invent2024】体調を崩さないための準備と心得</title>
-    <updated>2024-12-08T16:00:17Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1950830</id>
-    <link href="https://qiita.com/tomatoyasan/items/9157f2fb919d14c8a1d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: CDKでEC2 Instance Connect EndpointなEC2インスタンスの構築</title>
+    <updated>2024-12-08T01:19:46Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1950181</id>
+    <link href="https://qiita.com/ryohk/items/7d4d439652e296fe96a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 【ネタ】絶対に監視アラートに気づけるお風呂、できました</title>
+    <updated>2024-12-08T22:09:01Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1950911</id>
+    <link href="https://qiita.com/tippy/items/ca297fc33d97b142df90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: AWS Amplify + AI Kitを試してみた</title>
     <updated>2024-12-07T22:06:34Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/1949593</id>
     <link href="https://qiita.com/Yosyamura/items/1cfd26aad118e43b1159?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: 初学者でもわかる！！Transit Gatewayでアカウント間のVPC接続を行う方法</title>
-    <updated>2024-12-08T09:45:43Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1947904</id>
-    <link href="https://qiita.com/Natsu____/items/745786d8d9fde7dfc97a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: o1 Proを使ってプロダクトのアイデア出しから実装までやってみる！</title>
-    <updated>2024-12-08T14:34:02Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1950743</id>
-    <link href="https://qiita.com/sakasegawa/items/ecaba2286bd292e22eaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: Laravelにおけるクエリ改善</title>
@@ -388,16 +364,28 @@
     <link href="https://qiita.com/sy_k/items/90ca663ea64aef19097c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 【ネタ】絶対に監視アラートに気づけるお風呂、できました</title>
-    <updated>2024-12-08T22:09:01Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1950911</id>
-    <link href="https://qiita.com/tippy/items/ca297fc33d97b142df90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: ローカルメディアのLINE公式アカウントをGASで開発、頑張ってグロースした話【個人開発】</title>
+    <updated>2024-12-08T23:18:43Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1950934</id>
+    <link href="https://qiita.com/Tyamamoto1007/items/f183a82b02d75ab7af87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: Go言語のaddressableについて説明する</title>
-    <updated>2024-12-07T22:06:24Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1948235</id>
-    <link href="https://qiita.com/y_yamash/items/b871a666e1b4c49c4dbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: フロントエンドで自動ユニットテストについて</title>
+    <updated>2024-12-07T11:13:18Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1949803</id>
+    <link href="https://qiita.com/Carol_fan/items/b293237aef65ee48b940?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 「年末」を「調整」してくれるアプリを作った</title>
+    <updated>2024-12-08T16:02:03Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1950836</id>
+    <link href="https://qiita.com/namosuke/items/9b8f381c94e2452d2f6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 飲食店評価アプリ作成（30分）</title>
+    <updated>2024-12-08T22:04:01Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1940019</id>
+    <link href="https://qiita.com/fujitaaaaa/items/f300ae73649502e4f599?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: モダンな環境での作業になって躓いたこと</title>
@@ -406,22 +394,34 @@
     <link href="https://qiita.com/rk612/items/432cb3a639845afe9a47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 【コアウェブバイタル】X（旧 Twitter）アカウントのWebサイト埋め込みを最適化する</title>
-    <updated>2024-12-08T10:05:58Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1950522</id>
-    <link href="https://qiita.com/ngtnysk/items/f5aaee56860f139852b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: 自宅サーバ(Ubuntu)上にKVM+cockpitで検証・学習環境を立てた話</title>
+    <updated>2024-12-08T22:03:12Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1920162</id>
+    <link href="https://qiita.com/84MT-K/items/ec59da2bbed5a513897f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 【AWS re:Invent】開発者必見！Amazon Q Developer の新機能で生産性向上とコード品質向上を両立</title>
-    <updated>2024-12-08T13:34:07Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1950680</id>
-    <link href="https://qiita.com/ymd65536/items/9ab106e931300577fe73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: JP1で難しい設定方法について【備忘録^^】</title>
+    <updated>2024-12-06T22:03:45Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1943879</id>
+    <link href="https://qiita.com/IchigoOre713/items/e0fecc60e2cb972a8a90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 【あなたは全て知ってる？】Chrome Devtoolsで学ぶCSS擬似クラス</title>
-    <updated>2024-12-08T11:18:47Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/1950577</id>
-    <link href="https://qiita.com/ngtnysk/items/c0c21ad8b5cc3f9edc50?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: Microsoft Copilotを使用したCSV生成マクロ作成</title>
+    <updated>2024-12-07T22:04:49Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1936423</id>
+    <link href="https://qiita.com/kawazoe/items/c281f60128de3397d739?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 初心者でもわかる！「オンラインゲームにおける仕組み」を学んでみよう【前編】</title>
+    <updated>2024-12-07T08:39:30Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1850938</id>
+    <link href="https://qiita.com/4_mio_11/items/45f7ea6df34bec8e86c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 要件定義書にUMLを使ってみよう</title>
+    <updated>2024-12-06T22:05:51Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/1940337</id>
+    <link href="https://qiita.com/takahiro_fukushima/items/c42eaf03b8f83839891d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:distrotube_youtube: How To Read The Latest Arch Linux News</title>
@@ -1052,6 +1052,12 @@
     <updated>2024-12-02T16:10:19Z</updated>
     <id>tag:www.publickey1.jp,2024://2.8037</id>
     <link href="https://www.publickey1.jp/blog/24/awswebamazon_s3uistorage_browser_for_s3_1.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: 第235回 MySQL Shell for VS Codeを活用してみる［その1］</title>
+    <updated>2024-12-10T00:00:00Z</updated>
+    <id>urn:uuid:9a74dbef-7884-fbd8-c929-6b9a8812e86d</id>
+    <link href="https://gihyo.jp/article/2024/12/mysql-rcn0235?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: 「SciPyDataJapan 2025」、1月25日開催 ——科学技術とデータの未来をつなぐ、Pythonコミュニティによる新たなカンファレンス</title>
@@ -4510,40 +4516,28 @@
     <link href="https://gihyo.jp/article/2023/12/ruby-procon2023-12?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 問い合わせフォームを実装しただけなのにスパムメールの加害者になっていた話 - Qiita</title>
+    <updated>2024-12-09T01:22:27Z</updated>
+    <id>tag:qiita.com,2024-12-09:/kabuakantech/items/8b0de7ed460471c2fb5e</id>
+    <link href="https://qiita.com/kabuakantech/items/8b0de7ed460471c2fb5e" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 良いコードレビューとは</title>
+    <updated>2024-12-09T15:15:47Z</updated>
+    <id>tag:zenn.dev,2024-12-09:/danimal141/articles/a907e3d35561a0</id>
+    <link href="https://zenn.dev/danimal141/articles/a907e3d35561a0" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: セロトニンを補う薬がびっくりするほど効く人たち</title>
     <updated>2024-12-08T23:12:49Z</updated>
     <id>tag:blog.tinect.jp,2024-12-08:/</id>
     <link href="https://blog.tinect.jp/?p=88475" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 画像生成AIの進化が早すぎる　2024年に起きたことまとめ (1/4)</title>
-    <updated>2024-12-09T00:23:32Z</updated>
-    <id>tag:ascii.jp,2024-12-09:/elem/000/004/239/4239726/</id>
-    <link href="https://ascii.jp/elem/000/004/239/4239726/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 日本のエンジニアは甘すぎ？ 「初学者への育成論」が米国からみると超不毛な理由 - エンジニアtype | 転職type</title>
-    <updated>2024-12-09T01:40:49Z</updated>
-    <id>tag:type.jp,2024-12-09:/et/feature/27363/</id>
-    <link href="https://type.jp/et/feature/27363/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: スマートウォッチ「wena 3」、2026年2月末でサービス終了　Suicaも利用不可に</title>
-    <updated>2024-12-09T07:32:33Z</updated>
-    <id>tag:www.itmedia.co.jp,2024-12-09:/mobile/articles/2412/09/news151.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2412/09/news151.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AWS Lambdaを支える技術 - ABEJA Tech Blog</title>
-    <updated>2024-12-09T01:30:53Z</updated>
-    <id>tag:tech-blog.abeja.asia,2024-12-09:/entry/advent-2024-day09</id>
-    <link href="https://tech-blog.abeja.asia/entry/advent-2024-day09" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: USB給電で使えるフルHDモニター「Raspberry Pi Monitor」レビュー、ノングレア＆軽量なので持ち運びオフィスワークにも便利</title>
-    <updated>2024-12-09T08:09:57Z</updated>
-    <id>tag:gigazine.net,2024-12-09:/news/20241209-raspberry-pi-monitor-appearance-power/</id>
-    <link href="https://gigazine.net/news/20241209-raspberry-pi-monitor-appearance-power/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 気づかずやっていませんか？危険なSSH,SFTPの使い方</title>
+    <updated>2024-12-09T02:45:34Z</updated>
+    <id>tag:io.cyberdefense.jp,2024-12-09:/entry/dangerous_ssh_sftp_usage/</id>
+    <link href="https://io.cyberdefense.jp/entry/dangerous_ssh_sftp_usage/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: フロントエンドのディレクトリ構成どうしてる？　Feature-Sliced Design 導入体験談</title>
@@ -4552,52 +4546,118 @@
     <link href="https://speakerdeck.com/osakatechlab/hurontoendonodeirekutorigou-cheng-dousiteru-feature-sliced-design-dao-ru-ti-yan-tan" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「パソコン買って」と言われたら。“調査”の作法が自然と身につく我が家のルール | レバテックラボ（レバテックLAB）</title>
-    <updated>2024-12-09T01:01:41Z</updated>
-    <id>tag:levtech.jp,2024-12-09:/media/article/column/detail_574/</id>
-    <link href="https://levtech.jp/media/article/column/detail_574/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 画像生成AIの進化が早すぎる　2024年に起きたことまとめ (1/4)</title>
+    <updated>2024-12-09T00:23:32Z</updated>
+    <id>tag:ascii.jp,2024-12-09:/elem/000/004/239/4239726/</id>
+    <link href="https://ascii.jp/elem/000/004/239/4239726/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Webサーバの仕組みについて入門してみた（Python実装） - iimon TECH BLOG</title>
-    <updated>2024-12-09T01:57:30Z</updated>
-    <id>tag:tech.iimon.co.jp,2024-12-09:/entry/2024/12/09</id>
-    <link href="https://tech.iimon.co.jp/entry/2024/12/09" rel="alternate"></link>
+    <title>1:hatena_blog_it: USB給電で使えるフルHDモニター「Raspberry Pi Monitor」レビュー、ノングレア＆軽量なので持ち運びオフィスワークにも便利</title>
+    <updated>2024-12-09T08:09:57Z</updated>
+    <id>tag:gigazine.net,2024-12-09:/news/20241209-raspberry-pi-monitor-appearance-power/</id>
+    <link href="https://gigazine.net/news/20241209-raspberry-pi-monitor-appearance-power/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 『メタルギア』『ZOE』の開発者がレトロゲームエンジン「Pyxel」を作った理由【フォーカス】 | レバテックラボ（レバテックLAB）</title>
-    <updated>2024-12-09T01:03:45Z</updated>
-    <id>tag:levtech.jp,2024-12-09:/media/article/focus/detail_573/</id>
-    <link href="https://levtech.jp/media/article/focus/detail_573/" rel="alternate"></link>
+    <title>1:hatena_blog_it: AWS Lambdaを支える技術 - ABEJA Tech Blog</title>
+    <updated>2024-12-09T01:30:53Z</updated>
+    <id>tag:tech-blog.abeja.asia,2024-12-09:/entry/advent-2024-day09</id>
+    <link href="https://tech-blog.abeja.asia/entry/advent-2024-day09" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「LUUPポートが水道メーターふさいでいる」公式TikTok動画に批判　「カエルよりびっくり」</title>
-    <updated>2024-12-09T06:51:07Z</updated>
-    <id>tag:www.itmedia.co.jp,2024-12-09:/news/articles/2412/09/news138.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2412/09/news138.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「セキュリティに興味があるのですがどうしたらいいかわからない」という方向けに私が提供できるコンテンツを紹介します｜やわらかセキュリティ</title>
+    <updated>2024-12-09T13:18:47Z</updated>
+    <id>tag:yawaraka-sec.com,2024-12-09:/security-beginner/</id>
+    <link href="https://yawaraka-sec.com/security-beginner/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: NVIDIA製グラボやAppleチップのAI推論処理能力をまとめた一覧表、どのグラボやMacを買えばいいのかの参考になる</title>
-    <updated>2024-12-08T21:13:55Z</updated>
-    <id>tag:gigazine.net,2024-12-08:/news/20241209-nvidia-gpu-apple-silicon-inference/</id>
-    <link href="https://gigazine.net/news/20241209-nvidia-gpu-apple-silicon-inference/" rel="alternate"></link>
+    <title>1:hatena_blog_it: スマートウォッチ「wena 3」、2026年2月末でサービス終了　Suicaも利用不可に</title>
+    <updated>2024-12-09T07:32:33Z</updated>
+    <id>tag:www.itmedia.co.jp,2024-12-09:/mobile/articles/2412/09/news151.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2412/09/news151.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 1万5000円未満で買えるキーボード一体型PC「Raspberry Pi 500」が届いたので外観と安定性をチェックしてみた</title>
-    <updated>2024-12-09T08:05:17Z</updated>
-    <id>tag:gigazine.net,2024-12-09:/news/20241209-raspberry-pi-500-appearance-stability/</id>
-    <link href="https://gigazine.net/news/20241209-raspberry-pi-500-appearance-stability/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Googleのエンジニアが語るAI支援コーディングの「70％問題」、AIが生産性を爆上げしたのになぜ製品は改善されない？</title>
+    <updated>2024-12-09T21:42:06Z</updated>
+    <id>tag:gigazine.net,2024-12-09:/news/20241210-70-problem-ai-assisted-coding/</id>
+    <link href="https://gigazine.net/news/20241210-70-problem-ai-assisted-coding/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: プログラミングのきっかけは『ゆいちゃっと』、こんな楽しいことだけやっていてお金をもらえるんだ【Rubyistめぐりvol.5 onkさん 前編】 - STORES Product Blog</title>
-    <updated>2024-12-09T07:45:36Z</updated>
-    <id>tag:product.st.inc,2024-12-09:/entry/rubyist_meguri05_1</id>
-    <link href="https://product.st.inc/entry/rubyist_meguri05_1" rel="alternate"></link>
+    <title>1:hatena_blog_it: 安定したElasticsearchバージョンアップを目指して - MonotaRO Tech Blog</title>
+    <updated>2024-12-10T00:04:03Z</updated>
+    <id>tag:tech-blog.monotaro.com,2024-12-10:/entry/2024/12/10/090000</id>
+    <link href="https://tech-blog.monotaro.com/entry/2024/12/10/090000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 東京メトロ、列車間の間隔を短くできる列車制御システム</title>
-    <updated>2024-12-09T11:18:02Z</updated>
-    <id>tag:www.watch.impress.co.jp,2024-12-09:/docs/news/1646079.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/1646079.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 今アツい（気がする）UIライブラリ...?ではないらしい shadcn/uiを使ってみる - Nealle Developer's Blog</title>
+    <updated>2024-12-10T00:35:33Z</updated>
+    <id>tag:nealle-dev.hatenablog.com,2024-12-10:/entry/2024/12/10/01</id>
+    <link href="https://nealle-dev.hatenablog.com/entry/2024/12/10/01" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: SaaSのNRRは役に立たない？見るべきは契約後12ヶ月の月次推移。グローバル、日本、自社の数値で解説。｜tebiki ブログ</title>
+    <updated>2024-12-10T00:47:37Z</updated>
+    <id>tag:note.com,2024-12-10:/tebiki/n/n018bb4d15ef2</id>
+    <link href="https://note.com/tebiki/n/n018bb4d15ef2" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GNU Shepherd 1.0 Service Manager Released As "Solid Tool" Alternative To systemd - Phoronix</title>
+    <updated>2024-12-09T20:23:07Z</updated>
+    <id>tag:www.phoronix.com,2024-12-09:/news/GNU-Shepherd-1.0</id>
+    <link href="https://www.phoronix.com/news/GNU-Shepherd-1.0" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Google BigQueryからSnowflakeへ。バクラクのデータ基盤技術移管事例 - Findy Tools</title>
+    <updated>2024-12-09T23:16:39Z</updated>
+    <id>tag:findy-tools.io,2024-12-09:/articles/layerx-migration-bigquery-snowflake/35</id>
+    <link href="https://findy-tools.io/articles/layerx-migration-bigquery-snowflake/35" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「Snow Man」チケット転売1224件全て発信者情報開示請求→拒否され裁判へ　STARTOが公表</title>
+    <updated>2024-12-09T09:54:41Z</updated>
+    <id>tag:www.itmedia.co.jp,2024-12-09:/news/articles/2412/09/news174.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2412/09/news174.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AI、人間超えた説　OpenAIの従業員が「AGIを達成した」との見方示す</title>
+    <updated>2024-12-09T08:20:57Z</updated>
+    <id>tag:ascii.jp,2024-12-09:/elem/000/004/239/4239931/</id>
+    <link href="https://ascii.jp/elem/000/004/239/4239931/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: WebKit(JavaScriptCore)に100個のPull Requestがマージされた</title>
+    <updated>2024-12-09T22:49:45Z</updated>
+    <id>tag:sosukesuzuki.dev,2024-12-09:/posts/jsc-contributions-2024/</id>
+    <link href="https://sosukesuzuki.dev/posts/jsc-contributions-2024/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 国内スマホ市場、Pixelが出荷数「2割減」！驚異の前年比「533.4％増加」を記録したのは「あの会社」 - すまほん!!</title>
+    <updated>2024-12-09T23:12:58Z</updated>
+    <id>tag:smhn.info,2024-12-09:/202412-japanese-smartphone-market-2024-q3</id>
+    <link href="https://smhn.info/202412-japanese-smartphone-market-2024-q3" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Findy Team+のデータインポートのアプリケーションアーキテクチャを大公開！ - Findy Tech Blog</title>
+    <updated>2024-12-09T23:08:47Z</updated>
+    <id>tag:tech.findy.co.jp,2024-12-09:/entry/2024/12/10/080000</id>
+    <link href="https://tech.findy.co.jp/entry/2024/12/10/080000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: IIJ SOCと「運用」 | IIJ Engineers Blog</title>
+    <updated>2024-12-09T03:10:57Z</updated>
+    <id>tag:eng-blog.iij.ad.jp,2024-12-09:/archives/29460</id>
+    <link href="https://eng-blog.iij.ad.jp/archives/29460" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 日本のエンジニアは甘すぎ？ 「初学者への育成論」が米国からみると超不毛な理由 - エンジニアtype | 転職type</title>
+    <updated>2024-12-09T01:40:49Z</updated>
+    <id>tag:type.jp,2024-12-09:/et/feature/27363/</id>
+    <link href="https://type.jp/et/feature/27363/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OpenAI、動画AI「Sora」消費者に提供開始　数十秒で手軽に生成 - 日本経済新聞</title>
+    <updated>2024-12-09T21:00:23Z</updated>
+    <id>tag:www.nikkei.com,2024-12-09:/article/DGXZQOGN0958G0Z01C24A2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN0958G0Z01C24A2000000/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ネットワーク速度を上げる「サブネット」設計の“4つの極意”とは</title>
@@ -4606,87 +4666,21 @@
     <link href="https://techtarget.itmedia.co.jp/tt/news/2412/09/news02.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: センスの良いSQLを書く技術 達人エンジニアが実践している３５の原則</title>
-    <updated>2024-12-08T17:11:57Z</updated>
-    <id>tag:www.kadokawa.co.jp,2024-12-08:/product/322407001518/</id>
-    <link href="https://www.kadokawa.co.jp/product/322407001518/" rel="alternate"></link>
+    <title>1:hatena_blog_it: STORES全体の技術課題の意思決定をするSystem Design Meetingについて - STORES Product Blog</title>
+    <updated>2024-12-02T17:55:07Z</updated>
+    <id>tag:product.st.inc,2024-12-02:/entry/2024/12/02/125257</id>
+    <link href="https://product.st.inc/entry/2024/12/02/125257" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 世界を上回るペースでBoxが日本で受け入れられている理由　「Box AI」で加速する社内コンテンツの活用</title>
-    <updated>2024-12-09T04:12:53Z</updated>
-    <id>tag:www.itmedia.co.jp,2024-12-09:/pcuser/articles/2412/09/news079.html</id>
-    <link href="https://www.itmedia.co.jp/pcuser/articles/2412/09/news079.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 問い合わせフォームを実装しただけなのにスパムメールの加害者になっていた話 - Qiita</title>
-    <updated>2024-12-09T01:22:27Z</updated>
-    <id>tag:qiita.com,2024-12-09:/kabuakantech/items/8b0de7ed460471c2fb5e</id>
-    <link href="https://qiita.com/kabuakantech/items/8b0de7ed460471c2fb5e" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 16GBのRAMが役に立たない日がこんなに早く来ると思ってなかった</title>
-    <updated>2024-12-06T23:32:59Z</updated>
-    <id>tag:anond.hatelabo.jp,2024-12-06:/20241013011004</id>
-    <link href="https://anond.hatelabo.jp/20241013011004" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 50年以上の未解決問題「ソファ移動問題」を数学的に解決か　韓国の研究者が発表　L字の廊下を曲がれる最大の大きさとは</title>
-    <updated>2024-12-08T23:34:04Z</updated>
-    <id>tag:www.itmedia.co.jp,2024-12-08:/news/articles/2412/09/news047.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2412/09/news047.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: マネジメントはシミュレーションゲーム、Rubyのお気に入りポイント、仕事だと障害対応が一番楽しい【Rubyistめぐりvol.5 onkさん 後編】 - STORES Product Blog</title>
+    <updated>2024-12-09T07:26:52Z</updated>
+    <id>tag:product.st.inc,2024-12-09:/entry/rubyist_meguri05_2</id>
+    <link href="https://product.st.inc/entry/rubyist_meguri05_2" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Raspberry Piが2024年12月9日に新製品「Raspberry Pi® 500」「Raspberry Pi® Monitor」を発表、スイッチサイエンスは準備が出来次第販売予定</title>
     <updated>2024-12-09T10:18:31Z</updated>
     <id>tag:prtimes.jp,2024-12-09:/main/html/rd/p/000000184.000064534.html</id>
     <link href="https://prtimes.jp/main/html/rd/p/000000184.000064534.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 小型全固体電池がいよいよ離陸へ、コイン電池代替も視野</title>
-    <updated>2024-12-08T20:57:55Z</updated>
-    <id>tag:xtech.nikkei.com,2024-12-08:/atcl/nxt/column/18/00001/10043/</id>
-    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/10043/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 駅メモ！開発チームにおける機能開発と改善を並行して進めるためのチーム構成 - Mobile Factory Tech Blog</title>
-    <updated>2024-12-09T07:07:14Z</updated>
-    <id>tag:tech.mobilefactory.jp,2024-12-09:/entry/2024/12/09/160000</id>
-    <link href="https://tech.mobilefactory.jp/entry/2024/12/09/160000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 健全なソフトウェア設計の第一歩！ 既存のPHPソースコードからクラス図を自動生成しよう</title>
-    <updated>2024-12-09T02:50:54Z</updated>
-    <id>tag:codezine.jp,2024-12-09:/article/detail/20561</id>
-    <link href="https://codezine.jp/article/detail/20561" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Series A FinTech に Tech Lead として入社しました — UK スタートアップ動乱、その先へ - 雀巽の日記帳</title>
-    <updated>2024-12-09T13:06:55Z</updated>
-    <id>tag:necojackarc.hatenablog.com,2024-12-09:/entry/2024/12/09/212320</id>
-    <link href="https://necojackarc.hatenablog.com/entry/2024/12/09/212320" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 組織横断的なSRE活動を始めようとしています - エス・エム・エス エンジニア テックブログ</title>
-    <updated>2024-12-09T01:24:00Z</updated>
-    <id>tag:tech.bm-sms.co.jp,2024-12-09:/entry/2024/12/09/100000_1</id>
-    <link href="https://tech.bm-sms.co.jp/entry/2024/12/09/100000_1" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: コンポーネント図鑑 ｜ 視覚伝達情報研究室</title>
-    <updated>2024-12-08T01:57:59Z</updated>
-    <id>tag:shidenken-component.studio.site,2024-12-08:/</id>
-    <link href="https://shidenken-component.studio.site/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: いいかげんAtomic Designを捨てて別の統一解が欲しい - タオルケット体操</title>
-    <updated>2024-12-08T04:01:30Z</updated>
-    <id>tag:hachibeechan.hateblo.jp,2024-12-08:/entry/atomic-design-alternative</id>
-    <link href="https://hachibeechan.hateblo.jp/entry/atomic-design-alternative" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「Snow Man」チケット転売1224件全て発信者情報開示請求→拒否され裁判へ　STARTOが公表</title>
-    <updated>2024-12-09T09:54:41Z</updated>
-    <id>tag:www.itmedia.co.jp,2024-12-09:/news/articles/2412/09/news174.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2412/09/news174.html" rel="alternate"></link>
   </entry>
 </feed>
