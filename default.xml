@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2024-12-12T12:26:33Z</updated>
+  <updated>2024-12-12T18:18:38Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -358,7 +358,7 @@
     <link href="https://qiita.com/msms/items/a7b471f4d03610e2c22d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: Vmwareで仮想サーバ(RHEL9)構築に挑戦</title>
+    <title>3:qiita_trend: VMwareで作成した仮想マシンにRHEL9をインストールしてみた</title>
     <updated>2024-12-11T22:05:13Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/1924870</id>
     <link href="https://qiita.com/natu-cl7785/items/88ce6a987806c594cb94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
@@ -970,6 +970,12 @@
     <link href="https://www.youtube.com/watch?v=hbiNYMut9x8" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: 自律的にプログラミングをするAIエージェント「Jules」、Googleが発表。人間がタスクを与えると実装計画を作成、コードの生成や変更、バグフィクスなどを実行</title>
+    <updated>2024-12-12T18:14:26Z</updated>
+    <id>tag:www.publickey1.jp,2024://2.8057</id>
+    <link href="https://www.publickey1.jp/blog/24/_aijulesgoogle.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: 国産のインメモリDB「劔（Tsurugi）」、さくらの高火力上で一貫性を保ちつつ永続化の書き込み処理を5ミリ秒で実証。超低遅延AIシステムの実証実験</title>
     <updated>2024-12-12T03:34:05Z</updated>
     <id>tag:www.publickey1.jp,2024://2.8056</id>
@@ -1052,12 +1058,6 @@
     <updated>2024-12-03T20:03:53Z</updated>
     <id>tag:www.publickey1.jp,2024://2.8042</id>
     <link href="https://www.publickey1.jp/blog/24/amazonamazon_nova.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: ［速報］「Amazon Aurora DSQL」プレビュー公開、事実上無限にスケールする高性能なPostgreSQL互換の大規模分散データベース</title>
-    <updated>2024-12-03T19:22:01Z</updated>
-    <id>tag:www.publickey1.jp,2024://2.8041</id>
-    <link href="https://www.publickey1.jp/blog/24/amazon_aurora_dsqlpostgresql.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Cloudflare、AIボットの監視、アクセス制限を行うサービス「AI Audit」を開始</title>
@@ -4522,22 +4522,16 @@
     <link href="https://gihyo.jp/article/2023/12/guido-talkshow?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: 第792回　GUIのGitクライアント、GittyupでGitの勉強をする</title>
-    <updated>2023-12-13T00:18:00Z</updated>
-    <id>urn:uuid:08302959-8a36-2031-0250-f4e4d2fe6098</id>
-    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0792?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 無自覚にメンバーの心理的安全性を奪っていた経験から得た学び</title>
     <updated>2024-12-11T13:54:10Z</updated>
     <id>tag:speakerdeck.com,2024-12-11:/lighttiger2505/wu-zi-jue-nimenbanoxin-li-de-an-quan-xing-woduo-tuteitajing-yan-karade-taxue-bi</id>
     <link href="https://speakerdeck.com/lighttiger2505/wu-zi-jue-nimenbanoxin-li-de-an-quan-xing-woduo-tuteitajing-yan-karade-taxue-bi" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: SQLiteをRustで書き直した「Limbo」が海外で話題に — 完全な非同期I/Oのサポート、WASM対応、メモリ安全性の確保など、Rustのメリットを全面的に享受</title>
-    <updated>2024-12-12T00:43:34Z</updated>
-    <id>tag:techfeed.io,2024-12-12:/entries/675a01f52f9b0d14a315ac7d</id>
-    <link href="https://techfeed.io/entries/675a01f52f9b0d14a315ac7d" rel="alternate"></link>
+    <title>1:hatena_blog_it: マスク氏の純資産、人類初の60兆円超え</title>
+    <updated>2024-12-12T02:43:29Z</updated>
+    <id>tag:www.afpbb.com,2024-12-12:/articles/-/3553602</id>
+    <link href="https://www.afpbb.com/articles/-/3553602" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: まったりと英語を学ぶ - ANDPAD Tech Blog</title>
@@ -4546,10 +4540,46 @@
     <link href="https://tech.andpad.co.jp/entry/2024/12/11/100000" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: SQLiteをRustで書き直した「Limbo」が海外で話題に — 完全な非同期I/Oのサポート、WASM対応、メモリ安全性の確保など、Rustのメリットを全面的に享受</title>
+    <updated>2024-12-12T00:43:34Z</updated>
+    <id>tag:techfeed.io,2024-12-12:/entries/675a01f52f9b0d14a315ac7d</id>
+    <link href="https://techfeed.io/entries/675a01f52f9b0d14a315ac7d" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 一般的なPCで瞬時にAI画像生成が可能なモデル「NitroFusion」のデモ版がリリース／Huggin Faceで体験可能、コンシューマーグレードのグラフィックカード1枚で動作可能</title>
+    <updated>2024-12-12T08:10:21Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2024-12-12:/docs/news/1647107.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/1647107.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: SIer勤めの僕が考えたエンジニア生存戦略 - NRIネットコムBlog</title>
     <updated>2024-12-11T09:08:59Z</updated>
     <id>tag:tech.nri-net.com,2024-12-11:/entry/engineer_survival_strategies</id>
     <link href="https://tech.nri-net.com/entry/engineer_survival_strategies" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 関数型まつり：新たな関数型プログラミングのテックカンファレンスを開催します！ - 関数型まつり運営ブログ</title>
+    <updated>2024-12-12T12:46:07Z</updated>
+    <id>tag:blog.fp-matsuri.org,2024-12-12:/entry/2024/12/02/204906</id>
+    <link href="https://blog.fp-matsuri.org/entry/2024/12/02/204906" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Googleが人間の代わりに情報収集してくれるAI機能「Deep Research」をリリース、ウェブ上の膨大な情報をまとめてレポートを提出してくれる</title>
+    <updated>2024-12-12T03:30:49Z</updated>
+    <id>tag:gigazine.net,2024-12-12:/news/20241212-google-gemini-deep-research/</id>
+    <link href="https://gigazine.net/news/20241212-google-gemini-deep-research/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 新Linuxカーネル解読室 - パケット受信処理 ～Ethernetドライバ ポーリング処理編～ - VA Linux エンジニアブログ</title>
+    <updated>2024-12-12T01:32:43Z</updated>
+    <id>tag:valinux.hatenablog.com,2024-12-12:/entry/20241212</id>
+    <link href="https://valinux.hatenablog.com/entry/20241212" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Googleが寝ている間に自動でバグを修正してくれるコーディングアシスタントAI「Jules」を発表</title>
+    <updated>2024-12-12T06:01:21Z</updated>
+    <id>tag:gigazine.net,2024-12-12:/news/20241212-google-ai-bug-fixes-assistant-jules/</id>
+    <link href="https://gigazine.net/news/20241212-google-ai-bug-fixes-assistant-jules/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: サイバー攻撃の代行サービス使い企業攻撃か 中学生が書類送検 | NHK</title>
@@ -4564,10 +4594,22 @@
     <link href="https://kai-you.net/article/91197" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: マスク氏の純資産、人類初の60兆円超え</title>
-    <updated>2024-12-12T02:43:29Z</updated>
-    <id>tag:www.afpbb.com,2024-12-12:/articles/-/3553602</id>
-    <link href="https://www.afpbb.com/articles/-/3553602" rel="alternate"></link>
+    <title>1:hatena_blog_it: X(旧Twitter)アカウントを乗っ取られたけど2日で復旧した話｜sei_0001</title>
+    <updated>2024-12-05T02:57:02Z</updated>
+    <id>tag:note.com,2024-12-05:/sei_0001/n/ne3db794bba77</id>
+    <link href="https://note.com/sei_0001/n/ne3db794bba77" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【Hothotレビュー】 Intel Arc B580、ついにRTX 4060の壁を超えた？待望の新GPUをテスト</title>
+    <updated>2024-12-12T14:34:59Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2024-12-12:/docs/column/hothot/1647167.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/hothot/1647167.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Next.js PPR と比較して理解する Astro Server Islands</title>
+    <updated>2024-12-11T01:55:40Z</updated>
+    <id>tag:zenn.dev,2024-12-11:/morinokami/articles/astro-server-islands-vs-nextjs-ppr</id>
+    <link href="https://zenn.dev/morinokami/articles/astro-server-islands-vs-nextjs-ppr" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 本番メンテナンスを安全に進めるための実践ノウハウ - yukukkyのblog</title>
@@ -4576,64 +4618,16 @@
     <link href="https://yukukky.hatenablog.com/entry/2024/12/12/080000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 新Linuxカーネル解読室 - パケット受信処理 ～Ethernetドライバ ポーリング処理編～ - VA Linux エンジニアブログ</title>
-    <updated>2024-12-12T01:32:43Z</updated>
-    <id>tag:valinux.hatenablog.com,2024-12-12:/entry/20241212</id>
-    <link href="https://valinux.hatenablog.com/entry/20241212" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 一般的なPCで瞬時にAI画像生成が可能なモデル「NitroFusion」のデモ版がリリース／Huggin Faceで体験可能、コンシューマーグレードのグラフィックカード1枚で動作可能</title>
-    <updated>2024-12-12T08:10:21Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2024-12-12:/docs/news/1647107.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/1647107.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: X(旧Twitter)アカウントを乗っ取られたけど2日で復旧した話｜sei_0001</title>
-    <updated>2024-12-05T02:57:02Z</updated>
-    <id>tag:note.com,2024-12-05:/sei_0001/n/ne3db794bba77</id>
-    <link href="https://note.com/sei_0001/n/ne3db794bba77" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Googleが人間の代わりに情報収集してくれるAI機能「Deep Research」をリリース、ウェブ上の膨大な情報をまとめてレポートを提出してくれる</title>
-    <updated>2024-12-12T03:30:49Z</updated>
-    <id>tag:gigazine.net,2024-12-12:/news/20241212-google-gemini-deep-research/</id>
-    <link href="https://gigazine.net/news/20241212-google-gemini-deep-research/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: モノレポ統合により複雑なマイクロサービスの開発を単純化するアプローチ — HACK The Nikkei</title>
     <updated>2024-12-12T04:55:34Z</updated>
     <id>tag:hack.nikkei.com,2024-12-12:/blog/advent20241212/</id>
     <link href="https://hack.nikkei.com/blog/advent20241212/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「GitLabに学ぶ 世界最先端のリモート組織のつくりかた」の読書会や質問会を開催して分かったこと - Hatena Developer Blog</title>
-    <updated>2024-12-12T03:09:40Z</updated>
-    <id>tag:developer.hatenastaff.com,2024-12-12:/entry/2024/12/12/120000</id>
-    <link href="https://developer.hatenastaff.com/entry/2024/12/12/120000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 開発環境にCloudflare Accessを導入した話</title>
-    <updated>2024-12-12T00:15:56Z</updated>
-    <id>tag:zenn.dev,2024-12-12:/smartshopping/articles/fd2825c0c61149</id>
-    <link href="https://zenn.dev/smartshopping/articles/fd2825c0c61149" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Recoilを剥がしている話</title>
-    <updated>2024-12-12T00:16:54Z</updated>
-    <id>tag:speakerdeck.com,2024-12-12:/kirik/recoilwobo-gasiteiruhua</id>
-    <link href="https://speakerdeck.com/kirik/recoilwobo-gasiteiruhua" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「Aの作業はやってほしい、Bの作業はまだ仕様が変わる可能性あるので、着手しなくていい」と頼んで「Ａが完了したので、Bもやりました！」と報告された。どう指示するべきだった？</title>
-    <updated>2024-12-11T10:59:33Z</updated>
-    <id>tag:togetter.com,2024-12-11:/li/2479248</id>
-    <link href="https://togetter.com/li/2479248" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 2024年、日本語の新作フリーフォントのまとめ！ 今年も新しいフリーフォントがたくさんリリースされました</title>
-    <updated>2024-12-12T01:08:39Z</updated>
-    <id>tag:coliss.com,2024-12-12:/articles/freebies/japanese-free-fonts-dec-2024.html</id>
-    <link href="https://coliss.com/articles/freebies/japanese-free-fonts-dec-2024.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: iPhone 16 Pro／16 Pro Maxのボイスメモで「スピーカーで音楽を流しながらトラックを分けてボーカルを録音する」ことが可能に</title>
+    <updated>2024-12-12T04:16:37Z</updated>
+    <id>tag:gigazine.net,2024-12-12:/news/20241212-iphone-16-pro-voice-memos-update/</id>
+    <link href="https://gigazine.net/news/20241212-iphone-16-pro-voice-memos-update/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Windows 11とiPhoneとの間でファイル共有が可能に</title>
@@ -4642,34 +4636,10 @@
     <link href="https://pc.watch.impress.co.jp/docs/news/1646976.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【後編】社内ラジオはいいぞ！ - 社内ラジオを支える技術たち</title>
-    <updated>2024-12-11T23:53:28Z</updated>
-    <id>tag:zenn.dev,2024-12-11:/magicmoment/articles/tech-radio-20241212</id>
-    <link href="https://zenn.dev/magicmoment/articles/tech-radio-20241212" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Rails 4.2 から 7.1 まで一気にバージョンアップした話 - エムスリーテックブログ</title>
     <updated>2024-12-12T03:44:26Z</updated>
     <id>tag:www.m3tech.blog,2024-12-12:/entry/2024/12/12/110000</id>
     <link href="https://www.m3tech.blog/entry/2024/12/12/110000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: FGO、緊急メンテで9時間経過　ゲーム内報酬が再度受け取れてしまう不具合　「対応に時間要する」</title>
-    <updated>2024-12-12T01:43:21Z</updated>
-    <id>tag:www.itmedia.co.jp,2024-12-12:/news/articles/2412/12/news122.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2412/12/news122.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: デスクトップアプリを開発しよう！ 「Rust」と「Tauri 2.0」の基本情報と環境整備の仕方を解説</title>
-    <updated>2024-12-11T07:22:05Z</updated>
-    <id>tag:codezine.jp,2024-12-11:/article/detail/20539</id>
-    <link href="https://codezine.jp/article/detail/20539" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Googleが「Gemini 2.0」を発表、高速な軽量モデルで前世代上位モデルを圧倒的に上回る性能</title>
-    <updated>2024-12-12T02:43:53Z</updated>
-    <id>tag:gigazine.net,2024-12-12:/news/20241212-google-gemini-2/</id>
-    <link href="https://gigazine.net/news/20241212-google-gemini-2/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: コンソールのログインプロンプトにIPアドレスを表示する方法 | IIJ Engineers Blog</title>
@@ -4678,10 +4648,10 @@
     <link href="https://eng-blog.iij.ad.jp/archives/28748" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Meta Quest 3/3SをWindowsの仮想マルチモニターにする機能がプレビュー実装</title>
-    <updated>2024-12-12T04:34:42Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2024-12-12:/docs/news/1646999.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/1646999.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: gitStream でPull Request作成フローを正したい - 羅針盤 技術航海日誌</title>
+    <updated>2024-12-12T09:20:07Z</updated>
+    <id>tag:compasscorp.hatenablog.com,2024-12-12:/entry/git-stream</id>
+    <link href="https://compasscorp.hatenablog.com/entry/git-stream" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: プロダクト開発における筋のいい手段を導く意思決定プロセス - Speee DEVELOPER BLOG</title>
@@ -4690,9 +4660,33 @@
     <link href="https://tech.speee.jp/entry/2024/12/12/183000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 社内ITリクエストを分析して従業員体験を向上させようとしている話 - Nealle Developer's Blog</title>
-    <updated>2024-12-12T00:51:34Z</updated>
-    <id>tag:nealle-dev.hatenablog.com,2024-12-12:/entry/2024/12/12/01</id>
-    <link href="https://nealle-dev.hatenablog.com/entry/2024/12/12/01" rel="alternate"></link>
+    <title>1:hatena_blog_it: 生成AIで自動テストを楽に作りたい！ - Tabelog Tech Blog</title>
+    <updated>2024-12-12T02:18:36Z</updated>
+    <id>tag:tech-blog.tabelog.com,2024-12-12:/entry/advent-calendar-20241212</id>
+    <link href="https://tech-blog.tabelog.com/entry/advent-calendar-20241212" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: システム障害を素早く解決するための考え方・工夫について - Uzabase for Engineers</title>
+    <updated>2024-12-12T09:43:36Z</updated>
+    <id>tag:tech.uzabase.com,2024-12-12:/entry/2024/12/12/170724</id>
+    <link href="https://tech.uzabase.com/entry/2024/12/12/170724" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 開発環境にCloudflare Accessを導入した話</title>
+    <updated>2024-12-12T00:15:56Z</updated>
+    <id>tag:zenn.dev,2024-12-12:/smartshopping/articles/fd2825c0c61149</id>
+    <link href="https://zenn.dev/smartshopping/articles/fd2825c0c61149" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GoogleがAIでChromeを自動操作できる「Project Mariner」を発表</title>
+    <updated>2024-12-12T04:16:29Z</updated>
+    <id>tag:gigazine.net,2024-12-12:/news/20241212-google-project-mariner/</id>
+    <link href="https://gigazine.net/news/20241212-google-project-mariner/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 組版のプロ×アドビ開発担当者の本音トーク！ “Illustratorの文字組み、現在と未来”｜Adobe MAX Japan 2025</title>
+    <updated>2024-12-12T11:43:47Z</updated>
+    <id>tag:blog.adobe.com,2024-12-12:/jp/publish/2024/12/12/cc-design-illustrator-text-oishi-nat</id>
+    <link href="https://blog.adobe.com/jp/publish/2024/12/12/cc-design-illustrator-text-oishi-nat" rel="alternate"></link>
   </entry>
 </feed>
