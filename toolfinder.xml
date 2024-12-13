@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2024-12-13T01:05:01Z</updated>
+  <updated>2024-12-13T06:19:34Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2170,6 +2170,24 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: bpfmt-git</title>
+    <updated>2024-12-13T06:02:33Z</updated>
+    <id>bpfmt-git-1734069753</id>
+    <link href="https://aur.archlinux.org/packages/bpfmt-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: beatmapexporter-bin</title>
+    <updated>2024-12-13T03:47:14Z</updated>
+    <id>beatmapexporter-bin-1734061634</id>
+    <link href="https://aur.archlinux.org/packages/beatmapexporter-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: sleepy-launcher</title>
+    <updated>2024-12-13T03:42:31Z</updated>
+    <id>sleepy-launcher-1734061351</id>
+    <link href="https://aur.archlinux.org/packages/sleepy-launcher" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: arv</title>
     <updated>2024-12-13T00:49:33Z</updated>
     <id>arv-1734050973</id>
@@ -2752,22 +2770,58 @@
     <link href="https://aur.archlinux.org/packages/gray-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: tracker</title>
-    <updated>2024-12-09T18:55:13Z</updated>
-    <id>tracker-1733770513</id>
-    <link href="https://aur.archlinux.org/packages/tracker" rel="alternate"></link>
+    <title>2:archlinux_new_packages: libngtcp2 1.9.1-1 x86_64</title>
+    <updated>2024-12-13T02:52:40Z</updated>
+    <id>tag:archlinux.org,2024-12-13:/packages/extra/x86_64/libngtcp2/202412130252</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libngtcp2/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: buchable-git</title>
-    <updated>2024-12-09T17:37:35Z</updated>
-    <id>buchable-git-1733765855</id>
-    <link href="https://aur.archlinux.org/packages/buchable-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: akonadi-notes 24.08.3-2 x86_64</title>
+    <updated>2024-12-13T02:41:21Z</updated>
+    <id>tag:archlinux.org,2024-12-13:/packages/extra-testing/x86_64/akonadi-notes/202412130241</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/akonadi-notes/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: dumpmyscreen</title>
-    <updated>2024-12-09T16:48:50Z</updated>
-    <id>dumpmyscreen-1733762930</id>
-    <link href="https://aur.archlinux.org/packages/dumpmyscreen" rel="alternate"></link>
+    <title>2:archlinux_new_packages: librustls 0.14.1-1 x86_64</title>
+    <updated>2024-12-13T02:24:36Z</updated>
+    <id>tag:archlinux.org,2024-12-13:/packages/extra/x86_64/librustls/202412130224</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/librustls/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: curl-rustls 8.11.1-1 x86_64</title>
+    <updated>2024-12-13T02:24:35Z</updated>
+    <id>tag:archlinux.org,2024-12-13:/packages/extra/x86_64/curl-rustls/202412130224</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/curl-rustls/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: melange 0.17.7-1 x86_64</title>
+    <updated>2024-12-13T01:36:08Z</updated>
+    <id>tag:archlinux.org,2024-12-13:/packages/extra/x86_64/melange/202412130136</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/melange/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: metasploit 6.4.40-1 x86_64</title>
+    <updated>2024-12-13T01:33:41Z</updated>
+    <id>tag:archlinux.org,2024-12-13:/packages/extra/x86_64/metasploit/202412130133</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/metasploit/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: apko 0.21.0-1 x86_64</title>
+    <updated>2024-12-13T01:33:40Z</updated>
+    <id>tag:archlinux.org,2024-12-13:/packages/extra/x86_64/apko/202412130133</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/apko/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: yggdrasil 0.5.11-1 x86_64</title>
+    <updated>2024-12-13T01:28:26Z</updated>
+    <id>tag:archlinux.org,2024-12-13:/packages/extra/x86_64/yggdrasil/202412130128</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/yggdrasil/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: doctl 1.120.0-1 x86_64</title>
+    <updated>2024-12-13T01:27:15Z</updated>
+    <id>tag:archlinux.org,2024-12-13:/packages/extra/x86_64/doctl/202412130127</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/doctl/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: erlang-nox 27.1.3-1 x86_64</title>
@@ -3014,59 +3068,5 @@
     <updated>2024-12-12T22:08:00Z</updated>
     <id>tag:archlinux.org,2024-12-12:/packages/extra/x86_64/thunderbird-i18n-nl/202412122208</id>
     <link href="https://archlinux.org/packages/extra/x86_64/thunderbird-i18n-nl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-nb-no 128.5.1-1 x86_64</title>
-    <updated>2024-12-12T22:08:00Z</updated>
-    <id>tag:archlinux.org,2024-12-12:/packages/extra/x86_64/thunderbird-i18n-nb-no/202412122208</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/thunderbird-i18n-nb-no/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-ms 128.5.1-1 x86_64</title>
-    <updated>2024-12-12T22:07:59Z</updated>
-    <id>tag:archlinux.org,2024-12-12:/packages/extra/x86_64/thunderbird-i18n-ms/202412122207</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/thunderbird-i18n-ms/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-lt 128.5.1-1 x86_64</title>
-    <updated>2024-12-12T22:07:59Z</updated>
-    <id>tag:archlinux.org,2024-12-12:/packages/extra/x86_64/thunderbird-i18n-lt/202412122207</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/thunderbird-i18n-lt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-ko 128.5.1-1 x86_64</title>
-    <updated>2024-12-12T22:07:58Z</updated>
-    <id>tag:archlinux.org,2024-12-12:/packages/extra/x86_64/thunderbird-i18n-ko/202412122207</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/thunderbird-i18n-ko/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-kk 128.5.1-1 x86_64</title>
-    <updated>2024-12-12T22:07:58Z</updated>
-    <id>tag:archlinux.org,2024-12-12:/packages/extra/x86_64/thunderbird-i18n-kk/202412122207</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/thunderbird-i18n-kk/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-kab 128.5.1-1 x86_64</title>
-    <updated>2024-12-12T22:07:58Z</updated>
-    <id>tag:archlinux.org,2024-12-12:/packages/extra/x86_64/thunderbird-i18n-kab/202412122207</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/thunderbird-i18n-kab/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-ka 128.5.1-1 x86_64</title>
-    <updated>2024-12-12T22:07:57Z</updated>
-    <id>tag:archlinux.org,2024-12-12:/packages/extra/x86_64/thunderbird-i18n-ka/202412122207</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/thunderbird-i18n-ka/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-ja 128.5.1-1 x86_64</title>
-    <updated>2024-12-12T22:07:57Z</updated>
-    <id>tag:archlinux.org,2024-12-12:/packages/extra/x86_64/thunderbird-i18n-ja/202412122207</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/thunderbird-i18n-ja/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-it 128.5.1-1 x86_64</title>
-    <updated>2024-12-12T22:07:56Z</updated>
-    <id>tag:archlinux.org,2024-12-12:/packages/extra/x86_64/thunderbird-i18n-it/202412122207</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/thunderbird-i18n-it/" rel="alternate"></link>
   </entry>
 </feed>
