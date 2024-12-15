@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2024-12-15T01:08:57Z</updated>
+  <updated>2024-12-15T06:17:46Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2170,6 +2170,18 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: docker-etchosts</title>
+    <updated>2024-12-15T03:19:36Z</updated>
+    <id>docker-etchosts-1734232776</id>
+    <link href="https://aur.archlinux.org/packages/docker-etchosts" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: bpf-dtrace-utils</title>
+    <updated>2024-12-15T02:23:13Z</updated>
+    <id>bpf-dtrace-utils-1734229393</id>
+    <link href="https://aur.archlinux.org/packages/bpf-dtrace-utils" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: bpf-unknown-none-gcc</title>
     <updated>2024-12-15T00:48:25Z</updated>
     <id>bpf-unknown-none-gcc-1734223705</id>
@@ -2758,16 +2770,34 @@
     <link href="https://aur.archlinux.org/packages/verysync-bin" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: rename-photos-bin</title>
-    <updated>2024-12-11T07:29:10Z</updated>
-    <id>rename-photos-bin-1733902150</id>
-    <link href="https://aur.archlinux.org/packages/rename-photos-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: ollama-rocm 0.5.2-1 x86_64</title>
+    <updated>2024-12-15T02:56:02Z</updated>
+    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/ollama-rocm/202412150256</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/ollama-rocm/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: shutdown-scheduler-git</title>
-    <updated>2024-12-11T07:05:16Z</updated>
-    <id>shutdown-scheduler-git-1733900716</id>
-    <link href="https://aur.archlinux.org/packages/shutdown-scheduler-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: ollama-docs 0.5.2-1 x86_64</title>
+    <updated>2024-12-15T02:56:01Z</updated>
+    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/ollama-docs/202412150256</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/ollama-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ollama-cuda 0.5.2-1 x86_64</title>
+    <updated>2024-12-15T02:56:01Z</updated>
+    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/ollama-cuda/202412150256</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/ollama-cuda/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ollama 0.5.2-1 x86_64</title>
+    <updated>2024-12-15T02:56:00Z</updated>
+    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/ollama/202412150256</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/ollama/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: catch2 3.7.1-1 x86_64</title>
+    <updated>2024-12-15T01:26:00Z</updated>
+    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/catch2/202412150126</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/catch2/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: pnpm 9.15.0-1 any</title>
@@ -3038,35 +3068,5 @@
     <updated>2024-12-14T15:40:03Z</updated>
     <id>tag:archlinux.org,2024-12-14:/packages/extra/x86_64/cargo-binstall/202412141540</id>
     <link href="https://archlinux.org/packages/extra/x86_64/cargo-binstall/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: hl 0.29.10-1 x86_64</title>
-    <updated>2024-12-14T15:37:50Z</updated>
-    <id>tag:archlinux.org,2024-12-14:/packages/extra/x86_64/hl/202412141537</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/hl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: cargo-nextest 0.9.86-1 x86_64</title>
-    <updated>2024-12-14T15:37:49Z</updated>
-    <id>tag:archlinux.org,2024-12-14:/packages/extra/x86_64/cargo-nextest/202412141537</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/cargo-nextest/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pahole 1:1.28-2 x86_64</title>
-    <updated>2024-12-14T15:27:08Z</updated>
-    <id>tag:archlinux.org,2024-12-14:/packages/extra-testing/x86_64/pahole/202412141527</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/pahole/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ostra-cg 1:1.28-2 x86_64</title>
-    <updated>2024-12-14T15:27:08Z</updated>
-    <id>tag:archlinux.org,2024-12-14:/packages/extra-testing/x86_64/ostra-cg/202412141527</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/ostra-cg/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: archlinux-appstream-data 20241214-1 any</title>
-    <updated>2024-12-14T15:25:33Z</updated>
-    <id>tag:archlinux.org,2024-12-14:/packages/extra/any/archlinux-appstream-data/202412141525</id>
-    <link href="https://archlinux.org/packages/extra/any/archlinux-appstream-data/" rel="alternate"></link>
   </entry>
 </feed>
