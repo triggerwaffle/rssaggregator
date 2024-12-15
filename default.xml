@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2024-12-15T12:23:35Z</updated>
+  <updated>2024-12-15T18:16:31Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -430,6 +430,12 @@
     <link href="https://qiita.com/namatya/items/1e4c7fe86bcf3542b20c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: Speaking Out Only When It's Convenient To Do So</title>
+    <updated>2024-12-15T14:01:01Z</updated>
+    <id>yt:video:zTTYnTsry0E</id>
+    <link href="https://www.youtube.com/watch?v=zTTYnTsry0E" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: How To Easily Install Debian Unstable</title>
     <updated>2024-12-12T12:00:40Z</updated>
     <id>yt:video:UhZQsXSW2SM</id>
@@ -512,12 +518,6 @@
     <updated>2024-11-03T14:00:01Z</updated>
     <id>yt:video:aH25PrEJbVo</id>
     <link href="https://www.youtube.com/watch?v=aH25PrEJbVo" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: Hey, DT! I Figured Out Your Password. (It's **)</title>
-    <updated>2024-10-31T13:00:42Z</updated>
-    <id>yt:video:X_c9VO2QZe0</id>
-    <link href="https://www.youtube.com/watch?v=X_c9VO2QZe0" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: Google、オープンソースのセキュリティパッチ検証ツール「Vanir」を公開　多種多様なAndroidデバイスの脆弱性対応を支援するアプローチとは</title>
@@ -970,6 +970,12 @@
     <link href="https://www.youtube.com/watch?v=ZdbDJBn-F_U" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: Kubernetesのメモリマネージャ機能が正式版に。NUMAサーバでCPUとメモリ割り当ての最適化による性能向上など実現</title>
+    <updated>2024-12-16T14:54:08Z</updated>
+    <id>tag:www.publickey1.jp,2024://2.8058</id>
+    <link href="https://www.publickey1.jp/blog/24/kubernetesnumacpu.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: 自律的にプログラミングをするAIエージェント「Jules」、Googleが発表。人間がタスクを与えると実装計画を作成、コードの生成や変更、バグフィクスなどを実行</title>
     <updated>2024-12-12T18:14:26Z</updated>
     <id>tag:www.publickey1.jp,2024://2.8057</id>
@@ -1052,12 +1058,6 @@
     <updated>2024-12-03T20:30:23Z</updated>
     <id>tag:www.publickey1.jp,2024://2.8043</id>
     <link href="https://www.publickey1.jp/blog/24/aiamazon_q_developer.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: ［速報］Amazon、自社開発の基盤モデル「Amazon Nova」発表。テキストから画像や動画の生成、マルチモーダルまで対応</title>
-    <updated>2024-12-03T20:03:53Z</updated>
-    <id>tag:www.publickey1.jp,2024://2.8042</id>
-    <link href="https://www.publickey1.jp/blog/24/amazonamazon_nova.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Time for a New Hat! ―Fedoraプロジェクトリーダーが交代へ</title>
@@ -4510,34 +4510,16 @@
     <link href="https://gihyo.jp/article/2023/12/blender-basics-25?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: セキュリティエンジニアって200職あんねん（分類とキャリアの話） - Qiita</title>
-    <updated>2024-12-15T00:10:50Z</updated>
-    <id>tag:qiita.com,2024-12-15:/ahera/items/3bea4df41423ef208700</id>
-    <link href="https://qiita.com/ahera/items/3bea4df41423ef208700" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Microsoft、WordやPowerPoint、ExcelなどOfficeファイルをMarkdownファイルに変換できる「MarkItDown」ライブラリを公開。</title>
-    <updated>2024-12-14T15:12:02Z</updated>
-    <id>tag:applech2.com,2024-12-14:/archives/20241214-microsoft-markitdown.html</id>
-    <link href="https://applech2.com/archives/20241214-microsoft-markitdown.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: セルフレジは社会的に失敗だった？ 有人レジに戻す動きも</title>
     <updated>2024-12-15T08:59:25Z</updated>
     <id>tag:www.gizmodo.jp,2024-12-15:/2024/12/the-self-checkout-nightmare-may-finally-be-ending-jpn-1.html</id>
     <link href="https://www.gizmodo.jp/2024/12/the-self-checkout-nightmare-may-finally-be-ending-jpn-1.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: macOSやLinuxからWindowsに移行したら快適になった話</title>
-    <updated>2024-12-14T08:59:45Z</updated>
-    <id>tag:www.eisbahn.jp,2024-12-14:/yoichiro/2024/12/to_windows.html</id>
-    <link href="https://www.eisbahn.jp/yoichiro/2024/12/to_windows.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Gitブランチフロー規約 | Future Enterprise Coding Standards</title>
-    <updated>2024-08-23T09:33:05Z</updated>
-    <id>tag:future-architect.github.io,2024-08-23:/coding-standards/documents/forGitBranch/git_branch_standards.html</id>
-    <link href="https://future-architect.github.io/coding-standards/documents/forGitBranch/git_branch_standards.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: セキュリティエンジニアって200職あんねん（分類とキャリアの話） - Qiita</title>
+    <updated>2024-12-15T00:10:50Z</updated>
+    <id>tag:qiita.com,2024-12-15:/ahera/items/3bea4df41423ef208700</id>
+    <link href="https://qiita.com/ahera/items/3bea4df41423ef208700" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 子育てしながら個人開発を続けるエンジニアのメモ - maru source</title>
@@ -4546,16 +4528,16 @@
     <link href="https://blog.h13i32maru.jp/entry/2024/12/15/100125" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: Microsoft、WordやPowerPoint、ExcelなどOfficeファイルをMarkdownファイルに変換できる「MarkItDown」ライブラリを公開。</title>
+    <updated>2024-12-14T15:12:02Z</updated>
+    <id>tag:applech2.com,2024-12-14:/archives/20241214-microsoft-markitdown.html</id>
+    <link href="https://applech2.com/archives/20241214-microsoft-markitdown.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: WindowsとiPhoneでファイル共有。できるようになりました</title>
     <updated>2024-12-15T00:05:29Z</updated>
     <id>tag:www.gizmodo.jp,2024-12-15:/2024/12/windows-phone-link.html</id>
     <link href="https://www.gizmodo.jp/2024/12/windows-phone-link.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【初心者必見】Python中級者になるためのテクニック29選 - Qiita</title>
-    <updated>2024-12-13T12:14:54Z</updated>
-    <id>tag:qiita.com,2024-12-13:/ymiya14/items/15d2f25ea6491f0d07f6</id>
-    <link href="https://qiita.com/ymiya14/items/15d2f25ea6491f0d07f6" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: iPhoneはMVNO回線に不向きかもしれない【解説】</title>
@@ -4564,22 +4546,10 @@
     <link href="https://skyblue-next.com/archives/2165" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: JavaScript で GraphQL サーバーの技術選定をする際の登場人物 - mizdra's blog</title>
-    <updated>2024-12-15T00:50:46Z</updated>
-    <id>tag:www.mizdra.net,2024-12-15:/entry/2024/12/15/000000</id>
-    <link href="https://www.mizdra.net/entry/2024/12/15/000000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Gitブランチフロー規約の紹介 | フューチャー技術ブログ</title>
-    <updated>2024-12-14T13:26:36Z</updated>
-    <id>tag:future-architect.github.io,2024-12-14:/articles/20241214a/</id>
-    <link href="https://future-architect.github.io/articles/20241214a/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 2024年買ったもの（技術書以外） - Magnolia Tech</title>
-    <updated>2024-12-14T07:47:28Z</updated>
-    <id>tag:blog.magnolia.tech,2024-12-14:/entry/2024/12/14/160722</id>
-    <link href="https://blog.magnolia.tech/entry/2024/12/14/160722" rel="alternate"></link>
+    <title>1:hatena_blog_it: Gitブランチフロー規約 | Future Enterprise Coding Standards</title>
+    <updated>2024-08-23T09:33:05Z</updated>
+    <id>tag:future-architect.github.io,2024-08-23:/coding-standards/documents/forGitBranch/git_branch_standards.html</id>
+    <link href="https://future-architect.github.io/coding-standards/documents/forGitBranch/git_branch_standards.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 海外から怪しい着信があったらどうする？　「電話に出ない」以外の効果的な対処法</title>
@@ -4588,16 +4558,28 @@
     <link href="https://www.itmedia.co.jp/mobile/articles/2412/15/news037.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 米OpenAI、「AGI」の存在を匂わせ　「ライブ中には見せないで」　イベントは残り5日間、発表を期待する声も</title>
-    <updated>2024-12-14T06:03:18Z</updated>
-    <id>tag:www.itmedia.co.jp,2024-12-14:/aiplus/articles/2412/14/news089.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2412/14/news089.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 5分でわかるDuckDB</title>
+    <updated>2024-12-14T17:00:27Z</updated>
+    <id>tag:speakerdeck.com,2024-12-14:/chanyou0311/5fen-tewakaruduckdb</id>
+    <link href="https://speakerdeck.com/chanyou0311/5fen-tewakaruduckdb" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【八丁】4x2.5GbE + 2x10GbE！XikeStor SKS3200-4E2Xを買ってみた - あっきぃ日誌</title>
-    <updated>2024-11-30T14:09:37Z</updated>
-    <id>tag:akkiesoft.hatenablog.jp,2024-11-30:/entry/20241130/1732938355</id>
-    <link href="https://akkiesoft.hatenablog.jp/entry/20241130/1732938355" rel="alternate"></link>
+    <title>1:hatena_blog_it: macOSやLinuxからWindowsに移行したら快適になった話</title>
+    <updated>2024-12-14T08:59:45Z</updated>
+    <id>tag:www.eisbahn.jp,2024-12-14:/yoichiro/2024/12/to_windows.html</id>
+    <link href="https://www.eisbahn.jp/yoichiro/2024/12/to_windows.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: JavaScript で GraphQL サーバーの技術選定をする際の登場人物 - mizdra's blog</title>
+    <updated>2024-12-15T00:50:46Z</updated>
+    <id>tag:www.mizdra.net,2024-12-15:/entry/2024/12/15/000000</id>
+    <link href="https://www.mizdra.net/entry/2024/12/15/000000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2画面展開!? へ、へんたいモバイルモニターだァーーッ！（感動）</title>
+    <updated>2024-12-15T05:23:58Z</updated>
+    <id>tag:www.gizmodo.jp,2024-12-15:/2024/12/japannext_portable_monitor.html</id>
+    <link href="https://www.gizmodo.jp/2024/12/japannext_portable_monitor.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: runnを用いたバックエンドテストの試行錯誤の変遷とこれから - freee Developers Hub</title>
@@ -4612,10 +4594,40 @@
     <link href="https://cyanlog.hatenablog.com/entry/Surviving-as-a-Nameless-VPoE" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 2画面展開!? へ、へんたいモバイルモニターだァーーッ！（感動）</title>
-    <updated>2024-12-15T05:23:58Z</updated>
-    <id>tag:www.gizmodo.jp,2024-12-15:/2024/12/japannext_portable_monitor.html</id>
-    <link href="https://www.gizmodo.jp/2024/12/japannext_portable_monitor.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Klogg - マルチプラットフォームの高速ログビューアー | ソフトアンテナ</title>
+    <updated>2024-12-15T09:26:01Z</updated>
+    <id>tag:softantenna.com,2024-12-15:/blog/klogg/</id>
+    <link href="https://softantenna.com/blog/klogg/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ニュース情報収集でやっていること</title>
+    <updated>2024-12-15T12:37:22Z</updated>
+    <id>tag:www.kokumoto.com,2024-12-15:/misc/information-skimming-sources/</id>
+    <link href="https://www.kokumoto.com/misc/information-skimming-sources/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: SNSで自分の投稿を消すパターンを調べてみた。 - 世界のねじを巻くブログ</title>
+    <updated>2024-12-15T05:41:57Z</updated>
+    <id>tag:www.nejimakiblog.com,2024-12-15:/entry/bluesky-delete-post-final-words-deletion</id>
+    <link href="https://www.nejimakiblog.com/entry/bluesky-delete-post-final-words-deletion" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 開発速度よりも大事なものを見つけた話 - Algomatic Tech Blog</title>
+    <updated>2024-12-15T11:30:40Z</updated>
+    <id>tag:tech.algomatic.jp,2024-12-15:/entry/2024/12/15/195307</id>
+    <link href="https://tech.algomatic.jp/entry/2024/12/15/195307" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2024年買ったもの（技術書以外） - Magnolia Tech</title>
+    <updated>2024-12-14T07:47:28Z</updated>
+    <id>tag:blog.magnolia.tech,2024-12-14:/entry/2024/12/14/160722</id>
+    <link href="https://blog.magnolia.tech/entry/2024/12/14/160722" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Terraform 1.10がリリースされました</title>
+    <updated>2024-12-15T07:18:29Z</updated>
+    <id>tag:zenn.dev,2024-12-15:/taromurata/articles/terraform_110</id>
+    <link href="https://zenn.dev/taromurata/articles/terraform_110" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 飲酒sudoを防止するシステムを作りました : 食塩が出現する日記</title>
@@ -4624,34 +4636,28 @@
     <link href="https://solt9029.livedoor.blog/archives/84201011.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: モノリスの運用課題を解決するためにコードオーナーをSentryとDatadogに送る - Timee Product Team Blog</title>
-    <updated>2024-12-14T02:06:57Z</updated>
-    <id>tag:tech.timee.co.jp,2024-12-14:/entry/2024/12/14/100000</id>
-    <link href="https://tech.timee.co.jp/entry/2024/12/14/100000" rel="alternate"></link>
+    <title>1:hatena_blog_it: React 19 + Jotaiを試して気づいた�注意点</title>
+    <updated>2024-12-15T13:03:38Z</updated>
+    <id>tag:speakerdeck.com,2024-12-15:/uhyo/react-19-plus-jotaiwoshi-siteqi-duita-zhu-yi-dian</id>
+    <link href="https://speakerdeck.com/uhyo/react-19-plus-jotaiwoshi-siteqi-duita-zhu-yi-dian" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.</title>
-    <updated>2024-12-14T12:23:29Z</updated>
-    <id>tag:github.com,2024-12-14:/microsoft/markitdown</id>
-    <link href="https://github.com/microsoft/markitdown" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「SREをはじめよう」を読んで世界が変わった話</title>
+    <updated>2024-12-15T02:34:39Z</updated>
+    <id>tag:zenn.dev,2024-12-15:/oyasumipants/articles/d2a2648bbc8bc5</id>
+    <link href="https://zenn.dev/oyasumipants/articles/d2a2648bbc8bc5" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Windowsでsftpを使う</title>
-    <updated>2024-12-15T02:31:52Z</updated>
-    <id>tag:ascii.jp,2024-12-15:/elem/000/004/241/4241043/</id>
-    <link href="https://ascii.jp/elem/000/004/241/4241043/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 仮説行動とマップ・ループ・リープ</title>
+    <updated>2024-12-04T05:45:59Z</updated>
+    <id>tag:speakerdeck.com,2024-12-04:/tumada/jia-shuo-xing-dong-tomatupurupuripu</id>
+    <link href="https://speakerdeck.com/tumada/jia-shuo-xing-dong-tomatupurupuripu" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 触れて感じて、プロダクトの鼓動を ～社内テストの舞台裏～ - enechain Tech Blog</title>
-    <updated>2024-12-15T02:51:58Z</updated>
-    <id>tag:techblog.enechain.com,2024-12-15:/entry/internal-product-testing</id>
-    <link href="https://techblog.enechain.com/entry/internal-product-testing" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: PICTでEmacsからテストケースを生成する - Qiita</title>
-    <updated>2024-12-14T04:23:28Z</updated>
-    <id>tag:qiita.com,2024-12-14:/tadsan/items/63c20a0bb5dc44158bb7</id>
-    <link href="https://qiita.com/tadsan/items/63c20a0bb5dc44158bb7" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【八丁】4x2.5GbE + 2x10GbE！XikeStor SKS3200-4E2Xを買ってみた - あっきぃ日誌</title>
+    <updated>2024-11-30T14:09:37Z</updated>
+    <id>tag:akkiesoft.hatenablog.jp,2024-11-30:/entry/20241130/1732938355</id>
+    <link href="https://akkiesoft.hatenablog.jp/entry/20241130/1732938355" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Python アプリケーションのパフォーマンス調査に便利な Cloud Profiler の結果を見るコツ - GO Tech Blog</title>
@@ -4660,21 +4666,15 @@
     <link href="https://techblog.goinc.jp/entry/2024/12/14/090000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub - plausible/analytics: Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</title>
-    <updated>2020-04-11T01:27:30Z</updated>
-    <id>tag:github.com,2020-04-11:/plausible/analytics</id>
-    <link href="https://github.com/plausible/analytics" rel="alternate"></link>
+    <title>1:hatena_blog_it: 米OpenAI、「AGI」の存在を匂わせ　「ライブ中には見せないで」　イベントは残り5日間、発表を期待する声も</title>
+    <updated>2024-12-14T06:03:18Z</updated>
+    <id>tag:www.itmedia.co.jp,2024-12-14:/aiplus/articles/2412/14/news089.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2412/14/news089.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 道路工事をしていたら、ピラミッドが見つかりました</title>
-    <updated>2024-12-14T12:31:06Z</updated>
-    <id>tag:www.gizmodo.jp,2024-12-14:/2024/12/road-construction-crew-unearths-1000-year-old-pyramid-in-mexico.html</id>
-    <link href="https://www.gizmodo.jp/2024/12/road-construction-crew-unearths-1000-year-old-pyramid-in-mexico.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Next.jsの型を厳密に定義しなおしてロジックのミスを発見する</title>
-    <updated>2024-12-14T03:07:24Z</updated>
-    <id>tag:zenn.dev,2024-12-14:/yumemi_inc/articles/nextjs-api-route-handler-request-body-type-safer</id>
-    <link href="https://zenn.dev/yumemi_inc/articles/nextjs-api-route-handler-request-body-type-safer" rel="alternate"></link>
+    <title>1:hatena_blog_it: 新しい AWS User Notifications SDK の発表 - AWS</title>
+    <updated>2024-12-15T11:07:07Z</updated>
+    <id>tag:aws.amazon.com,2024-12-15:/jp/about-aws/whats-new/2024/11/aws-user-notifications-sdk/</id>
+    <link href="https://aws.amazon.com/jp/about-aws/whats-new/2024/11/aws-user-notifications-sdk/" rel="alternate"></link>
   </entry>
 </feed>
