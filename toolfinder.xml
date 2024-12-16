@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2024-12-16T01:06:36Z</updated>
+  <updated>2024-12-16T06:19:56Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2170,6 +2170,24 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: phoenix-arch</title>
+    <updated>2024-12-16T05:37:30Z</updated>
+    <id>phoenix-arch-1734327450</id>
+    <link href="https://aur.archlinux.org/packages/phoenix-arch" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: limbo</title>
+    <updated>2024-12-16T03:42:49Z</updated>
+    <id>limbo-1734320569</id>
+    <link href="https://aur.archlinux.org/packages/limbo" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: dye-bin</title>
+    <updated>2024-12-16T01:10:45Z</updated>
+    <id>dye-bin-1734311445</id>
+    <link href="https://aur.archlinux.org/packages/dye-bin" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: modenv-bin</title>
     <updated>2024-12-16T00:58:08Z</updated>
     <id>modenv-bin-1734310688</id>
@@ -2752,22 +2770,94 @@
     <link href="https://aur.archlinux.org/packages/kellnr" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-pyfinitdiff</title>
-    <updated>2024-12-12T16:49:11Z</updated>
-    <id>python-pyfinitdiff-1734022151</id>
-    <link href="https://aur.archlinux.org/packages/python-pyfinitdiff" rel="alternate"></link>
+    <title>2:archlinux_new_packages: shairport-sync 4.3.5-1 x86_64</title>
+    <updated>2024-12-16T04:32:28Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/x86_64/shairport-sync/202412160432</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/shairport-sync/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-mpsplots</title>
-    <updated>2024-12-12T16:46:24Z</updated>
-    <id>python-mpsplots-1734021984</id>
-    <link href="https://aur.archlinux.org/packages/python-mpsplots" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-bcc 0.32.0-1 x86_64</title>
+    <updated>2024-12-16T04:28:22Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/x86_64/python-bcc/202412160428</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-bcc/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: wl-tray-bridge-git</title>
-    <updated>2024-12-12T16:25:45Z</updated>
-    <id>wl-tray-bridge-git-1734020745</id>
-    <link href="https://aur.archlinux.org/packages/wl-tray-bridge-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: booster 0.12-1 x86_64</title>
+    <updated>2024-12-16T04:28:22Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/x86_64/booster/202412160428</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/booster/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: bcc-tools 0.32.0-1 x86_64</title>
+    <updated>2024-12-16T04:28:21Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/x86_64/bcc-tools/202412160428</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/bcc-tools/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: bcc 0.32.0-1 x86_64</title>
+    <updated>2024-12-16T04:28:21Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/x86_64/bcc/202412160428</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/bcc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: gnome-contacts 47.1.1-1 x86_64</title>
+    <updated>2024-12-16T04:03:46Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/x86_64/gnome-contacts/202412160403</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/gnome-contacts/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: thunderbird-dark-reader 4.9.99-1 any</title>
+    <updated>2024-12-16T01:53:05Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/any/thunderbird-dark-reader/202412160153</id>
+    <link href="https://archlinux.org/packages/extra/any/thunderbird-dark-reader/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: firefox-dark-reader 4.9.99-1 any</title>
+    <updated>2024-12-16T01:53:04Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/any/firefox-dark-reader/202412160153</id>
+    <link href="https://archlinux.org/packages/extra/any/firefox-dark-reader/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: dark-reader 4.9.99-1 any</title>
+    <updated>2024-12-16T01:53:04Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/any/dark-reader/202412160153</id>
+    <link href="https://archlinux.org/packages/extra/any/dark-reader/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: watchexec 2.2.1-1 x86_64</title>
+    <updated>2024-12-16T01:32:45Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/x86_64/watchexec/202412160132</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/watchexec/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: brasero 3.12.3+r41+g98342080-1 x86_64</title>
+    <updated>2024-12-16T01:26:17Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/x86_64/brasero/202412160126</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/brasero/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: weechat 4.5.0-1 x86_64</title>
+    <updated>2024-12-16T01:18:26Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra-testing/x86_64/weechat/202412160118</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/weechat/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: archlinux-repro 20241215-1 any</title>
+    <updated>2024-12-16T01:12:25Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/any/archlinux-repro/202412160112</id>
+    <link href="https://archlinux.org/packages/extra/any/archlinux-repro/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: minio-client 2024.11.21-1 x86_64</title>
+    <updated>2024-12-16T01:07:53Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/x86_64/minio-client/202412160107</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/minio-client/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: minio 2024.12.13-1 x86_64</title>
+    <updated>2024-12-16T01:07:53Z</updated>
+    <id>tag:archlinux.org,2024-12-16:/packages/extra/x86_64/minio/202412160107</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/minio/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: musescore 4.4.4-1 x86_64</title>
@@ -2978,95 +3068,5 @@
     <updated>2024-12-15T18:08:38Z</updated>
     <id>tag:archlinux.org,2024-12-15:/packages/extra-testing/x86_64/mingw-w64-gcc/202412151808</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/mingw-w64-gcc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: archlinux-contrib 20241215-1 any</title>
-    <updated>2024-12-15T17:45:15Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/extra/any/archlinux-contrib/202412151745</id>
-    <link href="https://archlinux.org/packages/extra/any/archlinux-contrib/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: television 0.7.1-1 x86_64</title>
-    <updated>2024-12-15T17:19:31Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/television/202412151719</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/television/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: kmon 1.7.1-1 x86_64</title>
-    <updated>2024-12-15T17:19:31Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/kmon/202412151719</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/kmon/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: chess-tui 1.6.0-1 x86_64</title>
-    <updated>2024-12-15T17:05:35Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/chess-tui/202412151705</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/chess-tui/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-libtirpc 1.3.6-1 x86_64</title>
-    <updated>2024-12-15T16:58:00Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/multilib/x86_64/lib32-libtirpc/202412151658</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-libtirpc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-libgpg-error 1.51-1 x86_64</title>
-    <updated>2024-12-15T16:50:25Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/multilib/x86_64/lib32-libgpg-error/202412151650</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-libgpg-error/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-vkd3d 1.14-1 x86_64</title>
-    <updated>2024-12-15T16:49:10Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/multilib/x86_64/lib32-vkd3d/202412151649</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-vkd3d/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vkd3d 1.14-1 x86_64</title>
-    <updated>2024-12-15T16:49:08Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/vkd3d/202412151649</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/vkd3d/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gnome-font-viewer 48alpha.1-1 x86_64</title>
-    <updated>2024-12-15T16:38:05Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/gnome-unstable/x86_64/gnome-font-viewer/202412151638</id>
-    <link href="https://archlinux.org/packages/gnome-unstable/x86_64/gnome-font-viewer/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: tuba 0.9.0-1 x86_64</title>
-    <updated>2024-12-15T16:37:59Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/tuba/202412151637</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/tuba/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dart 3.6.0-1 x86_64</title>
-    <updated>2024-12-15T16:27:35Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/dart/202412151627</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dart/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-libxcursor 1.2.3-1 x86_64</title>
-    <updated>2024-12-15T16:26:06Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/multilib/x86_64/lib32-libxcursor/202412151626</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-libxcursor/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: kubetui 1.5.4-1 x86_64</title>
-    <updated>2024-12-15T15:38:39Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/kubetui/202412151538</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/kubetui/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: bacon 3.6.0-1 x86_64</title>
-    <updated>2024-12-15T15:38:38Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/bacon/202412151538</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/bacon/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: limesuite 23.11.0-4 x86_64</title>
-    <updated>2024-12-15T15:01:54Z</updated>
-    <id>tag:archlinux.org,2024-12-15:/packages/extra/x86_64/limesuite/202412151501</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/limesuite/" rel="alternate"></link>
   </entry>
 </feed>
