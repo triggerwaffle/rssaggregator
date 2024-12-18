@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2024-12-18T01:01:34Z</updated>
+  <updated>2024-12-18T06:18:24Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2206,6 +2206,12 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: check-symlinks</title>
+    <updated>2024-12-18T04:52:17Z</updated>
+    <id>check-symlinks-1734497537</id>
+    <link href="https://aur.archlinux.org/packages/check-symlinks" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: python-js2py</title>
     <updated>2024-12-17T22:15:21Z</updated>
     <id>python-js2py-1734473721</id>
@@ -2800,10 +2806,100 @@
     <link href="https://aur.archlinux.org/packages/linux-firmware-gaokun3" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: concrnt-gateway-bin</title>
-    <updated>2024-12-15T08:47:37Z</updated>
-    <id>concrnt-gateway-bin-1734252457</id>
-    <link href="https://aur.archlinux.org/packages/concrnt-gateway-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-securesystemslib 1.2.0-1 any</title>
+    <updated>2024-12-18T06:12:15Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/any/python-securesystemslib/202412180612</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-securesystemslib/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: mkdocs-material 9.5.49-1 any</title>
+    <updated>2024-12-18T06:12:13Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/any/mkdocs-material/202412180612</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/mkdocs-material/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pytest-bdd 8.1.0-1 any</title>
+    <updated>2024-12-18T06:05:04Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/any/python-pytest-bdd/202412180605</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-pytest-bdd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-openai 1.58.1-1 any</title>
+    <updated>2024-12-18T06:03:41Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/any/python-openai/202412180603</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-openai/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-mako 1.3.8-1 any</title>
+    <updated>2024-12-18T06:02:38Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/any/python-mako/202412180602</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-mako/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-inline-snapshot 0.17.1-1 any</title>
+    <updated>2024-12-18T06:02:37Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/any/python-inline-snapshot/202412180602</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-inline-snapshot/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-jiter 0.8.2-1 x86_64</title>
+    <updated>2024-12-18T05:59:01Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/x86_64/python-jiter/202412180559</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-jiter/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-cryptography 44.0.0-1 x86_64</title>
+    <updated>2024-12-18T05:59:00Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/x86_64/python-cryptography/202412180559</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-cryptography/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-hiredis 3.1.0-1 x86_64</title>
+    <updated>2024-12-18T05:56:23Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/x86_64/python-hiredis/202412180556</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-hiredis/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-fuse 1.0.9-1 x86_64</title>
+    <updated>2024-12-18T05:56:22Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/x86_64/python-fuse/202412180556</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-fuse/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-cramjam 2.9.1-1 x86_64</title>
+    <updated>2024-12-18T05:54:53Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/x86_64/python-cramjam/202412180554</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-cramjam/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-fissix 24.4.24-1 any</title>
+    <updated>2024-12-18T05:54:52Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/any/python-fissix/202412180554</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-fissix/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-diff-cover 9.2.1-1 any</title>
+    <updated>2024-12-18T05:48:33Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/any/python-diff-cover/202412180548</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-diff-cover/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hotdoc 0.17.2-1 x86_64</title>
+    <updated>2024-12-18T05:38:32Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/x86_64/hotdoc/202412180538</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/hotdoc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: helm 3.16.4-1 x86_64</title>
+    <updated>2024-12-18T05:35:58Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/x86_64/helm/202412180535</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/helm/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: azure-cli 2.67.0-2 any</title>
+    <updated>2024-12-18T05:09:37Z</updated>
+    <id>tag:archlinux.org,2024-12-18:/packages/extra-testing/any/azure-cli/202412180509</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/azure-cli/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: scx-scheds 1.0.8-1 x86_64</title>
@@ -3008,101 +3104,5 @@
     <updated>2024-12-17T19:19:49Z</updated>
     <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/php-enchant/202412171919</id>
     <link href="https://archlinux.org/packages/extra/x86_64/php-enchant/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-embed 8.3.15-1 x86_64</title>
-    <updated>2024-12-17T19:19:48Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/php-embed/202412171919</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-embed/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-dblib 8.3.15-1 x86_64</title>
-    <updated>2024-12-17T19:19:48Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/php-dblib/202412171919</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-dblib/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-cgi 8.3.15-1 x86_64</title>
-    <updated>2024-12-17T19:19:47Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/php-cgi/202412171919</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-cgi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php-apache 8.3.15-1 x86_64</title>
-    <updated>2024-12-17T19:19:47Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/php-apache/202412171919</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php-apache/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: php 8.3.15-1 x86_64</title>
-    <updated>2024-12-17T19:19:46Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/php/202412171919</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/php/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xorg-server-xvfb 21.1.15-1 x86_64</title>
-    <updated>2024-12-17T19:15:47Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/xorg-server-xvfb/202412171915</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/xorg-server-xvfb/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xorg-server-xnest 21.1.15-1 x86_64</title>
-    <updated>2024-12-17T19:15:46Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/xorg-server-xnest/202412171915</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/xorg-server-xnest/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xorg-server-xephyr 21.1.15-1 x86_64</title>
-    <updated>2024-12-17T19:15:46Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/xorg-server-xephyr/202412171915</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/xorg-server-xephyr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xorg-server-devel 21.1.15-1 x86_64</title>
-    <updated>2024-12-17T19:15:45Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/xorg-server-devel/202412171915</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/xorg-server-devel/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xorg-server-common 21.1.15-1 x86_64</title>
-    <updated>2024-12-17T19:15:45Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/xorg-server-common/202412171915</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/xorg-server-common/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xorg-server 21.1.15-1 x86_64</title>
-    <updated>2024-12-17T19:15:44Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/xorg-server/202412171915</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/xorg-server/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: chafa 1.14.5-1 x86_64</title>
-    <updated>2024-12-17T19:12:48Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/chafa/202412171912</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/chafa/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-faker 30.9.0-1 any</title>
-    <updated>2024-12-17T19:11:44Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra-testing/any/python-faker/202412171911</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-faker/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: fcitx5 5.1.11-2 x86_64</title>
-    <updated>2024-12-17T19:05:21Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/fcitx5/202412171905</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/fcitx5/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-nose 1.3.7-18 any</title>
-    <updated>2024-12-17T19:05:01Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra-testing/any/python-nose/202412171905</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-nose/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: odin dev_2024_12-2 x86_64</title>
-    <updated>2024-12-17T18:58:03Z</updated>
-    <id>tag:archlinux.org,2024-12-17:/packages/extra/x86_64/odin/202412171858</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/odin/" rel="alternate"></link>
   </entry>
 </feed>
