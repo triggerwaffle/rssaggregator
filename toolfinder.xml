@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2024-12-24T00:58:45Z</updated>
+  <updated>2024-12-24T06:17:48Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2206,6 +2206,12 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: buildifier</title>
+    <updated>2024-12-24T03:29:31Z</updated>
+    <id>buildifier-1735010971</id>
+    <link href="https://aur.archlinux.org/packages/buildifier" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: python-audioop-lts</title>
     <updated>2024-12-23T23:53:42Z</updated>
     <id>python-audioop-lts-1734998022</id>
@@ -2800,10 +2806,58 @@
     <link href="https://aur.archlinux.org/packages/wireshark-chainpack-rpc-block-dissector-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: strmassistant-bin</title>
-    <updated>2024-12-20T10:24:47Z</updated>
-    <id>strmassistant-bin-1734690287</id>
-    <link href="https://aur.archlinux.org/packages/strmassistant-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: parallel-docs 20241222-1 any</title>
+    <updated>2024-12-24T06:10:09Z</updated>
+    <id>tag:archlinux.org,2024-12-24:/packages/extra/any/parallel-docs/202412240610</id>
+    <link href="https://archlinux.org/packages/extra/any/parallel-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: parallel 20241222-1 any</title>
+    <updated>2024-12-24T06:10:08Z</updated>
+    <id>tag:archlinux.org,2024-12-24:/packages/extra/any/parallel/202412240610</id>
+    <link href="https://archlinux.org/packages/extra/any/parallel/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: kitty-terminfo 0.38.0-2 x86_64</title>
+    <updated>2024-12-24T02:40:09Z</updated>
+    <id>tag:archlinux.org,2024-12-24:/packages/extra/x86_64/kitty-terminfo/202412240240</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/kitty-terminfo/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: kitty-shell-integration 0.38.0-2 x86_64</title>
+    <updated>2024-12-24T02:40:08Z</updated>
+    <id>tag:archlinux.org,2024-12-24:/packages/extra/x86_64/kitty-shell-integration/202412240240</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/kitty-shell-integration/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: kitty 0.38.0-2 x86_64</title>
+    <updated>2024-12-24T02:40:08Z</updated>
+    <id>tag:archlinux.org,2024-12-24:/packages/extra/x86_64/kitty/202412240240</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/kitty/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-renderdoc 1.36-2 x86_64</title>
+    <updated>2024-12-24T02:00:45Z</updated>
+    <id>tag:archlinux.org,2024-12-24:/packages/multilib/x86_64/lib32-renderdoc/202412240200</id>
+    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-renderdoc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: mitmproxy2swagger 0.14.0-1 any</title>
+    <updated>2024-12-24T01:41:38Z</updated>
+    <id>tag:archlinux.org,2024-12-24:/packages/extra/any/mitmproxy2swagger/202412240141</id>
+    <link href="https://archlinux.org/packages/extra/any/mitmproxy2swagger/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-mitmproxy-rs 0.10.7-1 x86_64</title>
+    <updated>2024-12-24T01:39:09Z</updated>
+    <id>tag:archlinux.org,2024-12-24:/packages/extra/x86_64/python-mitmproxy-rs/202412240139</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-mitmproxy-rs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: mitmproxy 11.0.2-1 any</title>
+    <updated>2024-12-24T01:39:07Z</updated>
+    <id>tag:archlinux.org,2024-12-24:/packages/extra/any/mitmproxy/202412240139</id>
+    <link href="https://archlinux.org/packages/extra/any/mitmproxy/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: xdg-desktop-portal-hyprland 1.3.9-3 x86_64</title>
@@ -3050,59 +3104,5 @@
     <updated>2024-12-23T13:46:01Z</updated>
     <id>tag:archlinux.org,2024-12-23:/packages/multilib/x86_64/lib32-fakeroot/202412231346</id>
     <link href="https://archlinux.org/packages/multilib/x86_64/lib32-fakeroot/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: fakeroot 1.36.2-1 x86_64</title>
-    <updated>2024-12-23T13:45:24Z</updated>
-    <id>tag:archlinux.org,2024-12-23:/packages/core/x86_64/fakeroot/202412231345</id>
-    <link href="https://archlinux.org/packages/core/x86_64/fakeroot/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-s3transfer 0.10.4-1 any</title>
-    <updated>2024-12-23T13:29:39Z</updated>
-    <id>tag:archlinux.org,2024-12-23:/packages/extra-testing/any/python-s3transfer/202412231329</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-s3transfer/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-botocore 1.35.81-1 any</title>
-    <updated>2024-12-23T13:29:38Z</updated>
-    <id>tag:archlinux.org,2024-12-23:/packages/extra-testing/any/python-botocore/202412231329</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-botocore/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-boto3 1.35.81-1 any</title>
-    <updated>2024-12-23T13:29:37Z</updated>
-    <id>tag:archlinux.org,2024-12-23:/packages/extra-testing/any/python-boto3/202412231329</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-boto3/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-cli 1.36.22-1 any</title>
-    <updated>2024-12-23T13:29:36Z</updated>
-    <id>tag:archlinux.org,2024-12-23:/packages/extra-testing/any/aws-cli/202412231329</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/aws-cli/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: openxr 1.1.43-1 x86_64</title>
-    <updated>2024-12-23T12:55:22Z</updated>
-    <id>tag:archlinux.org,2024-12-23:/packages/extra/x86_64/openxr/202412231255</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/openxr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qcad 3.31.2.7-1 x86_64</title>
-    <updated>2024-12-23T10:19:27Z</updated>
-    <id>tag:archlinux.org,2024-12-23:/packages/extra/x86_64/qcad/202412231019</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/qcad/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: weechat 4.5.1-1 x86_64</title>
-    <updated>2024-12-23T08:25:34Z</updated>
-    <id>tag:archlinux.org,2024-12-23:/packages/extra/x86_64/weechat/202412230825</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/weechat/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-pyppmd 1.1.1-1 x86_64</title>
-    <updated>2024-12-23T08:25:33Z</updated>
-    <id>tag:archlinux.org,2024-12-23:/packages/extra/x86_64/python-pyppmd/202412230825</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/python-pyppmd/" rel="alternate"></link>
   </entry>
 </feed>
