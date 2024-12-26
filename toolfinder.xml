@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2024-12-26T12:23:28Z</updated>
+  <updated>2024-12-26T18:16:45Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2242,6 +2242,24 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: revbayes-bin</title>
+    <updated>2024-12-26T17:30:40Z</updated>
+    <id>revbayes-bin-1735234240</id>
+    <link href="https://aur.archlinux.org/packages/revbayes-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: anyfetch</title>
+    <updated>2024-12-26T16:54:46Z</updated>
+    <id>anyfetch-1735232086</id>
+    <link href="https://aur.archlinux.org/packages/anyfetch" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: chromashift-git</title>
+    <updated>2024-12-26T13:50:38Z</updated>
+    <id>chromashift-git-1735221038</id>
+    <link href="https://aur.archlinux.org/packages/chromashift-git" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: drop-oss-app</title>
     <updated>2024-12-26T11:26:55Z</updated>
     <id>drop-oss-app-1735212415</id>
@@ -2824,22 +2842,148 @@
     <link href="https://aur.archlinux.org/packages/python-dbg" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-standard-chunk</title>
-    <updated>2024-12-23T06:33:24Z</updated>
-    <id>python-standard-chunk-1734935604</id>
-    <link href="https://aur.archlinux.org/packages/python-standard-chunk" rel="alternate"></link>
+    <title>2:archlinux_new_packages: tukai 0.1.4-1 x86_64</title>
+    <updated>2024-12-26T18:09:55Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/tukai/202412261809</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/tukai/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-standard-aifc</title>
-    <updated>2024-12-23T06:32:56Z</updated>
-    <id>python-standard-aifc-1734935576</id>
-    <link href="https://aur.archlinux.org/packages/python-standard-aifc" rel="alternate"></link>
+    <title>2:archlinux_new_packages: global 6.6.14-1 x86_64</title>
+    <updated>2024-12-26T17:47:37Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/global/202412261747</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/global/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: dron-bin</title>
-    <updated>2024-12-23T06:18:25Z</updated>
-    <id>dron-bin-1734934705</id>
-    <link href="https://aur.archlinux.org/packages/dron-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: rtorrent 0.15.0-1 x86_64</title>
+    <updated>2024-12-26T17:39:51Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/rtorrent/202412261739</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rtorrent/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libtorrent 0.15.0-1 x86_64</title>
+    <updated>2024-12-26T17:39:50Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/libtorrent/202412261739</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libtorrent/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pyarrow 18.1.0-1 x86_64</title>
+    <updated>2024-12-26T16:25:20Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/python-pyarrow/202412261625</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-pyarrow/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-gdal 3.10.0-4 x86_64</title>
+    <updated>2024-12-26T16:25:19Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/python-gdal/202412261625</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-gdal/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: paraview 5.13.1-10 x86_64</title>
+    <updated>2024-12-26T16:25:17Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/paraview/202412261625</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/paraview/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: openmpi-docs 5.0.6-2 x86_64</title>
+    <updated>2024-12-26T16:25:16Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/openmpi-docs/202412261625</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/openmpi-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: openmpi 5.0.6-2 x86_64</title>
+    <updated>2024-12-26T16:25:16Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/openmpi/202412261625</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/openmpi/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libfabric 2.0.0-1 x86_64</title>
+    <updated>2024-12-26T16:25:15Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/libfabric/202412261625</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libfabric/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: gdal 3.10.0-4 x86_64</title>
+    <updated>2024-12-26T16:25:14Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/gdal/202412261625</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/gdal/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: arrow 18.1.0-2 x86_64</title>
+    <updated>2024-12-26T16:25:13Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/arrow/202412261625</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/arrow/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: adios2 2.10.2-6 x86_64</title>
+    <updated>2024-12-26T16:25:13Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/adios2/202412261625</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/adios2/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: sfml 3.0.0-1 x86_64</title>
+    <updated>2024-12-26T16:17:42Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra-testing/x86_64/sfml/202412261617</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/sfml/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libretro-dolphin 33044-3 x86_64</title>
+    <updated>2024-12-26T16:17:41Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra-testing/x86_64/libretro-dolphin/202412261617</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/libretro-dolphin/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: dolphin-emu-tool 1:2412-2 x86_64</title>
+    <updated>2024-12-26T16:17:40Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra-testing/x86_64/dolphin-emu-tool/202412261617</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/dolphin-emu-tool/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: dolphin-emu 1:2412-2 x86_64</title>
+    <updated>2024-12-26T16:17:40Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra-testing/x86_64/dolphin-emu/202412261617</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/dolphin-emu/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: csfml 3.0.0.git1-2 x86_64</title>
+    <updated>2024-12-26T16:17:39Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra-testing/x86_64/csfml/202412261617</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/csfml/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: gnome-panel 3.54.0-2 x86_64</title>
+    <updated>2024-12-26T16:14:47Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/gnome-panel/202412261614</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/gnome-panel/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-requests-ntlm 1.3.0-1 any</title>
+    <updated>2024-12-26T16:11:43Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/any/python-requests-ntlm/202412261611</id>
+    <link href="https://archlinux.org/packages/extra/any/python-requests-ntlm/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ruby-build 20241225.2-1 any</title>
+    <updated>2024-12-26T14:04:20Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra-testing/any/ruby-build/202412261404</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/ruby-build/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: onboard 1.4.1-11 x86_64</title>
+    <updated>2024-12-26T12:50:37Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/onboard/202412261250</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/onboard/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-amdvlk 2024.Q4.3-1 x86_64</title>
+    <updated>2024-12-26T12:44:51Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/multilib/x86_64/lib32-amdvlk/202412261244</id>
+    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-amdvlk/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: amdvlk 2024.Q4.3-1 x86_64</title>
+    <updated>2024-12-26T12:44:47Z</updated>
+    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/amdvlk/202412261244</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/amdvlk/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: qmmp 2.2.2-1 x86_64</title>
@@ -2996,149 +3140,5 @@
     <updated>2024-12-26T08:23:31Z</updated>
     <id>tag:archlinux.org,2024-12-26:/packages/extra-testing/any/python-httpcore/202412260823</id>
     <link href="https://archlinux.org/packages/extra-testing/any/python-httpcore/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: kitty-terminfo 0.38.1-1 x86_64</title>
-    <updated>2024-12-26T04:56:55Z</updated>
-    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/kitty-terminfo/202412260456</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/kitty-terminfo/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: kitty-shell-integration 0.38.1-1 x86_64</title>
-    <updated>2024-12-26T04:56:55Z</updated>
-    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/kitty-shell-integration/202412260456</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/kitty-shell-integration/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: kitty 0.38.1-1 x86_64</title>
-    <updated>2024-12-26T04:56:54Z</updated>
-    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/kitty/202412260456</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/kitty/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gnome-robots 41.1-1 x86_64</title>
-    <updated>2024-12-26T02:28:53Z</updated>
-    <id>tag:archlinux.org,2024-12-26:/packages/extra/x86_64/gnome-robots/202412260228</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/gnome-robots/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vice 3.9-1 x86_64</title>
-    <updated>2024-12-25T23:02:47Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/x86_64/vice/202412252302</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/vice/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-authlib 1.4.0-1 any</title>
-    <updated>2024-12-25T21:58:43Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra-testing/any/python-authlib/202412252158</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-authlib/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ibus-typing-booster 2.27.2-1 any</title>
-    <updated>2024-12-25T21:13:08Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/any/ibus-typing-booster/202412252113</id>
-    <link href="https://archlinux.org/packages/extra/any/ibus-typing-booster/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: z3 4.13.4-1 x86_64</title>
-    <updated>2024-12-25T20:48:40Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/x86_64/z3/202412252048</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/z3/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-z3-solver 4.13.4-1 x86_64</title>
-    <updated>2024-12-25T20:48:39Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/x86_64/python-z3-solver/202412252048</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/python-z3-solver/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: scapy 2.6.1-1 any</title>
-    <updated>2024-12-25T20:40:47Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/any/scapy/202412252040</id>
-    <link href="https://archlinux.org/packages/extra/any/scapy/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-scapy 2.6.1-1 any</title>
-    <updated>2024-12-25T20:40:46Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/any/python-scapy/202412252040</id>
-    <link href="https://archlinux.org/packages/extra/any/python-scapy/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: hcxtools 6.3.5-1 x86_64</title>
-    <updated>2024-12-25T20:36:33Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/x86_64/hcxtools/202412252036</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/hcxtools/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: hcxdumptool 6.3.5-1 x86_64</title>
-    <updated>2024-12-25T20:35:19Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/x86_64/hcxdumptool/202412252035</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/hcxdumptool/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ruby-nio4r 2.7.4-1 x86_64</title>
-    <updated>2024-12-25T20:29:42Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/x86_64/ruby-nio4r/202412252029</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/ruby-nio4r/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: routersploit 3.4.6-1 any</title>
-    <updated>2024-12-25T20:27:57Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/any/routersploit/202412252027</id>
-    <link href="https://archlinux.org/packages/extra/any/routersploit/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-netaddr 1.3.0-1 any</title>
-    <updated>2024-12-25T20:26:06Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/any/python-netaddr/202412252026</id>
-    <link href="https://archlinux.org/packages/extra/any/python-netaddr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-r2pipe 5.9.0-1 any</title>
-    <updated>2024-12-25T20:24:50Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/any/python-r2pipe/202412252024</id>
-    <link href="https://archlinux.org/packages/extra/any/python-r2pipe/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-yara 4.5.1-1 x86_64</title>
-    <updated>2024-12-25T20:23:02Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/x86_64/python-yara/202412252023</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/python-yara/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-termcolor 2.5.0-1 any</title>
-    <updated>2024-12-25T20:18:23Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/any/python-termcolor/202412252018</id>
-    <link href="https://archlinux.org/packages/extra/any/python-termcolor/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-ailment 9.2.134-1 any</title>
-    <updated>2024-12-25T20:17:08Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/any/python-ailment/202412252017</id>
-    <link href="https://archlinux.org/packages/extra/any/python-ailment/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-archinfo 9.2.134-1 any</title>
-    <updated>2024-12-25T20:16:01Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/any/python-archinfo/202412252016</id>
-    <link href="https://archlinux.org/packages/extra/any/python-archinfo/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-pefile 2024.8.26-1 any</title>
-    <updated>2024-12-25T20:14:54Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/any/python-pefile/202412252014</id>
-    <link href="https://archlinux.org/packages/extra/any/python-pefile/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-pyxbe 1.0.3-1 any</title>
-    <updated>2024-12-25T20:12:54Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/any/python-pyxbe/202412252012</id>
-    <link href="https://archlinux.org/packages/extra/any/python-pyxbe/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-pallets-sphinx-themes 2.3.0-1 any</title>
-    <updated>2024-12-25T20:12:53Z</updated>
-    <id>tag:archlinux.org,2024-12-25:/packages/extra/any/python-pallets-sphinx-themes/202412252012</id>
-    <link href="https://archlinux.org/packages/extra/any/python-pallets-sphinx-themes/" rel="alternate"></link>
   </entry>
 </feed>
