@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2024-12-27T12:22:52Z</updated>
+  <updated>2024-12-27T18:16:50Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -316,7 +316,7 @@
     <link href="https://qiita.com/takahiro_fukushima/items/4c6468f000a0104877d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: シェルスクリプトの終了処理を確実に行うテンプレ（POSIX準拠）</title>
+    <title>3:qiita_trend: trapを使ったシェルスクリプトの終了処理のテンプレ（POSIX準拠）</title>
     <updated>2024-12-25T14:39:39Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/1964868</id>
     <link href="https://qiita.com/ko1nksm/items/1606e5fadb734e8c5b3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
@@ -442,6 +442,12 @@
     <link href="https://qiita.com/mitsui_a/items/7218741642e602196da1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: Are People On Social Media Trolls...Or Just Stupid?</title>
+    <updated>2024-12-27T14:00:04Z</updated>
+    <id>yt:video:3zWyoYf9JXc</id>
+    <link href="https://www.youtube.com/watch?v=3zWyoYf9JXc" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: Hey, DT! What's Your Thoughts On The NixOS Drama?</title>
     <updated>2024-12-24T14:00:49Z</updated>
     <id>yt:video:m3qJlAUMuJ0</id>
@@ -524,12 +530,6 @@
     <updated>2024-11-15T14:00:10Z</updated>
     <id>yt:video:Akadgu5A3O0</id>
     <link href="https://www.youtube.com/watch?v=Akadgu5A3O0" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: The Basics Of The Finger Command On Linux</title>
-    <updated>2024-11-12T14:00:07Z</updated>
-    <id>yt:video:8EwR64jMvYw</id>
-    <link href="https://www.youtube.com/watch?v=8EwR64jMvYw" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: PR： テレワークにはゼロトラストが必須　SASEで「ネットワークとセキュリティのシンプル化」が鍵に</title>
@@ -4582,22 +4582,10 @@
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202401/05?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: GitHub Universe Recap レポート ～「Keynote ＆ Product Announcement recap」より</title>
-    <updated>2023-12-28T09:38:00Z</updated>
-    <id>urn:uuid:5f0ee7bb-789c-09ae-98a4-1c7773d82b93</id>
-    <link href="https://gihyo.jp/article/2023/12/github-universe-recap-report?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 2024年「はてなブックマーク年間ランキング」トップ100 - はてなニュース</title>
     <updated>2024-12-27T02:13:00Z</updated>
     <id>tag:hatenanews.com,2024-12-27:/articles/hatenabookmark2024</id>
     <link href="https://hatenanews.com/articles/hatenabookmark2024" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: コミュニケーション能力を評価してはいけない理由 - An Epicurean</title>
-    <updated>2024-12-26T15:16:40Z</updated>
-    <id>tag:blog.song.mu,2024-12-26:/entry/why-communication-skills-should-not-be-evaluated</id>
-    <link href="https://blog.song.mu/entry/why-communication-skills-should-not-be-evaluated" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 迷惑メールは「meiwaku@dekyo.or.jp」に転送しちゃうといいぞ！【再掲】【今すぐ読みたい！人気記事】</title>
@@ -4606,16 +4594,10 @@
     <link href="https://forest.watch.impress.co.jp/docs/shseri/readitnow/1650206.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Ghostty</title>
-    <updated>2024-12-26T20:30:58Z</updated>
-    <id>tag:ghostty.org,2024-12-26:/</id>
-    <link href="https://ghostty.org/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【徹底解説】無料で使えるGoogle AI Studioの全機能を紹介｜ChatGPT研究所</title>
-    <updated>2024-12-26T00:28:09Z</updated>
-    <id>tag:chatgpt-lab.com,2024-12-26:/n/n645443eabe40</id>
-    <link href="https://chatgpt-lab.com/n/n645443eabe40" rel="alternate"></link>
+    <title>1:hatena_blog_it: 個人的技術書大賞2024 - Qiita</title>
+    <updated>2024-12-27T08:19:53Z</updated>
+    <id>tag:qiita.com,2024-12-27:/kawasima/items/05f231653ef773697991</id>
+    <link href="https://qiita.com/kawasima/items/05f231653ef773697991" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: メルカリ 芸能人の偽の性的画像問題 未成年アイドル画像も売買 | NHK</title>
@@ -4624,10 +4606,16 @@
     <link href="https://www3.nhk.or.jp/news/html/20241227/k10014681261000.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 個人的技術書大賞2024 - Qiita</title>
-    <updated>2024-12-27T08:19:53Z</updated>
-    <id>tag:qiita.com,2024-12-27:/kawasima/items/05f231653ef773697991</id>
-    <link href="https://qiita.com/kawasima/items/05f231653ef773697991" rel="alternate"></link>
+    <title>1:hatena_blog_it: アゼルバイジャン機事故は「ロシア軍の防空システム」が原因？→「絶望的状況」を命にかえてギリギリ持ち直した殉職パイロットの執念がデータから伺える</title>
+    <updated>2024-12-27T10:57:40Z</updated>
+    <id>tag:togetter.com,2024-12-27:/li/2486362</id>
+    <link href="https://togetter.com/li/2486362" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Ghostty</title>
+    <updated>2024-12-26T20:30:58Z</updated>
+    <id>tag:ghostty.org,2024-12-26:/</id>
+    <link href="https://ghostty.org/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 会社の倉庫を片付けていたら出てきたけど、これが何か知っている方はいますか？→専門のコレクターが登場、技術者用に作られた高級機種らしい</title>
@@ -4636,40 +4624,10 @@
     <link href="https://togetter.com/li/2486296" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: はてブとBlueskyのコメントをチラ見しながらネットサーフィンできる拡張機能「はてブル パネル」、AI要約機能や爆速検索機能もあり</title>
-    <updated>2024-12-26T11:20:00Z</updated>
-    <id>tag:gigazine.net,2024-12-26:/news/20241226-hatena-bluesky-comment/</id>
-    <link href="https://gigazine.net/news/20241226-hatena-bluesky-comment/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Google Chromeサイト内検索10連発 - 大西ブログ</title>
-    <updated>2024-12-27T05:07:42Z</updated>
-    <id>tag:onishi.hatenablog.com,2024-12-27:/entry/2024/12/27/140633</id>
-    <link href="https://onishi.hatenablog.com/entry/2024/12/27/140633" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 『人が囲碁を教えるグループ』と『AIが囲碁を教えるグループ』を比較したところAIが教えた子たちの方が強くなり男女の実力差がほぼ解消したらしい</title>
-    <updated>2024-12-26T23:29:58Z</updated>
-    <id>tag:togetter.com,2024-12-26:/li/2485908</id>
-    <link href="https://togetter.com/li/2485908" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 開発者が速攻でプロジェクトを片付けるのに重要なポイント「認知負荷」とは？</title>
-    <updated>2024-12-27T00:11:20Z</updated>
-    <id>tag:gigazine.net,2024-12-27:/news/20241226-cognitive-load/</id>
-    <link href="https://gigazine.net/news/20241226-cognitive-load/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: アジャイル開発の推進において、必ずしも"すごい人"は必要ない──現場のエンジニアがDevOps推進で実現する組織改革</title>
-    <updated>2024-12-26T11:20:11Z</updated>
-    <id>tag:codezine.jp,2024-12-26:/article/detail/20558</id>
-    <link href="https://codezine.jp/article/detail/20558" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 基盤がクラウドになって、ビジネスサイドの経営陣にはシステム基盤の運用や維持にコストを払う理由が見えなくなり、「お金を払わずにシステム基盤を維持したい」という相談が増えてきた話</title>
-    <updated>2024-12-27T01:20:27Z</updated>
-    <id>tag:togetter.com,2024-12-27:/li/2486200</id>
-    <link href="https://togetter.com/li/2486200" rel="alternate"></link>
+    <title>1:hatena_blog_it: コミュニケーション能力を評価してはいけない理由 - An Epicurean</title>
+    <updated>2024-12-26T15:16:40Z</updated>
+    <id>tag:blog.song.mu,2024-12-26:/entry/why-communication-skills-should-not-be-evaluated</id>
+    <link href="https://blog.song.mu/entry/why-communication-skills-should-not-be-evaluated" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ふるさと納税の銅鏡が届いたけど鏡として使えない...鏡にできる技術をお持ちの方はいませんか？</title>
@@ -4678,22 +4636,34 @@
     <link href="https://togetter.com/li/2486335" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 最高の開発チームをつくってもらうために考えると良さそうなこと - にこにこインターネット</title>
-    <updated>2024-12-24T17:00:28Z</updated>
-    <id>tag:tsuwatch.hatenablog.com,2024-12-24:/entry/2024/12/23/132238</id>
-    <link href="https://tsuwatch.hatenablog.com/entry/2024/12/23/132238" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【徹底解説】無料で使えるGoogle AI Studioの全機能を紹介｜ChatGPT研究所</title>
+    <updated>2024-12-26T00:28:09Z</updated>
+    <id>tag:chatgpt-lab.com,2024-12-26:/n/n645443eabe40</id>
+    <link href="https://chatgpt-lab.com/n/n645443eabe40" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 日本はもっと「中抜き」してくべき</title>
-    <updated>2024-12-26T13:06:24Z</updated>
-    <id>tag:anond.hatelabo.jp,2024-12-26:/20241226220000</id>
-    <link href="https://anond.hatelabo.jp/20241226220000" rel="alternate"></link>
+    <title>1:hatena_blog_it: ソフトウェア開発における「パーフェクトな意思決定」/Perfect Decision-Making in Software Development</title>
+    <updated>2024-12-27T09:53:58Z</updated>
+    <id>tag:speakerdeck.com,2024-12-27:/yayoi_dd/perfect-decision-making-in-software-development</id>
+    <link href="https://speakerdeck.com/yayoi_dd/perfect-decision-making-in-software-development" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「OpenAIが15兆円の利益を出すAIを開発したら汎用人工知能(AGI)達成とする」という内容でMicrosoftとOpenAIは合意している</title>
-    <updated>2024-12-27T05:24:01Z</updated>
-    <id>tag:gigazine.net,2024-12-27:/news/20241227-openai-microsoft-artificial-general-intelligence/</id>
-    <link href="https://gigazine.net/news/20241227-openai-microsoft-artificial-general-intelligence/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 『人が囲碁を教えるグループ』と『AIが囲碁を教えるグループ』を比較したところAIが教えた子たちの方が強くなり男女の実力差がほぼ解消したらしい</title>
+    <updated>2024-12-26T23:29:58Z</updated>
+    <id>tag:togetter.com,2024-12-26:/li/2485908</id>
+    <link href="https://togetter.com/li/2485908" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Google Chromeサイト内検索10連発 - 大西ブログ</title>
+    <updated>2024-12-27T05:07:42Z</updated>
+    <id>tag:onishi.hatenablog.com,2024-12-27:/entry/2024/12/27/140633</id>
+    <link href="https://onishi.hatenablog.com/entry/2024/12/27/140633" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Devin.aiを試す - 西尾泰和の外部脳</title>
+    <updated>2024-12-27T14:08:23Z</updated>
+    <id>tag:scrapbox.io,2024-12-27:/nishio/Devin.aiを試す</id>
+    <link href="https://scrapbox.io/nishio/Devin.ai%E3%82%92%E8%A9%A6%E3%81%99" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: GitHub の Sub-issues はいいぞ - STORES Product Blog</title>
@@ -4702,34 +4672,28 @@
     <link href="https://product.st.inc/entry/2024/12/27/102310" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 企業を変えていく営み｜yamotty</title>
-    <updated>2024-12-26T23:53:16Z</updated>
-    <id>tag:note.com,2024-12-26:/yamotty_note/n/nf82c8a930e98</id>
-    <link href="https://note.com/yamotty_note/n/nf82c8a930e98" rel="alternate"></link>
+    <title>1:hatena_blog_it: 開発者が速攻でプロジェクトを片付けるのに重要なポイント「認知負荷」とは？</title>
+    <updated>2024-12-27T00:11:20Z</updated>
+    <id>tag:gigazine.net,2024-12-27:/news/20241226-cognitive-load/</id>
+    <link href="https://gigazine.net/news/20241226-cognitive-load/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: フィッシングキットの詳細分析に挑戦！（インターンシップ体験記） - NTT Communications Engineers' Blog</title>
-    <updated>2024-12-27T08:30:43Z</updated>
-    <id>tag:engineers.ntt.com,2024-12-27:/entry/202410-summer-internship-phishing/entry</id>
-    <link href="https://engineers.ntt.com/entry/202410-summer-internship-phishing/entry" rel="alternate"></link>
+    <title>1:hatena_blog_it: Ghosttyを使う - Don't Repeat Yourself</title>
+    <updated>2024-12-27T09:39:33Z</updated>
+    <id>tag:blog-dry.com,2024-12-27:/entry/2024/12/27/162410</id>
+    <link href="https://blog-dry.com/entry/2024/12/27/162410" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: アゼルバイジャン機事故は「ロシア軍の防空システム」が原因？→「絶望的状況」を命にかえてギリギリ持ち直した殉職パイロットの執念がデータから伺える</title>
-    <updated>2024-12-27T10:57:40Z</updated>
-    <id>tag:togetter.com,2024-12-27:/li/2486362</id>
-    <link href="https://togetter.com/li/2486362" rel="alternate"></link>
+    <title>1:hatena_blog_it: これがフロントエンドで話題になった記事！ ICS MEDIAの2024年 - ICS MEDIA</title>
+    <updated>2024-12-27T10:27:25Z</updated>
+    <id>tag:ics.media,2024-12-27:/entry/241227/</id>
+    <link href="https://ics.media/entry/241227/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Blueskyが「トレンド」機能のベータ版を公開、ミュートした単語は表示されず</title>
-    <updated>2024-12-27T02:15:59Z</updated>
-    <id>tag:gigazine.net,2024-12-27:/news/20241227-bluesky-trending-beta/</id>
-    <link href="https://gigazine.net/news/20241227-bluesky-trending-beta/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: GitHub - ghostty-org/ghostty: 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</title>
-    <updated>2024-12-27T00:36:46Z</updated>
-    <id>tag:github.com,2024-12-27:/ghostty-org/ghostty</id>
-    <link href="https://github.com/ghostty-org/ghostty" rel="alternate"></link>
+    <title>1:hatena_blog_it: Lua is so underrated</title>
+    <updated>2024-12-26T20:04:02Z</updated>
+    <id>tag:nflatrea.bearblog.dev,2024-12-26:/lua-is-so-underrated/</id>
+    <link href="https://nflatrea.bearblog.dev/lua-is-so-underrated/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Go でデバッガを自作する</title>
@@ -4738,15 +4702,45 @@
     <link href="https://zenn.dev/ksrnnb/books/build_your_own_go_debugger" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【アニメ新番組一覧】2025年1月期。「メダリスト 」や「全修。」「薬屋のひとりごと Season2」など</title>
-    <updated>2024-12-27T02:52:53Z</updated>
-    <id>tag:av.watch.impress.co.jp,2024-12-27:/docs/topic/newanime/1650791.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/topic/newanime/1650791.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「OpenAIが15兆円の利益を出すAIを開発したら汎用人工知能(AGI)達成とする」という内容でMicrosoftとOpenAIは合意している</title>
+    <updated>2024-12-27T05:24:01Z</updated>
+    <id>tag:gigazine.net,2024-12-27:/news/20241227-openai-microsoft-artificial-general-intelligence/</id>
+    <link href="https://gigazine.net/news/20241227-openai-microsoft-artificial-general-intelligence/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 今年は275本の記事を公開！年末恒例アウトプット強化月間 ZOZO Advent Calendar 2024 - ZOZO TECH BLOG</title>
-    <updated>2024-12-27T02:06:37Z</updated>
-    <id>tag:techblog.zozo.com,2024-12-27:/entry/2024-advent-calendar-summary</id>
-    <link href="https://techblog.zozo.com/entry/2024-advent-calendar-summary" rel="alternate"></link>
+    <title>1:hatena_blog_it: 所属する組織や拠点が英語化し始めて自分の身に起こった変化 - おうさまのみみはロバのみみ</title>
+    <updated>2024-12-27T05:33:18Z</updated>
+    <id>tag:luccafort.hatenablog.com,2024-12-27:/entry/2024/12/27/132240</id>
+    <link href="https://luccafort.hatenablog.com/entry/2024/12/27/132240" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: チーム全員の生産性を上げる！ メルカリ deeeetさんに聞く、Platform Engineeringの醍醐味</title>
+    <updated>2024-12-27T04:38:59Z</updated>
+    <id>tag:codezine.jp,2024-12-27:/article/detail/20283</id>
+    <link href="https://codezine.jp/article/detail/20283" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Apple非公認、普通のPCを「Mac」にする秘密のテクニック：810th Lap</title>
+    <updated>2024-12-27T02:16:50Z</updated>
+    <id>tag:kn.itmedia.co.jp,2024-12-27:/kn/articles/2412/27/news071.html</id>
+    <link href="https://kn.itmedia.co.jp/kn/articles/2412/27/news071.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Google、社内AIエージェント「Google Agentspace」発表</title>
+    <updated>2024-12-26T03:21:02Z</updated>
+    <id>tag:codezine.jp,2024-12-26:/article/detail/20703</id>
+    <link href="https://codezine.jp/article/detail/20703" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: NanoKVMと自宅サーバで遊ぶ</title>
+    <updated>2024-12-25T22:04:01Z</updated>
+    <id>tag:zenn.dev,2024-12-25:/flfymoss/articles/2024-12-22-play-with-nanokvm</id>
+    <link href="https://zenn.dev/flfymoss/articles/2024-12-22-play-with-nanokvm" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: フィッシングキットの詳細分析に挑戦！（インターンシップ体験記） - NTT Communications Engineers' Blog</title>
+    <updated>2024-12-27T08:30:43Z</updated>
+    <id>tag:engineers.ntt.com,2024-12-27:/entry/202410-summer-internship-phishing/entry</id>
+    <link href="https://engineers.ntt.com/entry/202410-summer-internship-phishing/entry" rel="alternate"></link>
   </entry>
 </feed>
