@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2024-12-29T12:21:18Z</updated>
+  <updated>2024-12-29T18:15:15Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -142,10 +142,22 @@
     <link href="https://archlinux.org/news/incoming-changes-in-jdk-jre-21-packages-may-require-manual-intervention/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Goの古いコードが動かなくなることはほぼない理由</title>
+    <updated>2024-12-29T07:02:19Z</updated>
+    <id>https://zenn.dev/catatsuy/articles/fda1e42acad421</id>
+    <link href="https://zenn.dev/catatsuy/articles/fda1e42acad421" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: 実践セキュリティ監視基盤構築</title>
     <updated>2024-12-29T04:05:40Z</updated>
     <id>https://zenn.dev/mizutani/books/secmon-platform</id>
     <link href="https://zenn.dev/mizutani/books/secmon-platform" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 2024年の振り返り</title>
+    <updated>2024-12-28T11:48:14Z</updated>
+    <id>https://zenn.dev/yuta_k0911/articles/6799d381866fb3</id>
+    <link href="https://zenn.dev/yuta_k0911/articles/6799d381866fb3" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: OSSに関わるようになったきっかけ、Reactライブラリを開発するまでの道のり</title>
@@ -214,12 +226,6 @@
     <link href="https://zenn.dev/neoai/articles/fc5e39cffeb461" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: LLMを数学タスクにアラインする手法の系譜 - GPT-3からQwen2.5まで</title>
-    <updated>2024-12-27T07:41:06Z</updated>
-    <id>https://zenn.dev/bilzard/articles/survey-self-improve-llm</id>
-    <link href="https://zenn.dev/bilzard/articles/survey-self-improve-llm" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: JotaiプロジェクトをZustandで作り直した話</title>
     <updated>2024-12-27T07:03:19Z</updated>
     <id>https://zenn.dev/yumemi_inc/articles/26ff46875f3cd0</id>
@@ -254,12 +260,6 @@
     <updated>2024-12-25T12:14:29Z</updated>
     <id>https://zenn.dev/ubie_dev/articles/devin-for-test</id>
     <link href="https://zenn.dev/ubie_dev/articles/devin-for-test" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: うわっ…私のエディタ、ダサすぎ…？ナウなヤングにバカウケするCursor・VSCodeのイケイケ設定</title>
-    <updated>2024-12-25T11:00:01Z</updated>
-    <id>https://zenn.dev/aose/articles/6188f61a6a2a25</id>
-    <link href="https://zenn.dev/aose/articles/6188f61a6a2a25" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: 個人的技術書大賞2024</title>
@@ -4582,28 +4582,16 @@
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202401/05?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ITエンジニアは「すべての人は合理的に動く」と信じているか、「自分の合理性で他者の感覚や感情を説き伏せることができる」と思っている人が多い気がする話</title>
-    <updated>2024-12-29T02:00:57Z</updated>
-    <id>tag:togetter.com,2024-12-29:/li/2487064</id>
-    <link href="https://togetter.com/li/2487064" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 営業「お尻に大根って入りますか？」エンジニア「技術的には可能です」営業「入るそうです！」顧客「尻に大根を入れてもらおうか……」</title>
-    <updated>2024-12-28T13:34:53Z</updated>
-    <id>tag:togetter.com,2024-12-28:/li/2486786</id>
-    <link href="https://togetter.com/li/2486786" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 【書評】マルチテナントSaaSアーキテクチャの構築 | DevelopersIO</title>
     <updated>2024-12-29T06:03:32Z</updated>
     <id>tag:dev.classmethod.jp,2024-12-29:/articles/building-multi-tenant-saas/</id>
     <link href="https://dev.classmethod.jp/articles/building-multi-tenant-saas/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Amazonさん！どうやって暗証番号解除して入れたのか教えてください…→同じ経験がある人が集まる「勝手に開けて入れたらあかん」の声も</title>
-    <updated>2024-12-28T14:59:28Z</updated>
-    <id>tag:togetter.com,2024-12-28:/li/2486911</id>
-    <link href="https://togetter.com/li/2486911" rel="alternate"></link>
+    <title>1:hatena_blog_it: ITエンジニアは「すべての人は合理的に動く」と信じているか、「自分の合理性で他者の感覚や感情を説き伏せることができる」と思っている人が多い気がする話</title>
+    <updated>2024-12-29T02:00:57Z</updated>
+    <id>tag:togetter.com,2024-12-29:/li/2487064</id>
+    <link href="https://togetter.com/li/2487064" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Cody | AI coding assistant</title>
@@ -4612,10 +4600,22 @@
     <link href="https://sourcegraph.com/cody" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 2024年にブックマークしたページでよかったもの集めた - Really Saying Something</title>
-    <updated>2024-12-28T14:32:42Z</updated>
-    <id>tag:toya.hatenablog.com,2024-12-28:/entry/2024/12/28/232321</id>
-    <link href="https://toya.hatenablog.com/entry/2024/12/28/232321" rel="alternate"></link>
+    <title>1:hatena_blog_it: Fish 4.0: The Fish Of Theseus</title>
+    <updated>2024-12-29T03:25:35Z</updated>
+    <id>tag:fishshell.com,2024-12-29:/blog/rustport/</id>
+    <link href="https://fishshell.com/blog/rustport/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 営業「お尻に大根って入りますか？」エンジニア「技術的には可能です」営業「入るそうです！」顧客「尻に大根を入れてもらおうか……」</title>
+    <updated>2024-12-28T13:34:53Z</updated>
+    <id>tag:togetter.com,2024-12-28:/li/2486786</id>
+    <link href="https://togetter.com/li/2486786" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OpenAI APIを使ってgit commitメッセージやコードレビューをAIに任せましょう！ - GMOインターネットグループ グループ研究開発本部</title>
+    <updated>2024-12-29T04:05:21Z</updated>
+    <id>tag:recruit.gmo.jp,2024-12-29:/engineer/jisedai/blog/ai-gitcommit-message-codereview/</id>
+    <link href="https://recruit.gmo.jp/engineer/jisedai/blog/ai-gitcommit-message-codereview/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: インデックスの"正解"を探せ！決済レスポンスタイムを改善したパフォーマンスチューニング - inSmartBank</title>
@@ -4624,22 +4624,10 @@
     <link href="https://blog.smartbank.co.jp/entry/2024/12/26/152742" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Fish 4.0: The Fish Of Theseus</title>
-    <updated>2024-12-29T03:25:35Z</updated>
-    <id>tag:fishshell.com,2024-12-29:/blog/rustport/</id>
-    <link href="https://fishshell.com/blog/rustport/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: GitHub - vitabaks/autobase: Automated database platform for PostgreSQL® — the open-source alternative to cloud-managed databases.</title>
-    <updated>2024-12-29T02:22:50Z</updated>
-    <id>tag:github.com,2024-12-29:/vitabaks/autobase</id>
-    <link href="https://github.com/vitabaks/autobase" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「コネクティング ザ ドッツ」を自らつなげにいく - Copy/Cut/Paste/Hatena</title>
-    <updated>2024-12-29T07:12:07Z</updated>
-    <id>tag:k1low.hatenablog.com,2024-12-29:/entry/2024/12/29/132451</id>
-    <link href="https://k1low.hatenablog.com/entry/2024/12/29/132451" rel="alternate"></link>
+    <title>1:hatena_blog_it: 超知能がぬるっと誕生する可能性に実感が湧かない｜bioshok</title>
+    <updated>2024-12-29T16:43:45Z</updated>
+    <id>tag:note.com,2024-12-29:/bioshok/n/n75e2148318e7</id>
+    <link href="https://note.com/bioshok/n/n75e2148318e7" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 子供の命名のために名前を探索するツールを作った - 若くない何かの悩み</title>
@@ -4648,34 +4636,10 @@
     <link href="https://blog.kuniwak.com/entry/name" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ポモドーロテクニックを始めよう。そして記録しよう。～TogglTrackの紹介～</title>
-    <updated>2024-12-26T16:36:22Z</updated>
-    <id>tag:zenn.dev,2024-12-26:/sdb_blog/articles/004-toggl_track</id>
-    <link href="https://zenn.dev/sdb_blog/articles/004-toggl_track" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: わが国の決済システムの鳥瞰図が勉強になる→大きく分けて「取引・指図・照合」「清算」「決済」の3段階構成の解説がわかりやすい</title>
-    <updated>2024-12-28T02:41:01Z</updated>
-    <id>tag:togetter.com,2024-12-28:/li/2486640</id>
-    <link href="https://togetter.com/li/2486640" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ネットワーク可視化の世界</title>
-    <updated>2024-12-28T11:42:18Z</updated>
-    <id>tag:speakerdeck.com,2024-12-28:/likr/the-world-of-network-visualization</id>
-    <link href="https://speakerdeck.com/likr/the-world-of-network-visualization" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: systemdのトラブルあるあるネタ - mrwk update</title>
-    <updated>2024-12-28T01:54:10Z</updated>
-    <id>tag:mrwk.hateblo.jp,2024-12-28:/entry/2024/12/28/101402</id>
-    <link href="https://mrwk.hateblo.jp/entry/2024/12/28/101402" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Windows Terminal Preview版でSixelグラフィックスを扱う</title>
-    <updated>2024-12-29T08:05:05Z</updated>
-    <id>tag:ascii.jp,2024-12-29:/elem/000/004/243/4243692/</id>
-    <link href="https://ascii.jp/elem/000/004/243/4243692/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Node.js Now Supports TypeScript By Default</title>
+    <updated>2024-12-29T14:42:52Z</updated>
+    <id>tag:www.totaltypescript.com,2024-12-29:/typescript-is-coming-to-node-23</id>
+    <link href="https://www.totaltypescript.com/typescript-is-coming-to-node-23" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: スクラムにおけるマネージャーとして意識していること - トラストバンクテックブログ</title>
@@ -4684,63 +4648,87 @@
     <link href="https://tech.trustbank.co.jp/entry/2024/12/24/133725" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Separating Storage and Compute in DuckDB - MotherDuck Blog</title>
-    <updated>2024-12-29T01:38:36Z</updated>
-    <id>tag:motherduck.com,2024-12-29:/blog/separating-storage-compute-duckdb/</id>
-    <link href="https://motherduck.com/blog/separating-storage-compute-duckdb/" rel="alternate"></link>
+    <title>1:hatena_blog_it: GPSの便利な使い方 -浮気調査に抵抗してみた話- - ラック・セキュリティごった煮ブログ</title>
+    <updated>2024-12-20T02:33:41Z</updated>
+    <id>tag:devblog.lac.co.jp,2024-12-20:/entry/20241220</id>
+    <link href="https://devblog.lac.co.jp/entry/20241220" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「Gmail届かない問題」で進むDMARC対応</title>
-    <updated>2024-12-28T15:11:52Z</updated>
-    <id>tag:xtech.nikkei.com,2024-12-28:/atcl/nxt/mag/nnw/18/041800012/121800271/</id>
-    <link href="https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/121800271/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「コネクティング ザ ドッツ」を自らつなげにいく - Copy/Cut/Paste/Hatena</title>
+    <updated>2024-12-29T07:12:07Z</updated>
+    <id>tag:k1low.hatenablog.com,2024-12-29:/entry/2024/12/29/132451</id>
+    <link href="https://k1low.hatenablog.com/entry/2024/12/29/132451" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 社内勉強会：失敗談LTを開催しました！｜広報ブログ｜北海道札幌市・宮城県仙台市のVR・ゲーム・システム開発 インフィニットループ</title>
-    <updated>2024-12-29T01:49:08Z</updated>
-    <id>tag:www.infiniteloop.co.jp,2024-12-29:/pr-blog/2024/12/tech-wg-study-session-01/</id>
-    <link href="https://www.infiniteloop.co.jp/pr-blog/2024/12/tech-wg-study-session-01/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Ask HN: Programmers who don't use autocomplete/LSP, how do you do it? | Hacker News</title>
+    <updated>2024-12-24T09:35:03Z</updated>
+    <id>tag:news.ycombinator.com,2024-12-24:/item</id>
+    <link href="https://news.ycombinator.com/item?id=42492508" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: フリーランスが使っている生成AIサービス　3位「Gemini」、2位「Perplexity」、1位は？</title>
-    <updated>2024-12-28T11:43:29Z</updated>
-    <id>tag:www.itmedia.co.jp,2024-12-28:/business/articles/2412/28/news022.html</id>
-    <link href="https://www.itmedia.co.jp/business/articles/2412/28/news022.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Windows Terminal Preview版でSixelグラフィックスを扱う</title>
+    <updated>2024-12-29T08:05:05Z</updated>
+    <id>tag:ascii.jp,2024-12-29:/elem/000/004/243/4243692/</id>
+    <link href="https://ascii.jp/elem/000/004/243/4243692/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 年末年始は貴重な勉強チャンス？　ITからAIまで、企業などが無料公開した研修・教材資料まとめ</title>
-    <updated>2024-12-28T03:34:54Z</updated>
-    <id>tag:www.itmedia.co.jp,2024-12-28:/news/articles/2412/28/news046.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2412/28/news046.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Amazonさん！どうやって暗証番号解除して入れたのか教えてください…→同じ経験がある人が集まる「勝手に開けて入れたらあかん」の声も</title>
+    <updated>2024-12-28T14:59:28Z</updated>
+    <id>tag:togetter.com,2024-12-28:/li/2486911</id>
+    <link href="https://togetter.com/li/2486911" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GhosttyでiTerm2風のVisor(クイックターミナル)を設定する - Qiita</title>
-    <updated>2024-12-27T10:20:22Z</updated>
-    <id>tag:qiita.com,2024-12-27:/reoring/items/df6d02ed7d6800c4eebe</id>
-    <link href="https://qiita.com/reoring/items/df6d02ed7d6800c4eebe" rel="alternate"></link>
+    <title>1:hatena_blog_it: 20万以上のSSL証明書の有効期限を見える化した話</title>
+    <updated>2024-12-25T02:21:41Z</updated>
+    <id>tag:techblog.lycorp.co.jp,2024-12-25:/ja/20241225c</id>
+    <link href="https://techblog.lycorp.co.jp/ja/20241225c" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【2025最新版】M4 Mac miniをゲーミングPC運用するための情報まとめ【令和最新版】｜みずき</title>
-    <updated>2024-12-03T01:11:07Z</updated>
-    <id>tag:note.com,2024-12-03:/mizuki_0m0/n/nfadcd1758b84</id>
-    <link href="https://note.com/mizuki_0m0/n/nfadcd1758b84" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 雪風が敵だと言っている</title>
-    <updated>2024-12-28T06:51:02Z</updated>
-    <id>tag:anond.hatelabo.jp,2024-12-28:/20241228142313</id>
-    <link href="https://anond.hatelabo.jp/20241228142313" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Goの古いコードが動かなくなることはほぼない理由</title>
-    <updated>2024-12-29T08:10:17Z</updated>
-    <id>tag:zenn.dev,2024-12-29:/catatsuy/articles/fda1e42acad421</id>
-    <link href="https://zenn.dev/catatsuy/articles/fda1e42acad421" rel="alternate"></link>
+    <title>1:hatena_blog_it: イーロン・マスク氏、外国人技術者ビザ擁護　トランプ支持者と対立 - 日本経済新聞</title>
+    <updated>2024-12-28T23:12:33Z</updated>
+    <id>tag:www.nikkei.com,2024-12-28:/article/DGXZQOGN283J10Y4A221C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN283J10Y4A221C2000000/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 年末年始は貴重な勉強チャンス？　ITからAIまで、企業などが無料公開した研修・教材資料まとめ</title>
     <updated>2024-12-28T17:04:55Z</updated>
     <id>tag:www.itmedia.co.jp,2024-12-28:/news/articles/2412/28/news046_2.html</id>
     <link href="https://www.itmedia.co.jp/news/articles/2412/28/news046_2.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ポモドーロテクニックを始めよう。そして記録しよう。～TogglTrackの紹介～</title>
+    <updated>2024-12-26T16:36:22Z</updated>
+    <id>tag:zenn.dev,2024-12-26:/sdb_blog/articles/004-toggl_track</id>
+    <link href="https://zenn.dev/sdb_blog/articles/004-toggl_track" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 原料の手混ぜで固体電解質の性能が劇的に向上 北大など研究グループ - fabcross for エンジニア</title>
+    <updated>2024-12-24T00:40:46Z</updated>
+    <id>tag:engineer.fabcross.jp,2024-12-24:/archeive/241223_hokudai.html</id>
+    <link href="https://engineer.fabcross.jp/archeive/241223_hokudai.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub - vitabaks/autobase: Automated database platform for PostgreSQL® — the open-source alternative to cloud-managed databases.</title>
+    <updated>2024-12-29T02:22:50Z</updated>
+    <id>tag:github.com,2024-12-29:/vitabaks/autobase</id>
+    <link href="https://github.com/vitabaks/autobase" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2024年にブックマークしたページでよかったもの集めた - Really Saying Something</title>
+    <updated>2024-12-28T14:32:42Z</updated>
+    <id>tag:toya.hatenablog.com,2024-12-28:/entry/2024/12/28/232321</id>
+    <link href="https://toya.hatenablog.com/entry/2024/12/28/232321" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2024-12-28のJS: pnpm 10.0 RC.1、State of JavaScript 2024、Design Token-Based UI Architecture</title>
+    <updated>2024-12-28T08:00:58Z</updated>
+    <id>tag:jser.info,2024-12-28:/2024/12/28/pnpm-10.0-rc.1-state-of-javascript-2024-design-token-based-ui-architecture/</id>
+    <link href="https://jser.info/2024/12/28/pnpm-10.0-rc.1-state-of-javascript-2024-design-token-based-ui-architecture/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「Gmail届かない問題」で進むDMARC対応</title>
+    <updated>2024-12-28T15:11:52Z</updated>
+    <id>tag:xtech.nikkei.com,2024-12-28:/atcl/nxt/mag/nnw/18/041800012/121800271/</id>
+    <link href="https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/121800271/" rel="alternate"></link>
   </entry>
 </feed>
