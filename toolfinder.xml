@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-01-01T18:16:19Z</updated>
+  <updated>2025-01-02T00:58:16Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2242,6 +2242,24 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: aptakube</title>
+    <updated>2025-01-01T23:30:34Z</updated>
+    <id>aptakube-1735774234</id>
+    <link href="https://aur.archlinux.org/packages/aptakube" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: asciiconv</title>
+    <updated>2025-01-01T19:31:59Z</updated>
+    <id>asciiconv-1735759919</id>
+    <link href="https://aur.archlinux.org/packages/asciiconv" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: defold-bin</title>
+    <updated>2025-01-01T18:27:36Z</updated>
+    <id>defold-bin-1735756056</id>
+    <link href="https://aur.archlinux.org/packages/defold-bin" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: mangoverlay</title>
     <updated>2025-01-01T17:36:42Z</updated>
     <id>mangoverlay-1735753002</id>
@@ -2824,22 +2842,238 @@
     <link href="https://aur.archlinux.org/packages/ghostty_wrapper" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: modustoolbox-eclipse</title>
-    <updated>2024-12-30T02:34:06Z</updated>
-    <id>modustoolbox-eclipse-1735526046</id>
-    <link href="https://aur.archlinux.org/packages/modustoolbox-eclipse" rel="alternate"></link>
+    <title>2:archlinux_new_packages: lib32-libxcrypt-compat 4.4.37-1 x86_64</title>
+    <updated>2025-01-01T22:59:43Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/multilib/x86_64/lib32-libxcrypt-compat/202501012259</id>
+    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-libxcrypt-compat/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: modustoolbox-no-gcc</title>
-    <updated>2024-12-30T02:15:55Z</updated>
-    <id>modustoolbox-no-gcc-1735524955</id>
-    <link href="https://aur.archlinux.org/packages/modustoolbox-no-gcc" rel="alternate"></link>
+    <title>2:archlinux_new_packages: lib32-libxcrypt 4.4.37-1 x86_64</title>
+    <updated>2025-01-01T22:59:42Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/multilib/x86_64/lib32-libxcrypt/202501012259</id>
+    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-libxcrypt/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-emby-proxy</title>
-    <updated>2024-12-30T01:31:52Z</updated>
-    <id>python-emby-proxy-1735522312</id>
-    <link href="https://aur.archlinux.org/packages/python-emby-proxy" rel="alternate"></link>
+    <title>2:archlinux_new_packages: libxcrypt-compat 4.4.37-1 x86_64</title>
+    <updated>2025-01-01T22:59:33Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/core/x86_64/libxcrypt-compat/202501012259</id>
+    <link href="https://archlinux.org/packages/core/x86_64/libxcrypt-compat/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libxcrypt 4.4.37-1 x86_64</title>
+    <updated>2025-01-01T22:59:33Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/core/x86_64/libxcrypt/202501012259</id>
+    <link href="https://archlinux.org/packages/core/x86_64/libxcrypt/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lldpd 1.0.18-3 x86_64</title>
+    <updated>2025-01-01T22:57:15Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra-testing/x86_64/lldpd/202501012257</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/lldpd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: oniguruma 6.9.10-1 x86_64</title>
+    <updated>2025-01-01T22:49:09Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/oniguruma/202501012249</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/oniguruma/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: util-linux-libs 2.40.2-3 x86_64</title>
+    <updated>2025-01-01T22:45:56Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/core-testing/x86_64/util-linux-libs/202501012245</id>
+    <link href="https://archlinux.org/packages/core-testing/x86_64/util-linux-libs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: util-linux 2.40.2-3 x86_64</title>
+    <updated>2025-01-01T22:45:55Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/core-testing/x86_64/util-linux/202501012245</id>
+    <link href="https://archlinux.org/packages/core-testing/x86_64/util-linux/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: percona-toolkit 3.7.0-1 x86_64</title>
+    <updated>2025-01-01T22:44:32Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/percona-toolkit/202501012244</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/percona-toolkit/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: nbd 3.26.1-2 x86_64</title>
+    <updated>2025-01-01T22:39:55Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra-testing/x86_64/nbd/202501012239</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/nbd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haproxy 3.1.1-2 x86_64</title>
+    <updated>2025-01-01T22:34:02Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra-testing/x86_64/haproxy/202501012234</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/haproxy/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: fuse2fs 1.47.2-1 x86_64</title>
+    <updated>2025-01-01T22:25:33Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/core-testing/x86_64/fuse2fs/202501012225</id>
+    <link href="https://archlinux.org/packages/core-testing/x86_64/fuse2fs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: e2fsprogs 1.47.2-1 x86_64</title>
+    <updated>2025-01-01T22:25:33Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/core-testing/x86_64/e2fsprogs/202501012225</id>
+    <link href="https://archlinux.org/packages/core-testing/x86_64/e2fsprogs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-e2fsprogs 1.47.2-1 x86_64</title>
+    <updated>2025-01-01T22:25:32Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/multilib-testing/x86_64/lib32-e2fsprogs/202501012225</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-e2fsprogs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: tenacity 1.3.4-1 x86_64</title>
+    <updated>2025-01-01T22:24:01Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra-testing/x86_64/tenacity/202501012224</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/tenacity/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: freeradius 3.2.6-5 x86_64</title>
+    <updated>2025-01-01T22:22:41Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra-testing/x86_64/freeradius/202501012222</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/freeradius/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: dnsmasq 2.90-2 x86_64</title>
+    <updated>2025-01-01T22:08:55Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra-testing/x86_64/dnsmasq/202501012208</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/dnsmasq/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-graphene 3.4.3-1 any</title>
+    <updated>2025-01-01T21:57:56Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/any/python-graphene/202501012157</id>
+    <link href="https://archlinux.org/packages/extra/any/python-graphene/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: pantheon-screenshot 8.0.1-1 x86_64</title>
+    <updated>2025-01-01T21:54:57Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pantheon-screenshot/202501012154</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/pantheon-screenshot/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: pantheon-polkit-agent 8.0.1-1 x86_64</title>
+    <updated>2025-01-01T21:54:57Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pantheon-polkit-agent/202501012154</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/pantheon-polkit-agent/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: pantheon-onboarding 8.0.3-1 x86_64</title>
+    <updated>2025-01-01T21:54:56Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pantheon-onboarding/202501012154</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/pantheon-onboarding/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-discogs-client 2.7.1-1 any</title>
+    <updated>2025-01-01T21:54:55Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/any/python-discogs-client/202501012154</id>
+    <link href="https://archlinux.org/packages/extra/any/python-discogs-client/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pydantic-settings 2.7.1-1 any</title>
+    <updated>2025-01-01T21:47:10Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/any/python-pydantic-settings/202501012147</id>
+    <link href="https://archlinux.org/packages/extra/any/python-pydantic-settings/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: svt-av1 2.3.0-1 x86_64</title>
+    <updated>2025-01-01T21:26:57Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra-testing/x86_64/svt-av1/202501012126</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/svt-av1/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: mbedtls 3.6.2-1 x86_64</title>
+    <updated>2025-01-01T21:15:08Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/mbedtls/202501012115</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/mbedtls/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: pantheon-wayland 1.0.0-1 x86_64</title>
+    <updated>2025-01-01T21:15:07Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pantheon-wayland/202501012115</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/pantheon-wayland/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: dolphin-emu-tool 1:2412-4 x86_64</title>
+    <updated>2025-01-01T21:14:53Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra-testing/x86_64/dolphin-emu-tool/202501012114</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/dolphin-emu-tool/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: dolphin-emu 1:2412-4 x86_64</title>
+    <updated>2025-01-01T21:14:52Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra-testing/x86_64/dolphin-emu/202501012114</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/dolphin-emu/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyprutils 0.3.1-1 x86_64</title>
+    <updated>2025-01-01T20:44:20Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/hyprutils/202501012044</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyprutils/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: cargo-tarpaulin 0.31.4-1 x86_64</title>
+    <updated>2025-01-01T19:37:54Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/cargo-tarpaulin/202501011937</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/cargo-tarpaulin/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: broot 1.44.4-1 x86_64</title>
+    <updated>2025-01-01T19:34:42Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/broot/202501011934</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/broot/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: typos 1.29.0-1 x86_64</title>
+    <updated>2025-01-01T19:32:11Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/typos/202501011932</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/typos/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: television 0.8.6-1 x86_64</title>
+    <updated>2025-01-01T19:32:11Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/television/202501011932</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/television/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: serie 0.4.1-1 x86_64</title>
+    <updated>2025-01-01T19:29:16Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/serie/202501011929</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/serie/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: onefetch 2.23.1-1 x86_64</title>
+    <updated>2025-01-01T19:29:15Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/onefetch/202501011929</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/onefetch/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: act 0.2.71-1 x86_64</title>
+    <updated>2025-01-01T19:27:46Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/act/202501011927</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/act/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: paraview 5.13.2-1 x86_64</title>
+    <updated>2025-01-01T18:46:09Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra-testing/x86_64/paraview/202501011846</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/paraview/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-sqlalchemy-i18n 1.1.0-8 any</title>
+    <updated>2025-01-01T18:33:12Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/any/python-sqlalchemy-i18n/202501011833</id>
+    <link href="https://archlinux.org/packages/extra/any/python-sqlalchemy-i18n/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-socketio 5.8.0-5 any</title>
+    <updated>2025-01-01T18:27:29Z</updated>
+    <id>tag:archlinux.org,2025-01-01:/packages/extra/any/python-socketio/202501011827</id>
+    <link href="https://archlinux.org/packages/extra/any/python-socketio/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: python-sqlalchemy-continuum 1.4.2-4 any</title>
@@ -2906,239 +3140,5 @@
     <updated>2025-01-01T17:09:59Z</updated>
     <id>tag:archlinux.org,2025-01-01:/packages/extra/any/dnf/202501011709</id>
     <link href="https://archlinux.org/packages/extra/any/dnf/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: oxlint 0.15.4-1 x86_64</title>
-    <updated>2025-01-01T16:57:39Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/oxlint/202501011657</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/oxlint/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: oxc-language-server 0.15.4-1 x86_64</title>
-    <updated>2025-01-01T16:57:38Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/oxc-language-server/202501011657</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/oxc-language-server/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: reprotest 0.7.29-1 any</title>
-    <updated>2025-01-01T16:35:02Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/any/reprotest/202501011635</id>
-    <link href="https://archlinux.org/packages/extra/any/reprotest/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: percona-server-clients 8.4.3_3-1 x86_64</title>
-    <updated>2025-01-01T16:28:43Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/percona-server-clients/202501011628</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/percona-server-clients/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: percona-server 8.4.3_3-1 x86_64</title>
-    <updated>2025-01-01T16:28:42Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/percona-server/202501011628</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/percona-server/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libperconaserverclient 8.4.3_3-1 x86_64</title>
-    <updated>2025-01-01T16:28:41Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/libperconaserverclient/202501011628</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libperconaserverclient/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pacman-mirrorlist 20250101-1 any</title>
-    <updated>2025-01-01T16:16:39Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/core-testing/any/pacman-mirrorlist/202501011616</id>
-    <link href="https://archlinux.org/packages/core-testing/any/pacman-mirrorlist/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mdadm 4.4-1 x86_64</title>
-    <updated>2025-01-01T16:02:48Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/core-testing/x86_64/mdadm/202501011602</id>
-    <link href="https://archlinux.org/packages/core-testing/x86_64/mdadm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libssh2 1.11.1-1 x86_64</title>
-    <updated>2025-01-01T16:02:48Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/core-testing/x86_64/libssh2/202501011602</id>
-    <link href="https://archlinux.org/packages/core-testing/x86_64/libssh2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libedit 20240808_3.1-1 x86_64</title>
-    <updated>2025-01-01T16:02:47Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/core-testing/x86_64/libedit/202501011602</id>
-    <link href="https://archlinux.org/packages/core-testing/x86_64/libedit/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: spotify-launcher 0.6.2-1 x86_64</title>
-    <updated>2025-01-01T15:56:10Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/spotify-launcher/202501011556</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/spotify-launcher/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: rtorrent 0.15.1-1 x86_64</title>
-    <updated>2025-01-01T15:56:09Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/rtorrent/202501011556</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/rtorrent/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libtorrent 0.15.1-1 x86_64</title>
-    <updated>2025-01-01T15:56:08Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/libtorrent/202501011556</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libtorrent/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: harper 0.14.0-1 x86_64</title>
-    <updated>2025-01-01T15:56:08Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/harper/202501011556</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/harper/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: perl-image-exiftool 13.11-1 any</title>
-    <updated>2025-01-01T15:56:06Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/any/perl-image-exiftool/202501011556</id>
-    <link href="https://archlinux.org/packages/extra/any/perl-image-exiftool/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: solaar 1.1.14-1 any</title>
-    <updated>2025-01-01T15:53:57Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/any/solaar/202501011553</id>
-    <link href="https://archlinux.org/packages/extra/any/solaar/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pdfjs-legacy 4.10.38-1 any</title>
-    <updated>2025-01-01T14:18:38Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/any/pdfjs-legacy/202501011418</id>
-    <link href="https://archlinux.org/packages/extra/any/pdfjs-legacy/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pdfjs 4.10.38-1 any</title>
-    <updated>2025-01-01T14:17:32Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/any/pdfjs/202501011417</id>
-    <link href="https://archlinux.org/packages/extra/any/pdfjs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: arch-wiki-lite 20250101-1 any</title>
-    <updated>2025-01-01T14:05:33Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/any/arch-wiki-lite/202501011405</id>
-    <link href="https://archlinux.org/packages/extra/any/arch-wiki-lite/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: arch-wiki-docs 20250101-1 any</title>
-    <updated>2025-01-01T14:05:32Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/any/arch-wiki-docs/202501011405</id>
-    <link href="https://archlinux.org/packages/extra/any/arch-wiki-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: code 1.96.2-1 x86_64</title>
-    <updated>2025-01-01T13:33:14Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/code/202501011333</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/code/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: openfire 4.9.2-2 any</title>
-    <updated>2025-01-01T13:33:13Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/any/openfire/202501011333</id>
-    <link href="https://archlinux.org/packages/extra/any/openfire/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp-pmda-snmp 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:49:01Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp-pmda-snmp/202501011249</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp-pmda-snmp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp-pmda-postgresql 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:49:01Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp-pmda-postgresql/202501011249</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp-pmda-postgresql/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp-pmda-podman 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:49:00Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp-pmda-podman/202501011249</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp-pmda-podman/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp-pmda-openmetrics 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:48:59Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp-pmda-openmetrics/202501011248</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp-pmda-openmetrics/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp-pmda-nutcracker 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:48:59Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp-pmda-nutcracker/202501011248</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp-pmda-nutcracker/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp-pmda-nginx 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:48:58Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp-pmda-nginx/202501011248</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp-pmda-nginx/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp-pmda-mysql 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:48:58Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp-pmda-mysql/202501011248</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp-pmda-mysql/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp-pmda-libvirt 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:48:57Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp-pmda-libvirt/202501011248</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp-pmda-libvirt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp-pmda-bpftrace 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:48:57Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp-pmda-bpftrace/202501011248</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp-pmda-bpftrace/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp-pmda-bind2 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:48:56Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp-pmda-bind2/202501011248</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp-pmda-bind2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp-pmda-bcc 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:48:55Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp-pmda-bcc/202501011248</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp-pmda-bcc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp-pmda-activemq 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:48:55Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp-pmda-activemq/202501011248</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp-pmda-activemq/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp-gui 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:48:54Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp-gui/202501011248</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp-gui/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pcp 6.3.2-3 x86_64</title>
-    <updated>2025-01-01T12:48:53Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/pcp/202501011248</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pcp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: sssd 2.10.1-5 x86_64</title>
-    <updated>2025-01-01T12:45:25Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/sssd/202501011245</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/sssd/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gearmand 1.1.21-3 x86_64</title>
-    <updated>2025-01-01T12:30:06Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/gearmand/202501011230</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/gearmand/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libvirt-dbus 1.4.1-4 x86_64</title>
-    <updated>2025-01-01T12:27:25Z</updated>
-    <id>tag:archlinux.org,2025-01-01:/packages/extra/x86_64/libvirt-dbus/202501011227</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libvirt-dbus/" rel="alternate"></link>
   </entry>
 </feed>
