@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-01-03T00:58:46Z</updated>
+  <updated>2025-01-03T06:17:34Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -142,10 +142,28 @@
     <link href="https://archlinux.org/news/incoming-changes-in-jdk-jre-21-packages-may-require-manual-intervention/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: MacBookセットアップ個人的メモ【2025年版】</title>
+    <updated>2025-01-03T02:05:50Z</updated>
+    <id>https://zenn.dev/karaage0703/articles/a1ee72f22882e9</id>
+    <link href="https://zenn.dev/karaage0703/articles/a1ee72f22882e9" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 新卒2年目で退職するエンジニアのAさんへ</title>
+    <updated>2025-01-02T13:33:17Z</updated>
+    <id>https://zenn.dev/yusuke1225math2/articles/b019400d9e7879</id>
+    <link href="https://zenn.dev/yusuke1225math2/articles/b019400d9e7879" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: RAG開発の超入門【RaggleのQuickStart | Pythonのソースコードあり】</title>
     <updated>2025-01-02T12:25:53Z</updated>
     <id>https://zenn.dev/galirage/articles/raggle_quickstart</id>
     <link href="https://zenn.dev/galirage/articles/raggle_quickstart" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Zig探訪 - シンタックス編</title>
+    <updated>2025-01-02T11:23:07Z</updated>
+    <id>https://zenn.dev/smallkirby/articles/fb6b996ace61bd</id>
+    <link href="https://zenn.dev/smallkirby/articles/fb6b996ace61bd" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 対話型AIエージェントでGoogle AI Agentハッカソンの担当者を作ってみた</title>
@@ -238,28 +256,10 @@
     <link href="https://zenn.dev/haru_0205/books/d8b9cd0cf37db9" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: Rust で柔軟な do 式とモナドを使うために作った幾つかのもの</title>
-    <updated>2024-12-31T16:37:07Z</updated>
-    <id>https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust</id>
-    <link href="https://zenn.dev/konn/articles/2024-12-31-monads-dos-with-gats-macros-in-rust" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: [個人的]データベースゆく年くる年 2024</title>
     <updated>2024-12-31T09:12:53Z</updated>
     <id>https://zenn.dev/tzkoba/articles/20d40a063b6971</id>
     <link href="https://zenn.dev/tzkoba/articles/20d40a063b6971" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 2024年に調べたり構築した開発環境について</title>
-    <updated>2024-12-31T08:38:07Z</updated>
-    <id>https://zenn.dev/hiro345/articles/20241231_development</id>
-    <link href="https://zenn.dev/hiro345/articles/20241231_development" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Firecrawlで簡単スクレイピング：Pythonプログラムでの実践例</title>
-    <updated>2024-12-31T06:25:37Z</updated>
-    <id>https://zenn.dev/ogiki/articles/7b57b53bba9846</id>
-    <link href="https://zenn.dev/ogiki/articles/7b57b53bba9846" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: 【生成AIの学習ロードマップ】最近やたら羽振りのいいやつが生成AIを極めてた件について。</title>
@@ -4588,46 +4588,10 @@
     <link href="https://fromatom.hatenablog.com/entry/2024/12/31/181102" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 財布をやめてみたら、忘れ物が減った</title>
-    <updated>2025-01-01T21:43:26Z</updated>
-    <id>tag:www.gizmodo.jp,2025-01-01:/2024/12/quit-wallet-small-bag.html</id>
-    <link href="https://www.gizmodo.jp/2024/12/quit-wallet-small-bag.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: イーロンマスクは何を見ている｜tanu</title>
     <updated>2025-01-02T11:42:10Z</updated>
     <id>tag:note.com,2025-01-02:/tanukiponkich/n/n78fa27288af2</id>
     <link href="https://note.com/tanukiponkich/n/n78fa27288af2" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI翻訳の影響で仕事が激減した翻訳者さんによるnoteが切ない「人間の側が翻訳に対する要求水準を下げ始めた」</title>
-    <updated>2025-01-02T05:48:44Z</updated>
-    <id>tag:togetter.com,2025-01-02:/li/2489292</id>
-    <link href="https://togetter.com/li/2489292" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 2024年読んで印象に残った本（非技術書編） - Don't Repeat Yourself</title>
-    <updated>2025-01-01T14:39:55Z</updated>
-    <id>tag:blog-dry.com,2025-01-01:/entry/2025/01/01/230056</id>
-    <link href="https://blog-dry.com/entry/2025/01/01/230056" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 習慣化 振り返り（2024年7-12月） - kakakakakku blog</title>
-    <updated>2025-01-01T13:19:07Z</updated>
-    <id>tag:kakakakakku.hatenablog.com,2025-01-01:/entry/2025/01/01/220812</id>
-    <link href="https://kakakakakku.hatenablog.com/entry/2025/01/01/220812" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 2024年読んで印象に残った本（技術書編） - Don't Repeat Yourself</title>
-    <updated>2025-01-02T04:01:11Z</updated>
-    <id>tag:blog-dry.com,2025-01-02:/entry/2025/01/02/062954</id>
-    <link href="https://blog-dry.com/entry/2025/01/02/062954" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 自社開発のWeb系の環境が良いのは分かったけど、どうやって転職すればいいのさ？｜いぐぞー ✈️ 旅するプログラマー</title>
-    <updated>2025-01-02T13:59:50Z</updated>
-    <id>tag:note.com,2025-01-02:/igz0/n/n47eefecbbff2</id>
-    <link href="https://note.com/igz0/n/n47eefecbbff2" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【特集】 Windowsの調子が……最終手段のクリーンインストールで覚えておきたいテクニック。ローカルアカウントの作り方も紹介</title>
@@ -4636,16 +4600,100 @@
     <link href="https://pc.watch.impress.co.jp/docs/topic/feature/1651862.html" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 財布をやめてみたら、忘れ物が減った</title>
+    <updated>2025-01-01T21:43:26Z</updated>
+    <id>tag:www.gizmodo.jp,2025-01-01:/2024/12/quit-wallet-small-bag.html</id>
+    <link href="https://www.gizmodo.jp/2024/12/quit-wallet-small-bag.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: YAPC::Hakodate 2024で「データマイグレーションの成功戦略：サービスリニューアルで失敗しないための実践ガイド」という話をしました - たきざわの日記</title>
+    <updated>2025-01-03T01:34:15Z</updated>
+    <id>tag:blog.tkzwtks.net,2025-01-03:/entry/yapc-hakodate-2024</id>
+    <link href="https://blog.tkzwtks.net/entry/yapc-hakodate-2024" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 自社開発のWeb系の環境が良いのは分かったけど、どうやって転職すればいいのさ？｜いぐぞー ✈️ 旅するプログラマー</title>
+    <updated>2025-01-02T13:59:50Z</updated>
+    <id>tag:note.com,2025-01-02:/igz0/n/n47eefecbbff2</id>
+    <link href="https://note.com/igz0/n/n47eefecbbff2" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 習慣化 振り返り（2024年7-12月） - kakakakakku blog</title>
+    <updated>2025-01-01T13:19:07Z</updated>
+    <id>tag:kakakakakku.hatenablog.com,2025-01-01:/entry/2025/01/01/220812</id>
+    <link href="https://kakakakakku.hatenablog.com/entry/2025/01/01/220812" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: アステラス製薬・安川健司会長に直撃！　日本はなぜ、新薬開発で後れを取っているのか？</title>
     <updated>2025-01-02T00:38:55Z</updated>
     <id>tag:news.mynavi.jp,2025-01-02:/techplus/article/20241231-3097825/</id>
     <link href="https://news.mynavi.jp/techplus/article/20241231-3097825/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 2024年に特にお世話になったC++ライブラリ8選 - Qiita</title>
-    <updated>2025-01-02T04:35:49Z</updated>
-    <id>tag:qiita.com,2025-01-02:/prickle/items/7e1945f7983f7c8e5a7d</id>
-    <link href="https://qiita.com/prickle/items/7e1945f7983f7c8e5a7d" rel="alternate"></link>
+    <title>1:hatena_blog_it: それでもテスラ乗りますか　イーロン・マスク氏に抵抗始めた利用者 - 日本経済新聞</title>
+    <updated>2025-01-03T01:31:49Z</updated>
+    <id>tag:www.nikkei.com,2025-01-03:/article/DGXZQOGN206Q40Q4A121C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN206Q40Q4A121C2000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2024年読んで印象に残った本（非技術書編） - Don't Repeat Yourself</title>
+    <updated>2025-01-01T14:39:55Z</updated>
+    <id>tag:blog-dry.com,2025-01-01:/entry/2025/01/01/230056</id>
+    <link href="https://blog-dry.com/entry/2025/01/01/230056" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AI翻訳の影響で仕事が激減した翻訳者さんによるnoteが切ない「人間の側が翻訳に対する要求水準を下げ始めた」</title>
+    <updated>2025-01-02T05:48:44Z</updated>
+    <id>tag:togetter.com,2025-01-02:/li/2489292</id>
+    <link href="https://togetter.com/li/2489292" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 動画配信「エンドロール勝手にスキップ問題」、解決方法は？ 調べてみた</title>
+    <updated>2025-01-03T01:15:10Z</updated>
+    <id>tag:av.watch.impress.co.jp,2025-01-03:/docs/topic/1651705.html</id>
+    <link href="https://av.watch.impress.co.jp/docs/topic/1651705.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: PCテクノロジートレンド 2025 - CPU編「Intel」と「AMD」</title>
+    <updated>2025-01-03T01:16:25Z</updated>
+    <id>tag:news.mynavi.jp,2025-01-03:/article/20250103-3099225/</id>
+    <link href="https://news.mynavi.jp/article/20250103-3099225/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「政商」マスク氏、異例の権力を手中に　トランプ次期政権の決定に再三介入【地球コラム】：時事ドットコム</title>
+    <updated>2024-12-26T00:08:13Z</updated>
+    <id>tag:www.jiji.com,2024-12-26:/jc/v8</id>
+    <link href="https://www.jiji.com/jc/v8?id=202412world" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2024年に調べたり構築した開発環境について</title>
+    <updated>2025-01-01T11:18:11Z</updated>
+    <id>tag:zenn.dev,2025-01-01:/hiro345/articles/20241231_development</id>
+    <link href="https://zenn.dev/hiro345/articles/20241231_development" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: kubernetes入門</title>
+    <updated>2024-08-13T17:39:58Z</updated>
+    <id>tag:speakerdeck.com,2024-08-13:/cybozuinsideout/introduction-to-kubernetes-2024</id>
+    <link href="https://speakerdeck.com/cybozuinsideout/introduction-to-kubernetes-2024" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「このボタンにも凸がほしい」。自分仕様にカスタマイズするキーボードシール #これ買ってよかった | ライフハッカー・ジャパン</title>
+    <updated>2025-01-01T10:49:08Z</updated>
+    <id>tag:www.lifehacker.jp,2025-01-01:/article/2412-korekai-keyboardmarking/</id>
+    <link href="https://www.lifehacker.jp/article/2412-korekai-keyboardmarking/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2024年読んで印象に残った本（技術書編） - Don't Repeat Yourself</title>
+    <updated>2025-01-02T04:01:11Z</updated>
+    <id>tag:blog-dry.com,2025-01-02:/entry/2025/01/02/062954</id>
+    <link href="https://blog-dry.com/entry/2025/01/02/062954" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIは人間の進化をどのように変えるのか？</title>
+    <updated>2025-01-01T16:07:21Z</updated>
+    <id>tag:gigazine.net,2025-01-01:/news/20250101-ai-will-change-humanitys-future/</id>
+    <link href="https://gigazine.net/news/20250101-ai-will-change-humanitys-future/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: サーバレスパターンから学ぼう｜LocalStack 実践入門 | AWS サーバレスパターン開発ワークショップ</title>
@@ -4654,22 +4702,16 @@
     <link href="https://zenn.dev/kakakakakku/books/aws-serverless-pattern-workshop-using-localstack/viewer/01-serverless-pattern" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: D・アセモグル「低スキルの人を不要とみなす考えがAIを悪い方向に導く」 | ノーベル経済学賞受賞者が考える「AIとの共存」</title>
-    <updated>2025-01-01T23:29:56Z</updated>
-    <id>tag:courrier.jp,2025-01-01:/news/archives/386432/</id>
-    <link href="https://courrier.jp/news/archives/386432/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 2024年に特にお世話になったC++ライブラリ8選 - Qiita</title>
+    <updated>2025-01-02T04:35:49Z</updated>
+    <id>tag:qiita.com,2025-01-02:/prickle/items/7e1945f7983f7c8e5a7d</id>
+    <link href="https://qiita.com/prickle/items/7e1945f7983f7c8e5a7d" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Reactは初回レンダリングを特別扱いしない - honey32</title>
-    <updated>2025-01-02T10:01:58Z</updated>
-    <id>tag:scrapbox.io,2025-01-02:/honey32/Reactは初回レンダリングを特別扱いしない</id>
-    <link href="https://scrapbox.io/honey32/React%E3%81%AF%E5%88%9D%E5%9B%9E%E3%83%AC%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E7%89%B9%E5%88%A5%E6%89%B1%E3%81%84%E3%81%97%E3%81%AA%E3%81%84" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: チーム開発におけるテスト自動化の壁：難易度別の課題と解決策 - Qiita</title>
-    <updated>2025-01-01T10:51:05Z</updated>
-    <id>tag:qiita.com,2025-01-01:/Baplisca/items/08d9ce726ade52a0c1f5</id>
-    <link href="https://qiita.com/Baplisca/items/08d9ce726ade52a0c1f5" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIのトレーニングで使用されるチップ「H100」「H200」「MI300X」の性能を比較した結果判明した事実とは？</title>
+    <updated>2025-01-02T07:47:44Z</updated>
+    <id>tag:gigazine.net,2025-01-02:/news/20250102-mi300x-h100-h200-benchmark/</id>
+    <link href="https://gigazine.net/news/20250102-mi300x-h100-h200-benchmark/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Devin.aiを育てるための効果的なTipsと2025年の最速AIコーディングのあり方</title>
@@ -4678,22 +4720,10 @@
     <link href="https://zenn.dev/tomtar9779/articles/e3372e04129694" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「大いなる力には大いなる責任が伴う」などsudoの初回実行時に出現するメッセージを導入したのは誰なのか？</title>
-    <updated>2025-01-02T10:32:41Z</updated>
-    <id>tag:gigazine.net,2025-01-02:/news/20250102-sudo-warning/</id>
-    <link href="https://gigazine.net/news/20250102-sudo-warning/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: GitHub - DrewThomasson/ebook2audiobook: Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!</title>
-    <updated>2025-01-02T12:21:14Z</updated>
-    <id>tag:github.com,2025-01-02:/DrewThomasson/ebook2audiobook</id>
-    <link href="https://github.com/DrewThomasson/ebook2audiobook" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: コピペ作業が不要に！？VSCodeに生えたGitHub Copilotと作る自分だけのショートカット - Qiita</title>
-    <updated>2024-12-31T14:13:08Z</updated>
-    <id>tag:qiita.com,2024-12-31:/Jasmine_teeeeee/items/0bb45948ff3657a0011c</id>
-    <link href="https://qiita.com/Jasmine_teeeeee/items/0bb45948ff3657a0011c" rel="alternate"></link>
+    <title>1:hatena_blog_it: チーム開発におけるテスト自動化の壁：難易度別の課題と解決策 - Qiita</title>
+    <updated>2025-01-01T10:51:05Z</updated>
+    <id>tag:qiita.com,2025-01-01:/Baplisca/items/08d9ce726ade52a0c1f5</id>
+    <link href="https://qiita.com/Baplisca/items/08d9ce726ade52a0c1f5" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ハードウェア記述言語で遊ぼう！</title>
@@ -4702,45 +4732,15 @@
     <link href="https://zenn.dev/team411/articles/69574b9149e037" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Udemy「新年のビッグセール」開催！ 定番フロントエンド技術から今年こその資格・数学・英語・ビジネスまで！ 新たな学びはこの講座から！ ＋【必読】エンジニアの「具体と抽象」を往復する学びのヒント！ - はてなニュース</title>
-    <updated>2025-01-02T01:36:47Z</updated>
-    <id>tag:hatenanews.com,2025-01-02:/articles/2025/01/02/103000</id>
-    <link href="https://hatenanews.com/articles/2025/01/02/103000" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「大いなる力には大いなる責任が伴う」などsudoの初回実行時に出現するメッセージを導入したのは誰なのか？</title>
+    <updated>2025-01-02T10:32:41Z</updated>
+    <id>tag:gigazine.net,2025-01-02:/news/20250102-sudo-warning/</id>
+    <link href="https://gigazine.net/news/20250102-sudo-warning/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: S3のメタデータを用いた攻撃</title>
-    <updated>2025-01-01T02:30:02Z</updated>
-    <id>tag:zenn.dev,2025-01-01:/p0n/articles/3a6139cce9fa17</id>
-    <link href="https://zenn.dev/p0n/articles/3a6139cce9fa17" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI自作レビュー、「USBケーブルの種類を見分けるAIモデル」をトレーニングしてAIカメラを作ってみた【Raspberry Pi AI Camera】</title>
-    <updated>2025-01-02T03:18:04Z</updated>
-    <id>tag:gigazine.net,2025-01-02:/news/20250102-ai-training-object-recognition/</id>
-    <link href="https://gigazine.net/news/20250102-ai-training-object-recognition/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 現役エンジニアが厳選！IntelliJ IDEA 必携プラグイン10選</title>
-    <updated>2025-01-01T08:45:53Z</updated>
-    <id>tag:zenn.dev,2025-01-01:/takuya77088/articles/f529dc762bbea2</id>
-    <link href="https://zenn.dev/takuya77088/articles/f529dc762bbea2" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Cloud Providers Services Comparison | Datadog</title>
-    <updated>2025-01-02T07:48:12Z</updated>
-    <id>tag:www.datadoghq.com,2025-01-02:/providerservicesmap/</id>
-    <link href="https://www.datadoghq.com/providerservicesmap/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 2024 AI Timeline - a Hugging Face Space by reach-vb</title>
-    <updated>2025-01-01T13:22:28Z</updated>
-    <id>tag:huggingface.co,2025-01-01:/spaces/reach-vb/2024-ai-timeline</id>
-    <link href="https://huggingface.co/spaces/reach-vb/2024-ai-timeline" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: PCテクノロジートレンド 2025 - プロセス編「Samsung」と「Intel」</title>
-    <updated>2025-01-02T01:22:12Z</updated>
-    <id>tag:news.mynavi.jp,2025-01-02:/article/20250102-3098171/</id>
-    <link href="https://news.mynavi.jp/article/20250102-3098171/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Reactは初回レンダリングを特別扱いしない - honey32</title>
+    <updated>2025-01-02T10:01:58Z</updated>
+    <id>tag:scrapbox.io,2025-01-02:/honey32/Reactは初回レンダリングを特別扱いしない</id>
+    <link href="https://scrapbox.io/honey32/React%E3%81%AF%E5%88%9D%E5%9B%9E%E3%83%AC%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%92%E7%89%B9%E5%88%A5%E6%89%B1%E3%81%84%E3%81%97%E3%81%AA%E3%81%84" rel="alternate"></link>
   </entry>
 </feed>
