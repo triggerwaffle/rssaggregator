@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-01-05T06:16:40Z</updated>
+  <updated>2025-01-05T12:21:38Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2242,6 +2242,24 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: dxirc-fox</title>
+    <updated>2025-01-05T11:54:44Z</updated>
+    <id>dxirc-fox-1736078084</id>
+    <link href="https://aur.archlinux.org/packages/dxirc-fox" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: minilang-libs-postgres</title>
+    <updated>2025-01-05T09:15:00Z</updated>
+    <id>minilang-libs-postgres-1736068500</id>
+    <link href="https://aur.archlinux.org/packages/minilang-libs-postgres" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: minilang-libs-jupyter</title>
+    <updated>2025-01-05T09:14:48Z</updated>
+    <id>minilang-libs-jupyter-1736068488</id>
+    <link href="https://aur.archlinux.org/packages/minilang-libs-jupyter" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: xclock-git</title>
     <updated>2025-01-05T06:06:44Z</updated>
     <id>xclock-git-1736057204</id>
@@ -2824,22 +2842,196 @@
     <link href="https://aur.archlinux.org/packages/ipv6prefixfilter-bin" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: libnss-wrapper-bin</title>
-    <updated>2025-01-03T10:04:38Z</updated>
-    <id>libnss-wrapper-bin-1735898678</id>
-    <link href="https://aur.archlinux.org/packages/libnss-wrapper-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-xarray 2025.01.0-1 any</title>
+    <updated>2025-01-05T12:18:55Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra-testing/any/python-xarray/202501051218</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-xarray/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: additional-base-lib-bin</title>
-    <updated>2025-01-03T10:00:52Z</updated>
-    <id>additional-base-lib-bin-1735898452</id>
-    <link href="https://aur.archlinux.org/packages/additional-base-lib-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-graph-tool 2.81-1 x86_64</title>
+    <updated>2025-01-05T11:49:40Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra-testing/x86_64/python-graph-tool/202501051149</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-graph-tool/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: heretek</title>
-    <updated>2025-01-03T09:41:31Z</updated>
-    <id>heretek-1735897291</id>
-    <link href="https://aur.archlinux.org/packages/heretek" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-pytables 3.10.2-2 x86_64</title>
+    <updated>2025-01-05T11:15:32Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra-testing/x86_64/python-pytables/202501051115</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-pytables/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: pandoc-plot 1.9.1-3 x86_64</title>
+    <updated>2025-01-05T10:45:34Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/pandoc-plot/202501051045</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/pandoc-plot/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: pandoc-crossref 0.3.18.1-4 x86_64</title>
+    <updated>2025-01-05T10:45:34Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/pandoc-crossref/202501051045</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/pandoc-crossref/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: pandoc-cli 3.1.11.1-17 x86_64</title>
+    <updated>2025-01-05T10:45:33Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/pandoc-cli/202501051045</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/pandoc-cli/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-pandoc-server 0.1.0.5-90 x86_64</title>
+    <updated>2025-01-05T10:45:32Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/haskell-pandoc-server/202501051045</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-pandoc-server/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-pandoc-lua-engine 0.2.1.2-72 x86_64</title>
+    <updated>2025-01-05T10:45:32Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/haskell-pandoc-lua-engine/202501051045</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-pandoc-lua-engine/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-pandoc 3.1.11.1-16 x86_64</title>
+    <updated>2025-01-05T10:45:31Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/haskell-pandoc/202501051045</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-pandoc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-hakyll 4.16.1.0-31 x86_64</title>
+    <updated>2025-01-05T10:45:30Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/haskell-hakyll/202501051045</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hakyll/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-commonmark-pandoc 0.2.2.1-1 x86_64</title>
+    <updated>2025-01-05T10:45:30Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/haskell-commonmark-pandoc/202501051045</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-commonmark-pandoc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: tiny 0.13.0-1 x86_64</title>
+    <updated>2025-01-05T10:15:34Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/tiny/202501051015</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/tiny/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hopenpgp-tools 0.23.7-254 x86_64</title>
+    <updated>2025-01-05T10:05:01Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/hopenpgp-tools/202501051005</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hopenpgp-tools/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-summoner-tui 2.0.1.1-577 x86_64</title>
+    <updated>2025-01-05T10:05:01Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/haskell-summoner-tui/202501051005</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-summoner-tui/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-summoner 2.0.1.1-516 x86_64</title>
+    <updated>2025-01-05T10:05:00Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/haskell-summoner/202501051005</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-summoner/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-safecopy 0.10.4.2-288 x86_64</title>
+    <updated>2025-01-05T10:04:59Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/haskell-safecopy/202501051004</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-safecopy/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-one-liner 2.1-131 x86_64</title>
+    <updated>2025-01-05T10:04:59Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/haskell-one-liner/202501051004</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-one-liner/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-linear-base 0.3.1-1 x86_64</title>
+    <updated>2025-01-05T10:04:58Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/haskell-linear-base/202501051004</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-linear-base/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-ixset-typed 0.5.1.0-168 x86_64</title>
+    <updated>2025-01-05T10:04:58Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/haskell-ixset-typed/202501051004</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-ixset-typed/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-hopenpgp 2.9.8-214 x86_64</title>
+    <updated>2025-01-05T10:04:57Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/haskell-hopenpgp/202501051004</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hopenpgp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-generic-data 1.1.0.0-27 x86_64</title>
+    <updated>2025-01-05T10:04:56Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/haskell-generic-data/202501051004</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-generic-data/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-netcdf4-openmpi 1.7.2-2 x86_64</title>
+    <updated>2025-01-05T09:40:34Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/python-netcdf4-openmpi/202501050940</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-netcdf4-openmpi/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-netcdf4 1.7.2-2 x86_64</title>
+    <updated>2025-01-05T09:29:11Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/python-netcdf4/202501050929</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-netcdf4/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ghostty-terminfo 1.0.1-2 x86_64</title>
+    <updated>2025-01-05T09:07:34Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/ghostty-terminfo/202501050907</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/ghostty-terminfo/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ghostty-shell-integration 1.0.1-2 x86_64</title>
+    <updated>2025-01-05T09:07:34Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/ghostty-shell-integration/202501050907</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/ghostty-shell-integration/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ghostty 1.0.1-2 x86_64</title>
+    <updated>2025-01-05T09:07:33Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/ghostty/202501050907</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/ghostty/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libportal-qt6 0.9.0-1 x86_64</title>
+    <updated>2025-01-05T09:06:46Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra-testing/x86_64/libportal-qt6/202501050906</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/libportal-qt6/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libportal-qt5 0.9.0-1 x86_64</title>
+    <updated>2025-01-05T09:06:46Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra-testing/x86_64/libportal-qt5/202501050906</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/libportal-qt5/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libportal-gtk4 0.9.0-1 x86_64</title>
+    <updated>2025-01-05T09:06:45Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra-testing/x86_64/libportal-gtk4/202501050906</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/libportal-gtk4/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libportal-gtk3 0.9.0-1 x86_64</title>
+    <updated>2025-01-05T09:06:44Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra-testing/x86_64/libportal-gtk3/202501050906</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/libportal-gtk3/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libportal-docs 0.9.0-1 x86_64</title>
+    <updated>2025-01-05T09:06:43Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra-testing/x86_64/libportal-docs/202501050906</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/libportal-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libportal 0.9.0-1 x86_64</title>
+    <updated>2025-01-05T09:06:43Z</updated>
+    <id>tag:archlinux.org,2025-01-05:/packages/extra-testing/x86_64/libportal/202501050906</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/libportal/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: lib32-nettle 3.10.1-1 x86_64</title>
@@ -2948,197 +3140,5 @@
     <updated>2025-01-05T00:02:02Z</updated>
     <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/gtk4-demos/202501050002</id>
     <link href="https://archlinux.org/packages/extra/x86_64/gtk4-demos/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gtk4 1:4.16.12-1 x86_64</title>
-    <updated>2025-01-05T00:02:02Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/gtk4/202501050002</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/gtk4/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gtk-update-icon-cache 1:4.16.12-1 x86_64</title>
-    <updated>2025-01-05T00:02:01Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/gtk-update-icon-cache/202501050002</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/gtk-update-icon-cache/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gnome-software 47.3-1 x86_64</title>
-    <updated>2025-01-05T00:02:00Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/gnome-software/202501050002</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/gnome-software/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gnome-maps 47.3-1 x86_64</title>
-    <updated>2025-01-05T00:01:59Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/gnome-maps/202501050001</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/gnome-maps/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: rust-aarch64-musl 1:1.83.0-2 x86_64</title>
-    <updated>2025-01-05T00:01:59Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/rust-aarch64-musl/202501050001</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/rust-aarch64-musl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: rust-aarch64-gnu 1:1.83.0-2 x86_64</title>
-    <updated>2025-01-05T00:01:58Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/rust-aarch64-gnu/202501050001</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/rust-aarch64-gnu/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-vulkan-virtio 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:16Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/multilib/x86_64/lib32-vulkan-virtio/202501050000</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-vulkan-virtio/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-vulkan-swrast 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:15Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/multilib/x86_64/lib32-vulkan-swrast/202501050000</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-vulkan-swrast/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-vulkan-radeon 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:14Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/multilib/x86_64/lib32-vulkan-radeon/202501050000</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-vulkan-radeon/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-vulkan-nouveau 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:14Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/multilib/x86_64/lib32-vulkan-nouveau/202501050000</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-vulkan-nouveau/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-vulkan-mesa-layers 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:13Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/multilib/x86_64/lib32-vulkan-mesa-layers/202501050000</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-vulkan-mesa-layers/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-vulkan-intel 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:12Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/multilib/x86_64/lib32-vulkan-intel/202501050000</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-vulkan-intel/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vulkan-virtio 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:12Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/vulkan-virtio/202501050000</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/vulkan-virtio/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-opencl-rusticl-mesa 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:11Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/multilib/x86_64/lib32-opencl-rusticl-mesa/202501050000</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-opencl-rusticl-mesa/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vulkan-swrast 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:11Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/vulkan-swrast/202501050000</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/vulkan-swrast/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-opencl-clover-mesa 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:11Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/multilib/x86_64/lib32-opencl-clover-mesa/202501050000</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-opencl-clover-mesa/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vulkan-radeon 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:10Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/vulkan-radeon/202501050000</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/vulkan-radeon/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-mesa 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:10Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/multilib/x86_64/lib32-mesa/202501050000</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-mesa/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vulkan-nouveau 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:09Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/vulkan-nouveau/202501050000</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/vulkan-nouveau/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vulkan-mesa-layers 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:09Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/vulkan-mesa-layers/202501050000</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/vulkan-mesa-layers/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vulkan-intel 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:08Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/vulkan-intel/202501050000</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/vulkan-intel/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: opencl-rusticl-mesa 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:07Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/opencl-rusticl-mesa/202501050000</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/opencl-rusticl-mesa/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: opencl-clover-mesa 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:06Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/opencl-clover-mesa/202501050000</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/opencl-clover-mesa/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mesa-docs 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:05Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/mesa-docs/202501050000</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/mesa-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mesa 1:24.3.3-1 x86_64</title>
-    <updated>2025-01-05T00:00:04Z</updated>
-    <id>tag:archlinux.org,2025-01-05:/packages/extra/x86_64/mesa/202501050000</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/mesa/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-mplhep_data 0.0.4-2 any</title>
-    <updated>2025-01-04T22:56:20Z</updated>
-    <id>tag:archlinux.org,2025-01-04:/packages/extra/any/python-mplhep_data/202501042256</id>
-    <link href="https://archlinux.org/packages/extra/any/python-mplhep_data/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-krb5 0.5.1-4 x86_64</title>
-    <updated>2025-01-04T22:48:25Z</updated>
-    <id>tag:archlinux.org,2025-01-04:/packages/extra/x86_64/python-krb5/202501042248</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/python-krb5/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gimp-nufraw 0.43.3-11 x86_64</title>
-    <updated>2025-01-04T22:46:36Z</updated>
-    <id>tag:archlinux.org,2025-01-04:/packages/extra/x86_64/gimp-nufraw/202501042246</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/gimp-nufraw/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: easy-rsa 3.2.1-3 any</title>
-    <updated>2025-01-04T22:46:35Z</updated>
-    <id>tag:archlinux.org,2025-01-04:/packages/extra/any/easy-rsa/202501042246</id>
-    <link href="https://archlinux.org/packages/extra/any/easy-rsa/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: file 5.46-3 x86_64</title>
-    <updated>2025-01-04T22:20:06Z</updated>
-    <id>tag:archlinux.org,2025-01-04:/packages/core-testing/x86_64/file/202501042220</id>
-    <link href="https://archlinux.org/packages/core-testing/x86_64/file/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pacman-offline 0.3.4-1 any</title>
-    <updated>2025-01-04T21:24:42Z</updated>
-    <id>tag:archlinux.org,2025-01-04:/packages/extra/any/pacman-offline/202501042124</id>
-    <link href="https://archlinux.org/packages/extra/any/pacman-offline/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nano 8.3-1 x86_64</title>
-    <updated>2025-01-04T21:23:13Z</updated>
-    <id>tag:archlinux.org,2025-01-04:/packages/core-testing/x86_64/nano/202501042123</id>
-    <link href="https://archlinux.org/packages/core-testing/x86_64/nano/" rel="alternate"></link>
   </entry>
 </feed>
