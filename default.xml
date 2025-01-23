@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-01-23T00:57:34Z</updated>
+  <updated>2025-01-23T06:17:21Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -136,6 +136,12 @@
     <link href="https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 人間によるコーディング禁止の CLINE 縛りでゲームを作らせてみた感想</title>
+    <updated>2025-01-22T14:23:21Z</updated>
+    <id>https://zenn.dev/mizchi/articles/game-with-cline</id>
+    <link href="https://zenn.dev/mizchi/articles/game-with-cline" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Liam ERDで綺麗でインタラクティブなER図を自動生成する</title>
     <updated>2025-01-22T07:49:18Z</updated>
     <id>https://zenn.dev/route06/articles/liam-erd-introduction</id>
@@ -236,12 +242,6 @@
     <updated>2025-01-20T07:45:53Z</updated>
     <id>https://zenn.dev/medicalforce/articles/d7fc654a4dbd3b</id>
     <link href="https://zenn.dev/medicalforce/articles/d7fc654a4dbd3b" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: ECS上にE2Eテスト基盤としてPlaywrightによる実行環境を構築した</title>
-    <updated>2025-01-20T03:00:01Z</updated>
-    <id>https://zenn.dev/wn_engineering/articles/build-automated-test-environment-with-playwright</id>
-    <link href="https://zenn.dev/wn_engineering/articles/build-automated-test-environment-with-playwright" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: ただJSONサイズを80%削減する話</title>
@@ -976,6 +976,12 @@
     <link href="https://www.youtube.com/watch?v=MsZtt8BmR40" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: LinuxやWindowsサーバでExcelファイルを直接高速に読み書きするライブラリ。オンプレミス/クラウドなど、多様化するプラットフォームをサポート［PR］</title>
+    <updated>2025-01-23T04:13:00Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8091</id>
+    <link href="https://www.publickey1.jp/blog/25/linuxwindowsexcelpr.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: JavaScriptランタイム「Bun」がAmazon S3クライアント機能を搭載</title>
     <updated>2025-01-22T15:22:10Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8094</id>
@@ -1058,12 +1064,6 @@
     <updated>2025-01-09T18:01:15Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8080</id>
     <link href="https://www.publickey1.jp/blog/25/github_copilot_freejetbrains_idevscode.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: 事実上無限にスケールする「Amazon Aurora DSQL」プレビュー公開／AIエージェント「Jules」Googleが発表／「Devin」ついに正式サービス開始ほか、2024年12月の人気記事</title>
-    <updated>2025-01-09T15:00:19Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8079</id>
-    <link href="https://www.publickey1.jp/blog/25/amazon_aurora_dsqlaijulesgoogledevin202412.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Android 16のアレコレ、今わかっているコト</title>
@@ -4492,22 +4492,52 @@
     <link href="https://gihyo.jp/article/2024/01/android-weekly-topics-240125?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 人間によるコーディング禁止の CLINE 縛りでゲームを作らせてみた感想</title>
-    <updated>2025-01-22T14:36:59Z</updated>
-    <id>tag:zenn.dev,2025-01-22:/mizchi/articles/game-with-cline</id>
-    <link href="https://zenn.dev/mizchi/articles/game-with-cline" rel="alternate"></link>
+    <title>1:hatena_blog_it: イーロン・マスク氏、ソフトバンクGの巨額AI投資に疑念　トランプ氏とずれ - 日本経済新聞</title>
+    <updated>2025-01-22T22:50:03Z</updated>
+    <id>tag:www.nikkei.com,2025-01-22:/article/DGXZQOGN22EE20S5A120C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN22EE20S5A120C2000000/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ほぼA3サイズの「Starlink Mini」、日本でも購入可能に　3万4800円　移動しながら衛星インターネット</title>
+    <title>1:hatena_blog_it: ペアプロで何に気をつけているかの知見紹介 - Lambdaカクテル</title>
+    <updated>2025-01-22T17:05:25Z</updated>
+    <id>tag:blog.3qe.us,2025-01-22:/entry/2025/01/23/013929</id>
+    <link href="https://blog.3qe.us/entry/2025/01/23/013929" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: DeepSeek R1をほぼ準備なしからローカルGPUで動かす｜しぴちゃん</title>
+    <updated>2025-01-21T22:57:11Z</updated>
+    <id>tag:note.com,2025-01-21:/cppp_cpchan/n/n3c1039c80dd0</id>
+    <link href="https://note.com/cppp_cpchan/n/n3c1039c80dd0" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ほぼA3サイズの「Starlink Mini」、日本でも購入できるように　3万4800円　USB-PDでも動作可能</title>
     <updated>2025-01-22T13:30:05Z</updated>
     <id>tag:www.itmedia.co.jp,2025-01-22:/news/articles/2501/22/news206.html</id>
     <link href="https://www.itmedia.co.jp/news/articles/2501/22/news206.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: イーロン・マスク氏、ソフトバンクGの巨額AI投資に疑念　トランプ氏とずれ - 日本経済新聞</title>
-    <updated>2025-01-22T22:50:03Z</updated>
-    <id>tag:www.nikkei.com,2025-01-22:/article/DGXZQOGN22EE20S5A120C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN22EE20S5A120C2000000/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Building a tiny Linux from scratch</title>
+    <updated>2025-01-22T13:20:05Z</updated>
+    <id>tag:blinry.org,2025-01-22:/tiny-linux/</id>
+    <link href="https://blinry.org/tiny-linux/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ブクマカみたいになりたかったAIさん、辛辣なコメントを諦める</title>
+    <updated>2025-01-23T01:53:07Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-01-23:/20250123103905</id>
+    <link href="https://anond.hatelabo.jp/20250123103905" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: お知らせ | 記録メディア | ソニー</title>
+    <updated>2025-01-23T02:28:48Z</updated>
+    <id>tag:www.sony.jp,2025-01-23:/rec-media/info2/20250123.html</id>
+    <link href="https://www.sony.jp/rec-media/info2/20250123.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【分子ガストロノミー】人は未知の味を浴びるとアホの食レポしか出来ない【セララバアド】</title>
+    <updated>2025-01-22T22:01:38Z</updated>
+    <id>tag:togetter.com,2025-01-22:/li/2500396</id>
+    <link href="https://togetter.com/li/2500396" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ポート番号は、「部屋番号のような...」という説明に終止符を打ちにきました。 - Qiita</title>
@@ -4516,16 +4546,34 @@
     <link href="https://qiita.com/t-furusato/items/0397459ecb39cecc2d81" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: クレジットカードの「自筆サインで本人確認」、3月末で原則廃止</title>
-    <updated>2025-01-22T06:54:53Z</updated>
-    <id>tag:japan.cnet.com,2025-01-22:/article/35228543/</id>
-    <link href="https://japan.cnet.com/article/35228543/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Lambda からアクセスする DB に SQLite を使ってみる</title>
+    <updated>2025-01-22T14:53:15Z</updated>
+    <id>tag:note.milldea.com,2025-01-22:/posts/lambda-efs-sqlite-sample</id>
+    <link href="https://note.milldea.com/posts/lambda-efs-sqlite-sample" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ブックマークしたエントリーのタイトル変更機能の提供を一時的に停止します - はてなブックマーク開発ブログ</title>
-    <updated>2025-01-22T09:44:16Z</updated>
-    <id>tag:bookmark.hatenastaff.com,2025-01-22:/entry/2025/01/22/183256</id>
-    <link href="https://bookmark.hatenastaff.com/entry/2025/01/22/183256" rel="alternate"></link>
+    <title>1:hatena_blog_it: 商用でも完全無料で利用できる！ デザインやイラストでかなり使える有料レベルの高解像度テクスチャ素材 -ResourceBoy</title>
+    <updated>2025-01-23T01:05:50Z</updated>
+    <id>tag:coliss.com,2025-01-23:/articles/freebies/textures-by-resourceboy-202501.html</id>
+    <link href="https://coliss.com/articles/freebies/textures-by-resourceboy-202501.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ソニー、BD、MD、ミニDVのメディア生産を終了へ　「後継機種はございません」</title>
+    <updated>2025-01-23T04:41:38Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-01-23:/news/articles/2501/23/news154.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2501/23/news154.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ソニー、Blu-ray DiscやMDを2月に生産終了</title>
+    <updated>2025-01-23T03:47:16Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-01-23:/docs/news/1656771.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/1656771.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: go.jpサブドメインが不正利用可能な状態だった件について:Geekなぺーじ</title>
+    <updated>2025-01-23T04:08:47Z</updated>
+    <id>tag:www.geekpage.jp,2025-01-23:/blog/</id>
+    <link href="https://www.geekpage.jp/blog/?id=2025-1-23-1" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 『ヘルシープログラマ』になるための作業環境 - 空の箱</title>
@@ -4540,22 +4588,10 @@
     <link href="https://www.lifehacker.jp/article/machi-ya-vormorv13-review-814661/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 大規模システムを知るために、まず監視を学んだ話 - NRIネットコムBlog</title>
-    <updated>2025-01-22T08:12:02Z</updated>
-    <id>tag:tech.nri-net.com,2025-01-22:/entry/a_story_of_learning_surveillance</id>
-    <link href="https://tech.nri-net.com/entry/a_story_of_learning_surveillance" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: DeepSeek R1をほぼ準備なしからローカルGPUで動かす｜しぴちゃん</title>
-    <updated>2025-01-21T22:57:11Z</updated>
-    <id>tag:note.com,2025-01-21:/cppp_cpchan/n/n3c1039c80dd0</id>
-    <link href="https://note.com/cppp_cpchan/n/n3c1039c80dd0" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ペアプロで何に気をつけているかの知見紹介 - Lambdaカクテル</title>
-    <updated>2025-01-22T17:05:25Z</updated>
-    <id>tag:blog.3qe.us,2025-01-22:/entry/2025/01/23/013929</id>
-    <link href="https://blog.3qe.us/entry/2025/01/23/013929" rel="alternate"></link>
+    <title>1:hatena_blog_it: Tailwind CSS v4.0</title>
+    <updated>2025-01-23T01:08:21Z</updated>
+    <id>tag:tailwindcss.com,2025-01-23:/blog/tailwindcss-v4</id>
+    <link href="https://tailwindcss.com/blog/tailwindcss-v4" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 最低限のセキュアなSSH接続 - Qiita</title>
@@ -4564,93 +4600,57 @@
     <link href="https://qiita.com/yuk046/items/13e933936e2ceb40444f" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Building a tiny Linux from scratch</title>
-    <updated>2025-01-22T13:20:05Z</updated>
-    <id>tag:blinry.org,2025-01-22:/tiny-linux/</id>
-    <link href="https://blinry.org/tiny-linux/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 共有リンクがサービス終了、既存のリンクもエラーに。「Firebase Dynamic Links」が8月25日で終了 ～『艦これ』の提督たちに影響／「Google URL Shortener」（goo.gl）も同時廃止されるので注意【やじうまの杜】</title>
+    <updated>2025-01-23T03:37:33Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-01-23:/docs/serial/yajiuma/1656678.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/1656678.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「SEOが理不尽なクソゲーになった」時代の生き方とは？ 衝撃の移籍を発表した辻さんと渡辺さんが語った | インタビュー</title>
-    <updated>2025-01-22T01:57:01Z</updated>
-    <id>tag:webtan.impress.co.jp,2025-01-22:/e/2025/01/22/48494</id>
-    <link href="https://webtan.impress.co.jp/e/2025/01/22/48494" rel="alternate"></link>
+    <title>1:hatena_blog_it: POSの裏側を聞いたら「アナログ時代の職人技」と「顧客満足へのこだわり」に驚いた｜イオングループのエンジニアによる突撃インタビュー ｜AEON TECH HUB</title>
+    <updated>2025-01-23T01:12:08Z</updated>
+    <id>tag:engineer-recuruiting.aeon.info,2025-01-23:/aeon-tech-hub/interview_POS</id>
+    <link href="https://engineer-recuruiting.aeon.info/aeon-tech-hub/interview_POS" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 指を高速に動かす「外骨格ロボット」で“自身の限界”を超えるピアノ練習法、ソニーCSLが発見</title>
-    <updated>2025-01-22T09:05:07Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-01-22:/news/articles/2501/22/news190.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2501/22/news190.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: クレジットカードの「自筆サインで本人確認」、3月末で原則廃止</title>
+    <updated>2025-01-22T06:54:53Z</updated>
+    <id>tag:japan.cnet.com,2025-01-22:/article/35228543/</id>
+    <link href="https://japan.cnet.com/article/35228543/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 旧型PCへWindows 11 を！【旧型 Windows10 PC用】Windows 11 インストーラーUSB 販売開始</title>
-    <updated>2025-01-22T15:22:20Z</updated>
-    <id>tag:newscast.jp,2025-01-22:/news/8717093</id>
-    <link href="https://newscast.jp/news/8717093" rel="alternate"></link>
+    <title>1:hatena_blog_it: Googleは絶対に教えてくれない 「SEO業者選びの落とし穴」と「インハウスSEOの勘所」 | 【レポート】Web担当者Forumミーティング 2024 秋</title>
+    <updated>2025-01-23T02:21:58Z</updated>
+    <id>tag:webtan.impress.co.jp,2025-01-23:/e/2025/01/23/48465</id>
+    <link href="https://webtan.impress.co.jp/e/2025/01/23/48465" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Lambda からアクセスする DB に SQLite を使ってみる</title>
-    <updated>2025-01-22T14:53:15Z</updated>
-    <id>tag:note.milldea.com,2025-01-22:/posts/lambda-efs-sqlite-sample</id>
-    <link href="https://note.milldea.com/posts/lambda-efs-sqlite-sample" rel="alternate"></link>
+    <title>1:hatena_blog_it: 大規模システムを知るために、まず監視を学んだ話 - NRIネットコムBlog</title>
+    <updated>2025-01-22T08:12:02Z</updated>
+    <id>tag:tech.nri-net.com,2025-01-22:/entry/a_story_of_learning_surveillance</id>
+    <link href="https://tech.nri-net.com/entry/a_story_of_learning_surveillance" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「月3000円で万能の家庭教師がいるみたいなもん」受験勉強にAIを活用する「AIネイティブ」がリアルに生まれているという話</title>
-    <updated>2025-01-20T16:22:01Z</updated>
-    <id>tag:togetter.com,2025-01-20:/li/2499267</id>
-    <link href="https://togetter.com/li/2499267" rel="alternate"></link>
+    <title>1:hatena_blog_it: サービスの価格を決めるのは「ユーザーとの関係値」。TRPGの個人開発ツールが「文化のインフラ」になるまで【ココフォリア】 | レバテックラボ（レバテックLAB）</title>
+    <updated>2025-01-23T03:04:22Z</updated>
+    <id>tag:levtech.jp,2025-01-23:/media/article/interview/detail_602/</id>
+    <link href="https://levtech.jp/media/article/interview/detail_602/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ChatGPTが「ものを見て会話できる」ようになった。驚くべきレスの速さ | ライフハッカー・ジャパン</title>
-    <updated>2025-01-22T08:20:38Z</updated>
-    <id>tag:www.lifehacker.jp,2025-01-22:/article/2412-chatgpts-can-finally-see/</id>
-    <link href="https://www.lifehacker.jp/article/2412-chatgpts-can-finally-see/" rel="alternate"></link>
+    <title>1:hatena_blog_it: マスク氏 AI巨額投資計画の実現性に疑問“資金力十分でない” | NHK</title>
+    <updated>2025-01-23T02:18:24Z</updated>
+    <id>tag:www3.nhk.or.jp,2025-01-23:/news/html/20250123/k10014701001000.html</id>
+    <link href="https://www3.nhk.or.jp/news/html/20250123/k10014701001000.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「Togetter」が2つに分割へ ～従来のプラットフォームとX（Twitter）のトレンドまとめに／API使用料の負担と収益悪化のためリニューアルして収益改善を目指す</title>
-    <updated>2025-01-22T23:47:45Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-01-22:/docs/news/1656659.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/1656659.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: BigQueryでJSON文字列を攻略する関数たち - ドワンゴ教育サービス開発者ブログ</title>
+    <updated>2025-01-23T02:07:22Z</updated>
+    <id>tag:blog.nnn.dev,2025-01-23:/entry/2025/01/23/110000</id>
+    <link href="https://blog.nnn.dev/entry/2025/01/23/110000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 検索  |  Google Developers</title>
-    <updated>2013-05-29T07:42:16Z</updated>
-    <id>tag:developers.google.com,2013-05-29:/search</id>
-    <link href="https://developers.google.com/search?hl=ja" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Windowsのアーカイバ「7-Zip」に重大な脆弱性、アップデートを</title>
-    <updated>2025-01-22T08:19:41Z</updated>
-    <id>tag:news.mynavi.jp,2025-01-22:/techplus/article/20250122-3112694/</id>
-    <link href="https://news.mynavi.jp/techplus/article/20250122-3112694/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【いま話題】MCPサーバーを10分で構築してみた</title>
-    <updated>2025-01-20T01:06:01Z</updated>
-    <id>tag:zenn.dev,2025-01-20:/makumaaku/articles/85fc9e17f5bd5f</id>
-    <link href="https://zenn.dev/makumaaku/articles/85fc9e17f5bd5f" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 三菱UFJニコス、40万人分の一部カード情報が業務受託先でも閲覧可能だったと判明　システムの誤設定で</title>
-    <updated>2025-01-22T10:32:49Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-01-22:/news/articles/2501/22/news198.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2501/22/news198.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: [スタパ齋藤のApple野郎] iPhoneにピタッとくっつくLEDライト「amaran Go」がイイぞ！</title>
-    <updated>2025-01-22T05:01:40Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2025-01-22:/docs/column/stapaapple/1656291.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1656291.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: スターゲート事業は「カオス状態」、アンソロピックＣＥＯが批判</title>
-    <updated>2025-01-22T22:12:14Z</updated>
-    <id>tag:www.bloomberg.co.jp,2025-01-22:/news/articles/2025-01-22/SQI3YQDWLU6800</id>
-    <link href="https://www.bloomberg.co.jp/news/articles/2025-01-22/SQI3YQDWLU6800" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: よく使う「生成AI」ランキング。ChatGPTを抑えた1位は？著作権や人権…課題だと感じることとは</title>
-    <updated>2025-01-21T22:53:23Z</updated>
-    <id>tag:www.huffingtonpost.jp,2025-01-21:/entry/story_jp_678df51ee4b0504f45645b46</id>
-    <link href="https://www.huffingtonpost.jp/entry/story_jp_678df51ee4b0504f45645b46" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「Togetter」の苦境に応援チップ集まる　社長「ギリギリまでやり切る」</title>
+    <updated>2025-01-23T03:47:38Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-01-23:/news/articles/2501/23/news146.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2501/23/news146.html" rel="alternate"></link>
   </entry>
 </feed>
