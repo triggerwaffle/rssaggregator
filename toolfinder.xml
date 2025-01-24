@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-01-24T00:57:48Z</updated>
+  <updated>2025-01-24T06:17:23Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2344,6 +2344,24 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: cbatticon-gtk3-git</title>
+    <updated>2025-01-24T05:35:55Z</updated>
+    <id>cbatticon-gtk3-git-1737696955</id>
+    <link href="https://aur.archlinux.org/packages/cbatticon-gtk3-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: xorg-xrdb-mcpp</title>
+    <updated>2025-01-24T05:22:01Z</updated>
+    <id>xorg-xrdb-mcpp-1737696121</id>
+    <link href="https://aur.archlinux.org/packages/xorg-xrdb-mcpp" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: autosubsync-bin</title>
+    <updated>2025-01-24T01:47:45Z</updated>
+    <id>autosubsync-bin-1737683265</id>
+    <link href="https://aur.archlinux.org/packages/autosubsync-bin" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: modo</title>
     <updated>2025-01-23T19:09:53Z</updated>
     <id>modo-1737659393</id>
@@ -2926,22 +2944,76 @@
     <link href="https://aur.archlinux.org/packages/python-certomancer-csc-dummy" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-pae</title>
-    <updated>2025-01-21T03:37:45Z</updated>
-    <id>python-pae-1737430665</id>
-    <link href="https://aur.archlinux.org/packages/python-pae" rel="alternate"></link>
+    <title>2:archlinux_new_packages: x86_energy_perf_policy 6.13-1 x86_64</title>
+    <updated>2025-01-24T02:08:41Z</updated>
+    <id>tag:archlinux.org,2025-01-24:/packages/extra/x86_64/x86_energy_perf_policy/202501240208</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/x86_energy_perf_policy/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: nakamastream-desktop-bin</title>
-    <updated>2025-01-21T03:20:06Z</updated>
-    <id>nakamastream-desktop-bin-1737429606</id>
-    <link href="https://aur.archlinux.org/packages/nakamastream-desktop-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: usbip 6.13-1 x86_64</title>
+    <updated>2025-01-24T02:08:41Z</updated>
+    <id>tag:archlinux.org,2025-01-24:/packages/extra/x86_64/usbip/202501240208</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/usbip/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: drakontech-bin</title>
-    <updated>2025-01-21T02:45:38Z</updated>
-    <id>drakontech-bin-1737427538</id>
-    <link href="https://aur.archlinux.org/packages/drakontech-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: turbostat 6.13-1 x86_64</title>
+    <updated>2025-01-24T02:08:40Z</updated>
+    <id>tag:archlinux.org,2025-01-24:/packages/extra/x86_64/turbostat/202501240208</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/turbostat/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: tmon 6.13-1 x86_64</title>
+    <updated>2025-01-24T02:08:40Z</updated>
+    <id>tag:archlinux.org,2025-01-24:/packages/extra/x86_64/tmon/202501240208</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/tmon/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: perf 6.13-1 x86_64</title>
+    <updated>2025-01-24T02:08:39Z</updated>
+    <id>tag:archlinux.org,2025-01-24:/packages/extra/x86_64/perf/202501240208</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/perf/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: linux-tools-meta 6.13-1 x86_64</title>
+    <updated>2025-01-24T02:08:39Z</updated>
+    <id>tag:archlinux.org,2025-01-24:/packages/extra/x86_64/linux-tools-meta/202501240208</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/linux-tools-meta/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: kcpuid 6.13-1 x86_64</title>
+    <updated>2025-01-24T02:08:38Z</updated>
+    <id>tag:archlinux.org,2025-01-24:/packages/extra/x86_64/kcpuid/202501240208</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/kcpuid/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: intel-speed-select 6.13-1 x86_64</title>
+    <updated>2025-01-24T02:08:38Z</updated>
+    <id>tag:archlinux.org,2025-01-24:/packages/extra/x86_64/intel-speed-select/202501240208</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/intel-speed-select/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyperv 6.13-1 x86_64</title>
+    <updated>2025-01-24T02:08:37Z</updated>
+    <id>tag:archlinux.org,2025-01-24:/packages/extra/x86_64/hyperv/202501240208</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyperv/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: cpupower 6.13-1 x86_64</title>
+    <updated>2025-01-24T02:08:37Z</updated>
+    <id>tag:archlinux.org,2025-01-24:/packages/extra/x86_64/cpupower/202501240208</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/cpupower/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: bpf 6.13-1 x86_64</title>
+    <updated>2025-01-24T02:08:36Z</updated>
+    <id>tag:archlinux.org,2025-01-24:/packages/extra/x86_64/bpf/202501240208</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/bpf/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: bootconfig 6.13-1 x86_64</title>
+    <updated>2025-01-24T02:08:36Z</updated>
+    <id>tag:archlinux.org,2025-01-24:/packages/extra/x86_64/bootconfig/202501240208</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/bootconfig/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: netdata 2.2.0-1 x86_64</title>
@@ -3170,77 +3242,5 @@
     <updated>2025-01-23T21:37:21Z</updated>
     <id>tag:archlinux.org,2025-01-23:/packages/extra/x86_64/ugrep/202501232137</id>
     <link href="https://archlinux.org/packages/extra/x86_64/ugrep/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-pycrdt 0.12.7-1 x86_64</title>
-    <updated>2025-01-23T21:33:09Z</updated>
-    <id>tag:archlinux.org,2025-01-23:/packages/extra/x86_64/python-pycrdt/202501232133</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/python-pycrdt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xdg-desktop-portal-kde 6.2.91-1 x86_64</title>
-    <updated>2025-01-23T21:25:21Z</updated>
-    <id>tag:archlinux.org,2025-01-23:/packages/kde-unstable/x86_64/xdg-desktop-portal-kde/202501232125</id>
-    <link href="https://archlinux.org/packages/kde-unstable/x86_64/xdg-desktop-portal-kde/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: wacomtablet 6.2.91-1 x86_64</title>
-    <updated>2025-01-23T21:25:20Z</updated>
-    <id>tag:archlinux.org,2025-01-23:/packages/kde-unstable/x86_64/wacomtablet/202501232125</id>
-    <link href="https://archlinux.org/packages/kde-unstable/x86_64/wacomtablet/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: systemsettings 6.2.91-1 x86_64</title>
-    <updated>2025-01-23T21:25:20Z</updated>
-    <id>tag:archlinux.org,2025-01-23:/packages/kde-unstable/x86_64/systemsettings/202501232125</id>
-    <link href="https://archlinux.org/packages/kde-unstable/x86_64/systemsettings/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: sddm-kcm 6.2.91-1 x86_64</title>
-    <updated>2025-01-23T21:25:19Z</updated>
-    <id>tag:archlinux.org,2025-01-23:/packages/kde-unstable/x86_64/sddm-kcm/202501232125</id>
-    <link href="https://archlinux.org/packages/kde-unstable/x86_64/sddm-kcm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: qqc2-breeze-style 6.2.91-1 x86_64</title>
-    <updated>2025-01-23T21:25:19Z</updated>
-    <id>tag:archlinux.org,2025-01-23:/packages/kde-unstable/x86_64/qqc2-breeze-style/202501232125</id>
-    <link href="https://archlinux.org/packages/kde-unstable/x86_64/qqc2-breeze-style/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: print-manager 1:6.2.91-1 x86_64</title>
-    <updated>2025-01-23T21:25:18Z</updated>
-    <id>tag:archlinux.org,2025-01-23:/packages/kde-unstable/x86_64/print-manager/202501232125</id>
-    <link href="https://archlinux.org/packages/kde-unstable/x86_64/print-manager/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: powerdevil 6.2.91-1 x86_64</title>
-    <updated>2025-01-23T21:25:17Z</updated>
-    <id>tag:archlinux.org,2025-01-23:/packages/kde-unstable/x86_64/powerdevil/202501232125</id>
-    <link href="https://archlinux.org/packages/kde-unstable/x86_64/powerdevil/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: polkit-kde-agent 6.2.91-1 x86_64</title>
-    <updated>2025-01-23T21:25:17Z</updated>
-    <id>tag:archlinux.org,2025-01-23:/packages/kde-unstable/x86_64/polkit-kde-agent/202501232125</id>
-    <link href="https://archlinux.org/packages/kde-unstable/x86_64/polkit-kde-agent/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: plymouth-kcm 6.2.91-1 x86_64</title>
-    <updated>2025-01-23T21:25:16Z</updated>
-    <id>tag:archlinux.org,2025-01-23:/packages/kde-unstable/x86_64/plymouth-kcm/202501232125</id>
-    <link href="https://archlinux.org/packages/kde-unstable/x86_64/plymouth-kcm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: plasma5support 6.2.91-1 x86_64</title>
-    <updated>2025-01-23T21:25:16Z</updated>
-    <id>tag:archlinux.org,2025-01-23:/packages/kde-unstable/x86_64/plasma5support/202501232125</id>
-    <link href="https://archlinux.org/packages/kde-unstable/x86_64/plasma5support/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: plasma5-integration 6.2.91-1 x86_64</title>
-    <updated>2025-01-23T21:25:15Z</updated>
-    <id>tag:archlinux.org,2025-01-23:/packages/kde-unstable/x86_64/plasma5-integration/202501232125</id>
-    <link href="https://archlinux.org/packages/kde-unstable/x86_64/plasma5-integration/" rel="alternate"></link>
   </entry>
 </feed>
