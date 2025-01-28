@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-01-28T06:17:13Z</updated>
+  <updated>2025-01-28T12:23:06Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2344,6 +2344,24 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: lib32-gc</title>
+    <updated>2025-01-28T11:10:51Z</updated>
+    <id>lib32-gc-1738062651</id>
+    <link href="https://aur.archlinux.org/packages/lib32-gc" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: emacs-htmlize</title>
+    <updated>2025-01-28T10:46:06Z</updated>
+    <id>emacs-htmlize-1738061166</id>
+    <link href="https://aur.archlinux.org/packages/emacs-htmlize" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: res-downloader-bin</title>
+    <updated>2025-01-28T10:34:44Z</updated>
+    <id>res-downloader-bin-1738060484</id>
+    <link href="https://aur.archlinux.org/packages/res-downloader-bin" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: yaak-beta-bin</title>
     <updated>2025-01-28T06:14:16Z</updated>
     <id>yaak-beta-bin-1738044856</id>
@@ -2926,22 +2944,82 @@
     <link href="https://aur.archlinux.org/packages/iwlwifi-killer-ax1690-7f70-dkms" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: libstirshaken</title>
-    <updated>2025-01-25T03:08:58Z</updated>
-    <id>libstirshaken-1737774538</id>
-    <link href="https://aur.archlinux.org/packages/libstirshaken" rel="alternate"></link>
+    <title>2:archlinux_new_packages: sagemath 10.5-10 x86_64</title>
+    <updated>2025-01-28T11:22:23Z</updated>
+    <id>tag:archlinux.org,2025-01-28:/packages/extra/x86_64/sagemath/202501281122</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/sagemath/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: linux-profile-manager-git</title>
-    <updated>2025-01-25T02:41:34Z</updated>
-    <id>linux-profile-manager-git-1737772894</id>
-    <link href="https://aur.archlinux.org/packages/linux-profile-manager-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: m4rie 20250103-2 x86_64</title>
+    <updated>2025-01-28T11:22:23Z</updated>
+    <id>tag:archlinux.org,2025-01-28:/packages/extra/x86_64/m4rie/202501281122</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/m4rie/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: bluejay-git</title>
-    <updated>2025-01-25T00:03:34Z</updated>
-    <id>bluejay-git-1737763414</id>
-    <link href="https://aur.archlinux.org/packages/bluejay-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: m4ri 20250128-1 x86_64</title>
+    <updated>2025-01-28T11:22:22Z</updated>
+    <id>tag:archlinux.org,2025-01-28:/packages/extra/x86_64/m4ri/202501281122</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/m4ri/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: brial 1.2.12-6 x86_64</title>
+    <updated>2025-01-28T11:22:22Z</updated>
+    <id>tag:archlinux.org,2025-01-28:/packages/extra/x86_64/brial/202501281122</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/brial/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lact-libadwaita 0.7.0-2 x86_64</title>
+    <updated>2025-01-28T10:53:40Z</updated>
+    <id>tag:archlinux.org,2025-01-28:/packages/extra/x86_64/lact-libadwaita/202501281053</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/lact-libadwaita/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lact 0.7.0-2 x86_64</title>
+    <updated>2025-01-28T10:53:40Z</updated>
+    <id>tag:archlinux.org,2025-01-28:/packages/extra/x86_64/lact/202501281053</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/lact/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-jupyter-ydoc 3.0.3-1 any</title>
+    <updated>2025-01-28T10:09:09Z</updated>
+    <id>tag:archlinux.org,2025-01-28:/packages/extra/any/python-jupyter-ydoc/202501281009</id>
+    <link href="https://archlinux.org/packages/extra/any/python-jupyter-ydoc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: jupyter-nbconvert 7.16.6-1 any</title>
+    <updated>2025-01-28T10:07:52Z</updated>
+    <id>tag:archlinux.org,2025-01-28:/packages/extra/any/jupyter-nbconvert/202501281007</id>
+    <link href="https://archlinux.org/packages/extra/any/jupyter-nbconvert/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: grml-zsh-config 0.19.14-1 any</title>
+    <updated>2025-01-28T09:45:36Z</updated>
+    <id>tag:archlinux.org,2025-01-28:/packages/extra/any/grml-zsh-config/202501280945</id>
+    <link href="https://archlinux.org/packages/extra/any/grml-zsh-config/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: telegram-desktop 5.10.6-1 x86_64</title>
+    <updated>2025-01-28T07:09:12Z</updated>
+    <id>tag:archlinux.org,2025-01-28:/packages/extra/x86_64/telegram-desktop/202501280709</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/telegram-desktop/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qaseprite 1.0.1-2 x86_64</title>
+    <updated>2025-01-28T06:58:14Z</updated>
+    <id>tag:archlinux.org,2025-01-28:/packages/extra/x86_64/qaseprite/202501280658</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qaseprite/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: netdata 2.2.1-1 x86_64</title>
+    <updated>2025-01-28T06:53:38Z</updated>
+    <id>tag:archlinux.org,2025-01-28:/packages/extra/x86_64/netdata/202501280653</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/netdata/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: vaultwarden-web 2025.1.1-1 any</title>
+    <updated>2025-01-28T06:32:23Z</updated>
+    <id>tag:archlinux.org,2025-01-28:/packages/extra/any/vaultwarden-web/202501280632</id>
+    <link href="https://archlinux.org/packages/extra/any/vaultwarden-web/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: megatools 1.11.2+20250127-1 x86_64</title>
@@ -3164,83 +3242,5 @@
     <updated>2025-01-27T15:45:42Z</updated>
     <id>tag:archlinux.org,2025-01-27:/packages/extra-testing/x86_64/inputplumber/202501271545</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/inputplumber/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: contour 0.6.1.7494-1 x86_64</title>
-    <updated>2025-01-27T15:45:42Z</updated>
-    <id>tag:archlinux.org,2025-01-27:/packages/extra-testing/x86_64/contour/202501271545</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/contour/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deltachat-rpc-server 1.154.3-1 x86_64</title>
-    <updated>2025-01-27T15:34:16Z</updated>
-    <id>tag:archlinux.org,2025-01-27:/packages/extra/x86_64/deltachat-rpc-server/202501271534</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deltachat-rpc-server/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deltachat-desktop 1.52.0-1 any</title>
-    <updated>2025-01-27T15:34:15Z</updated>
-    <id>tag:archlinux.org,2025-01-27:/packages/extra/any/deltachat-desktop/202501271534</id>
-    <link href="https://archlinux.org/packages/extra/any/deltachat-desktop/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lact-libadwaita 0.7.0-2 x86_64</title>
-    <updated>2025-01-27T14:27:21Z</updated>
-    <id>tag:archlinux.org,2025-01-27:/packages/extra-testing/x86_64/lact-libadwaita/202501271427</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/lact-libadwaita/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lact 0.7.0-2 x86_64</title>
-    <updated>2025-01-27T14:27:21Z</updated>
-    <id>tag:archlinux.org,2025-01-27:/packages/extra-testing/x86_64/lact/202501271427</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/lact/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libwps 0.4.14-3 x86_64</title>
-    <updated>2025-01-27T13:33:20Z</updated>
-    <id>tag:archlinux.org,2025-01-27:/packages/extra/x86_64/libwps/202501271333</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libwps/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libwps-doc 0.4.14-3 x86_64</title>
-    <updated>2025-01-27T13:33:19Z</updated>
-    <id>tag:archlinux.org,2025-01-27:/packages/extra/x86_64/libwps-doc/202501271333</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libwps-doc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libetonyek 0.1.12-2 x86_64</title>
-    <updated>2025-01-27T13:29:42Z</updated>
-    <id>tag:archlinux.org,2025-01-27:/packages/extra/x86_64/libetonyek/202501271329</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libetonyek/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libetonyek-doc 0.1.12-2 x86_64</title>
-    <updated>2025-01-27T13:29:42Z</updated>
-    <id>tag:archlinux.org,2025-01-27:/packages/extra/x86_64/libetonyek-doc/202501271329</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libetonyek-doc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: bitwarden-cli 2025.1.2-1 x86_64</title>
-    <updated>2025-01-27T12:53:58Z</updated>
-    <id>tag:archlinux.org,2025-01-27:/packages/extra/x86_64/bitwarden-cli/202501271253</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/bitwarden-cli/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: bitwarden 2025.1.3-1 x86_64</title>
-    <updated>2025-01-27T12:53:58Z</updated>
-    <id>tag:archlinux.org,2025-01-27:/packages/extra/x86_64/bitwarden/202501271253</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/bitwarden/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: zathura-pdf-mupdf 0.4.4-12 x86_64</title>
-    <updated>2025-01-27T10:46:19Z</updated>
-    <id>tag:archlinux.org,2025-01-27:/packages/extra-testing/x86_64/zathura-pdf-mupdf/202501271046</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/zathura-pdf-mupdf/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-pymupdf 1.25.2-3 x86_64</title>
-    <updated>2025-01-27T10:46:19Z</updated>
-    <id>tag:archlinux.org,2025-01-27:/packages/extra-testing/x86_64/python-pymupdf/202501271046</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-pymupdf/" rel="alternate"></link>
   </entry>
 </feed>
