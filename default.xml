@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-01-28T12:23:06Z</updated>
+  <updated>2025-01-28T18:16:36Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -142,22 +142,28 @@
     <link href="https://zenn.dev/tenajima/articles/47b3bc2f99cd89" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: ConnectによるgRPCを超えたスキーマ駆動開発（Golang/TypeScript）</title>
+    <updated>2025-01-27T14:06:49Z</updated>
+    <id>https://zenn.dev/portalkeyinc/articles/18f6f3f54da55a</id>
+    <link href="https://zenn.dev/portalkeyinc/articles/18f6f3f54da55a" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: CyberAgentの追加学習R1をMacで動かしてClineするDeepSeek-R1-Distill-Qwen-32B-Japanese</title>
     <updated>2025-01-27T10:56:13Z</updated>
     <id>https://zenn.dev/azunyan1111/articles/04b81fa1a65436</id>
     <link href="https://zenn.dev/azunyan1111/articles/04b81fa1a65436" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Tailwind CSS V4まとめ！</title>
+    <updated>2025-01-27T10:53:29Z</updated>
+    <id>https://zenn.dev/miz_dev/articles/tailwind-css-v4</id>
+    <link href="https://zenn.dev/miz_dev/articles/tailwind-css-v4" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: iOSアプリの開発からリリース後にも使うサイト</title>
     <updated>2025-01-27T10:14:24Z</updated>
     <id>https://zenn.dev/solar/articles/914c3ccb19cdeb</id>
     <link href="https://zenn.dev/solar/articles/914c3ccb19cdeb" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Riveでアニメーションがもっと楽しく、もっと身近に！</title>
-    <updated>2025-01-27T06:32:19Z</updated>
-    <id>https://zenn.dev/chot/articles/9dfcfb0053ac6a</id>
-    <link href="https://zenn.dev/chot/articles/9dfcfb0053ac6a" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 数オリの問題でOpenAI o1 vs DeepSeek(R1)</title>
@@ -230,12 +236,6 @@
     <updated>2025-01-26T07:47:24Z</updated>
     <id>https://zenn.dev/mj2mkt/articles/2024-12-03-is-di-necessary</id>
     <link href="https://zenn.dev/mj2mkt/articles/2024-12-03-is-di-necessary" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 【Android】端末の通知設定画面から通知をオフにするとアプリケーションごと再生成されるから気をつけろという話</title>
-    <updated>2025-01-26T07:05:10Z</updated>
-    <id>https://zenn.dev/m_coder/articles/article-zenn-notification-settings-trap</id>
-    <link href="https://zenn.dev/m_coder/articles/article-zenn-notification-settings-trap" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 関数の多重下請けをやめよう。単一責任の原則と関数の"責任"について</title>
@@ -976,7 +976,13 @@
     <link href="https://www.youtube.com/watch?v=iEuPaQtgXC4" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:publickey: マイクロソフト、NoSQL標準の策定を目指し「Azure DocumentDB」をオープンソースで公開。PostgreSQLをベースに</title>
+    <title>2:publickey: 野中郁次郎氏が死去、89歳。スクラムの基盤となった論文「The New New Product Development Game」や書籍「失敗の本質」など</title>
+    <updated>2025-01-28T15:21:15Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8098</id>
+    <link href="https://www.publickey1.jp/blog/25/89the_new_new_product_development_game.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: マイクロソフト、NoSQL標準の策定を目指し、Cosmos DBで使われている「DocumentDB」をオープンソースで公開。PostgreSQLをベースに</title>
     <updated>2025-01-27T15:09:05Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8097</id>
     <link href="https://www.publickey1.jp/blog/25/nosqlazure_documentdbpostgresql.html" rel="alternate"></link>
@@ -1058,12 +1064,6 @@
     <updated>2025-01-14T15:28:55Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8084</id>
     <link href="https://www.publickey1.jp/blog/25/awslinux_osbottlerocketfips_140-3.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: サーバサイドJavaScriptの標準策定を目指す「WinterTC」がECMA International傘下で始動、W3CのWinterCGから移行</title>
-    <updated>2025-01-13T15:20:04Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8083</id>
-    <link href="https://www.publickey1.jp/blog/25/javascriptwintertcecma_internationalw3cwintergc.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: インタラクティブなsystemdを目指すTUI「ISD」が登場</title>
@@ -4492,16 +4492,34 @@
     <link href="https://gihyo.jp/article/2024/01/phper-kaigi2024?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Blenderでボーンを効率よく動かせるようになる「ボーンコンストレイント」を使ってみよう</title>
-    <updated>2024-01-28T23:58:00Z</updated>
-    <id>urn:uuid:7078f505-df1d-533b-a02e-d00539da877e</id>
-    <link href="https://gihyo.jp/article/2024/01/blender-basics-27?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: ソフトウェア開発の “見積り” と “計画” を混同するから話が噛み合わない｜mtx2s</title>
     <updated>2025-01-27T10:56:46Z</updated>
     <id>tag:note.com,2025-01-27:/mtx2s/n/n65f50ae289c0</id>
     <link href="https://note.com/mtx2s/n/n65f50ae289c0" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Webサービスぶっ壊れ地獄、行きやすぜ！</title>
+    <updated>2025-01-28T10:56:09Z</updated>
+    <id>tag:zenn.dev,2025-01-28:/yuiseki/articles/4537101d0d4463</id>
+    <link href="https://zenn.dev/yuiseki/articles/4537101d0d4463" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【研修資料公開】低レイヤを学ぶ、Linuxカーネルとコンテナの仕組みの研修 | Raccoon Tech Blog [株式会社ラクーンホールディングス 技術戦略部ブログ]</title>
+    <updated>2025-01-28T02:22:51Z</updated>
+    <id>tag:techblog.raccoon.ne.jp,2025-01-28:/archives/1738029584.html</id>
+    <link href="https://techblog.raccoon.ne.jp/archives/1738029584.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: DeepSeekはなぜこんな大騒ぎになっていて一体何がそんなにスゴいのか</title>
+    <updated>2025-01-28T08:17:00Z</updated>
+    <id>tag:gigazine.net,2025-01-28:/news/20250128-deepseek-r1-impressive/</id>
+    <link href="https://gigazine.net/news/20250128-deepseek-r1-impressive/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: DeepSeekが集める個人情報は「中華人民共和国にある安全なサーバに保存」</title>
+    <updated>2025-01-28T02:08:54Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-01-28:/news/articles/2501/28/news117.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2501/28/news117.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 発見された小惑星がイーロン・マスクのテスラ・ロードスターだったことが判明して登録取り消しに</title>
@@ -4516,34 +4534,16 @@
     <link href="https://japan.cnet.com/article/35228713/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: DeepSeekショック、アメリカのAI株価が急落　NVIDIA17%下落 - 日本経済新聞</title>
-    <updated>2025-01-27T18:41:14Z</updated>
-    <id>tag:www.nikkei.com,2025-01-27:/article/DGXZQOGN27C4K0X20C25A1000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN27C4K0X20C25A1000000/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 充電地獄の6万円おもちゃ：Apple Watchに騙される人々</title>
+    <updated>2025-01-28T07:57:42Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-01-28:/20250128154514</id>
+    <link href="https://anond.hatelabo.jp/20250128154514" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: DeepSeekが集める個人情報は「中華人民共和国にある安全なサーバに保存」</title>
-    <updated>2025-01-28T02:08:54Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-01-28:/news/articles/2501/28/news117.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2501/28/news117.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: はてなブログにWebhook機能を追加しました！外部システムとの連携が容易になります - はてなブログ開発ブログ</title>
-    <updated>2025-01-28T03:55:19Z</updated>
-    <id>tag:staff.hatenablog.com,2025-01-28:/entry/2025/01/28/123436</id>
-    <link href="https://staff.hatenablog.com/entry/2025/01/28/123436" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 分散型アーキテクチャとドメイン駆動設計</title>
-    <updated>2025-01-27T12:55:34Z</updated>
-    <id>tag:speakerdeck.com,2025-01-27:/masuda220/distributed-archtecture-and-domain-driven-design</id>
-    <link href="https://speakerdeck.com/masuda220/distributed-archtecture-and-domain-driven-design" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: DeepSeekはなぜこんな大騒ぎになっていて一体何がそんなにスゴいのか</title>
-    <updated>2025-01-28T08:17:00Z</updated>
-    <id>tag:gigazine.net,2025-01-28:/news/20250128-deepseek-r1-impressive/</id>
-    <link href="https://gigazine.net/news/20250128-deepseek-r1-impressive/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Linuxのコードをたった30行修正するだけでデータセンターの電力消費量を最大30％削減可能、実際にLinux 6.13から反映される</title>
+    <updated>2025-01-28T12:16:10Z</updated>
+    <id>tag:gigazine.net,2025-01-28:/news/20250128-coding-for-a-greener-internet/</id>
+    <link href="https://gigazine.net/news/20250128-coding-for-a-greener-internet/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 新卒が目ぇキラキラして「日報システム作ったんです！」っていうから「おぉ！やるじゃねーか！！」って即座にSQLインジェクションで破壊した→それは破壊しておくべき</title>
@@ -4552,58 +4552,34 @@
     <link href="https://togetter.com/li/2503042" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【研修資料公開】低レイヤを学ぶ、Linuxカーネルとコンテナの仕組みの研修 | Raccoon Tech Blog [株式会社ラクーンホールディングス 技術戦略部ブログ]</title>
-    <updated>2025-01-28T02:22:51Z</updated>
-    <id>tag:techblog.raccoon.ne.jp,2025-01-28:/archives/1738029584.html</id>
-    <link href="https://techblog.raccoon.ne.jp/archives/1738029584.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Google、PebbleOSをオープンソース化　創業者はPebbleウォッチ復活宣言</title>
+    <updated>2025-01-28T06:03:59Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-01-28:/mobile/articles/2501/28/news146.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2501/28/news146.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: あなたはJVMの気持ちを理解できるか？</title>
-    <updated>2025-01-27T15:13:28Z</updated>
-    <id>tag:speakerdeck.com,2025-01-27:/skrb/anatahajvmnoqi-chi-tiwoli-jie-dekiruka</id>
-    <link href="https://speakerdeck.com/skrb/anatahajvmnoqi-chi-tiwoli-jie-dekiruka" rel="alternate"></link>
+    <title>1:hatena_blog_it: はてなブログにWebhook機能を追加しました！外部システムとの連携が容易になります - はてなブログ開発ブログ</title>
+    <updated>2025-01-28T03:55:19Z</updated>
+    <id>tag:staff.hatenablog.com,2025-01-28:/entry/2025/01/28/123436</id>
+    <link href="https://staff.hatenablog.com/entry/2025/01/28/123436" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ChatGPT超えの中国AI「DeepSeek-R1」の衝撃</title>
-    <updated>2025-01-27T11:14:24Z</updated>
-    <id>tag:ascii.jp,2025-01-27:/elem/000/004/247/4247681/</id>
-    <link href="https://ascii.jp/elem/000/004/247/4247681/" rel="alternate"></link>
+    <title>1:hatena_blog_it: DeepSeekショック、アメリカのAI株価が急落　NVIDIA17%下落 - 日本経済新聞</title>
+    <updated>2025-01-27T18:41:14Z</updated>
+    <id>tag:www.nikkei.com,2025-01-27:/article/DGXZQOGN27C4K0X20C25A1000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN27C4K0X20C25A1000000/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: フランス政府肝いりのＡＩ「ルーシー」、意味不明な答え続々生成　ＳＮＳ冷笑　</title>
-    <updated>2025-01-28T03:13:36Z</updated>
-    <id>tag:www.cnn.co.jp,2025-01-28:/tech/35228723.html</id>
-    <link href="https://www.cnn.co.jp/tech/35228723.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: DeepSeekの登場で株価が下落したNVIDIAが「DeepSeekの推論にも相当のNVIDIAチップが必要」と主張し自社の価値をアピール</title>
+    <updated>2025-01-28T06:00:05Z</updated>
+    <id>tag:gigazine.net,2025-01-28:/news/20250128-nvidia-deepseek-advances/</id>
+    <link href="https://gigazine.net/news/20250128-nvidia-deepseek-advances/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 2025年版 DynamoDBを本格的に使いたい開発者のためのDynamoDB利用ガイド - KAKEHASHI Tech Blog</title>
-    <updated>2025-01-27T06:53:17Z</updated>
-    <id>tag:kakehashi-dev.hatenablog.com,2025-01-27:/entry/2025/01/24/090000</id>
-    <link href="https://kakehashi-dev.hatenablog.com/entry/2025/01/24/090000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「快活CLUB」への不正アクセスで続報　会員の一部個人情報729万件漏えいか</title>
-    <updated>2025-01-28T02:50:10Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-01-28:/news/articles/2501/28/news121.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2501/28/news121.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Webサービスぶっ壊れ地獄、行きやすぜ！</title>
-    <updated>2025-01-28T10:56:09Z</updated>
-    <id>tag:zenn.dev,2025-01-28:/yuiseki/articles/4537101d0d4463</id>
-    <link href="https://zenn.dev/yuiseki/articles/4537101d0d4463" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: DeepSeekはどのようにしてOpenAIの3％のコストでo1を超えたのか？</title>
-    <updated>2025-01-28T06:43:04Z</updated>
-    <id>tag:gigazine.net,2025-01-28:/news/20250128-how-deepseek-r1-outpaced-openai-cost/</id>
-    <link href="https://gigazine.net/news/20250128-how-deepseek-r1-outpaced-openai-cost/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: なぜ日本のスマホカメラはシャッター音が鳴るのか　“自主規制”緩和の動きはあるも、見直しを議論すべきでは</title>
-    <updated>2025-01-28T02:05:41Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-01-28:/mobile/articles/2501/28/news115.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2501/28/news115.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 聴く技術書！ラジオ好きエンジニアに贈る2025年おすすめテック系Podcast7選 - Qiita</title>
+    <updated>2025-01-27T13:23:49Z</updated>
+    <id>tag:qiita.com,2025-01-27:/katokonigiry/items/3c6442bfc3244f70bddc</id>
+    <link href="https://qiita.com/katokonigiry/items/3c6442bfc3244f70bddc" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 自作の3D点群ビューアーをオープンソース化してみた - Qiita</title>
@@ -4612,10 +4588,46 @@
     <link href="https://qiita.com/scomup/items/75c942678c5be47e23e2" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Googleマップで「メキシコ湾」は「アメリカ湾」になる予定</title>
-    <updated>2025-01-28T03:48:26Z</updated>
-    <id>tag:gigazine.net,2025-01-28:/news/20250128-google-map-gulf-of-america/</id>
-    <link href="https://gigazine.net/news/20250128-google-map-gulf-of-america/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 歌えるAI作曲ソフトにオープンソースの波。SunoとUdioのライバル「YuE」は日本語楽曲にも対応（CloseBox） | テクノエッジ TechnoEdge</title>
+    <updated>2025-01-28T09:05:51Z</updated>
+    <id>tag:www.techno-edge.net,2025-01-28:/article/2025/01/28/4053.html</id>
+    <link href="https://www.techno-edge.net/article/2025/01/28/4053.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: DeepSeekはどのようにしてOpenAIの3％のコストでo1を超えたのか？</title>
+    <updated>2025-01-28T06:43:04Z</updated>
+    <id>tag:gigazine.net,2025-01-28:/news/20250128-how-deepseek-r1-outpaced-openai-cost/</id>
+    <link href="https://gigazine.net/news/20250128-how-deepseek-r1-outpaced-openai-cost/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 分散型アーキテクチャとドメイン駆動設計</title>
+    <updated>2025-01-27T12:55:34Z</updated>
+    <id>tag:speakerdeck.com,2025-01-27:/masuda220/distributed-archtecture-and-domain-driven-design</id>
+    <link href="https://speakerdeck.com/masuda220/distributed-archtecture-and-domain-driven-design" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: なぜ日本のスマホカメラはシャッター音が鳴るのか　“自主規制”緩和の動きはあるも、見直しを議論すべきでは</title>
+    <updated>2025-01-28T02:05:41Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-01-28:/mobile/articles/2501/28/news115.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2501/28/news115.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: あなたはJVMの気持ちを理解できるか？</title>
+    <updated>2025-01-27T15:13:28Z</updated>
+    <id>tag:speakerdeck.com,2025-01-27:/skrb/anatahajvmnoqi-chi-tiwoli-jie-dekiruka</id>
+    <link href="https://speakerdeck.com/skrb/anatahajvmnoqi-chi-tiwoli-jie-dekiruka" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 非営利コンテンツを優先する検索エンジン「Marginalia Search」</title>
+    <updated>2025-01-28T11:22:56Z</updated>
+    <id>tag:gigazine.net,2025-01-28:/news/20250128-marginalia-search/</id>
+    <link href="https://gigazine.net/news/20250128-marginalia-search/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: TypeScript 5.8のerasableSyntaxOnlyフラグ。enumやnamespaceが消える日が来た</title>
+    <updated>2025-01-28T05:32:50Z</updated>
+    <id>tag:zenn.dev,2025-01-28:/ubie_dev/articles/ts-58-erasable-syntax-only</id>
+    <link href="https://zenn.dev/ubie_dev/articles/ts-58-erasable-syntax-only" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AWSにおける横断的なログ分析とコストの管理【SRE Kaigi 2025】   - srest【スレスト】</title>
@@ -4624,22 +4636,22 @@
     <link href="https://srest.io/blog/report/20250126-2" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: CSSのattr()関数がパワーアップ！ また一つJavaScriptでしかできなかったことがCSSだけでできるになります</title>
-    <updated>2025-01-28T01:07:54Z</updated>
-    <id>tag:coliss.com,2025-01-28:/articles/build-websites/operation/css/css-attr-upgrade-2025.html</id>
-    <link href="https://coliss.com/articles/build-websites/operation/css/css-attr-upgrade-2025.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: フランス政府肝いりのＡＩ「ルーシー」、意味不明な答え続々生成　ＳＮＳ冷笑　</title>
+    <updated>2025-01-28T03:13:36Z</updated>
+    <id>tag:www.cnn.co.jp,2025-01-28:/tech/35228723.html</id>
+    <link href="https://www.cnn.co.jp/tech/35228723.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Ryzen AI Max+ 395 のゲーミング性能が判明。APUでデスクトップ向けGeForce RTX 4060 Ti相当の性能に</title>
-    <updated>2025-01-27T16:08:04Z</updated>
-    <id>tag:gazlog.jp,2025-01-27:/entry/ryzenaimax-395-gaming-performance/</id>
-    <link href="https://gazlog.jp/entry/ryzenaimax-395-gaming-performance/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【追悼：野中郁次郎氏】身体知こそイノベーションの源泉である ［インタビュー］時代が変わってもマネジメントの本質は変わらない | 野中 郁次郎 | ["2021年3"]月号｜DIAMOND ハーバード・ビジネス・レビュー</title>
+    <updated>2025-01-28T14:02:46Z</updated>
+    <id>tag:dhbr.diamond.jp,2025-01-28:/articles/-/7417</id>
+    <link href="https://dhbr.diamond.jp/articles/-/7417" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: We're bringing Pebble back!</title>
-    <updated>2025-01-27T22:54:12Z</updated>
-    <id>tag:repebble.com,2025-01-27:/</id>
-    <link href="https://repebble.com/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 当社サービスへのサイバー攻撃に関するご報告</title>
+    <updated>2025-01-28T09:25:07Z</updated>
+    <id>tag:www.ginco.co.jp,2025-01-28:/news/20250128_pressrelease</id>
+    <link href="https://www.ginco.co.jp/news/20250128_pressrelease" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 中国のAI「DeepSeek」ショックでハイテク株がパニック売りに、NVIDIAの時価総額が91兆円消し飛んで暴落記録を2倍以上更新</title>
@@ -4648,21 +4660,9 @@
     <link href="https://gigazine.net/news/20250128-deepseek-tech-stock-sell-app-store/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「DNSよく分からん勢」に送る　サブドメイン乗っ取り事案から考えるASMの本質</title>
-    <updated>2025-01-27T22:55:00Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-01-27:/enterprise/articles/2501/28/news062.html</id>
-    <link href="https://www.itmedia.co.jp/enterprise/articles/2501/28/news062.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 社内外の関係者と良好な関係を築くために。オウンドメディア担当者も知っておきたい「巻き込み力」の高め方 - はてなビジネスブログ</title>
-    <updated>2025-01-28T02:00:12Z</updated>
-    <id>tag:business.hatenastaff.com,2025-01-28:/entry/2025/01/28/103000</id>
-    <link href="https://business.hatenastaff.com/entry/2025/01/28/103000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Google、PebbleOSをオープンソース化　創業者はPebbleウォッチ復活宣言</title>
-    <updated>2025-01-28T06:03:59Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-01-28:/mobile/articles/2501/28/news146.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2501/28/news146.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Googleマップで「メキシコ湾」は「アメリカ湾」になる予定</title>
+    <updated>2025-01-28T03:48:26Z</updated>
+    <id>tag:gigazine.net,2025-01-28:/news/20250128-google-map-gulf-of-america/</id>
+    <link href="https://gigazine.net/news/20250128-google-map-gulf-of-america/" rel="alternate"></link>
   </entry>
 </feed>
