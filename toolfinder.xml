@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-02-03T00:58:47Z</updated>
+  <updated>2025-02-03T06:17:54Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2380,6 +2380,12 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: drasl</title>
+    <updated>2025-02-03T05:14:22Z</updated>
+    <id>drasl-1738559662</id>
+    <link href="https://aur.archlinux.org/packages/drasl" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: dxvk-msvc-git</title>
     <updated>2025-02-03T00:42:44Z</updated>
     <id>dxvk-msvc-git-1738543364</id>
@@ -2974,10 +2980,64 @@
     <link href="https://aur.archlinux.org/packages/high-tide" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: m8mouse-git</title>
-    <updated>2025-01-30T19:02:46Z</updated>
-    <id>m8mouse-git-1738263766</id>
-    <link href="https://aur.archlinux.org/packages/m8mouse-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-invoke 2.2.0-4 any</title>
+    <updated>2025-02-03T06:04:41Z</updated>
+    <id>tag:archlinux.org,2025-02-03:/packages/extra-testing/any/python-invoke/202502030604</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-invoke/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-watchfiles 1.0.4-1 x86_64</title>
+    <updated>2025-02-03T05:46:26Z</updated>
+    <id>tag:archlinux.org,2025-02-03:/packages/extra-testing/x86_64/python-watchfiles/202502030546</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-watchfiles/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: marknote 1.3.0-3 x86_64</title>
+    <updated>2025-02-03T04:04:37Z</updated>
+    <id>tag:archlinux.org,2025-02-03:/packages/extra/x86_64/marknote/202502030404</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/marknote/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-yarl 1.13.1-1 x86_64</title>
+    <updated>2025-02-03T03:05:44Z</updated>
+    <id>tag:archlinux.org,2025-02-03:/packages/extra/x86_64/python-yarl/202502030305</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-yarl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-aiohttp 3.10.11-1 x86_64</title>
+    <updated>2025-02-03T03:05:43Z</updated>
+    <id>tag:archlinux.org,2025-02-03:/packages/extra/x86_64/python-aiohttp/202502030305</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-aiohttp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: alligator 24.12.1-2 x86_64</title>
+    <updated>2025-02-03T03:03:07Z</updated>
+    <id>tag:archlinux.org,2025-02-03:/packages/extra/x86_64/alligator/202502030303</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/alligator/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: plasmatube 24.12.1-2 x86_64</title>
+    <updated>2025-02-03T02:49:21Z</updated>
+    <id>tag:archlinux.org,2025-02-03:/packages/extra/x86_64/plasmatube/202502030249</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/plasmatube/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: kasts 24.12.1-2 x86_64</title>
+    <updated>2025-02-03T02:34:08Z</updated>
+    <id>tag:archlinux.org,2025-02-03:/packages/extra/x86_64/kasts/202502030234</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/kasts/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: koko 24.12.1-2 x86_64</title>
+    <updated>2025-02-03T02:06:55Z</updated>
+    <id>tag:archlinux.org,2025-02-03:/packages/extra/x86_64/koko/202502030206</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/koko/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: gnome-keysign 1.3.0-6 any</title>
+    <updated>2025-02-03T01:50:45Z</updated>
+    <id>tag:archlinux.org,2025-02-03:/packages/extra/any/gnome-keysign/202502030150</id>
+    <link href="https://archlinux.org/packages/extra/any/gnome-keysign/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: freecad 1.0.0-5 x86_64</title>
@@ -3218,65 +3278,5 @@
     <updated>2025-02-02T15:36:04Z</updated>
     <id>tag:archlinux.org,2025-02-02:/packages/extra/any/iotas/202502021536</id>
     <link href="https://archlinux.org/packages/extra/any/iotas/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: toxcore 1:0.2.20-2 x86_64</title>
-    <updated>2025-02-02T15:23:35Z</updated>
-    <id>tag:archlinux.org,2025-02-02:/packages/extra-testing/x86_64/toxcore/202502021523</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/toxcore/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: utox 0.18.1-5 x86_64</title>
-    <updated>2025-02-02T15:19:57Z</updated>
-    <id>tag:archlinux.org,2025-02-02:/packages/extra-testing/x86_64/utox/202502021519</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/utox/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gnome-terminal 3.55.90-1 x86_64</title>
-    <updated>2025-02-02T15:11:06Z</updated>
-    <id>tag:archlinux.org,2025-02-02:/packages/gnome-unstable/x86_64/gnome-terminal/202502021511</id>
-    <link href="https://archlinux.org/packages/gnome-unstable/x86_64/gnome-terminal/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: duperemove 0.15-1 x86_64</title>
-    <updated>2025-02-02T15:00:59Z</updated>
-    <id>tag:archlinux.org,2025-02-02:/packages/extra/x86_64/duperemove/202502021500</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/duperemove/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gnome-system-monitor 48beta-1 x86_64</title>
-    <updated>2025-02-02T15:00:02Z</updated>
-    <id>tag:archlinux.org,2025-02-02:/packages/gnome-unstable/x86_64/gnome-system-monitor/202502021500</id>
-    <link href="https://archlinux.org/packages/gnome-unstable/x86_64/gnome-system-monitor/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gnome-calculator 48beta-1 x86_64</title>
-    <updated>2025-02-02T15:00:01Z</updated>
-    <id>tag:archlinux.org,2025-02-02:/packages/gnome-unstable/x86_64/gnome-calculator/202502021500</id>
-    <link href="https://archlinux.org/packages/gnome-unstable/x86_64/gnome-calculator/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vte4 0.79.90-1 x86_64</title>
-    <updated>2025-02-02T15:00:00Z</updated>
-    <id>tag:archlinux.org,2025-02-02:/packages/gnome-unstable/x86_64/vte4/202502021500</id>
-    <link href="https://archlinux.org/packages/gnome-unstable/x86_64/vte4/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vte3 0.79.90-1 x86_64</title>
-    <updated>2025-02-02T15:00:00Z</updated>
-    <id>tag:archlinux.org,2025-02-02:/packages/gnome-unstable/x86_64/vte3/202502021500</id>
-    <link href="https://archlinux.org/packages/gnome-unstable/x86_64/vte3/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vte-docs 0.79.90-1 x86_64</title>
-    <updated>2025-02-02T14:59:59Z</updated>
-    <id>tag:archlinux.org,2025-02-02:/packages/gnome-unstable/x86_64/vte-docs/202502021459</id>
-    <link href="https://archlinux.org/packages/gnome-unstable/x86_64/vte-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vte-common 0.79.90-1 x86_64</title>
-    <updated>2025-02-02T14:59:59Z</updated>
-    <id>tag:archlinux.org,2025-02-02:/packages/gnome-unstable/x86_64/vte-common/202502021459</id>
-    <link href="https://archlinux.org/packages/gnome-unstable/x86_64/vte-common/" rel="alternate"></link>
   </entry>
 </feed>
