@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-02-04T00:57:47Z</updated>
+  <updated>2025-02-04T06:17:50Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2380,6 +2380,30 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: myfetch</title>
+    <updated>2025-02-04T03:49:50Z</updated>
+    <id>myfetch-1738640990</id>
+    <link href="https://aur.archlinux.org/packages/myfetch" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: hub-tool</title>
+    <updated>2025-02-04T03:04:18Z</updated>
+    <id>hub-tool-1738638258</id>
+    <link href="https://aur.archlinux.org/packages/hub-tool" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: sublime-docs</title>
+    <updated>2025-02-04T01:27:46Z</updated>
+    <id>sublime-docs-1738632466</id>
+    <link href="https://aur.archlinux.org/packages/sublime-docs" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: foreman-git</title>
+    <updated>2025-02-04T00:58:05Z</updated>
+    <id>foreman-git-1738630685</id>
+    <link href="https://aur.archlinux.org/packages/foreman-git" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: foreman-bin</title>
     <updated>2025-02-04T00:55:36Z</updated>
     <id>foreman-bin-1738630536</id>
@@ -2414,24 +2438,6 @@
     <updated>2025-02-03T20:00:52Z</updated>
     <id>amdgpu_top-tui-bin-1738612852</id>
     <link href="https://aur.archlinux.org/packages/amdgpu_top-tui-bin" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: linux-lts-amdfixes</title>
-    <updated>2025-02-03T17:44:38Z</updated>
-    <id>linux-lts-amdfixes-1738604678</id>
-    <link href="https://aur.archlinux.org/packages/linux-lts-amdfixes" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: linux-lts-amdfixes-headers</title>
-    <updated>2025-02-03T17:44:38Z</updated>
-    <id>linux-lts-amdfixes-headers-1738604678</id>
-    <link href="https://aur.archlinux.org/packages/linux-lts-amdfixes-headers" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: linux-lts-amdfixes-docs</title>
-    <updated>2025-02-03T17:44:38Z</updated>
-    <id>linux-lts-amdfixes-docs-1738604678</id>
-    <link href="https://aur.archlinux.org/packages/linux-lts-amdfixes-docs" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:aur_new_packages: cosmic-ext-applet-caffeine-git</title>
@@ -2974,10 +2980,22 @@
     <link href="https://aur.archlinux.org/packages/steuern-lu-np-2024" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: codename-goose-bin</title>
-    <updated>2025-01-31T23:52:59Z</updated>
-    <id>codename-goose-bin-1738367579</id>
-    <link href="https://aur.archlinux.org/packages/codename-goose-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: ruby-chef-utils 19.0.82-1 any</title>
+    <updated>2025-02-04T01:15:19Z</updated>
+    <id>tag:archlinux.org,2025-02-04:/packages/extra/any/ruby-chef-utils/202502040115</id>
+    <link href="https://archlinux.org/packages/extra/any/ruby-chef-utils/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-xmlschema 1:3.4.3-1 any</title>
+    <updated>2025-02-04T01:15:06Z</updated>
+    <id>tag:archlinux.org,2025-02-04:/packages/extra-testing/any/python-xmlschema/202502040115</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-xmlschema/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: mimalloc 2.1.9-1 x86_64</title>
+    <updated>2025-02-04T01:11:33Z</updated>
+    <id>tag:archlinux.org,2025-02-04:/packages/extra/x86_64/mimalloc/202502040111</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/mimalloc/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: zigbee2mqtt 2.1.0-1 x86_64</title>
@@ -3260,23 +3278,5 @@
     <updated>2025-02-03T19:44:20Z</updated>
     <id>tag:archlinux.org,2025-02-03:/packages/gnome-unstable/x86_64/gnome-connections/202502031944</id>
     <link href="https://archlinux.org/packages/gnome-unstable/x86_64/gnome-connections/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gnome-calendar 48beta-1 x86_64</title>
-    <updated>2025-02-03T19:44:19Z</updated>
-    <id>tag:archlinux.org,2025-02-03:/packages/gnome-unstable/x86_64/gnome-calendar/202502031944</id>
-    <link href="https://archlinux.org/packages/gnome-unstable/x86_64/gnome-calendar/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-polars 1.21.0-2 x86_64</title>
-    <updated>2025-02-03T19:25:20Z</updated>
-    <id>tag:archlinux.org,2025-02-03:/packages/extra/x86_64/python-polars/202502031925</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/python-polars/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-narwhals 1.24.2-3 any</title>
-    <updated>2025-02-03T19:25:19Z</updated>
-    <id>tag:archlinux.org,2025-02-03:/packages/extra/any/python-narwhals/202502031925</id>
-    <link href="https://archlinux.org/packages/extra/any/python-narwhals/" rel="alternate"></link>
   </entry>
 </feed>
