@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-02-07T00:58:46Z</updated>
+  <updated>2025-02-07T06:17:57Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2416,6 +2416,18 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: qtheme</title>
+    <updated>2025-02-07T02:29:26Z</updated>
+    <id>qtheme-1738895366</id>
+    <link href="https://aur.archlinux.org/packages/qtheme" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: lazysql-bin</title>
+    <updated>2025-02-07T02:10:43Z</updated>
+    <id>lazysql-bin-1738894243</id>
+    <link href="https://aur.archlinux.org/packages/lazysql-bin" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: visionaire-studio-appimage</title>
     <updated>2025-02-06T23:59:35Z</updated>
     <id>visionaire-studio-appimage-1738886375</id>
@@ -3004,16 +3016,106 @@
     <link href="https://aur.archlinux.org/packages/usb-exfat-udev" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: openflow-git</title>
-    <updated>2025-02-04T09:25:14Z</updated>
-    <id>openflow-git-1738661114</id>
-    <link href="https://aur.archlinux.org/packages/openflow-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: vscode-json-languageserver 1.97.0-1 any</title>
+    <updated>2025-02-07T04:42:15Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/any/vscode-json-languageserver/202502070442</id>
+    <link href="https://archlinux.org/packages/extra/any/vscode-json-languageserver/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-ctrader-openapi</title>
-    <updated>2025-02-04T08:05:12Z</updated>
-    <id>python-ctrader-openapi-1738656312</id>
-    <link href="https://aur.archlinux.org/packages/python-ctrader-openapi" rel="alternate"></link>
+    <title>2:archlinux_new_packages: vscode-html-languageserver 1.97.0-1 any</title>
+    <updated>2025-02-07T04:42:14Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/any/vscode-html-languageserver/202502070442</id>
+    <link href="https://archlinux.org/packages/extra/any/vscode-html-languageserver/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: vscode-css-languageserver 1.97.0-1 any</title>
+    <updated>2025-02-07T04:42:14Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/any/vscode-css-languageserver/202502070442</id>
+    <link href="https://archlinux.org/packages/extra/any/vscode-css-languageserver/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: pnpm 10.2.1-1 any</title>
+    <updated>2025-02-07T04:13:43Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/any/pnpm/202502070413</id>
+    <link href="https://archlinux.org/packages/extra/any/pnpm/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-recurring-ical-events 3.4.0-1 any</title>
+    <updated>2025-02-07T04:06:43Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/any/python-recurring-ical-events/202502070406</id>
+    <link href="https://archlinux.org/packages/extra/any/python-recurring-ical-events/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-icalendar 6.1.1-1 any</title>
+    <updated>2025-02-07T04:06:42Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/any/python-icalendar/202502070406</id>
+    <link href="https://archlinux.org/packages/extra/any/python-icalendar/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: khal 0.11.3-5 any</title>
+    <updated>2025-02-07T04:06:42Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/any/khal/202502070406</id>
+    <link href="https://archlinux.org/packages/extra/any/khal/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: tree-sitter-cli 0.25.1-1 x86_64</title>
+    <updated>2025-02-07T04:04:28Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/x86_64/tree-sitter-cli/202502070404</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/tree-sitter-cli/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: tree-sitter 0.25.1-1 x86_64</title>
+    <updated>2025-02-07T04:04:28Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/x86_64/tree-sitter/202502070404</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/tree-sitter/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rizin 0.7.3-4 x86_64</title>
+    <updated>2025-02-07T04:04:27Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/x86_64/rizin/202502070404</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rizin/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: neovim 0.10.4-2 x86_64</title>
+    <updated>2025-02-07T04:04:27Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/x86_64/neovim/202502070404</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/neovim/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: mesonlsp 4.3.7-4 x86_64</title>
+    <updated>2025-02-07T04:04:26Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/x86_64/mesonlsp/202502070404</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/mesonlsp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: emacs-wayland 29.4-4 x86_64</title>
+    <updated>2025-02-07T04:04:26Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/x86_64/emacs-wayland/202502070404</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/emacs-wayland/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: emacs-nox 29.4-4 x86_64</title>
+    <updated>2025-02-07T04:04:25Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/x86_64/emacs-nox/202502070404</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/emacs-nox/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: emacs-nativecomp 29.4-4 x86_64</title>
+    <updated>2025-02-07T04:04:24Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/x86_64/emacs-nativecomp/202502070404</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/emacs-nativecomp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: emacs 29.4-4 x86_64</title>
+    <updated>2025-02-07T04:04:23Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/x86_64/emacs/202502070404</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/emacs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ibus-typing-booster 2.27.23-1 any</title>
+    <updated>2025-02-07T03:14:59Z</updated>
+    <id>tag:archlinux.org,2025-02-07:/packages/extra/any/ibus-typing-booster/202502070314</id>
+    <link href="https://archlinux.org/packages/extra/any/ibus-typing-booster/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: thunderbird-i18n-zh-tw 128.7.0-1 x86_64</title>
@@ -3212,107 +3314,5 @@
     <updated>2025-02-06T23:24:20Z</updated>
     <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-hy-am/202502062324</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-hy-am/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-hu 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:20Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-hu/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-hu/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-hsb 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:19Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-hsb/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-hsb/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-hr 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:19Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-hr/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-hr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-he 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:18Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-he/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-he/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-gl 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:18Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-gl/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-gl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-gd 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:17Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-gd/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-gd/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-ga-ie 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:17Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-ga-ie/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-ga-ie/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-fy-nl 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:16Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-fy-nl/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-fy-nl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-fr 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:16Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-fr/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-fr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-fi 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:15Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-fi/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-fi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-eu 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:15Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-eu/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-eu/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-et 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:14Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-et/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-et/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-es-es 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:14Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-es-es/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-es-es/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-es-ar 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:14Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-es-ar/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-es-ar/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-en-us 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:13Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-en-us/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-en-us/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-en-gb 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:13Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-en-gb/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-en-gb/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-el 128.7.0-1 x86_64</title>
-    <updated>2025-02-06T23:24:12Z</updated>
-    <id>tag:archlinux.org,2025-02-06:/packages/extra-testing/x86_64/thunderbird-i18n-el/202502062324</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-el/" rel="alternate"></link>
   </entry>
 </feed>
