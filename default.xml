@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-02-11T12:24:13Z</updated>
+  <updated>2025-02-11T18:15:37Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -124,6 +124,12 @@
     <link href="https://archlinux.org/news/making-dbus-broker-our-default-d-bus-daemon/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: "Flare" -新時代のモバイルアプリ開発AI Agent-</title>
+    <updated>2025-02-10T14:27:36Z</updated>
+    <id>https://zenn.dev/flare_dev/articles/385d87dae6e0a9</id>
+    <link href="https://zenn.dev/flare_dev/articles/385d87dae6e0a9" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: 【個人開発】お母さんみたいに天気予報を教えてくれるアプリをつくりました【with AIエージェント】</title>
     <updated>2025-02-10T14:13:24Z</updated>
     <id>https://zenn.dev/caen/articles/c202f26e2cbddc</id>
@@ -224,12 +230,6 @@
     <updated>2025-02-09T06:41:03Z</updated>
     <id>https://zenn.dev/comamoca/articles/2025-02-09-start-to-use-nix-flake-by-one-file</id>
     <link href="https://zenn.dev/comamoca/articles/2025-02-09-start-to-use-nix-flake-by-one-file" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 埋め込みモデルで動くアキネータライクなゲームを作ったら、難易度が高すぎた件</title>
-    <updated>2025-02-09T05:11:28Z</updated>
-    <id>https://zenn.dev/robustonian/articles/embedding_q20</id>
-    <link href="https://zenn.dev/robustonian/articles/embedding_q20" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Dockerでバインドマウントするのやめません？もうCompose Watchでいいでしょ？</title>
@@ -964,6 +964,18 @@
     <link href="https://www.youtube.com/watch?v=l1_pRyofYfg" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: トラフィックが予測できないオンラインゲームのローンチでも、NewSQLの動的サイジングは十分に機能したのか？［PR］</title>
+    <updated>2025-02-12T06:51:12Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8109</id>
+    <link href="https://www.publickey1.jp/blog/25/pandoland-newsqlpr.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: 生成AIによりプログラマの仕事はなくなるのか？ 「私はそうは思わない」とティム・オライリー氏。プログラマの需要はさらに増えると</title>
+    <updated>2025-02-11T15:43:17Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8112</id>
+    <link href="https://www.publickey1.jp/blog/25/ai_1.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: GitHub Copilot Agent Modeが登場。タスクを与えると自律的にプログラミング、テストコードも修正、テストが失敗すればデバッグも</title>
     <updated>2025-02-09T15:30:35Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8111</id>
@@ -1040,18 +1052,6 @@
     <updated>2025-01-26T15:12:48Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8096</id>
     <link href="https://www.publickey1.jp/blog/25/javascriptbunpostgresqlmysqldb.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: 企業がChrome拡張を管理できる「Chrome Web Store for Enterprise」、Google Cloudが発表</title>
-    <updated>2025-01-26T15:10:51Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8095</id>
-    <link href="https://www.publickey1.jp/blog/25/chromechrome_web_store_for_enterprisegoogle_cloud.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: LinuxやWindowsサーバでExcelファイルを直接高速に読み書きするライブラリ。オンプレミス/クラウドなど、多様化するプラットフォームをサポート［PR］</title>
-    <updated>2025-01-23T04:13:00Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8091</id>
-    <link href="https://www.publickey1.jp/blog/25/linuxwindowsexcelpr.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Blenderで海の表現をしてみよう</title>
@@ -4516,30 +4516,6 @@
     <link href="https://gihyo.jp/article/2024/02/daily-linux-240213?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 自分のOSSのマルウェア入り偽物を作られたので通報した - 酒日記 はてな支店</title>
-    <updated>2025-02-11T00:49:08Z</updated>
-    <id>tag:sfujiwara.hatenablog.com,2025-02-11:/entry/2025/02/11/094755</id>
-    <link href="https://sfujiwara.hatenablog.com/entry/2025/02/11/094755" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 小4息子が「自作PCを作りたい」と言ってるけど、合計10万以上するので悩む親御さん→将来有望すぎる息子さんを後押しするアドバイスが多数寄せられる</title>
-    <updated>2025-02-11T02:36:07Z</updated>
-    <id>tag:togetter.com,2025-02-11:/li/2510030</id>
-    <link href="https://togetter.com/li/2510030" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: iPhoneのカメラは｢2倍望遠｣のほうがいい感じに撮れる理由</title>
-    <updated>2025-02-10T08:29:14Z</updated>
-    <id>tag:www.gizmodo.jp,2025-02-10:/2025/02/why-iphone-x2-lens-is-useful-1.html</id>
-    <link href="https://www.gizmodo.jp/2025/02/why-iphone-x2-lens-is-useful-1.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: イーロン・マスク氏 オープンAIに買収提案 米紙が報道 | NHK</title>
-    <updated>2025-02-10T22:26:18Z</updated>
-    <id>tag:www3.nhk.or.jp,2025-02-10:/news/html/20250211/k10014718981000.html</id>
-    <link href="https://www3.nhk.or.jp/news/html/20250211/k10014718981000.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 新たなMacをGetした際のおすすめ設定 | DevelopersIO</title>
     <updated>2025-02-10T06:24:43Z</updated>
     <id>tag:dev.classmethod.jp,2025-02-10:/articles/mac-recommended-initial-settings/</id>
@@ -4552,10 +4528,16 @@
     <link href="https://jp.newsroom.ibm.com/2025-02-07-Regarding-the-Suspension-of-the-NHK-System-Development-and-Migration-Project" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 『ChatGPT o1』に必要なコードを書くよう指示→「まぁ一発では動か…動くやん…」→精度は凄いが、的確な言語化や指示を出すスキルが必要という話</title>
-    <updated>2025-02-10T17:55:45Z</updated>
-    <id>tag:togetter.com,2025-02-10:/li/2509705</id>
-    <link href="https://togetter.com/li/2509705" rel="alternate"></link>
+    <title>1:hatena_blog_it: 自分のOSSのマルウェア入り偽物を作られたので通報した - 酒日記 はてな支店</title>
+    <updated>2025-02-11T00:49:08Z</updated>
+    <id>tag:sfujiwara.hatenablog.com,2025-02-11:/entry/2025/02/11/094755</id>
+    <link href="https://sfujiwara.hatenablog.com/entry/2025/02/11/094755" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 小4息子が「自作PCを作りたい」と言ってるけど、合計10万以上するので悩む親御さん→将来有望すぎる息子さんを後押しするアドバイスが多数寄せられる</title>
+    <updated>2025-02-11T02:36:07Z</updated>
+    <id>tag:togetter.com,2025-02-11:/li/2510030</id>
+    <link href="https://togetter.com/li/2510030" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 野中郁次郎先生とスクラム | Agile Studio</title>
@@ -4564,16 +4546,10 @@
     <link href="https://www.agile-studio.jp/post/prof-nonaka-and-scrum" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「イーロン・マスクの青二才主権泥棒団」を率いるトム・クラウスとは何者か » p2ptk[.]org</title>
-    <updated>2025-02-10T20:14:27Z</updated>
-    <id>tag:p2ptk.org,2025-02-10:/monopoly/5308</id>
-    <link href="https://p2ptk.org/monopoly/5308" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「iPhoneは毎日再起動したほうが動作が軽い」説は本当か--実際に試した</title>
-    <updated>2025-02-10T21:31:04Z</updated>
-    <id>tag:japan.cnet.com,2025-02-10:/article/35229263/</id>
-    <link href="https://japan.cnet.com/article/35229263/" rel="alternate"></link>
+    <title>1:hatena_blog_it: アナリスト出身の人にバッチ処理を書いてもらう際にレクチャー & サポートしたことメモ - yasuhisa's blog</title>
+    <updated>2025-02-11T08:07:16Z</updated>
+    <id>tag:www.yasuhisay.info,2025-02-11:/entry/2025/02/11/170142</id>
+    <link href="https://www.yasuhisay.info/entry/2025/02/11/170142" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: o1やDeep researchが推論中に食事をしたり温泉に入って寄り道をする様子｜Martin</title>
@@ -4582,52 +4558,28 @@
     <link href="https://note.com/martins_day/n/na80ba5584abd" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OpenAIアカウントが2,000万件流出、サイバー攻撃者が主張</title>
-    <updated>2025-02-10T18:11:38Z</updated>
-    <id>tag:news.mynavi.jp,2025-02-10:/techplus/article/20250210-3126088/</id>
-    <link href="https://news.mynavi.jp/techplus/article/20250210-3126088/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「イーロン・マスクの青二才主権泥棒団」を率いるトム・クラウスとは何者か » p2ptk[.]org</title>
+    <updated>2025-02-10T20:14:27Z</updated>
+    <id>tag:p2ptk.org,2025-02-10:/monopoly/5308</id>
+    <link href="https://p2ptk.org/monopoly/5308" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ソフトバンク宮川氏が「日本はただ安い国になり、開発力落ちた」、値上げの必要性を指摘</title>
-    <updated>2025-02-10T09:19:19Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2025-02-10:/docs/news/1661850.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/1661850.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 機械語がわかる図鑑</title>
+    <updated>2025-02-11T07:45:45Z</updated>
+    <id>tag:gihyo.jp,2025-02-11:/book/2025/978-4-297-14740-2</id>
+    <link href="https://gihyo.jp/book/2025/978-4-297-14740-2" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: アナリスト出身の人にバッチ処理を書いてもらう際にレクチャー & サポートしたことメモ - yasuhisa's blog</title>
-    <updated>2025-02-11T08:07:16Z</updated>
-    <id>tag:www.yasuhisay.info,2025-02-11:/entry/2025/02/11/170142</id>
-    <link href="https://www.yasuhisay.info/entry/2025/02/11/170142" rel="alternate"></link>
+    <title>1:hatena_blog_it: iPhoneのカメラは｢2倍望遠｣のほうがいい感じに撮れる理由</title>
+    <updated>2025-02-10T08:29:14Z</updated>
+    <id>tag:www.gizmodo.jp,2025-02-10:/2025/02/why-iphone-x2-lens-is-useful-1.html</id>
+    <link href="https://www.gizmodo.jp/2025/02/why-iphone-x2-lens-is-useful-1.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: iPhoneで納得できない予測変換一覧</title>
-    <updated>2025-02-10T13:35:20Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-02-10:/20250210165409</id>
-    <link href="https://anond.hatelabo.jp/20250210165409" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: マスク氏、OpenAIに15兆円で買収提案　営利化に反発 - 日本経済新聞</title>
-    <updated>2025-02-10T21:56:28Z</updated>
-    <id>tag:www.nikkei.com,2025-02-10:/article/DGXZQOGN110440R10C25A2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN110440R10C25A2000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Origin UI - Beautiful UI components built with Tailwind CSS and React</title>
-    <updated>2025-01-29T16:53:13Z</updated>
-    <id>tag:originui.com,2025-01-29:/</id>
-    <link href="https://originui.com/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: macOS上のコンテナ実行環境をRancher DesktopからColimaに変えてみた | DevelopersIO</title>
-    <updated>2025-02-10T12:05:31Z</updated>
-    <id>tag:dev.classmethod.jp,2025-02-10:/articles/migrating-from-rancher-desktop-to-colima-docker-environment/</id>
-    <link href="https://dev.classmethod.jp/articles/migrating-from-rancher-desktop-to-colima-docker-environment/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 世界規模で始まる「スマホ関連規制」　各国の規制当局者や事業者が日本に集結、そこで語られたこととは</title>
-    <updated>2025-02-11T02:11:25Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-02-11:/news/articles/2502/11/news079.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2502/11/news079.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIや統計の数式を解説する美少女VTuber「AIcia Solid Project」生みの親が語る、継続できるアウトプット活動とは？</title>
+    <updated>2025-02-10T12:43:46Z</updated>
+    <id>tag:codezine.jp,2025-02-10:/article/detail/20800</id>
+    <link href="https://codezine.jp/article/detail/20800" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 依存ライブラリを少なくする</title>
@@ -4636,51 +4588,81 @@
     <link href="https://voluntas.ghost.io/reduce-dependencies/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: マスク氏、974億ドルのOpenAI買収を主導　「Twitterを97.4億ドルで買収しましょうか」とアルトマンCEO</title>
-    <updated>2025-02-10T23:03:16Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-02-10:/news/articles/2502/11/news080.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2502/11/news080.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 『ChatGPT o1』に必要なコードを書くよう指示→「まぁ一発では動か…動くやん…」→精度は凄いが、的確な言語化や指示を出すスキルが必要という話</title>
+    <updated>2025-02-10T17:55:45Z</updated>
+    <id>tag:togetter.com,2025-02-10:/li/2509705</id>
+    <link href="https://togetter.com/li/2509705" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: イーロン・マスク氏、15兆円でOpenAI買収提案　CEO拒否「結構です」 | 毎日新聞</title>
-    <updated>2025-02-11T03:53:11Z</updated>
-    <id>tag:mainichi.jp,2025-02-11:/articles/20250211/k00/00m/020/027000c</id>
-    <link href="https://mainichi.jp/articles/20250211/k00/00m/020/027000c" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「iPhoneは毎日再起動したほうが動作が軽い」説は本当か--実際に試した</title>
+    <updated>2025-02-10T21:31:04Z</updated>
+    <id>tag:japan.cnet.com,2025-02-10:/article/35229263/</id>
+    <link href="https://japan.cnet.com/article/35229263/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: The MS-DOS Encyclopedia: Section I: The Development of MS-DOS</title>
-    <updated>2025-02-10T14:33:49Z</updated>
-    <id>tag:www.pcjs.org,2025-02-10:/documents/books/mspl13/msdos/encyclopedia/section1/</id>
-    <link href="https://www.pcjs.org/documents/books/mspl13/msdos/encyclopedia/section1/" rel="alternate"></link>
+    <title>1:hatena_blog_it: イーロン・マスク氏 オープンAIに買収提案 米紙が報道 | NHK</title>
+    <updated>2025-02-10T22:26:18Z</updated>
+    <id>tag:www3.nhk.or.jp,2025-02-10:/news/html/20250211/k10014718981000.html</id>
+    <link href="https://www3.nhk.or.jp/news/html/20250211/k10014718981000.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Origin UI - Beautiful UI components built with Tailwind CSS and React</title>
+    <updated>2025-01-29T16:53:13Z</updated>
+    <id>tag:originui.com,2025-01-29:/</id>
+    <link href="https://originui.com/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 一瞬で狩り尽くされた｢Anker×コクヨ｣のガジェットポーチ、ついに再販</title>
+    <updated>2025-02-10T22:45:03Z</updated>
+    <id>tag:www.gizmodo.jp,2025-02-10:/2025/02/anker-kokuyo-resale.html</id>
+    <link href="https://www.gizmodo.jp/2025/02/anker-kokuyo-resale.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 世界規模で始まる「スマホ関連規制」　各国の規制当局者や事業者が日本に集結、そこで語られたこととは</title>
+    <updated>2025-02-11T02:11:25Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-02-11:/news/articles/2502/11/news079.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2502/11/news079.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ソフトバンク宮川氏が「日本はただ安い国になり、開発力落ちた」、値上げの必要性を指摘</title>
+    <updated>2025-02-10T09:19:19Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2025-02-10:/docs/news/1661850.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/news/1661850.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: これほど実用的で安い「USB-C」アクセサリは他にないという話【レビュー】</title>
+    <updated>2025-02-10T04:20:55Z</updated>
+    <id>tag:japan.cnet.com,2025-02-10:/article/35229233/</id>
+    <link href="https://japan.cnet.com/article/35229233/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 緊急時の規律 - 日々常々</title>
+    <updated>2025-02-11T02:29:55Z</updated>
+    <id>tag:irof.hateblo.jp,2025-02-11:/entry/2025/02/11/110918</id>
+    <link href="https://irof.hateblo.jp/entry/2025/02/11/110918" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AI開発向け個人情報、本人同意求めず　政府が法改正準備 - 日本経済新聞</title>
+    <updated>2025-02-11T05:56:10Z</updated>
+    <id>tag:www.nikkei.com,2025-02-11:/article/DGXZQOUA0639F0W5A200C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUA0639F0W5A200C2000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 世界のプログラミング言語(57) シンプル・高速・保守性の高さを目標に掲げたV言語はGo言語のライバルになり得るか?!</title>
+    <updated>2025-02-11T10:40:38Z</updated>
+    <id>tag:news.mynavi.jp,2025-02-11:/techplus/article/programinglanguageoftheworld-57/</id>
+    <link href="https://news.mynavi.jp/techplus/article/programinglanguageoftheworld-57/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Googleの天気予報AI、従来法より迅速かつ高精度に - 日本経済新聞</title>
+    <updated>2025-02-11T07:43:23Z</updated>
+    <id>tag:www.nikkei.com,2025-02-11:/article/DGXZQOSG2069R0Q5A120C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOSG2069R0Q5A120C2000000/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ゆうパック、宅配便ロッカー「PUDO」から発送可能に</title>
     <updated>2025-02-10T09:04:41Z</updated>
     <id>tag:www.watch.impress.co.jp,2025-02-10:/docs/news/1661766.html</id>
     <link href="https://www.watch.impress.co.jp/docs/news/1661766.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 2/11 0:00 - 12:30 の間にファーストブクマされた増田の時間分布 xx:x0 33 ..</title>
-    <updated>2025-02-11T05:23:50Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-02-11:/20250211125723</id>
-    <link href="https://anond.hatelabo.jp/20250211125723" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 20 million OpenAI accounts offered for sale</title>
-    <updated>2025-02-11T00:41:07Z</updated>
-    <id>tag:www.malwarebytes.com,2025-02-11:/blog/news/2025/02/20-million-openai-accounts-offered-for-sale</id>
-    <link href="https://www.malwarebytes.com/blog/news/2025/02/20-million-openai-accounts-offered-for-sale" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 対話型AI検索「Perplexity」を使いこなすコツ、Google検索との大きな違いは？ | ライフハッカー・ジャパン</title>
-    <updated>2025-02-10T16:41:47Z</updated>
-    <id>tag:www.lifehacker.jp,2025-02-10:/article/2502-perplexity-matome/</id>
-    <link href="https://www.lifehacker.jp/article/2502-perplexity-matome/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Copilot Language Server SDK is now available · GitHub Changelog</title>
-    <updated>2025-02-10T21:55:54Z</updated>
-    <id>tag:github.blog,2025-02-10:/changelog/2025-02-10-copilot-language-server-sdk-is-now-available/</id>
-    <link href="https://github.blog/changelog/2025-02-10-copilot-language-server-sdk-is-now-available/" rel="alternate"></link>
   </entry>
 </feed>
