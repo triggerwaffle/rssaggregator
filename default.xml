@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-02-14T00:58:44Z</updated>
+  <updated>2025-02-14T06:17:23Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -20,6 +20,12 @@
     <updated>2025-02-05T00:00:00+09:00</updated>
     <id>tag:www.oreilly.co.jp,2025-02-05:/books/9784814401048/</id>
     <link href="http://www.oreilly.co.jp/books/9784814401048/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>4:orielly_books_soon: クラウドFinOps 第2版</title>
+    <updated>2025-03-19T00:00:00+09:00</updated>
+    <id>tag:www.oreilly.co.jp,2025-03-19:/books/9784814401086/</id>
+    <link href="http://www.oreilly.co.jp/books/9784814401086/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:orielly_books_soon: クリーンコードクックブック</title>
@@ -124,6 +130,18 @@
     <link href="https://archlinux.org/news/making-dbus-broker-our-default-d-bus-daemon/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Web技術の互換性を把握するためのBaselineとWeb Platform Status Dashboard</title>
+    <updated>2025-02-14T00:39:40Z</updated>
+    <id>https://zenn.dev/sakito/articles/26cba8397c4dbe</id>
+    <link href="https://zenn.dev/sakito/articles/26cba8397c4dbe" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: デリゲートに登録したラムダ式を-=で消す</title>
+    <updated>2025-02-13T08:05:10Z</updated>
+    <id>https://zenn.dev/omizu13/articles/ec672f5cbdc583</id>
+    <link href="https://zenn.dev/omizu13/articles/ec672f5cbdc583" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: 自分（Slack プラットフォーム専門家）の分身 AI を作ってみた</title>
     <updated>2025-02-13T07:13:52Z</updated>
     <id>https://zenn.dev/seratch/articles/e29f6d47d88c5d</id>
@@ -142,10 +160,22 @@
     <link href="https://zenn.dev/farstep/books/learn-github-actions" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Macのデフォルトのシェルをzshからfishに切り替える方法</title>
+    <updated>2025-02-12T15:40:00Z</updated>
+    <id>https://zenn.dev/karaage0703/articles/275bf8f906cc66</id>
+    <link href="https://zenn.dev/karaage0703/articles/275bf8f906cc66" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: 2025年2月最新版：Devinに関するおすすめ資料</title>
     <updated>2025-02-12T14:11:15Z</updated>
     <id>https://zenn.dev/yukinagae/articles/5f8f1d69116402</id>
     <link href="https://zenn.dev/yukinagae/articles/5f8f1d69116402" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Azure OpenAI Service でモデルの蒸留 (Model Distillation) を行う</title>
+    <updated>2025-02-12T13:50:58Z</updated>
+    <id>https://zenn.dev/microsoft/articles/e43b52fa9e91e3</id>
+    <link href="https://zenn.dev/microsoft/articles/e43b52fa9e91e3" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: プログラムの言語変換 & ローカル依存ファイルの集約を行うワークフロー（LangGraph・並列処理）</title>
@@ -196,12 +226,6 @@
     <link href="https://zenn.dev/erukiti/articles/2502-gemini-20-flash" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: Azure環境作ったら最初にやるべきこと（2025年版）</title>
-    <updated>2025-02-12T00:00:43Z</updated>
-    <id>https://zenn.dev/tomot/articles/51bf444c65ffe6</id>
-    <link href="https://zenn.dev/tomot/articles/51bf444c65ffe6" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: Azure Database for MySQLのIOPS設定の変更で月額約100万円のコストダウンが実現しました</title>
     <updated>2025-02-11T23:30:01Z</updated>
     <id>https://zenn.dev/aeonpeople/articles/morihaya-20250212-azure-mysql-iops3</id>
@@ -224,24 +248,6 @@
     <updated>2025-02-10T12:54:56Z</updated>
     <id>https://zenn.dev/bannzai/articles/12d0443426876e</id>
     <link href="https://zenn.dev/bannzai/articles/12d0443426876e" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 開いているWebページを自然言語で操作するAIエージェントを作ったよ</title>
-    <updated>2025-02-10T06:58:17Z</updated>
-    <id>https://zenn.dev/nabettu/articles/dc4aeb4dcdb89f</id>
-    <link href="https://zenn.dev/nabettu/articles/dc4aeb4dcdb89f" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: AIエージェントと創る、新しい1人旅のカタチ</title>
-    <updated>2025-02-10T00:04:53Z</updated>
-    <id>https://zenn.dev/taisei_13046/articles/9ea814a6a25140</id>
-    <link href="https://zenn.dev/taisei_13046/articles/9ea814a6a25140" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: マインスイーパでオブジェクト指向の設計を学んだ</title>
-    <updated>2025-02-09T23:00:05Z</updated>
-    <id>https://zenn.dev/yuhi_junior/articles/062cf4f30b083d</id>
-    <link href="https://zenn.dev/yuhi_junior/articles/062cf4f30b083d" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: え？本買ってるの？？もっと良い方法あります。</title>
@@ -4546,16 +4552,10 @@
     <link href="https://k-tai.watch.impress.co.jp/docs/column/teppan/1662734.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: なぜあなたのウェブサイトは遅いのか</title>
-    <updated>2025-02-13T10:35:43Z</updated>
-    <id>tag:mizchi-20250213-devsumi.pages.dev,2025-02-13:/</id>
-    <link href="https://mizchi-20250213-devsumi.pages.dev/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: バックエンドエンジニアのためのフロントエンド入門</title>
-    <updated>2025-02-13T08:37:48Z</updated>
-    <id>tag:speakerdeck.com,2025-02-13:/panda_program/learning-frontend-for-backend-developers-be63adc1-1f5b-44da-b68c-3f7f94fb6b86</id>
-    <link href="https://speakerdeck.com/panda_program/learning-frontend-for-backend-developers-be63adc1-1f5b-44da-b68c-3f7f94fb6b86" rel="alternate"></link>
+    <title>1:hatena_blog_it: 10年以上前に現在価値1200億円分のビットコインが入ったHDDを彼女に捨てられたイギリス人男性がゴミ処理場を購入しようとしている</title>
+    <updated>2025-02-13T23:00:01Z</updated>
+    <id>tag:togetter.com,2025-02-13:/li/2511354</id>
+    <link href="https://togetter.com/li/2511354" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ホワイトカラーの仕事は全てハッカソン型へ移行する</title>
@@ -4564,16 +4564,28 @@
     <link href="https://wirelesswire.jp/2025/02/88087/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: なぜあなたのウェブサイトは遅いのか</title>
+    <updated>2025-02-13T10:35:43Z</updated>
+    <id>tag:mizchi-20250213-devsumi.pages.dev,2025-02-13:/</id>
+    <link href="https://mizchi-20250213-devsumi.pages.dev/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 博士号を取った優秀な友人がコンサルになり「博士号の知見は活用できてる？」と聞いてみると、切ない回答が返ってきた</title>
     <updated>2025-02-13T12:47:01Z</updated>
     <id>tag:togetter.com,2025-02-13:/li/2511179</id>
     <link href="https://togetter.com/li/2511179" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 10年以上前に現在価値1200億円分のビットコインが入ったHDDを彼女に捨てられたイギリス人男性がゴミ処理場を購入しようとしている</title>
-    <updated>2025-02-13T23:00:01Z</updated>
-    <id>tag:togetter.com,2025-02-13:/li/2511354</id>
-    <link href="https://togetter.com/li/2511354" rel="alternate"></link>
+    <title>1:hatena_blog_it: バックエンドエンジニアのためのフロントエンド入門</title>
+    <updated>2025-02-13T08:37:48Z</updated>
+    <id>tag:speakerdeck.com,2025-02-13:/panda_program/learning-frontend-for-backend-developers-be63adc1-1f5b-44da-b68c-3f7f94fb6b86</id>
+    <link href="https://speakerdeck.com/panda_program/learning-frontend-for-backend-developers-be63adc1-1f5b-44da-b68c-3f7f94fb6b86" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: リーダブルテストコード 〜メンテナンスしやすい テストコードを作成する方法を考える〜 #DevSumiB / Readable test code</title>
+    <updated>2025-02-14T02:37:10Z</updated>
+    <id>tag:speakerdeck.com,2025-02-14:/nihonbuson/readable-test-code</id>
+    <link href="https://speakerdeck.com/nihonbuson/readable-test-code" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 個人開発から公式機能へ: PlaywrightとRailsをつなげた3年の軌跡</title>
@@ -4582,22 +4594,28 @@
     <link href="https://speakerdeck.com/yusukeiwaki/ge-ren-kai-fa-karagong-shi-ji-neng-he-playwrighttorailswotunageta3nian-nogui-ji" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: インド人留学生に1人年300万円　AI人材確保へ文科省 - 日本経済新聞</title>
-    <updated>2025-02-13T09:14:22Z</updated>
-    <id>tag:www.nikkei.com,2025-02-13:/article/DGXZQOUE059U40V00C24A9000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUE059U40V00C24A9000000/" rel="alternate"></link>
+    <title>1:hatena_blog_it: プログラマー高橋征義が選ぶ、開発者として“生きる”と向き合うための「お守り本」6冊 | コラム</title>
+    <updated>2025-02-14T01:10:52Z</updated>
+    <id>tag:levtech.jp,2025-02-14:/media/article/column/detail_616/</id>
+    <link href="https://levtech.jp/media/article/column/detail_616/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: SLI/SLO 完全ガイド - CyberAgent SRG #ca_srg</title>
-    <updated>2025-02-13T07:06:56Z</updated>
-    <id>tag:ca-srg.dev,2025-02-13:/32f7b8c96de7489094802512de434d0f</id>
-    <link href="https://ca-srg.dev/32f7b8c96de7489094802512de434d0f" rel="alternate"></link>
+    <title>1:hatena_blog_it: エンジニアだけど生まれる時代をミスった</title>
+    <updated>2025-02-13T19:23:18Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-02-13:/20250214041250</id>
+    <link href="https://anond.hatelabo.jp/20250214041250" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 自分の知識をアップデートすることと、クラウド事業のありかたに関する自分なりの言語化 - inductor's blog</title>
-    <updated>2025-02-13T16:36:26Z</updated>
-    <id>tag:blog.inductor.me,2025-02-13:/entry/2025/02/14/011532</id>
-    <link href="https://blog.inductor.me/entry/2025/02/14/011532" rel="alternate"></link>
+    <title>1:hatena_blog_it: 認知症になる10年前から“体格”に異変があった――1000人以上の認知症患者を10年以上追跡調査</title>
+    <updated>2025-02-13T23:41:43Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-02-13:/news/articles/2502/14/news073.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2502/14/news073.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【特集】 懐かしのテープやフロッピー、CD/DVD、そしてUSBメモリに至るまで。外部記録メディアの変遷</title>
+    <updated>2025-02-13T22:42:05Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-02-13:/docs/topic/feature/1657515.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/1657515.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「WebAssemblyはコンテナを置き換える」と述べたブログが海外で話題に</title>
@@ -4606,16 +4624,46 @@
     <link href="https://techfeed.io/entries/67ad18702e9ba70983876881" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 油が水に浮く理由がわからない。</title>
-    <updated>2025-02-13T06:50:58Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-02-13:/20250213154301</id>
-    <link href="https://anond.hatelabo.jp/20250213154301" rel="alternate"></link>
+    <title>1:hatena_blog_it: トランプ米政権、テスラ車の購入保留に　マスク氏「利益相反」恐れ（時事通信） - Yahoo!ニュース</title>
+    <updated>2025-02-13T21:00:39Z</updated>
+    <id>tag:news.yahoo.co.jp,2025-02-13:/articles/c2e4a79e59116f2c25ee6b3a67c606fcc6a1d96e</id>
+    <link href="https://news.yahoo.co.jp/articles/c2e4a79e59116f2c25ee6b3a67c606fcc6a1d96e" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 三菱、世界初の部品交換いらない「床発電装置」軽い力で発電 - 家電 Watch</title>
-    <updated>2025-02-12T22:09:27Z</updated>
-    <id>tag:kaden.watch.impress.co.jp,2025-02-12:/docs/news/1662140.html</id>
-    <link href="https://kaden.watch.impress.co.jp/docs/news/1662140.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 自分の知識をアップデートすることと、クラウド事業のありかたに関する自分なりの言語化 - inductor's blog</title>
+    <updated>2025-02-13T16:36:26Z</updated>
+    <id>tag:blog.inductor.me,2025-02-13:/entry/2025/02/14/011532</id>
+    <link href="https://blog.inductor.me/entry/2025/02/14/011532" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Developer Summit 2025 [14-D-1] Yuki Hattori</title>
+    <updated>2025-02-14T02:06:35Z</updated>
+    <id>tag:speakerdeck.com,2025-02-14:/yuhattor/developer-summit-2025-14-d-1-yuki-hattori</id>
+    <link href="https://speakerdeck.com/yuhattor/developer-summit-2025-14-d-1-yuki-hattori" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 自動テストの世界に、この5年間で起きたこと</title>
+    <updated>2025-02-13T14:29:29Z</updated>
+    <id>tag:speakerdeck.com,2025-02-13:/autifyhq/things-happened-in-5-years-in-the-testing-automation-world</id>
+    <link href="https://speakerdeck.com/autifyhq/things-happened-in-5-years-in-the-testing-automation-world" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 30分でわかる『アジャイルデータモデリング』</title>
+    <updated>2025-02-13T22:33:13Z</updated>
+    <id>tag:speakerdeck.com,2025-02-13:/hanon52_/30fen-dewakaru-aziyairudetamoderingu</id>
+    <link href="https://speakerdeck.com/hanon52_/30fen-dewakaru-aziyairudetamoderingu" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 見た目はレトロ、中身は最新技術――アドビ、15年の歳月をかけた独自バリアブルフォント「百千鳥」公開</title>
+    <updated>2025-02-13T13:04:54Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-02-13:/news/articles/2502/13/news170.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2502/13/news170.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: セキュリティ人材の採用現場で起きている現実</title>
+    <updated>2025-02-13T22:27:28Z</updated>
+    <id>tag:japan.zdnet.com,2025-02-13:/article/35229094/</id>
+    <link href="https://japan.zdnet.com/article/35229094/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 目の前の仕事と向き合うことで成長できる - 仕事とスキルを広げる / Every little bit counts</title>
@@ -4624,52 +4672,10 @@
     <link href="https://speakerdeck.com/soudai/every-little-bit-counts" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ChatGPT deep researchに見る⁨⁩AIが自律的に考える未来 - LayerX エンジニアブログ</title>
-    <updated>2025-02-13T09:14:35Z</updated>
-    <id>tag:tech.layerx.co.jp,2025-02-13:/entry/2025/02/13/175317</id>
-    <link href="https://tech.layerx.co.jp/entry/2025/02/13/175317" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: さくらのクラウド AppRun β を触ってみた - 日々常々</title>
-    <updated>2025-02-13T08:48:37Z</updated>
-    <id>tag:irof.hateblo.jp,2025-02-13:/entry/2025/02/13/160230</id>
-    <link href="https://irof.hateblo.jp/entry/2025/02/13/160230" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ﾜｲ「●●商事、情シスでございます」営業「部長以上の方、お願いします」流石に無理よ。。→「要件は？」「誰？」「そういう電話あった」</title>
-    <updated>2025-02-13T14:28:43Z</updated>
-    <id>tag:togetter.com,2025-02-13:/li/2511201</id>
-    <link href="https://togetter.com/li/2511201" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Appleがイーロン・マスクの反ユダヤ主義的コメントを受けて停止していたX(旧Twitter)での広告を再開</title>
-    <updated>2025-02-13T12:05:57Z</updated>
-    <id>tag:gigazine.net,2025-02-13:/news/20250213-apple-resumes-ads-on-x/</id>
-    <link href="https://gigazine.net/news/20250213-apple-resumes-ads-on-x/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 部屋の明かりで充電できる「ほぼ充電不要」なTVリモコン</title>
-    <updated>2025-02-13T08:08:40Z</updated>
-    <id>tag:av.watch.impress.co.jp,2025-02-13:/docs/news/1662574.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/news/1662574.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 滅・サービスクラス🔥 / Destruction Service Class</title>
-    <updated>2025-02-13T11:34:45Z</updated>
-    <id>tag:speakerdeck.com,2025-02-13:/sinsoku/destruction-service-class</id>
-    <link href="https://speakerdeck.com/sinsoku/destruction-service-class" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ヤフコメにAI添削導入で「不快コメント24%減」--LINEヤフー</title>
-    <updated>2025-02-13T08:20:06Z</updated>
-    <id>tag:japan.cnet.com,2025-02-13:/article/35229359/</id>
-    <link href="https://japan.cnet.com/article/35229359/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【AI時代の最強ノート術】スパイダーマップで “新しいアイデア” が湧き出す理由 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習</title>
-    <updated>2025-02-13T01:12:35Z</updated>
-    <id>tag:studyhacker.net,2025-02-13:/spidermap</id>
-    <link href="https://studyhacker.net/spidermap" rel="alternate"></link>
+    <title>1:hatena_blog_it: スマートリモコン「Nature Remo」、サーバーを介さずエアコンを操作できる新機能【やじうまWatch】</title>
+    <updated>2025-02-13T23:29:21Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2025-02-13:/docs/yajiuma/1662398.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/1662398.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: WASM will replace containers</title>
@@ -4678,39 +4684,45 @@
     <link href="https://creston.blog/wasm-will-replace-containers/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: E2769 – シンポジウム「機関リポジトリ活用の可能性」＜報告＞</title>
-    <updated>2025-02-13T10:24:55Z</updated>
-    <id>tag:current.ndl.go.jp,2025-02-13:/e2769</id>
-    <link href="https://current.ndl.go.jp/e2769" rel="alternate"></link>
+    <title>1:hatena_blog_it: Go 1.24 で map が30%以上高速化！Swiss Tableとは？ - カンム テックブログ</title>
+    <updated>2025-02-14T01:09:26Z</updated>
+    <id>tag:tech.kanmu.co.jp,2025-02-14:/entry/2025/02/14/094838</id>
+    <link href="https://tech.kanmu.co.jp/entry/2025/02/14/094838" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Google、既存の画像を組み合わせる画像生成AI「Whisk」</title>
-    <updated>2025-02-13T09:29:52Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-02-13:/docs/news/1662533.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/1662533.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: [🔰初心者向け]Linuxを初歩から学びたい方へ🐧 ~ 初級編 全14回 ~ - Qiita</title>
+    <updated>2025-02-13T12:35:41Z</updated>
+    <id>tag:qiita.com,2025-02-13:/ikemura-ren/items/3e7b6ec1b0cd9b3928d6</id>
+    <link href="https://qiita.com/ikemura-ren/items/3e7b6ec1b0cd9b3928d6" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: NTT、"光学迷彩"を可能にする「光の負の屈折」実現へ</title>
-    <updated>2025-02-13T07:03:35Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-02-13:/docs/news/1662498.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/1662498.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 活発化する人型ロボットの開発競争。中国ロボット業界の2024年を振り返る | レバテックラボ（レバテックLAB）</title>
+    <updated>2025-02-14T01:11:11Z</updated>
+    <id>tag:levtech.jp,2025-02-14:/media/article/column/detail_617/</id>
+    <link href="https://levtech.jp/media/article/column/detail_617/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 中国エンジン熱効率46％超の実力を分析、黒子2社が“激安”で存在感</title>
-    <updated>2025-02-13T03:52:42Z</updated>
-    <id>tag:xtech.nikkei.com,2025-02-13:/atcl/nxt/column/18/00001/10255/</id>
-    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/10255/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 野村総合研究所、日本の富裕層・超富裕層は合計約165万世帯、その純金融資産の総額は約469兆円と推計</title>
+    <updated>2025-02-13T11:01:18Z</updated>
+    <id>tag:www.nri.com,2025-02-13:/jp/news/newsrelease/20250213_1.html</id>
+    <link href="https://www.nri.com/jp/news/newsrelease/20250213_1.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ACES Meet流MVP開発の進め方 - ACES エンジニアブログ</title>
-    <updated>2025-02-13T23:08:54Z</updated>
-    <id>tag:tech.acesinc.co.jp,2025-02-13:/entry/2025/02/14/080000</id>
-    <link href="https://tech.acesinc.co.jp/entry/2025/02/14/080000" rel="alternate"></link>
+    <title>1:hatena_blog_it: Appleがイーロン・マスクの反ユダヤ主義的コメントを受けて停止していたX(旧Twitter)での広告を再開</title>
+    <updated>2025-02-13T12:05:57Z</updated>
+    <id>tag:gigazine.net,2025-02-13:/news/20250213-apple-resumes-ads-on-x/</id>
+    <link href="https://gigazine.net/news/20250213-apple-resumes-ads-on-x/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 第850回　UbuntuにおけるシステムPythonと、Pythonの仮想環境を使い分ける方法 | gihyo.jp</title>
-    <updated>2025-02-13T13:35:54Z</updated>
-    <id>tag:gihyo.jp,2025-02-13:/admin/serial/01/ubuntu-recipe/0850</id>
-    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0850" rel="alternate"></link>
+    <title>1:hatena_blog_it: 滅・サービスクラス🔥 / Destruction Service Class</title>
+    <updated>2025-02-13T11:34:45Z</updated>
+    <id>tag:speakerdeck.com,2025-02-13:/sinsoku/destruction-service-class</id>
+    <link href="https://speakerdeck.com/sinsoku/destruction-service-class" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【資料公開】チームトポロジーで紐解くプロダクト開発組織の進化とスケーリング</title>
+    <updated>2025-02-14T05:19:18Z</updated>
+    <id>tag:www.ryuzee.com,2025-02-14:/contents/blog/14599</id>
+    <link href="https://www.ryuzee.com/contents/blog/14599" rel="alternate"></link>
   </entry>
 </feed>
