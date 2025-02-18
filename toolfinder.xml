@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-02-18T00:58:36Z</updated>
+  <updated>2025-02-18T06:17:34Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2452,6 +2452,24 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: snmalloc</title>
+    <updated>2025-02-18T04:34:06Z</updated>
+    <id>snmalloc-1739853246</id>
+    <link href="https://aur.archlinux.org/packages/snmalloc" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: memsed-git</title>
+    <updated>2025-02-18T03:12:24Z</updated>
+    <id>memsed-git-1739848344</id>
+    <link href="https://aur.archlinux.org/packages/memsed-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: browser-on-ram-git</title>
+    <updated>2025-02-18T02:39:57Z</updated>
+    <id>browser-on-ram-git-1739846397</id>
+    <link href="https://aur.archlinux.org/packages/browser-on-ram-git" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: cosmos-disks-git</title>
     <updated>2025-02-17T23:43:18Z</updated>
     <id>cosmos-disks-git-1739835798</id>
@@ -3034,22 +3052,244 @@
     <link href="https://aur.archlinux.org/packages/ocaml-multicore-bench" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: ocaml-mtime</title>
-    <updated>2025-02-14T22:45:19Z</updated>
-    <id>ocaml-mtime-1739573119</id>
-    <link href="https://aur.archlinux.org/packages/ocaml-mtime" rel="alternate"></link>
+    <title>2:archlinux_new_packages: intel-oneapi-tcm 1.2.0-3 x86_64</title>
+    <updated>2025-02-18T02:09:17Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/intel-oneapi-tcm/202502180209</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/intel-oneapi-tcm/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: ocaml-backoff</title>
-    <updated>2025-02-14T22:45:08Z</updated>
-    <id>ocaml-backoff-1739573108</id>
-    <link href="https://aur.archlinux.org/packages/ocaml-backoff" rel="alternate"></link>
+    <title>2:archlinux_new_packages: intel-oneapi-openmp 2025.0.4-1 x86_64</title>
+    <updated>2025-02-18T02:09:17Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/intel-oneapi-openmp/202502180209</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/intel-oneapi-openmp/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: framework-hz</title>
-    <updated>2025-02-14T22:20:13Z</updated>
-    <id>framework-hz-1739571613</id>
-    <link href="https://aur.archlinux.org/packages/framework-hz" rel="alternate"></link>
+    <title>2:archlinux_new_packages: intel-oneapi-mkl-sycl 2025.0.1-1 x86_64</title>
+    <updated>2025-02-18T02:09:16Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/intel-oneapi-mkl-sycl/202502180209</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/intel-oneapi-mkl-sycl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: intel-oneapi-mkl 2025.0.1-1 x86_64</title>
+    <updated>2025-02-18T02:09:16Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/intel-oneapi-mkl/202502180209</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/intel-oneapi-mkl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: intel-oneapi-dpcpp-debugger 2025.0.0-1 x86_64</title>
+    <updated>2025-02-18T02:09:15Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/intel-oneapi-dpcpp-debugger/202502180209</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/intel-oneapi-dpcpp-debugger/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: intel-oneapi-dpcpp-cpp 2025.0.4-1 x86_64</title>
+    <updated>2025-02-18T02:09:14Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/intel-oneapi-dpcpp-cpp/202502180209</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/intel-oneapi-dpcpp-cpp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: intel-oneapi-compiler-shared-runtime-libs 2025.0.4-2 x86_64</title>
+    <updated>2025-02-18T02:09:14Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/intel-oneapi-compiler-shared-runtime-libs/202502180209</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/intel-oneapi-compiler-shared-runtime-libs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: intel-oneapi-compiler-shared-runtime 2025.0.4-2 x86_64</title>
+    <updated>2025-02-18T02:09:13Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/intel-oneapi-compiler-shared-runtime/202502180209</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/intel-oneapi-compiler-shared-runtime/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: intel-oneapi-compiler-shared 2025.0.4-1 x86_64</title>
+    <updated>2025-02-18T02:09:13Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/intel-oneapi-compiler-shared/202502180209</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/intel-oneapi-compiler-shared/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: intel-oneapi-compiler-dpcpp-cpp-runtime-libs 2025.0.4-1 x86_64</title>
+    <updated>2025-02-18T02:09:12Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/intel-oneapi-compiler-dpcpp-cpp-runtime-libs/202502180209</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/intel-oneapi-compiler-dpcpp-cpp-runtime-libs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: intel-oneapi-compiler-dpcpp-cpp-runtime 2025.0.4-1 x86_64</title>
+    <updated>2025-02-18T02:09:12Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/intel-oneapi-compiler-dpcpp-cpp-runtime/202502180209</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/intel-oneapi-compiler-dpcpp-cpp-runtime/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: intel-oneapi-dev-utilities 2025.0.0-1 any</title>
+    <updated>2025-02-18T02:09:11Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/intel-oneapi-dev-utilities/202502180209</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/intel-oneapi-dev-utilities/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ibus-typing-booster 2.27.27-1 any</title>
+    <updated>2025-02-18T02:07:01Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra/any/ibus-typing-booster/202502180207</id>
+    <link href="https://archlinux.org/packages/extra/any/ibus-typing-booster/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: vtk 9.4.1-4 x86_64</title>
+    <updated>2025-02-18T01:45:08Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/vtk/202502180145</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/vtk/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: usd 25.02-3 x86_64</title>
+    <updated>2025-02-18T01:45:08Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/usd/202502180145</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/usd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: openvkl 2.0.1-2 x86_64</title>
+    <updated>2025-02-18T01:45:07Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/openvkl/202502180145</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/openvkl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: openvdb 12.0.0-2 x86_64</title>
+    <updated>2025-02-18T01:45:07Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/openvdb/202502180145</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/openvdb/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: freecad 1.0.0-7 x86_64</title>
+    <updated>2025-02-18T01:45:06Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/freecad/202502180145</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/freecad/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: blender 17:4.3.2-9 x86_64</title>
+    <updated>2025-02-18T01:45:05Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/blender/202502180145</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/blender/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: talosctl 1.9.4-1 x86_64</title>
+    <updated>2025-02-18T01:39:56Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra/x86_64/talosctl/202502180139</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/talosctl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: prometheus-ipmi-exporter 1.10.0-1 x86_64</title>
+    <updated>2025-02-18T01:39:55Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra/x86_64/prometheus-ipmi-exporter/202502180139</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/prometheus-ipmi-exporter/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: dovecot-fts-xapian 1.9.1-1 x86_64</title>
+    <updated>2025-02-18T01:39:49Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/x86_64/dovecot-fts-xapian/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/dovecot-fts-xapian/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pyopenssl 25.0.0-1 any</title>
+    <updated>2025-02-18T01:39:48Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/python-pyopenssl/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-pyopenssl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-acme 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:47Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/python-acme/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-acme/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-nginx 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:47Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-nginx/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-nginx/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-dns-sakuracloud 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:46Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-dns-sakuracloud/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-dns-sakuracloud/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-dns-route53 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:46Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-dns-route53/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-dns-route53/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-dns-rfc2136 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:46Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-dns-rfc2136/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-dns-rfc2136/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-dns-ovh 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:45Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-dns-ovh/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-dns-ovh/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-dns-nsone 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:45Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-dns-nsone/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-dns-nsone/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-dns-luadns 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:44Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-dns-luadns/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-dns-luadns/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-dns-linode 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:44Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-dns-linode/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-dns-linode/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-dns-google 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:43Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-dns-google/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-dns-google/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-dns-gehirn 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:43Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-dns-gehirn/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-dns-gehirn/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-dns-dnsmadeeasy 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:42Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-dns-dnsmadeeasy/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-dns-dnsmadeeasy/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-dns-dnsimple 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:42Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-dns-dnsimple/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-dns-dnsimple/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-dns-digitalocean 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:41Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-dns-digitalocean/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-dns-digitalocean/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-dns-cloudflare 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:41Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-dns-cloudflare/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-dns-cloudflare/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot-apache 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:40Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot-apache/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot-apache/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: certbot 3.2.0-1 any</title>
+    <updated>2025-02-18T01:39:40Z</updated>
+    <id>tag:archlinux.org,2025-02-18:/packages/extra-testing/any/certbot/202502180139</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/certbot/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: firefox-developer-edition-i18n-zh-tw 136.0b7-1 any</title>
@@ -3110,245 +3350,5 @@
     <updated>2025-02-17T23:56:15Z</updated>
     <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-tl/202502172356</id>
     <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-tl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-th 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:14Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-th/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-th/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-tg 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:14Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-tg/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-tg/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-te 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:13Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-te/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-te/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-ta 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:13Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-ta/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-ta/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-szl 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:12Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-szl/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-szl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sv-se 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:12Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-sv-se/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sv-se/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sr 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:11Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-sr/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sq 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:11Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-sq/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sq/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-son 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:10Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-son/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-son/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sl 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:10Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-sl/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-skr 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:10Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-skr/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-skr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sk 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:09Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-sk/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sk/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-si 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:09Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-si/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-si/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sco 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:08Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-sco/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sco/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sc 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:08Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-sc/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sat 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:07Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-sat/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sat/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-ru 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:07Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-ru/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-ru/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-ro 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:06Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-ro/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-ro/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-rm 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:06Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-rm/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-rm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-pt-pt 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:05Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-pt-pt/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-pt-pt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-pt-br 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:05Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-pt-br/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-pt-br/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-pl 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:05Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-pl/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-pl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-pa-in 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:04Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-pa-in/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-pa-in/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-oc 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:04Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-oc/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-oc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-nn-no 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:03Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-nn-no/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-nn-no/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-nl 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:03Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-nl/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-nl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-ne-np 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:02Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-ne-np/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-ne-np/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-nb-no 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:02Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-nb-no/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-nb-no/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-my 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:01Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-my/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-my/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-ms 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:01Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-ms/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-ms/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-mr 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:00Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-mr/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-mr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-mk 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:00Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-mk/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-mk/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-lv 136.0b7-1 any</title>
-    <updated>2025-02-17T23:56:00Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-lv/202502172356</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-lv/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-lt 136.0b7-1 any</title>
-    <updated>2025-02-17T23:55:59Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-lt/202502172355</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-lt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-lij 136.0b7-1 any</title>
-    <updated>2025-02-17T23:55:59Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-lij/202502172355</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-lij/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-ko 136.0b7-1 any</title>
-    <updated>2025-02-17T23:55:58Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-ko/202502172355</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-ko/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-kn 136.0b7-1 any</title>
-    <updated>2025-02-17T23:55:58Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-kn/202502172355</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-kn/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-km 136.0b7-1 any</title>
-    <updated>2025-02-17T23:55:57Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-km/202502172355</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-km/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-kk 136.0b7-1 any</title>
-    <updated>2025-02-17T23:55:57Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-kk/202502172355</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-kk/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-kab 136.0b7-1 any</title>
-    <updated>2025-02-17T23:55:56Z</updated>
-    <id>tag:archlinux.org,2025-02-17:/packages/extra/any/firefox-developer-edition-i18n-kab/202502172355</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-kab/" rel="alternate"></link>
   </entry>
 </feed>
