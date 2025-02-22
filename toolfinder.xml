@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-02-22T00:57:31Z</updated>
+  <updated>2025-02-22T06:17:19Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2488,6 +2488,18 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: wctx</title>
+    <updated>2025-02-22T03:29:35Z</updated>
+    <id>wctx-1740194975</id>
+    <link href="https://aur.archlinux.org/packages/wctx" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: combaud-bin</title>
+    <updated>2025-02-22T03:24:10Z</updated>
+    <id>combaud-bin-1740194650</id>
+    <link href="https://aur.archlinux.org/packages/combaud-bin" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: porymap</title>
     <updated>2025-02-22T00:23:20Z</updated>
     <id>porymap-1740183800</id>
@@ -3076,16 +3088,196 @@
     <link href="https://aur.archlinux.org/packages/ocaml-kcas" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: ocaml-iomux</title>
-    <updated>2025-02-19T16:30:14Z</updated>
-    <id>ocaml-iomux-1739982614</id>
-    <link href="https://aur.archlinux.org/packages/ocaml-iomux" rel="alternate"></link>
+    <title>2:archlinux_new_packages: rust-wasm 1:1.85.0-1 x86_64</title>
+    <updated>2025-02-22T02:49:55Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra/x86_64/rust-wasm/202502220249</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rust-wasm/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: ocaml-hmap</title>
-    <updated>2025-02-19T16:29:43Z</updated>
-    <id>ocaml-hmap-1739982583</id>
-    <link href="https://aur.archlinux.org/packages/ocaml-hmap" rel="alternate"></link>
+    <title>2:archlinux_new_packages: rust-src 1:1.85.0-1 x86_64</title>
+    <updated>2025-02-22T02:49:55Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra/x86_64/rust-src/202502220249</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rust-src/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rust-musl 1:1.85.0-1 x86_64</title>
+    <updated>2025-02-22T02:49:54Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra/x86_64/rust-musl/202502220249</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rust-musl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rust-aarch64-musl 1:1.85.0-1 x86_64</title>
+    <updated>2025-02-22T02:49:54Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra/x86_64/rust-aarch64-musl/202502220249</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rust-aarch64-musl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rust-aarch64-gnu 1:1.85.0-1 x86_64</title>
+    <updated>2025-02-22T02:49:53Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra/x86_64/rust-aarch64-gnu/202502220249</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rust-aarch64-gnu/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rust 1:1.85.0-1 x86_64</title>
+    <updated>2025-02-22T02:49:53Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra/x86_64/rust/202502220249</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rust/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-rust-libs 1:1.85.0-1 x86_64</title>
+    <updated>2025-02-22T02:49:52Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra/x86_64/lib32-rust-libs/202502220249</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/lib32-rust-libs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: xdg-desktop-portal 1.20.0-1 x86_64</title>
+    <updated>2025-02-22T01:07:58Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra/x86_64/xdg-desktop-portal/202502220107</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/xdg-desktop-portal/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libnotify-docs 0.8.4-1 x86_64</title>
+    <updated>2025-02-22T01:07:57Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra/x86_64/libnotify-docs/202502220107</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libnotify-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libnotify 0.8.4-1 x86_64</title>
+    <updated>2025-02-22T01:07:57Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra/x86_64/libnotify/202502220107</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libnotify/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: glib2-docs 2.82.5-1 x86_64</title>
+    <updated>2025-02-22T01:07:33Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/core/x86_64/glib2-docs/202502220107</id>
+    <link href="https://archlinux.org/packages/core/x86_64/glib2-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-glib2 2.82.5-1 x86_64</title>
+    <updated>2025-02-22T01:07:32Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/multilib/x86_64/lib32-glib2/202502220107</id>
+    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-glib2/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: glib2-devel 2.82.5-1 x86_64</title>
+    <updated>2025-02-22T01:07:32Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/core/x86_64/glib2-devel/202502220107</id>
+    <link href="https://archlinux.org/packages/core/x86_64/glib2-devel/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: glib2 2.82.5-1 x86_64</title>
+    <updated>2025-02-22T01:07:31Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/core/x86_64/glib2/202502220107</id>
+    <link href="https://archlinux.org/packages/core/x86_64/glib2/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: virtualbox-host-modules-arch 7.1.6-9 x86_64</title>
+    <updated>2025-02-22T01:04:55Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/virtualbox-host-modules-arch/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/virtualbox-host-modules-arch/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: vhba-module-dkms 20240917-32 x86_64</title>
+    <updated>2025-02-22T01:04:54Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/vhba-module-dkms/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/vhba-module-dkms/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: vhba-module 20240917-32 x86_64</title>
+    <updated>2025-02-22T01:04:54Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/vhba-module/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/vhba-module/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: tp_smapi 0.44-117 x86_64</title>
+    <updated>2025-02-22T01:04:54Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/tp_smapi/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/tp_smapi/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: nvidia-open 570.86.16-9 x86_64</title>
+    <updated>2025-02-22T01:04:53Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/nvidia-open/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/nvidia-open/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: nvidia 570.86.16-7 x86_64</title>
+    <updated>2025-02-22T01:04:53Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/nvidia/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/nvidia/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: netfilter-fullconenat r73.0cf3b48-429 x86_64</title>
+    <updated>2025-02-22T01:04:52Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/netfilter-fullconenat/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/netfilter-fullconenat/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: linux-headers 6.13.4.arch1-1 x86_64</title>
+    <updated>2025-02-22T01:04:50Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/core-testing/x86_64/linux-headers/202502220104</id>
+    <link href="https://archlinux.org/packages/core-testing/x86_64/linux-headers/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: linux-zen-headers 6.13.4.zen1-1 x86_64</title>
+    <updated>2025-02-22T01:04:50Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/linux-zen-headers/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/linux-zen-headers/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: linux-zen-docs 6.13.4.zen1-1 x86_64</title>
+    <updated>2025-02-22T01:04:49Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/linux-zen-docs/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/linux-zen-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: linux-docs 6.13.4.arch1-1 x86_64</title>
+    <updated>2025-02-22T01:04:48Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/core-testing/x86_64/linux-docs/202502220104</id>
+    <link href="https://archlinux.org/packages/core-testing/x86_64/linux-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: linux-zen 6.13.4.zen1-1 x86_64</title>
+    <updated>2025-02-22T01:04:48Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/linux-zen/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/linux-zen/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: deepin-anything-arch 6.1.2-130 x86_64</title>
+    <updated>2025-02-22T01:04:47Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/deepin-anything-arch/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/deepin-anything-arch/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: linux 6.13.4.arch1-1 x86_64</title>
+    <updated>2025-02-22T01:04:47Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/core-testing/x86_64/linux/202502220104</id>
+    <link href="https://archlinux.org/packages/core-testing/x86_64/linux/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: broadcom-wl 6.30.223.271-606 x86_64</title>
+    <updated>2025-02-22T01:04:47Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/broadcom-wl/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/broadcom-wl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: bbswitch-dkms 0.8-732 x86_64</title>
+    <updated>2025-02-22T01:04:46Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/bbswitch-dkms/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/bbswitch-dkms/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: bbswitch 0.8-732 x86_64</title>
+    <updated>2025-02-22T01:04:46Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/bbswitch/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/bbswitch/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: acpi_call 1.2.2-264 x86_64</title>
+    <updated>2025-02-22T01:04:45Z</updated>
+    <id>tag:archlinux.org,2025-02-22:/packages/extra-testing/x86_64/acpi_call/202502220104</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/acpi_call/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: ibus-typing-booster 2.27.28-1 any</title>
@@ -3194,197 +3386,5 @@
     <updated>2025-02-21T23:19:11Z</updated>
     <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-sv-se/202502212319</id>
     <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sv-se/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sr 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:10Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-sr/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sq 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:10Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-sq/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sq/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-son 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:09Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-son/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-son/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sl 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:09Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-sl/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-skr 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:08Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-skr/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-skr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sk 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:08Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-sk/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sk/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-si 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:08Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-si/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-si/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sco 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:07Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-sco/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sco/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sc 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:07Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-sc/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sat 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:06Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-sat/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sat/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-ru 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:06Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-ru/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-ru/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-ro 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:05Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-ro/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-ro/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-rm 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:05Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-rm/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-rm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-pt-pt 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:04Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-pt-pt/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-pt-pt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-pt-br 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:04Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-pt-br/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-pt-br/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-pl 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:03Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-pl/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-pl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-pa-in 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:03Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-pa-in/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-pa-in/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-oc 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:03Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-oc/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-oc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-nn-no 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:02Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-nn-no/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-nn-no/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-nl 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:02Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-nl/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-nl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-ne-np 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:01Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-ne-np/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-ne-np/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-nb-no 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:01Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-nb-no/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-nb-no/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-my 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:00Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-my/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-my/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-ms 136.0b9-1 any</title>
-    <updated>2025-02-21T23:19:00Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-ms/202502212319</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-ms/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-mr 136.0b9-1 any</title>
-    <updated>2025-02-21T23:18:59Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-mr/202502212318</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-mr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-mk 136.0b9-1 any</title>
-    <updated>2025-02-21T23:18:59Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-mk/202502212318</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-mk/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-lv 136.0b9-1 any</title>
-    <updated>2025-02-21T23:18:58Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-lv/202502212318</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-lv/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-lt 136.0b9-1 any</title>
-    <updated>2025-02-21T23:18:58Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-lt/202502212318</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-lt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-lij 136.0b9-1 any</title>
-    <updated>2025-02-21T23:18:58Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-lij/202502212318</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-lij/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-ko 136.0b9-1 any</title>
-    <updated>2025-02-21T23:18:57Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-ko/202502212318</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-ko/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-kn 136.0b9-1 any</title>
-    <updated>2025-02-21T23:18:57Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-kn/202502212318</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-kn/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-km 136.0b9-1 any</title>
-    <updated>2025-02-21T23:18:56Z</updated>
-    <id>tag:archlinux.org,2025-02-21:/packages/extra/any/firefox-developer-edition-i18n-km/202502212318</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-km/" rel="alternate"></link>
   </entry>
 </feed>
