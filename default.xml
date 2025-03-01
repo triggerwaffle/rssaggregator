@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-03-01T01:04:55Z</updated>
+  <updated>2025-03-01T06:17:17Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -142,6 +142,12 @@
     <link href="https://archlinux.org/news/mkinitcpio-hook-migration-and-early-microcode/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Deno + Pglite + Drizzle で依存の少ないDBアプリを作る</title>
+    <updated>2025-02-28T13:23:39Z</updated>
+    <id>https://zenn.dev/mizchi/articles/deno-drizzle-pglite</id>
+    <link href="https://zenn.dev/mizchi/articles/deno-drizzle-pglite" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Roo CodeとClineはどう違うのか</title>
     <updated>2025-02-28T12:16:04Z</updated>
     <id>https://zenn.dev/laiso/articles/b09637e4d744f3</id>
@@ -182,6 +188,12 @@
     <updated>2025-02-27T10:29:49Z</updated>
     <id>https://zenn.dev/fabon/articles/e9d4610722b660</id>
     <link href="https://zenn.dev/fabon/articles/e9d4610722b660" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: tfactionを導入しようと3日試行錯誤して結局導入しなかった話</title>
+    <updated>2025-02-27T08:19:30Z</updated>
+    <id>https://zenn.dev/bm_sms/articles/d09886634c9bab</id>
+    <link href="https://zenn.dev/bm_sms/articles/d09886634c9bab" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Claude Codeを使ってみた</title>
@@ -226,12 +238,6 @@
     <link href="https://zenn.dev/okunokentaro/articles/01jn2d3he61wy2cw5ceexy4nh2" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: LLMの推論では外れ値は重要な役割を果たす</title>
-    <updated>2025-02-26T23:55:01Z</updated>
-    <id>https://zenn.dev/bilzard/articles/llm-int8-matrix-multiplication</id>
-    <link href="https://zenn.dev/bilzard/articles/llm-int8-matrix-multiplication" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: 200行のTypeScriptでmin-clineを実装する</title>
     <updated>2025-02-26T17:12:09Z</updated>
     <id>https://zenn.dev/laiso/articles/ae259902fe7c5c</id>
@@ -242,12 +248,6 @@
     <updated>2025-02-26T09:21:29Z</updated>
     <id>https://zenn.dev/mizchi/articles/all-in-on-cline</id>
     <link href="https://zenn.dev/mizchi/articles/all-in-on-cline" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 業務委託エンジニアとしてDevinを使ってみた2025年2月時点の感覚値</title>
-    <updated>2025-02-26T02:47:53Z</updated>
-    <id>https://zenn.dev/mento_techblog/articles/1f7e9d9c2b1472</id>
-    <link href="https://zenn.dev/mento_techblog/articles/1f7e9d9c2b1472" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: LocalStack 実践入門 | AWS x Terraform 入門ワークショップ</title>
@@ -4510,40 +4510,10 @@
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202403/01?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 音声入力+生成AI試してみた</title>
-    <updated>2025-02-28T08:46:07Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-02-28:/20250228171948</id>
-    <link href="https://anond.hatelabo.jp/20250228171948" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ｢Skype｣は今年5月をもって22年の歴史に幕（追記：正式発表あり） | 気になる、記になる…</title>
-    <updated>2025-02-28T12:28:25Z</updated>
-    <id>tag:taisy0.com,2025-02-28:/2025/02/28/209114.html</id>
-    <link href="https://taisy0.com/2025/02/28/209114.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIエージェント入門</title>
-    <updated>2025-02-28T09:54:43Z</updated>
-    <id>tag:speakerdeck.com,2025-02-28:/minorun365/aiezientoru-men</id>
-    <link href="https://speakerdeck.com/minorun365/aiezientoru-men" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【速報】「Skype」がついに廃止へ ～P2Pメッセンジャーの老舗が20年以上の歴史に幕／数日以内にSkypeアカウントで後継の「Microsoft Teams」へログインできるように</title>
-    <updated>2025-02-28T14:09:59Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-02-28:/docs/news/1666792.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/1666792.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: さよならSkype。5月にサービス終了、後継は無料版Teams</title>
-    <updated>2025-02-28T14:29:23Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-02-28:/docs/news/1666783.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/1666783.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: VS Codeの人気拡張機能にマルウェア、すぐに削除を - 900万回以上DL</title>
-    <updated>2025-02-28T10:52:24Z</updated>
-    <id>tag:news.mynavi.jp,2025-02-28:/techplus/article/20250228-3137463/</id>
-    <link href="https://news.mynavi.jp/techplus/article/20250228-3137463/" rel="alternate"></link>
+    <title>1:hatena_blog_it: AI利用者の約70％がAIに対して礼儀正しく接する</title>
+    <updated>2025-02-28T13:05:20Z</updated>
+    <id>tag:gigazine.net,2025-02-28:/news/20250228-polite-ai-chat/</id>
+    <link href="https://gigazine.net/news/20250228-polite-ai-chat/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Grokの有益な使い方は「Xの投稿」をベースにXXXX年からのPostを調べて、という形でリサーチさせ、時系列でトレンドをまとめて、という言い方をすることで、比較的に正確に調べてくれる</title>
@@ -4552,22 +4522,22 @@
     <link href="https://posfie.com/@taimport/p/9K1WQUI" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub Container registryのレート制限について - knqyf263's blog</title>
-    <updated>2025-02-28T12:56:43Z</updated>
-    <id>tag:knqyf263.hatenablog.com,2025-02-28:/entry/2025/02/28/210820</id>
-    <link href="https://knqyf263.hatenablog.com/entry/2025/02/28/210820" rel="alternate"></link>
+    <title>1:hatena_blog_it: 音声入力+生成AI試してみた</title>
+    <updated>2025-02-28T08:46:07Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-02-28:/20250228171948</id>
+    <link href="https://anond.hatelabo.jp/20250228171948" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「Firefoxの利用規約」が発効されるも「ポルノ視聴が規約違反になるのでは？」「Mozillaに過剰な権限を与えるのでは？」といった不安の声が寄せられる</title>
-    <updated>2025-02-28T12:29:11Z</updated>
-    <id>tag:gigazine.net,2025-02-28:/news/20250228-firefox-terms/</id>
-    <link href="https://gigazine.net/news/20250228-firefox-terms/" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIエージェント入門</title>
+    <updated>2025-02-28T09:54:43Z</updated>
+    <id>tag:speakerdeck.com,2025-02-28:/minorun365/aiezientoru-men</id>
+    <link href="https://speakerdeck.com/minorun365/aiezientoru-men" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AI利用者の約70％がAIに対して礼儀正しく接する</title>
-    <updated>2025-02-28T13:05:20Z</updated>
-    <id>tag:gigazine.net,2025-02-28:/news/20250228-polite-ai-chat/</id>
-    <link href="https://gigazine.net/news/20250228-polite-ai-chat/" rel="alternate"></link>
+    <title>1:hatena_blog_it: ｢Skype｣は今年5月をもって22年の歴史に幕（追記：正式発表あり） | 気になる、記になる…</title>
+    <updated>2025-02-28T12:28:25Z</updated>
+    <id>tag:taisy0.com,2025-02-28:/2025/02/28/209114.html</id>
+    <link href="https://taisy0.com/2025/02/28/209114.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: プロンプトアイデア #7　～まだ見ぬ領域へ。5つの革新的プロンプトテクニック～｜hirokaji</title>
@@ -4576,64 +4546,46 @@
     <link href="https://note.com/tasty_dunlin998/n/n51367b0cbc54" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 現実世界にさようなら。「VRChat」を今さら始めたら，あっという間に美少女に堕ち，100万円近く飛んでいった</title>
-    <updated>2025-02-27T23:19:41Z</updated>
-    <id>tag:www.4gamer.net,2025-02-27:/games/794/G079439/20250227068/</id>
-    <link href="https://www.4gamer.net/games/794/G079439/20250227068/" rel="alternate"></link>
+    <title>1:hatena_blog_it: コードレビューはつまらないから丁寧なプルリクエストでチームの生産性向上を目指す</title>
+    <updated>2022-09-15T01:15:06Z</updated>
+    <id>tag:blog.tai2.net,2022-09-15:/how-to-code-review.html</id>
+    <link href="https://blog.tai2.net/how-to-code-review.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 二重人格をコントロールできたら</title>
-    <updated>2025-02-28T09:20:34Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-02-28:/20250228171018</id>
-    <link href="https://anond.hatelabo.jp/20250228171018" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【速報】「Skype」がついに廃止へ ～P2Pメッセンジャーの老舗が20年以上の歴史に幕／数日以内にSkypeアカウントで後継の「Microsoft Teams」へログインできるように</title>
+    <updated>2025-02-28T14:09:59Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-02-28:/docs/news/1666792.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/1666792.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ネット通話サービス スカイプ 5月終了へ 米マイクロソフト発表 | NHK</title>
-    <updated>2025-02-28T15:47:29Z</updated>
-    <id>tag:www3.nhk.or.jp,2025-02-28:/news/html/20250301/k10014736901000.html</id>
-    <link href="https://www3.nhk.or.jp/news/html/20250301/k10014736901000.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: ファンから渇望されていた『あずまんが大王』電子版がKindleにあるのだが様子がおかしい、もしかしたら海賊版の可能性もあり困惑</title>
+    <updated>2025-02-28T21:38:32Z</updated>
+    <id>tag:togetter.com,2025-02-28:/li/2518582</id>
+    <link href="https://togetter.com/li/2518582" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「iPhone 16e」実機レビュー　カメラや処理性能、独自モデム「Apple C1」による通信品質はどうか</title>
-    <updated>2025-02-27T02:41:31Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-02-27:/mobile/articles/2502/27/news117.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2502/27/news117.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: VS Codeの人気拡張機能にマルウェア、すぐに削除を - 900万回以上DL</title>
+    <updated>2025-02-28T10:52:24Z</updated>
+    <id>tag:news.mynavi.jp,2025-02-28:/techplus/article/20250228-3137463/</id>
+    <link href="https://news.mynavi.jp/techplus/article/20250228-3137463/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「スカイプ」（Skype）が5月に完全終了へ、マイクロソフトが正式発表。2003年にリリースされ無料でインターネット通話できるサービスとしてビジネスやゲームなどで一時代を築いたツール。マイクロソフトは「Teams」に移行促進</title>
-    <updated>2025-02-28T14:26:16Z</updated>
-    <id>tag:news.denfaminicogamer.jp,2025-02-28:/news/2502282w</id>
-    <link href="https://news.denfaminicogamer.jp/news/2502282w" rel="alternate"></link>
+    <title>1:hatena_blog_it: さよならSkype。5月にサービス終了、後継は無料版Teams</title>
+    <updated>2025-02-28T14:29:23Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-02-28:/docs/news/1666783.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/1666783.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: macOS Tips & Tricks - saurabhs.org</title>
-    <updated>2025-02-28T04:13:53Z</updated>
-    <id>tag:saurabhs.org,2025-02-28:/macos-tips</id>
-    <link href="https://saurabhs.org/macos-tips" rel="alternate"></link>
+    <title>1:hatena_blog_it: 逆に、スマホ歩き教習所を作って免許制にするべき</title>
+    <updated>2025-02-28T11:40:57Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-02-28:/20250228203938</id>
+    <link href="https://anond.hatelabo.jp/20250228203938" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIとメールしてビジネスメール筋を鍛える - 詩と創作・思索のひろば</title>
-    <updated>2025-02-28T14:09:06Z</updated>
-    <id>tag:motemen.hatenablog.com,2025-02-28:/entry/2025/02/ai-mail-pal</id>
-    <link href="https://motemen.hatenablog.com/entry/2025/02/ai-mail-pal" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: n8nで構築したAIエージェントで不具合対応が爆速になる話 - LayerX エンジニアブログ</title>
-    <updated>2025-02-27T03:59:52Z</updated>
-    <id>tag:tech.layerx.co.jp,2025-02-27:/entry/2025/02/27/105521</id>
-    <link href="https://tech.layerx.co.jp/entry/2025/02/27/105521" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: The next chapter: Moving from Skype to Microsoft Teams   | Microsoft 365 Blog</title>
-    <updated>2025-02-28T15:51:39Z</updated>
-    <id>tag:www.microsoft.com,2025-02-28:/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/</id>
-    <link href="https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: クリーンアーキテクチャはなぜフロントエンドに合わないのか - パンダのプログラミングブログ</title>
-    <updated>2025-02-28T03:37:39Z</updated>
-    <id>tag:panda-program.com,2025-02-28:/posts/clean-architecture-and-frontend</id>
-    <link href="https://panda-program.com/posts/clean-architecture-and-frontend" rel="alternate"></link>
+    <title>1:hatena_blog_it: GitHub Container registryのレート制限について - knqyf263's blog</title>
+    <updated>2025-02-28T12:56:43Z</updated>
+    <id>tag:knqyf263.hatenablog.com,2025-02-28:/entry/2025/02/28/210820</id>
+    <link href="https://knqyf263.hatenablog.com/entry/2025/02/28/210820" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: いまどきの作家は、どんなコンピュータとソフトウェアで小説を書いているのか？</title>
@@ -4642,45 +4594,81 @@
     <link href="https://ascii.jp/elem/000/004/253/4253203/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: マイクロソフト、５月５日に「スカイプ」終了…競争激化で利用者３億人から３６００万人に減少</title>
-    <updated>2025-02-28T15:56:13Z</updated>
-    <id>tag:www.yomiuri.co.jp,2025-02-28:/economy/20250301-OYT1T50005/</id>
-    <link href="https://www.yomiuri.co.jp/economy/20250301-OYT1T50005/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「あっという間に美少女に堕ち、100万円近く飛んでった」4GamersにVRchat怪文書が掲載、3500万ほどのローンで家を立て直した猛者も現る</title>
+    <updated>2025-02-28T15:41:58Z</updated>
+    <id>tag:togetter.com,2025-02-28:/li/2518482</id>
+    <link href="https://togetter.com/li/2518482" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【Mac Info】 Mac標準「メモ」にはない多彩な機能を搭載！人気急上昇中の「UpNote」が超優秀で便利すぎる</title>
-    <updated>2025-02-28T06:45:40Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-02-28:/docs/column/macinfo/1666517.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/macinfo/1666517.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 仮想空間で撮っても“写真”なんだ。富士フイルムが注目する｢バーチャル・フォトグラフィ｣を観た</title>
+    <updated>2025-03-01T00:28:29Z</updated>
+    <id>tag:www.gizmodo.jp,2025-03-01:/2025/02/cp-plus-2025-fujifilm-virtual-photos.html</id>
+    <link href="https://www.gizmodo.jp/2025/02/cp-plus-2025-fujifilm-virtual-photos.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 老いる下水道、まち脅かす　愛知・岡崎はAIで劣化予測 - 日本経済新聞</title>
-    <updated>2025-02-28T03:46:53Z</updated>
-    <id>tag:www.nikkei.com,2025-02-28:/article/DGXZQOCC18C420Y5A210C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOCC18C420Y5A210C2000000/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「Firefoxの利用規約」が発効されるも「ポルノ視聴が規約違反になるのでは？」「Mozillaに過剰な権限を与えるのでは？」といった不安の声が寄せられる</title>
+    <updated>2025-02-28T12:29:11Z</updated>
+    <id>tag:gigazine.net,2025-02-28:/news/20250228-firefox-terms/</id>
+    <link href="https://gigazine.net/news/20250228-firefox-terms/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 中高生による大量の楽天モバイル回線不正転売事案についてまとめてみた - piyolog</title>
-    <updated>2025-02-27T20:50:42Z</updated>
-    <id>tag:piyolog.hatenadiary.jp,2025-02-27:/entry/2025/02/28/050112</id>
-    <link href="https://piyolog.hatenadiary.jp/entry/2025/02/28/050112" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【パワポ対応版】資料作成はAIにまかせよう！AWSでBedrockエージェント入門ハンズオン - Qiita</title>
+    <updated>2024-08-27T14:01:11Z</updated>
+    <id>tag:qiita.com,2024-08-27:/minorun365/items/85cb57f19fe16a87acff</id>
+    <link href="https://qiita.com/minorun365/items/85cb57f19fe16a87acff" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: レイトレ性能が2倍になった「Radeon RX 9070」正式発表！</title>
-    <updated>2025-02-28T13:08:11Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-02-28:/docs/news/1666581.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/1666581.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Announcing TypeScript 5.8 - TypeScript</title>
+    <updated>2025-02-28T19:49:43Z</updated>
+    <id>tag:devblogs.microsoft.com,2025-02-28:/typescript/announcing-typescript-5-8/</id>
+    <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-8/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: マスク氏のＤＯＧＥに初の開示命令、権限や構造「曖昧」と米連邦地裁</title>
-    <updated>2025-02-28T09:46:49Z</updated>
-    <id>tag:www.bloomberg.co.jp,2025-02-28:/news/articles/2025-02-28/SSD2Q8T0AFB400</id>
-    <link href="https://www.bloomberg.co.jp/news/articles/2025-02-28/SSD2Q8T0AFB400" rel="alternate"></link>
+    <title>1:hatena_blog_it: VSCodeで約900万回ダウンロードされていた拡張機能に悪意のあるコードが含まれていた|セキュリティニュース</title>
+    <updated>2025-02-28T13:52:28Z</updated>
+    <id>tag:rocket-boys.co.jp,2025-02-28:/security-measures-lab/have-i-been-pwned-alien-txtbase-284m-credentials-2/</id>
+    <link href="https://rocket-boys.co.jp/security-measures-lab/have-i-been-pwned-alien-txtbase-284m-credentials-2/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Skype、今年5月で終了　今後は「Microsoft Teams」に統一</title>
-    <updated>2025-02-28T14:46:07Z</updated>
-    <id>tag:ascii.jp,2025-02-28:/elem/000/004/254/4254368/</id>
-    <link href="https://ascii.jp/elem/000/004/254/4254368/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Amazonが新しい量子チップ「Ocelot」を発表、従来よりはるかに低いコストで商用量子コンピューターの実現を目指す</title>
+    <updated>2025-02-28T07:49:13Z</updated>
+    <id>tag:gigazine.net,2025-02-28:/news/20250228-amazon-ocelot-chip/</id>
+    <link href="https://gigazine.net/news/20250228-amazon-ocelot-chip/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「iPhone 16e」実機レビュー　カメラや処理性能、独自モデム「Apple C1」による通信品質はどうか</title>
+    <updated>2025-02-27T02:41:31Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-02-27:/mobile/articles/2502/27/news117.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2502/27/news117.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「Skype」、22年の歴史に幕　Microsoftは「Teams」への移行を推奨</title>
+    <updated>2025-02-28T23:07:25Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-02-28:/news/articles/2503/01/news086.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2503/01/news086.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub - mizchi/ailab</title>
+    <updated>2025-02-24T16:08:18Z</updated>
+    <id>tag:github.com,2025-02-24:/mizchi/ailab</id>
+    <link href="https://github.com/mizchi/ailab" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ネット通話サービス スカイプ 5月終了へ 米マイクロソフト発表 | NHK</title>
+    <updated>2025-02-28T15:47:29Z</updated>
+    <id>tag:www3.nhk.or.jp,2025-02-28:/news/html/20250301/k10014736901000.html</id>
+    <link href="https://www3.nhk.or.jp/news/html/20250301/k10014736901000.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIとメールしてビジネスメール筋を鍛える - 詩と創作・思索のひろば</title>
+    <updated>2025-02-28T14:09:06Z</updated>
+    <id>tag:motemen.hatenablog.com,2025-02-28:/entry/2025/02/ai-mail-pal</id>
+    <link href="https://motemen.hatenablog.com/entry/2025/02/ai-mail-pal" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: The next chapter: Moving from Skype to Microsoft Teams   | Microsoft 365 Blog</title>
+    <updated>2025-02-28T15:51:39Z</updated>
+    <id>tag:www.microsoft.com,2025-02-28:/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/</id>
+    <link href="https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/" rel="alternate"></link>
   </entry>
 </feed>
