@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-03-04T12:24:45Z</updated>
+  <updated>2025-03-04T18:17:52Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -418,6 +418,12 @@
     <link href="https://qiita.com/yuyanz/items/9bef35ae40a5aec1b177?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: No, I'm Not Shocked Firefox Keeps Screwing Up!</title>
+    <updated>2025-03-04T14:00:36Z</updated>
+    <id>yt:video:R3sjGzIM740</id>
+    <link href="https://www.youtube.com/watch?v=R3sjGzIM740" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: Free Software Is About Freedom...Not Cost!</title>
     <updated>2025-03-02T14:00:21Z</updated>
     <id>yt:video:PrShvhw1dNw</id>
@@ -500,12 +506,6 @@
     <updated>2025-01-25T14:00:00Z</updated>
     <id>yt:video:-bh1JEsssxU</id>
     <link href="https://www.youtube.com/watch?v=-bh1JEsssxU" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: What Normies Think Of Tech</title>
-    <updated>2025-01-22T14:00:11Z</updated>
-    <id>yt:video:Byt613DZ64k</id>
-    <link href="https://www.youtube.com/watch?v=Byt613DZ64k" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: 日本企業の約8割が「VPN利用を継続」。一方、ゼロトラスト導入済み企業は2割を超える　NRIセキュア</title>
@@ -958,6 +958,18 @@
     <link href="https://www.youtube.com/watch?v=vbyDVUl43a8" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: Bunのバンドル処理がMacで60％高速化。Webサーバ機能ではホットリロードによりコード変更が自動的に反映</title>
+    <updated>2025-03-04T15:27:20Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8135</id>
+    <link href="https://www.publickey1.jp/blog/25/bunmac60web.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: 国内パブリッククラウド市場規模、5年後には昨年比2倍以上の8兆円超に。IDC Japan</title>
+    <updated>2025-03-04T15:26:03Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8134</id>
+    <link href="https://www.publickey1.jp/blog/25/528idc_japan.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: クラウドネイティブは、果たして通信事業者の運用を楽にし、コストを下げているのか？ NTTドコモやKDDI、ソフトバンク、楽天モバイル、LINEヤフーなど各社が議論［PR］</title>
     <updated>2025-03-03T17:41:06Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8132</id>
@@ -1034,18 +1046,6 @@
     <updated>2025-02-17T15:43:20Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8121</id>
     <link href="https://www.publickey1.jp/blog/25/fluid_computevercel.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Dockerfileの最適化やエラーの原因などの質問に答える「Docker AI Agent」ベータ公開、Docker Desktopで利用可能に</title>
-    <updated>2025-02-17T15:41:13Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8120</id>
-    <link href="https://www.publickey1.jp/blog/25/dockerfiledocker_ai_agentdocker_desktop.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: 「国産クラウドだから」だけじゃない、さくらのクラウドを選ぶ理由とは？ 安価で明快な料金、自社開発のクラウド基盤とデータ主権、そして将来性も［PR］</title>
-    <updated>2025-02-17T02:20:05Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8115</id>
-    <link href="https://www.publickey1.jp/blog/25/_pr_3.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: 第240回　MySQL内のデータ調査や修正作業時に使える関数</title>
@@ -4294,12 +4294,6 @@
     <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0806?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: 第3回　AWSの生成AIであるBedrockとEC2を連携して、文章生成に挑戦！</title>
-    <updated>2024-03-27T00:00:00Z</updated>
-    <id>urn:uuid:0ec576f3-6349-19c1-5de1-5c0ba41f0ba0</id>
-    <link href="https://gihyo.jp/article/2024/03/card-game-development-03?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: 東京証券取引所に上場したソラコム、発表会で生成AIを活用したデータ分析機能を披露</title>
     <updated>2024-03-26T07:51:00Z</updated>
     <id>urn:uuid:f4063a18-3a1e-c516-5da8-b86ff9545db0</id>
@@ -4480,10 +4474,10 @@
     <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0803?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「AIはゴルフできないし焼酎薄めとか濃いめで作れないでしょ！」専門商社の人が「AIに負ける要素一つとしてなし」と断言していた根拠が力強かった</title>
-    <updated>2025-03-03T20:46:20Z</updated>
-    <id>tag:togetter.com,2025-03-03:/li/2519964</id>
-    <link href="https://togetter.com/li/2519964" rel="alternate"></link>
+    <title>1:hatena_blog_it: 透き通って仕組みが見えるミシン。小学5年生から簡単に - 家電 Watch</title>
+    <updated>2025-03-04T08:30:19Z</updated>
+    <id>tag:kaden.watch.impress.co.jp,2025-03-04:/docs/news/1667308.html</id>
+    <link href="https://kaden.watch.impress.co.jp/docs/news/1667308.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Cursor Agentベストプラクティス｜suthio</title>
@@ -4492,22 +4486,10 @@
     <link href="https://note.com/suthio/n/n6a7663311d50" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: トランプ政権「ロシアによるサイバー攻撃を容認」　衝撃の180度方針転換 | 「プーチンはもう米国内部に入り込んでいる」</title>
-    <updated>2025-03-03T23:09:56Z</updated>
-    <id>tag:courrier.jp,2025-03-03:/news/archives/393428/</id>
-    <link href="https://courrier.jp/news/archives/393428/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「ぷらら」の個人向けホームページが3月末に終了　古参ネットユーザー「歴史が消えていく」</title>
-    <updated>2025-03-04T03:22:11Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-03-04:/news/articles/2503/04/news125.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2503/04/news125.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: “選定してすぐにダメになった”を防ぐには？特定の言語にフルベットしない、一休の技術戦略 | レバテックラボ（レバテックLAB）</title>
-    <updated>2025-03-04T01:03:25Z</updated>
-    <id>tag:levtech.jp,2025-03-04:/media/article/interview/detail_626/</id>
-    <link href="https://levtech.jp/media/article/interview/detail_626/" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIコーディング時代の開発環境構築：VS Code × Cline（Roo Code）で爆速開発！</title>
+    <updated>2025-03-04T04:56:44Z</updated>
+    <id>tag:zenn.dev,2025-03-04:/mkj/articles/cf8536923d9cd7</id>
+    <link href="https://zenn.dev/mkj/articles/cf8536923d9cd7" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: セキュリティ対策は後退している　中小企業はもうあきらめの境地なのか</title>
@@ -4516,34 +4498,10 @@
     <link href="https://ascii.jp/elem/000/004/254/4254869/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 透き通って仕組みが見えるミシン。小学5年生から簡単に - 家電 Watch</title>
-    <updated>2025-03-04T08:30:19Z</updated>
-    <id>tag:kaden.watch.impress.co.jp,2025-03-04:/docs/news/1667308.html</id>
-    <link href="https://kaden.watch.impress.co.jp/docs/news/1667308.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 運転免許証120年の歴史とマイナ免許証が誕生するまで</title>
-    <updated>2025-03-04T01:15:12Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-03-04:/docs/topic/1661908.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/topic/1661908.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「世界サーバ投げ選手権」今年もドイツで開催　「インフラ業界で最もオタク的でエキサイティング」</title>
-    <updated>2025-03-04T09:46:43Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-03-04:/news/articles/2503/04/news167.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2503/04/news167.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ダイソー、スマホアプリで商品の店舗在庫を直接探せる機能追加</title>
-    <updated>2025-03-04T03:20:37Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-03-04:/news/articles/2503/04/news111.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2503/04/news111.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIコーディング時代の開発環境構築：VS Code × Cline（Roo Code）で爆速開発！</title>
-    <updated>2025-03-04T04:56:44Z</updated>
-    <id>tag:zenn.dev,2025-03-04:/mkj/articles/cf8536923d9cd7</id>
-    <link href="https://zenn.dev/mkj/articles/cf8536923d9cd7" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「ぷらら」の個人向けホームページが3月末に終了　古参ネットユーザー「歴史が消えていく」</title>
+    <updated>2025-03-04T03:22:11Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-03-04:/news/articles/2503/04/news125.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2503/04/news125.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 日本の技術者はSakana AIのことを、よく見たほうがいい。【生成AIストリーム】</title>
@@ -4552,34 +4510,34 @@
     <link href="https://forest.watch.impress.co.jp/docs/serial/aistream/1667515.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ChatGPTを使って、100日間ひたすら修行に専念してみる。今85日目。</title>
-    <updated>2025-03-03T23:18:44Z</updated>
-    <id>tag:blog.tinect.jp,2025-03-03:/</id>
-    <link href="https://blog.tinect.jp/?p=89086" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「世界サーバ投げ選手権」今年もドイツで開催　「インフラ業界で最もオタク的でエキサイティング」</title>
+    <updated>2025-03-04T09:46:43Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-03-04:/news/articles/2503/04/news167.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2503/04/news167.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: こども家庭庁の“虐待判定AI”　検証報告に書かれた見送りの背景　「判定の6割に疑義」「重大な見落とし」</title>
-    <updated>2025-03-03T23:58:48Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-03-03:/aiplus/articles/2503/03/news183.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2503/03/news183.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「AIはゴルフできないし焼酎薄めとか濃いめで作れないでしょ！」専門商社の人が「AIに負ける要素一つとしてなし」と断言していた根拠が力強かった</title>
+    <updated>2025-03-03T20:46:20Z</updated>
+    <id>tag:togetter.com,2025-03-03:/li/2519964</id>
+    <link href="https://togetter.com/li/2519964" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AWSにおける送信者制約付きトークン実現の一検討 - カミナシ エンジニアブログ</title>
-    <updated>2025-03-03T23:42:43Z</updated>
-    <id>tag:kaminashi-developer.hatenablog.jp,2025-03-03:/entry/2025/03/04/aws-sender-constrained-token</id>
-    <link href="https://kaminashi-developer.hatenablog.jp/entry/2025/03/04/aws-sender-constrained-token" rel="alternate"></link>
+    <title>1:hatena_blog_it: ここがつらいよ分散型SQLデータベース.pptx</title>
+    <updated>2025-03-04T12:19:56Z</updated>
+    <id>tag:static.pingcap.co.jp,2025-03-04:/files/2025/03/03155117/JAWS-DAYS-2025-PingCAP-1.pdf</id>
+    <link href="https://static.pingcap.co.jp/files/2025/03/03155117/JAWS-DAYS-2025-PingCAP-1.pdf" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OpenAI最高研究責任者が「（GPT-4.5では）ASCIIアートを作る能力なんかもすごく向上しました」というから初音ミクのアスキーアートを頼んでみました</title>
-    <updated>2025-03-03T21:43:02Z</updated>
-    <id>tag:togetter.com,2025-03-03:/li/2520076</id>
-    <link href="https://togetter.com/li/2520076" rel="alternate"></link>
+    <title>1:hatena_blog_it: トランプ政権「ロシアによるサイバー攻撃を容認」　衝撃の180度方針転換 | 「プーチンはもう米国内部に入り込んでいる」</title>
+    <updated>2025-03-03T23:09:56Z</updated>
+    <id>tag:courrier.jp,2025-03-03:/news/archives/393428/</id>
+    <link href="https://courrier.jp/news/archives/393428/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「とりあえずモブプロ」をやめて起きた変化と課題 - SmartHR Tech Blog</title>
-    <updated>2025-03-03T11:04:51Z</updated>
-    <id>tag:tech.smarthr.jp,2025-03-03:/entry/2025/03/03/184553</id>
-    <link href="https://tech.smarthr.jp/entry/2025/03/03/184553" rel="alternate"></link>
+    <title>1:hatena_blog_it: “選定してすぐにダメになった”を防ぐには？特定の言語にフルベットしない、一休の技術戦略 | レバテックラボ（レバテックLAB）</title>
+    <updated>2025-03-04T01:03:25Z</updated>
+    <id>tag:levtech.jp,2025-03-04:/media/article/interview/detail_626/</id>
+    <link href="https://levtech.jp/media/article/interview/detail_626/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AIエージェント時代の可能性と実践 #AIエージェント_findy</title>
@@ -4588,28 +4546,70 @@
     <link href="https://speakerdeck.com/layerx/ai-agents-practice-202503" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: ドメインを変えたらサービスが繋がらなくなったと言われた件</title>
+    <updated>2025-03-04T09:37:12Z</updated>
+    <id>tag:zenn.dev,2025-03-04:/chot/articles/b9b74f8fdf0145</id>
+    <link href="https://zenn.dev/chot/articles/b9b74f8fdf0145" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AtCoder で水色になった - Obsidian Publish</title>
+    <updated>2025-03-04T11:49:06Z</updated>
+    <id>tag:publish.obsidian.md,2025-03-04:/naoya/articles/AtCoder+で水色になった</id>
+    <link href="https://publish.obsidian.md/naoya/articles/AtCoder+%E3%81%A7%E6%B0%B4%E8%89%B2%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ダイソー、スマホアプリで商品の店舗在庫を直接探せる機能追加</title>
+    <updated>2025-03-04T03:20:37Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-03-04:/news/articles/2503/04/news111.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2503/04/news111.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ChatGPTを使って、100日間ひたすら修行に専念してみる。今85日目。</title>
+    <updated>2025-03-03T23:18:44Z</updated>
+    <id>tag:blog.tinect.jp,2025-03-03:/</id>
+    <link href="https://blog.tinect.jp/?p=89086" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 運転免許証120年の歴史とマイナ免許証が誕生するまで</title>
+    <updated>2025-03-04T01:15:12Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-03-04:/docs/topic/1661908.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/topic/1661908.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: フレッツ光クロスでRTX1300を使うとIPv4のみ速度が出ない現象と緩和策｜TechRacho by BPS株式会社</title>
+    <updated>2025-01-28T08:41:56Z</updated>
+    <id>tag:techracho.bpsinc.jp,2025-01-28:/baba/2025_01_28/148031</id>
+    <link href="https://techracho.bpsinc.jp/baba/2025_01_28/148031" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: Amazon Bedrock の新機能マルチエージェントで「わが家の AI 技術顧問」を作ろう ! - builders.flash☆ - 変化を求めるデベロッパーを応援するウェブマガジン | AWS</title>
     <updated>2025-03-03T00:39:49Z</updated>
     <id>tag:aws.amazon.com,2025-03-03:/jp/builders-flash/202503/create-ai-advisor-with-bedrock/</id>
     <link href="https://aws.amazon.com/jp/builders-flash/202503/create-ai-advisor-with-bedrock/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: IAMのマニアックな話2025</title>
-    <updated>2025-03-03T15:54:07Z</updated>
-    <id>tag:speakerdeck.com,2025-03-03:/nrinetcom/iamnomaniatukunahua-2025</id>
-    <link href="https://speakerdeck.com/nrinetcom/iamnomaniatukunahua-2025" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【Hothotレビュー】 10万円ちょいの「GeForce RTX 5070」をテスト。4070 SUPERに加え3070とも比べてみた</title>
+    <updated>2025-03-04T14:13:26Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-03-04:/docs/column/hothot/1667549.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/hothot/1667549.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ちゆ12歳『そういえば、ぷららのホームページも今月いっぱいでサービス終了ですけど、侍魂も消えてしまうのです…？』</title>
-    <updated>2025-03-04T00:52:34Z</updated>
-    <id>tag:togetter.com,2025-03-04:/li/2520088</id>
-    <link href="https://togetter.com/li/2520088" rel="alternate"></link>
+    <title>1:hatena_blog_it: 価値創造を加速させるための革新！ リリースフローをGitHubに完結＆仕組み化して劇的な効率化へ！ - LIFULL Creators Blog</title>
+    <updated>2025-03-04T12:13:10Z</updated>
+    <id>tag:www.lifull.blog,2025-03-04:/entry/2025/03/04/210000</id>
+    <link href="https://www.lifull.blog/entry/2025/03/04/210000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: RubyのGVLを消し去りたいあなたへ（翻訳）｜TechRacho by BPS株式会社</title>
-    <updated>2025-03-03T08:34:36Z</updated>
-    <id>tag:techracho.bpsinc.jp,2025-03-03:/hachi8833/2025_03_03/148712</id>
-    <link href="https://techracho.bpsinc.jp/hachi8833/2025_03_03/148712" rel="alternate"></link>
+    <title>1:hatena_blog_it: OpenAI最高研究責任者が「（GPT-4.5では）ASCIIアートを作る能力なんかもすごく向上しました」というから初音ミクのアスキーアートを頼んでみました</title>
+    <updated>2025-03-03T21:43:02Z</updated>
+    <id>tag:togetter.com,2025-03-03:/li/2520076</id>
+    <link href="https://togetter.com/li/2520076" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: SwiftUI List との闘い - stmn tech blog</title>
+    <updated>2025-03-04T06:47:51Z</updated>
+    <id>tag:tech.stmn.co.jp,2025-03-04:/entry/2025/03/04/153052</id>
+    <link href="https://tech.stmn.co.jp/entry/2025/03/04/153052" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Geminiと他社のDeep Researchは何が違う？ 5社の“検索AI”を徹底比較</title>
@@ -4618,27 +4618,27 @@
     <link href="https://www.sbbit.jp/article/cont1/158060" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: スタートアップにおけるサクセッションプランニング~育成、採用、権限委譲~ - enechain Tech Blog</title>
-    <updated>2025-03-04T02:30:56Z</updated>
-    <id>tag:techblog.enechain.com,2025-03-04:/entry/succession-planning</id>
-    <link href="https://techblog.enechain.com/entry/succession-planning" rel="alternate"></link>
+    <title>1:hatena_blog_it: セキュリティーインコの実体に迫る、piyokango氏に学ぶ情報収集法</title>
+    <updated>2025-03-04T03:30:44Z</updated>
+    <id>tag:xtech.nikkei.com,2025-03-04:/atcl/nxt/column/18/00138/022601711/</id>
+    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00138/022601711/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: C++創始者Stroustrup氏、メモリ安全性向上へ緊急行動を呼びかけ - イノベトピア</title>
-    <updated>2025-03-02T22:30:32Z</updated>
-    <id>tag:innovatopia.jp,2025-03-02:/cyber-security/cyber-security-news/48575/</id>
-    <link href="https://innovatopia.jp/cyber-security/cyber-security-news/48575/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Raspberry Pi Zero 2 W搭載の文章作成用ハンドヘルドPC「Micro Journal Rev.2 ReVamp」｜fabcross</title>
+    <updated>2025-03-04T07:11:50Z</updated>
+    <id>tag:fabcross.jp,2025-03-04:/news/2025/20250304_microjournal_rev2.html</id>
+    <link href="https://fabcross.jp/news/2025/20250304_microjournal_rev2.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Stability AIがArmと提携してスマホ上で音楽生成AIを直接動かす技術を開発</title>
-    <updated>2025-03-04T02:58:34Z</updated>
-    <id>tag:gigazine.net,2025-03-04:/news/20250304-stability-ai-arm-stable-audio-open/</id>
-    <link href="https://gigazine.net/news/20250304-stability-ai-arm-stable-audio-open/" rel="alternate"></link>
+    <title>1:hatena_blog_it: いい悪いとかではなく、プログラマ同士の会話は一般的な会話と比べて会話の構成や順序が違う感じがする話</title>
+    <updated>2025-03-04T02:59:59Z</updated>
+    <id>tag:posfie.com,2025-03-04:/@blackstaragent/p/ba6HhNQ</id>
+    <link href="https://posfie.com/@blackstaragent/p/ba6HhNQ" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: はてな、スキル習得を支援する「はてなリスキリングプログラム」を開始 - プレスリリース - 株式会社はてな</title>
-    <updated>2025-03-03T09:22:02Z</updated>
-    <id>tag:hatena.co.jp,2025-03-03:/press/release/entry/2025/03/03/180000</id>
-    <link href="https://hatena.co.jp/press/release/entry/2025/03/03/180000" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「とりあえずモブプロ」をやめて起きた変化と課題 - SmartHR Tech Blog</title>
+    <updated>2025-03-03T11:04:51Z</updated>
+    <id>tag:tech.smarthr.jp,2025-03-03:/entry/2025/03/03/184553</id>
+    <link href="https://tech.smarthr.jp/entry/2025/03/03/184553" rel="alternate"></link>
   </entry>
 </feed>
