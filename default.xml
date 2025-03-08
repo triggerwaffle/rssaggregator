@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-03-08T12:18:06Z</updated>
+  <updated>2025-03-08T18:13:44Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -118,10 +118,34 @@
     <link href="https://archlinux.org/news/mkinitcpio-hook-migration-and-early-microcode/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: CursorのProject Rules運用のベストプラクティスを探る</title>
+    <updated>2025-03-08T03:58:36Z</updated>
+    <id>https://zenn.dev/ks0318/articles/b8eb2c9396f9cb</id>
+    <link href="https://zenn.dev/ks0318/articles/b8eb2c9396f9cb" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: MCPで広がるLLM　~Clineでの動作原理~</title>
+    <updated>2025-03-07T23:30:09Z</updated>
+    <id>https://zenn.dev/codeciao/articles/cline-mcp-server-overview</id>
+    <link href="https://zenn.dev/codeciao/articles/cline-mcp-server-overview" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: データベースの楽観ロックと悲観ロックを理解する</title>
+    <updated>2025-03-07T22:15:16Z</updated>
+    <id>https://zenn.dev/farstep/articles/optimistic-and-pessimistic-locking-in-database</id>
+    <link href="https://zenn.dev/farstep/articles/optimistic-and-pessimistic-locking-in-database" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Python組み込み関数 100本ノック</title>
     <updated>2025-03-07T22:12:08Z</updated>
     <id>https://zenn.dev/python_academia/books/94b58e7ef9fe42</id>
     <link href="https://zenn.dev/python_academia/books/94b58e7ef9fe42" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Mistral AIのOCR機能使ってみた</title>
+    <updated>2025-03-07T13:55:17Z</updated>
+    <id>https://zenn.dev/egghead/articles/5e103707dcabe1</id>
+    <link href="https://zenn.dev/egghead/articles/5e103707dcabe1" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: React Router v7 SPA Mode でクライアントミドルウェアを使ってみた</title>
@@ -178,6 +202,12 @@
     <link href="https://zenn.dev/cercil/articles/e11a7488891f59" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Cline の Plan Mode を使って手戻りを防ごう！</title>
+    <updated>2025-03-06T11:07:19Z</updated>
+    <id>https://zenn.dev/heavenosk/articles/cline-plan-mode</id>
+    <link href="https://zenn.dev/heavenosk/articles/cline-plan-mode" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: 次世代クロスプラットフォームフレームワーク「Lynx」 ファーストインプレッション</title>
     <updated>2025-03-06T10:25:58Z</updated>
     <id>https://zenn.dev/tellernovel_inc/articles/3c2bece10afb3f</id>
@@ -188,12 +218,6 @@
     <updated>2025-03-06T10:00:23Z</updated>
     <id>https://zenn.dev/manalink_dev/articles/sentry-team-integration</id>
     <link href="https://zenn.dev/manalink_dev/articles/sentry-team-integration" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: SOC2 Type2取得のためのAWS設計・運用</title>
-    <updated>2025-03-06T07:59:31Z</updated>
-    <id>https://zenn.dev/smartround_dev/articles/9f615d147aa10f</id>
-    <link href="https://zenn.dev/smartround_dev/articles/9f615d147aa10f" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Dockerイメージの安全性を高める10のセキュリティハック</title>
@@ -208,34 +232,10 @@
     <link href="https://zenn.dev/ncdc/articles/7807f5b6e3ee88" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 【MySQL】手を動かして学ぶトランザクション入門</title>
-    <updated>2025-03-05T07:10:16Z</updated>
-    <id>https://zenn.dev/praha/articles/a3e246880108a1</id>
-    <link href="https://zenn.dev/praha/articles/a3e246880108a1" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: OpenHands(OpenDevin)を使った感想「本家Devinは安い」</title>
-    <updated>2025-03-05T06:17:55Z</updated>
-    <id>https://zenn.dev/dyoshikawa/articles/devin-is-reasonable</id>
-    <link href="https://zenn.dev/dyoshikawa/articles/devin-is-reasonable" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: TauriでもRustで爆速描画したい</title>
-    <updated>2025-03-05T04:00:01Z</updated>
-    <id>https://zenn.dev/yadokani389/articles/rendering-with-rust-in-tauri-20250305</id>
-    <link href="https://zenn.dev/yadokani389/articles/rendering-with-rust-in-tauri-20250305" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: わざわざ言語化されないClineのコツ</title>
-    <updated>2025-03-05T02:52:54Z</updated>
-    <id>https://zenn.dev/watany/articles/85af6cfb8dccb2</id>
-    <link href="https://zenn.dev/watany/articles/85af6cfb8dccb2" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: ドメインを変えたらサービスが繋がらなくなったと言われた件</title>
-    <updated>2025-03-04T09:23:26Z</updated>
-    <id>https://zenn.dev/chot/articles/b9b74f8fdf0145</id>
-    <link href="https://zenn.dev/chot/articles/b9b74f8fdf0145" rel="alternate"></link>
+    <title>3:zenn_trend: Claude Codeで感じたAIとソフトウェア開発の未来</title>
+    <updated>2025-03-05T03:26:30Z</updated>
+    <id>https://zenn.dev/koher/articles/claude-code-and-development-future</id>
+    <link href="https://zenn.dev/koher/articles/claude-code-and-development-future" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: PythonでもJavascriptでも動く？？？不思議なコード</title>
@@ -4456,58 +4456,16 @@
     <link href="https://gihyo.jp/article/2024/03/daily-linux-240312?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: 第217回　MySQL ShellでJavaScriptを使ってMySQLを操作してみよう［その2］</title>
-    <updated>2024-03-12T00:02:00Z</updated>
-    <id>urn:uuid:bb7632e9-8f0a-a88c-3edb-d1cd8789389b</id>
-    <link href="https://gihyo.jp/article/2024/03/mysql-rcn0217?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: Bluesky、AT Protocol開発助成金を発表――招待制廃止、連合機能の実装に続き、オープンな開発エコシステムによる成長がさらに加速</title>
     <updated>2024-03-11T04:57:00Z</updated>
     <id>urn:uuid:3e9d11a9-dc63-2372-8ca1-db05392eaba2</id>
     <link href="https://gihyo.jp/article/2024/03/bluesky-grants?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Blenderのコンストレイントの「ラティス」と「トランスフォーム変換」を使って、効率的にオブジェクトを動かしてみよう</title>
-    <updated>2024-03-11T00:08:00Z</updated>
-    <id>urn:uuid:ca6d1d7a-abd3-af5f-ec4c-0a50f21dafeb</id>
-    <link href="https://gihyo.jp/article/2024/03/blender-basics-30?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: Fedora 41ではX.Orgセッションをデフォルトから削除へ ―加速するX.Orgからの脱却</title>
-    <updated>2024-03-08T06:55:00Z</updated>
-    <id>urn:uuid:921b411c-50e4-54ea-6a94-0ea3c2fce572</id>
-    <link href="https://gihyo.jp/article/2024/03/daily-linux-240308?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: Ubuntu 24.04 LTS（noble）の開発 / Ubiquityの去就の検討と新世代の「ネットワークブート」環境</title>
-    <updated>2024-03-08T01:07:00Z</updated>
-    <id>urn:uuid:e28c52be-a888-7268-ef70-ac25c3885d7b</id>
-    <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202403/08?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 複雑なドメイン知識を身につける7つの方法 - エムスリーテックブログ</title>
-    <updated>2025-03-07T14:00:02Z</updated>
-    <id>tag:www.m3tech.blog,2025-03-07:/entry/2025/03/07/142214</id>
-    <link href="https://www.m3tech.blog/entry/2025/03/07/142214" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: あなたの仕事に“AI秘書”を。ノンエンジニアでもOKなCursorエージェント超入門｜miyatti@エクスプラザ</title>
-    <updated>2025-03-07T08:16:48Z</updated>
-    <id>tag:note.com,2025-03-07:/miyatad/n/nae304a0024af</id>
-    <link href="https://note.com/miyatad/n/nae304a0024af" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「エンジニアって性格悪い人多くね？」が話題だけど、営業とエンジニアを直接やりとりさせてはいけない。間にはいる専門職を置くべき</title>
-    <updated>2025-03-07T16:31:51Z</updated>
-    <id>tag:togetter.com,2025-03-07:/li/2521996</id>
-    <link href="https://togetter.com/li/2521996" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 年約700回緊急発進する航空自衛隊の戦闘機、任務遂行を支えるクラウドシステムの開発舞台裏 - エンジニアtype | 転職type</title>
-    <updated>2025-03-07T22:36:16Z</updated>
-    <id>tag:type.jp,2025-03-07:/et/feature/27944/</id>
-    <link href="https://type.jp/et/feature/27944/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 人類はもう生成AIに勝てないと痛感したDeep Researchの使い方 - Qiita</title>
+    <updated>2025-03-06T00:53:09Z</updated>
+    <id>tag:qiita.com,2025-03-06:/zazen_inu/items/5dc2ea32aa4de18c02c7</id>
+    <link href="https://qiita.com/zazen_inu/items/5dc2ea32aa4de18c02c7" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: トランプの背後に「PayPalマフィア」の影　南アとつながる50代白人男性たち | Words Move the World ～この言葉で世界が動く</title>
@@ -4516,34 +4474,76 @@
     <link href="https://courrier.jp/columns/393933/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: オレを救った Cline を紹介する</title>
-    <updated>2025-03-07T11:47:58Z</updated>
-    <id>tag:speakerdeck.com,2025-03-07:/codehex/orewojiu-tuta-cline-woshao-jie-suru</id>
-    <link href="https://speakerdeck.com/codehex/orewojiu-tuta-cline-woshao-jie-suru" rel="alternate"></link>
+    <title>1:hatena_blog_it: 年約700回緊急発進する航空自衛隊の戦闘機、任務遂行を支えるクラウドシステムの開発舞台裏 - エンジニアtype | 転職type</title>
+    <updated>2025-03-07T22:36:16Z</updated>
+    <id>tag:type.jp,2025-03-07:/et/feature/27944/</id>
+    <link href="https://type.jp/et/feature/27944/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: MCPで広がるLLM　~Clineでの動作原理~</title>
-    <updated>2025-03-08T06:31:13Z</updated>
-    <id>tag:zenn.dev,2025-03-08:/codeciao/articles/cline-mcp-server-overview</id>
-    <link href="https://zenn.dev/codeciao/articles/cline-mcp-server-overview" rel="alternate"></link>
+    <title>1:hatena_blog_it: あなたの仕事に“AI秘書”を。ノンエンジニアでもOKなCursorエージェント超入門｜miyatti@エクスプラザ</title>
+    <updated>2025-03-07T08:16:48Z</updated>
+    <id>tag:note.com,2025-03-07:/miyatad/n/nae304a0024af</id>
+    <link href="https://note.com/miyatad/n/nae304a0024af" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 入門リトライ</title>
-    <updated>2025-03-07T11:29:56Z</updated>
-    <id>tag:speakerdeck.com,2025-03-07:/ryuichi1208/ru-men-ritorai</id>
-    <link href="https://speakerdeck.com/ryuichi1208/ru-men-ritorai" rel="alternate"></link>
+    <title>1:hatena_blog_it: 複雑なドメイン知識を身につける7つの方法 - エムスリーテックブログ</title>
+    <updated>2025-03-07T14:00:02Z</updated>
+    <id>tag:www.m3tech.blog,2025-03-07:/entry/2025/03/07/142214</id>
+    <link href="https://www.m3tech.blog/entry/2025/03/07/142214" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 東京・日野の大規模データセンター建設計画、反対する住民に事業者が一部譲歩</title>
-    <updated>2025-03-06T22:52:44Z</updated>
-    <id>tag:xtech.nikkei.com,2025-03-06:/atcl/nxt/column/18/00001/10295/</id>
-    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/10295/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 職位にかかわらず全員がリーダーシップを発揮するチーム作り / Building a team where everyone can demonstrate leadership, regardless of position</title>
+    <updated>2025-03-08T07:31:38Z</updated>
+    <id>tag:speakerdeck.com,2025-03-08:/madoxten/building-a-team-where-everyone-can-demonstrate-leadership-regardless-of-position</id>
+    <link href="https://speakerdeck.com/madoxten/building-a-team-where-everyone-can-demonstrate-leadership-regardless-of-position" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub - directvt/vtm: Text-based desktop environment</title>
-    <updated>2023-03-17T04:17:52Z</updated>
-    <id>tag:github.com,2023-03-17:/directvt/vtm</id>
-    <link href="https://github.com/directvt/vtm" rel="alternate"></link>
+    <title>1:hatena_blog_it: MCP Server</title>
+    <updated>2025-03-08T08:33:26Z</updated>
+    <id>tag:mcpserver.cc,2025-03-08:/</id>
+    <link href="https://mcpserver.cc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2025年春開始の新作アニメ一覧</title>
+    <updated>2025-03-08T13:06:04Z</updated>
+    <id>tag:gigazine.net,2025-03-08:/news/20250308-anime-2025spring/</id>
+    <link href="https://gigazine.net/news/20250308-anime-2025spring/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 多くの哺乳類はキンタマが熱すぎると正常に精子が作れない→だから玉袋を外気に晒す「空冷システム」を持つ→何で精子は体温が熱いとダメなんだろう？</title>
+    <updated>2025-03-08T14:17:09Z</updated>
+    <id>tag:togetter.com,2025-03-08:/li/2522405</id>
+    <link href="https://togetter.com/li/2522405" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 最先端技術の祭典「SXSW」アメリカで開幕 AI関連の発表相次ぐ | NHK</title>
+    <updated>2025-03-08T03:42:05Z</updated>
+    <id>tag:www3.nhk.or.jp,2025-03-08:/news/html/20250308/k10014743571000.html</id>
+    <link href="https://www3.nhk.or.jp/news/html/20250308/k10014743571000.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ペアーズでメッセージ（名前）を間違えた！送信取り消しは絶対不可？ ｜ LINEアプリの使い方・疑問解決マニュアル（LINE活用ガイド）</title>
+    <updated>2025-03-08T13:37:16Z</updated>
+    <id>tag:line-line-line.com,2025-03-08:/dating-apps/pairs-message-mistake/</id>
+    <link href="https://line-line-line.com/dating-apps/pairs-message-mistake/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: イーロン・マスクの「デジタル・クーデター」から民主主義を守るための具体策 | デジタル経済の先にあるもの</title>
+    <updated>2025-03-08T02:59:08Z</updated>
+    <id>tag:courrier.jp,2025-03-08:/columns/393924/</id>
+    <link href="https://courrier.jp/columns/393924/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Apple が Mac Studio に M4 Ultra ではなく M3 Ultra を採用した理由</title>
+    <updated>2025-03-08T12:01:00Z</updated>
+    <id>tag:zenn.dev,2025-03-08:/deepkawamura/articles/23a772f37c4d31</id>
+    <link href="https://zenn.dev/deepkawamura/articles/23a772f37c4d31" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: DockerでローカルHTTPS通信を実現 - Qiita</title>
+    <updated>2025-03-07T21:37:57Z</updated>
+    <id>tag:qiita.com,2025-03-07:/li_beiyao/items/fc5720cb053d2b4ba531</id>
+    <link href="https://qiita.com/li_beiyao/items/fc5720cb053d2b4ba531" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 日本のITエンジニア給与、世界31位に後退　民間調べ - 日本経済新聞</title>
@@ -4552,46 +4552,52 @@
     <link href="https://www.nikkei.com/article/DGXZQOUC06DH90W5A300C2000000/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: GitHub - directvt/vtm: Text-based desktop environment</title>
+    <updated>2023-03-17T04:17:52Z</updated>
+    <id>tag:github.com,2023-03-17:/directvt/vtm</id>
+    <link href="https://github.com/directvt/vtm" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「エンジニアって性格悪い人多くね？」が話題だけど、営業とエンジニアを直接やりとりさせてはいけない。間にはいる専門職を置くべき</title>
+    <updated>2025-03-07T16:31:51Z</updated>
+    <id>tag:togetter.com,2025-03-07:/li/2521996</id>
+    <link href="https://togetter.com/li/2521996" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: AI検索の要約機能でトラフィックが49％減少した企業も、これまでのSEOを無効化される悪夢にどう対応すべきか？ 【生成AI事件簿】企業に求められるGAIO、AI企業によるウェブサイトのスクレイピングに課金する企業も | JBpress (ジェイビープレス)</title>
     <updated>2025-03-08T00:58:45Z</updated>
     <id>tag:jbpress.ismedia.jp,2025-03-08:/articles/-/87045</id>
     <link href="https://jbpress.ismedia.jp/articles/-/87045" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ChatGPTのポテンシャルを一瞬で最大限引き出す「短文プロンプト」12選｜hirokaji</title>
-    <updated>2025-03-07T01:00:59Z</updated>
-    <id>tag:note.com,2025-03-07:/tasty_dunlin998/n/n62f72f8606c0</id>
-    <link href="https://note.com/tasty_dunlin998/n/n62f72f8606c0" rel="alternate"></link>
+    <title>1:hatena_blog_it: GitHub Copilot Chat、Visual Studio/VS Code上で画像を入力できるVision機能がパブリックプレビューに | gihyo.jp</title>
+    <updated>2025-03-07T08:22:56Z</updated>
+    <id>tag:gihyo.jp,2025-03-07:/article/2025/03/github-copilot-vision-input</id>
+    <link href="https://gihyo.jp/article/2025/03/github-copilot-vision-input" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: その「直感的なUI」、本当に直感的ですか？｜wentz</title>
-    <updated>2025-03-07T03:54:55Z</updated>
-    <id>tag:note.com,2025-03-07:/wentz_design/n/n268b0b39eef0</id>
-    <link href="https://note.com/wentz_design/n/n268b0b39eef0" rel="alternate"></link>
+    <title>1:hatena_blog_it: オレを救った Cline を紹介する</title>
+    <updated>2025-03-07T11:47:58Z</updated>
+    <id>tag:speakerdeck.com,2025-03-07:/codehex/orewojiu-tuta-cline-woshao-jie-suru</id>
+    <link href="https://speakerdeck.com/codehex/orewojiu-tuta-cline-woshao-jie-suru" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: CursorのProject Rules運用のベストプラクティスを探る</title>
-    <updated>2025-03-08T06:08:38Z</updated>
-    <id>tag:zenn.dev,2025-03-08:/ks0318/articles/b8eb2c9396f9cb</id>
-    <link href="https://zenn.dev/ks0318/articles/b8eb2c9396f9cb" rel="alternate"></link>
+    <title>1:hatena_blog_it: USドルベースでの世界のITエンジニア給与、ヨーロッパ各国で上昇、日本は31位に順位を落とし現地通貨ベースでもG7で唯一減少、グローバル人材獲得競争で後れをとる懸念：山陽新聞デジタル｜さんデジ</title>
+    <updated>2025-03-08T07:48:57Z</updated>
+    <id>tag:www.sanyonews.jp,2025-03-08:/article/1682808</id>
+    <link href="https://www.sanyonews.jp/article/1682808" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: スーパー「ロピア」方針転換　現金払い→キャッシュレス決済とポイント制を導入</title>
-    <updated>2025-03-07T06:10:01Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-03-07:/news/articles/2503/07/news153.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2503/07/news153.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【iPhone 16e自爆レビュー】前評判が悪すぎる”格安機(10万円)”を1週間マジ実用。触って分かった「良い点」と「ダメな点」をぶっちゃける。</title>
+    <updated>2025-03-07T13:43:38Z</updated>
+    <id>tag:www.nicovideo.jp,2025-03-07:/watch/sm44731485</id>
+    <link href="https://www.nicovideo.jp/watch/sm44731485" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: v0-system-prompts-models-and-tools/v0.txt at main · x1xhlol/v0-system-prompts-models-and-tools</title>
-    <updated>2025-03-08T00:43:52Z</updated>
-    <id>tag:github.com,2025-03-08:/x1xhlol/v0-system-prompts-models-and-tools/blob/main/v0.txt</id>
-    <link href="https://github.com/x1xhlol/v0-system-prompts-models-and-tools/blob/main/v0.txt" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: PCで見る「YouTube」で覚えておきたい5つの便利テク　「shift＋.」を押すとどうなる？</title>
-    <updated>2025-03-07T10:53:13Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-03-07:/mobile/articles/2503/07/news206.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2503/07/news206.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: p5.rbでのコーディングあそびをはじめました｜bash note</title>
+    <updated>2025-03-07T15:09:48Z</updated>
+    <id>tag:note.com,2025-03-07:/bashmusclemixin/n/n96f232b5adfa</id>
+    <link href="https://note.com/bashmusclemixin/n/n96f232b5adfa" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: GitHub Copilot agentsを使ってみた。私はCursorを使い続けた。</title>
@@ -4606,45 +4612,9 @@
     <link href="https://www.rieti.go.jp/jp/publications/nts/25e017.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 書式を覚えて満足してない？　Markdownをフル活用するための13テクニック</title>
-    <updated>2025-03-07T00:27:09Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2025-03-07:/ait/articles/2503/06/news078.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2503/06/news078.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIに及び腰？ マイクロソフトがこっそりデータセンターの契約終了</title>
-    <updated>2025-03-07T12:15:13Z</updated>
-    <id>tag:www.gizmodo.jp,2025-03-07:/2025/03/microsoft-cancelling-data-center-leases.html</id>
-    <link href="https://www.gizmodo.jp/2025/03/microsoft-cancelling-data-center-leases.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: p5.rbでのコーディングあそびをはじめました｜bash note</title>
-    <updated>2025-03-07T15:09:48Z</updated>
-    <id>tag:note.com,2025-03-07:/bashmusclemixin/n/n96f232b5adfa</id>
-    <link href="https://note.com/bashmusclemixin/n/n96f232b5adfa" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI「トップ100大学」中国49校で日本は“ゼロ”、在米トップ研究者の半数も中国出身者</title>
-    <updated>2025-03-06T10:16:23Z</updated>
-    <id>tag:diamond.jp,2025-03-06:/articles/-/360486</id>
-    <link href="https://diamond.jp/articles/-/360486" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 第59回　Plamo Linuxのインストーラ | gihyo.jp</title>
-    <updated>2025-03-07T06:31:46Z</updated>
-    <id>tag:gihyo.jp,2025-03-07:/article/2025/03/zoku-gansiki-0059</id>
-    <link href="https://gihyo.jp/article/2025/03/zoku-gansiki-0059" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: これで全てが分かる。SilverStone「FLP01」徹底解説 - エルミタージュ秋葉原</title>
-    <updated>2025-03-07T16:49:26Z</updated>
-    <id>tag:www.gdm.or.jp,2025-03-07:/review/2025/0308/575425</id>
-    <link href="https://www.gdm.or.jp/review/2025/0308/575425" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ノート作成アプリ「Obsidian」で、4つの生産性ツールを置き換えた方法【今日のワークハック】 | ライフハッカー・ジャパン</title>
-    <updated>2025-03-07T03:46:13Z</updated>
-    <id>tag:www.lifehacker.jp,2025-03-07:/article/2502four-apps-you-can-replace-with-obsidian-plugins/</id>
-    <link href="https://www.lifehacker.jp/article/2502four-apps-you-can-replace-with-obsidian-plugins/" rel="alternate"></link>
+    <title>1:hatena_blog_it: v0-system-prompts-models-and-tools/v0.txt at main · x1xhlol/v0-system-prompts-models-and-tools</title>
+    <updated>2025-03-08T00:43:52Z</updated>
+    <id>tag:github.com,2025-03-08:/x1xhlol/v0-system-prompts-models-and-tools/blob/main/v0.txt</id>
+    <link href="https://github.com/x1xhlol/v0-system-prompts-models-and-tools/blob/main/v0.txt" rel="alternate"></link>
   </entry>
 </feed>
