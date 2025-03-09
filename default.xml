@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-03-09T12:18:02Z</updated>
+  <updated>2025-03-09T18:13:11Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -118,6 +118,18 @@
     <link href="https://archlinux.org/news/mkinitcpio-hook-migration-and-early-microcode/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Postman を使ったシナリオ付き負荷試験</title>
+    <updated>2025-03-09T04:15:33Z</updated>
+    <id>https://zenn.dev/kameoncloud/articles/c3b6f6a2ac3445</id>
+    <link href="https://zenn.dev/kameoncloud/articles/c3b6f6a2ac3445" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: MCPサーバーを作るMCPサーバーを作った</title>
+    <updated>2025-03-09T03:09:03Z</updated>
+    <id>https://zenn.dev/tesla/articles/c66bda76c4a523</id>
+    <link href="https://zenn.dev/tesla/articles/c66bda76c4a523" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: TypeScript で型安全かつ宣言的に switch をする</title>
     <updated>2025-03-08T13:41:01Z</updated>
     <id>https://zenn.dev/shoalwave/articles/527a539d3c7a01</id>
@@ -190,12 +202,6 @@
     <link href="https://zenn.dev/yosh1/articles/mastra-ai-agent-framework-guide" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 端末プラグインの歴史と新世代の端末プラグイン ddt.vim</title>
-    <updated>2025-03-07T08:11:20Z</updated>
-    <id>https://zenn.dev/shougo/articles/ddt-vim-beta</id>
-    <link href="https://zenn.dev/shougo/articles/ddt-vim-beta" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: Apple が Mac Studio に M4 Ultra ではなく M3 Ultra を採用した理由</title>
     <updated>2025-03-07T04:37:12Z</updated>
     <id>https://zenn.dev/deepkawamura/articles/23a772f37c4d31</id>
@@ -230,12 +236,6 @@
     <updated>2025-03-06T10:25:58Z</updated>
     <id>https://zenn.dev/tellernovel_inc/articles/3c2bece10afb3f</id>
     <link href="https://zenn.dev/tellernovel_inc/articles/3c2bece10afb3f" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Dockerイメージの安全性を高める10のセキュリティハック</title>
-    <updated>2025-03-05T14:35:00Z</updated>
-    <id>https://zenn.dev/fuuji/articles/3909c8d444eaa9</id>
-    <link href="https://zenn.dev/fuuji/articles/3909c8d444eaa9" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: DockerでローカルHTTPS通信を実現</title>
@@ -958,6 +958,12 @@
     <link href="https://www.youtube.com/watch?v=vbyDVUl43a8" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: AIによるコーディングアシスタント、コーディングエージェント、アプリケーション自動生成サービスまとめ（2025年3月版）</title>
+    <updated>2025-03-09T15:32:05Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8138</id>
+    <link href="https://www.publickey1.jp/blog/25/ai20253_1.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: 次期LTS版となる.NET 10 Preview 1が公開。.NETランタイムのオーバーヘッド削減など</title>
     <updated>2025-03-06T15:46:58Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8137</id>
@@ -1040,12 +1046,6 @@
     <updated>2025-02-20T15:29:24Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8124</id>
     <link href="https://www.publickey1.jp/blog/25/kkr.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: ITエンジニア向けQ＆Aサイト「Stack Overflow」がAIによる回答の掲載実験を開始</title>
-    <updated>2025-02-19T15:42:59Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8123</id>
-    <link href="https://www.publickey1.jp/blog/25/itqastack_overflowai.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Freedesktop.org、GitLabインスタンス移行に伴い最大1週間のダウンタイムを予告</title>
@@ -4468,10 +4468,22 @@
     <link href="https://qiita.com/zazen_inu/items/9920bea2e15ecaaf1131" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 人類はもう生成AIに勝てないと痛感したDeep Researchの使い方 - Qiita</title>
-    <updated>2025-03-06T00:53:09Z</updated>
-    <id>tag:qiita.com,2025-03-06:/zazen_inu/items/5dc2ea32aa4de18c02c7</id>
-    <link href="https://qiita.com/zazen_inu/items/5dc2ea32aa4de18c02c7" rel="alternate"></link>
+    <title>1:hatena_blog_it: 生成AIにdraw.ioのAWS構成図を作図させてみた | DevelopersIO</title>
+    <updated>2025-03-09T13:47:18Z</updated>
+    <id>tag:dev.classmethod.jp,2025-03-09:/articles/aws-drawio-genai/</id>
+    <link href="https://dev.classmethod.jp/articles/aws-drawio-genai/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 10億台超のIoT機器に搭載の「ESP32」に悪用可能な隠し機能発見</title>
+    <updated>2025-03-09T08:42:51Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-03-09:/news/articles/2503/09/news075.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2503/09/news075.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 中国でDeepSeek狂奏曲　VRAM96GB（？）の改造4090カードや各種製品が高速で大量登場 (1/2)</title>
+    <updated>2025-03-09T03:29:18Z</updated>
+    <id>tag:ascii.jp,2025-03-09:/elem/000/004/255/4255977/</id>
+    <link href="https://ascii.jp/elem/000/004/255/4255977/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: MCPでLLMに行動させる - Terraformを例とした tfmcp の紹介 - じゃあ、おうちで学べる</title>
@@ -4480,16 +4492,40 @@
     <link href="https://syu-m-5151.hatenablog.com/entry/2025/03/09/020057" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 小学校で6年間使い倒したタブレット端末を「返却してね」とお手紙が来た→1年生には新しい端末購入予算をつけてあげてほしい</title>
-    <updated>2025-03-08T22:28:36Z</updated>
-    <id>tag:togetter.com,2025-03-08:/li/2522454</id>
-    <link href="https://togetter.com/li/2522454" rel="alternate"></link>
+    <title>1:hatena_blog_it: 人類はもう生成AIに勝てないと痛感したDeep Researchの使い方 - Qiita</title>
+    <updated>2025-03-06T00:53:09Z</updated>
+    <id>tag:qiita.com,2025-03-06:/zazen_inu/items/5dc2ea32aa4de18c02c7</id>
+    <link href="https://qiita.com/zazen_inu/items/5dc2ea32aa4de18c02c7" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 中国でDeepSeek狂奏曲　VRAM96GB（？）の改造4090カードや各種製品が高速で大量登場 (1/2)</title>
-    <updated>2025-03-09T03:29:18Z</updated>
-    <id>tag:ascii.jp,2025-03-09:/elem/000/004/255/4255977/</id>
-    <link href="https://ascii.jp/elem/000/004/255/4255977/" rel="alternate"></link>
+    <title>1:hatena_blog_it: TypeScript 製の AI エージェントフレームワーク Mastra</title>
+    <updated>2025-03-09T08:41:56Z</updated>
+    <id>tag:azukiazusa.dev,2025-03-09:/blog/typescript-ai-agent-framework-mastra/</id>
+    <link href="https://azukiazusa.dev/blog/typescript-ai-agent-framework-mastra/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Bolt Graphics、RTX 5090の10倍速いという「Zeus」 GPUを発表 | XenoSpectrum</title>
+    <updated>2025-03-08T06:15:22Z</updated>
+    <id>tag:xenospectrum.com,2025-03-08:/bolt-graphics-launches-zeus-gpu-which-is-10-times-faster-than-the-rtx-5090/</id>
+    <link href="https://xenospectrum.com/bolt-graphics-launches-zeus-gpu-which-is-10-times-faster-than-the-rtx-5090/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Manus</title>
+    <updated>2025-03-08T19:23:07Z</updated>
+    <id>tag:manus.im,2025-03-08:/</id>
+    <link href="https://manus.im/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: iPhoneではうちのネコチャンで文字とかを隠すスタンプが作れるらしい→GIFで動くやつも作れて「大変キャワ」</title>
+    <updated>2025-03-09T09:30:50Z</updated>
+    <id>tag:togetter.com,2025-03-09:/li/2522875</id>
+    <link href="https://togetter.com/li/2522875" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AWS 環境チェックツール「Service Screener v2」を使ってみたので使用感を紹介 | DevelopersIO</title>
+    <updated>2025-03-08T16:14:49Z</updated>
+    <id>tag:dev.classmethod.jp,2025-03-08:/articles/aws-service-screener-v2/</id>
+    <link href="https://dev.classmethod.jp/articles/aws-service-screener-v2/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 地域の民生委員から「もう年寄りだけでは限界」と猛烈にスカウトされる→民生委員というシステム自体が崩壊寸前では</title>
@@ -4504,112 +4540,10 @@
     <link href="https://speakerdeck.com/madoxten/building-a-team-where-everyone-can-demonstrate-leadership-regardless-of-position" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Manus</title>
-    <updated>2025-03-08T19:23:07Z</updated>
-    <id>tag:manus.im,2025-03-08:/</id>
-    <link href="https://manus.im/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AWS 環境チェックツール「Service Screener v2」を使ってみたので使用感を紹介 | DevelopersIO</title>
-    <updated>2025-03-08T16:14:49Z</updated>
-    <id>tag:dev.classmethod.jp,2025-03-08:/articles/aws-service-screener-v2/</id>
-    <link href="https://dev.classmethod.jp/articles/aws-service-screener-v2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Bolt Graphics、RTX 5090の10倍速いという「Zeus」 GPUを発表 | XenoSpectrum</title>
-    <updated>2025-03-08T06:15:22Z</updated>
-    <id>tag:xenospectrum.com,2025-03-08:/bolt-graphics-launches-zeus-gpu-which-is-10-times-faster-than-the-rtx-5090/</id>
-    <link href="https://xenospectrum.com/bolt-graphics-launches-zeus-gpu-which-is-10-times-faster-than-the-rtx-5090/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 10億台超のIoT機器に搭載の「ESP32」に悪用可能なバックドア発見</title>
-    <updated>2025-03-09T08:42:51Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-03-09:/news/articles/2503/09/news075.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2503/09/news075.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「kubeshark」でKubernetesのトラフィックをリアルタイムに可視化する</title>
-    <updated>2025-03-09T02:10:57Z</updated>
-    <id>tag:thinkit.co.jp,2025-03-09:/article/37988</id>
-    <link href="https://thinkit.co.jp/article/37988" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 多くの哺乳類はキンタマが熱すぎると正常に精子が作れない→だから玉袋を外気に晒す「空冷システム」を持つ→何で精子は体温が熱いとダメなんだろう？</title>
-    <updated>2025-03-08T14:17:09Z</updated>
-    <id>tag:togetter.com,2025-03-08:/li/2522405</id>
-    <link href="https://togetter.com/li/2522405" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: DockerでローカルHTTPS通信を実現 - Qiita</title>
-    <updated>2025-03-07T21:37:57Z</updated>
-    <id>tag:qiita.com,2025-03-07:/li_beiyao/items/fc5720cb053d2b4ba531</id>
-    <link href="https://qiita.com/li_beiyao/items/fc5720cb053d2b4ba531" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Postman を使ったシナリオ付き負荷試験</title>
-    <updated>2025-03-09T09:44:54Z</updated>
-    <id>tag:zenn.dev,2025-03-09:/kameoncloud/articles/c3b6f6a2ac3445</id>
-    <link href="https://zenn.dev/kameoncloud/articles/c3b6f6a2ac3445" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: TypeScript 製の AI エージェントフレームワーク Mastra</title>
-    <updated>2025-03-09T08:41:56Z</updated>
-    <id>tag:azukiazusa.dev,2025-03-09:/blog/typescript-ai-agent-framework-mastra/</id>
-    <link href="https://azukiazusa.dev/blog/typescript-ai-agent-framework-mastra/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ブログで llms.txt を提供してみた</title>
-    <updated>2025-03-08T13:30:13Z</updated>
-    <id>tag:azukiazusa.dev,2025-03-08:/blog/llms-txt/</id>
-    <link href="https://azukiazusa.dev/blog/llms-txt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Undocumented "backdoor" found in Bluetooth chip used by a billion devices</title>
-    <updated>2025-03-08T20:11:44Z</updated>
-    <id>tag:www.bleepingcomputer.com,2025-03-08:/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/</id>
-    <link href="https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: さまざまなAIをWindowsのローカルPCで動かせる「Run llama.cpp Portable Zip on Intel GPU with IPEX-LLM」がDeepSeekにも対応したことをIntelが発表</title>
-    <updated>2025-03-09T04:42:22Z</updated>
-    <id>tag:gigazine.net,2025-03-09:/news/20250309-run-llama-portable-zip/</id>
-    <link href="https://gigazine.net/news/20250309-run-llama-portable-zip/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: GitHub - nao1215/sqluv: simple terminal UI for DBMS & local CSV/TSV/LTSV</title>
-    <updated>2025-03-09T03:02:14Z</updated>
-    <id>tag:github.com,2025-03-09:/nao1215/sqluv</id>
-    <link href="https://github.com/nao1215/sqluv" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: USドルベースでの世界のITエンジニア給与、ヨーロッパ各国で上昇、日本は31位に順位を落とし現地通貨ベースでもG7で唯一減少、グローバル人材獲得競争で後れをとる懸念：山陽新聞デジタル｜さんデジ</title>
-    <updated>2025-03-08T07:48:57Z</updated>
-    <id>tag:www.sanyonews.jp,2025-03-08:/article/1682808</id>
-    <link href="https://www.sanyonews.jp/article/1682808" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 最近生成AIの著作権侵害が目に付くけどさ</title>
-    <updated>2025-03-08T20:11:00Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-03-08:/20250309025138</id>
-    <link href="https://anond.hatelabo.jp/20250309025138" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「CursorのProject Rules運用のベストプラクティスを探る」を試してみる</title>
-    <updated>2025-03-09T04:17:47Z</updated>
-    <id>tag:zenn.dev,2025-03-09:/suthio/scraps/d9f2a98c5088b5</id>
-    <link href="https://zenn.dev/suthio/scraps/d9f2a98c5088b5" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: MCP Server</title>
-    <updated>2025-03-08T08:33:26Z</updated>
-    <id>tag:mcpserver.cc,2025-03-08:/</id>
-    <link href="https://mcpserver.cc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ClaudeでPerlのコードを生成する / きのこカンファレンスの前夜祭で登壇しました - Blog::kobaken</title>
-    <updated>2025-03-09T05:03:58Z</updated>
-    <id>tag:kfly8.hatenablog.com,2025-03-09:/entry/2025/03/09/134231</id>
-    <link href="https://kfly8.hatenablog.com/entry/2025/03/09/134231" rel="alternate"></link>
+    <title>1:hatena_blog_it: 書籍情報―技術の波に乗り遅れない！すべてのITエンジニアのための「一生モノの学び方」</title>
+    <updated>2025-03-09T01:51:22Z</updated>
+    <id>tag:www.kohgakusha.co.jp,2025-03-09:/books/detail/978-4-7775-2296-5</id>
+    <link href="https://www.kohgakusha.co.jp/books/detail/978-4-7775-2296-5" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 非エンジニアだからこそ要求定義と要件定義は極める[サンプルフォーマットあり]｜すぅ|PM</title>
@@ -4618,15 +4552,69 @@
     <link href="https://note.com/suh_sunaneko/n/n4231b537266f" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: .NETのコンテナイメージをマルチプラットフォーム対応する - tech.guitarrapc.cóm</title>
-    <updated>2025-03-08T14:42:30Z</updated>
-    <id>tag:tech.guitarrapc.com,2025-03-08:/entry/2025/03/05/235900</id>
-    <link href="https://tech.guitarrapc.com/entry/2025/03/05/235900" rel="alternate"></link>
+    <title>1:hatena_blog_it: 小学校で6年間使い倒したタブレット端末を「返却してね」とお手紙が来た→1年生には新しい端末購入予算をつけてあげてほしい</title>
+    <updated>2025-03-08T22:28:36Z</updated>
+    <id>tag:togetter.com,2025-03-08:/li/2522454</id>
+    <link href="https://togetter.com/li/2522454" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Ansible 検証「ansible.posix.selinux」モジュールで RHEL 9 の SELinux を無効化してはいけない ※2025/03 現在 | SIOS Tech. Lab</title>
-    <updated>2025-03-09T02:28:12Z</updated>
-    <id>tag:tech-lab.sios.jp,2025-03-09:/archives/46779</id>
-    <link href="https://tech-lab.sios.jp/archives/46779" rel="alternate"></link>
+    <title>1:hatena_blog_it: Twitterで古いツイートを検索・探す簡単な方法！古い順に並べ替えは不可？ ｜ LINEアプリの使い方・疑問解決マニュアル（LINE活用ガイド）</title>
+    <updated>2025-03-09T13:18:45Z</updated>
+    <id>tag:line-line-line.com,2025-03-09:/twitter/twitter-tweet-search/</id>
+    <link href="https://line-line-line.com/twitter/twitter-tweet-search/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: あなたの組織は迎え入れの準備はできていますか？〜「オンボーディングガイドブック」をリリースしました～ - Qiita</title>
+    <updated>2025-03-08T23:46:15Z</updated>
+    <id>tag:qiita.com,2025-03-08:/viva_tweet_x/items/c0bfd00074301b667b1b</id>
+    <link href="https://qiita.com/viva_tweet_x/items/c0bfd00074301b667b1b" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ClaudeでPerlのコードを生成する / きのこカンファレンスの前夜祭で登壇しました - Blog::kobaken</title>
+    <updated>2025-03-09T05:03:58Z</updated>
+    <id>tag:kfly8.hatenablog.com,2025-03-09:/entry/2025/03/09/134231</id>
+    <link href="https://kfly8.hatenablog.com/entry/2025/03/09/134231" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub - nao1215/sqluv: simple terminal UI for DBMS & local CSV/TSV/LTSV</title>
+    <updated>2025-03-09T03:02:14Z</updated>
+    <id>tag:github.com,2025-03-09:/nao1215/sqluv</id>
+    <link href="https://github.com/nao1215/sqluv" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: エンジニアの健康管理術 / Engineer Health Management Techniques</title>
+    <updated>2025-03-09T05:14:46Z</updated>
+    <id>tag:speakerdeck.com,2025-03-09:/y_sone/engineer-health-management-techniques</id>
+    <link href="https://speakerdeck.com/y_sone/engineer-health-management-techniques" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ”AWS CDKを選定しなかった理由”から見るCDKの現在地</title>
+    <updated>2024-07-07T01:08:22Z</updated>
+    <id>tag:speakerdeck.com,2024-07-07:/watany/do-we-need-cdk</id>
+    <link href="https://speakerdeck.com/watany/do-we-need-cdk" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Yoke is really cool</title>
+    <updated>2025-03-02T23:29:39Z</updated>
+    <id>tag:xeiaso.net,2025-03-02:/blog/2025/yoke-k8s/</id>
+    <link href="https://xeiaso.net/blog/2025/yoke-k8s/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「CursorのProject Rules運用のベストプラクティスを探る」を試してみる</title>
+    <updated>2025-03-09T04:17:47Z</updated>
+    <id>tag:zenn.dev,2025-03-09:/suthio/scraps/d9f2a98c5088b5</id>
+    <link href="https://zenn.dev/suthio/scraps/d9f2a98c5088b5" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「kubeshark」でKubernetesのトラフィックをリアルタイムに可視化する</title>
+    <updated>2025-03-09T02:10:57Z</updated>
+    <id>tag:thinkit.co.jp,2025-03-09:/article/37988</id>
+    <link href="https://thinkit.co.jp/article/37988" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub - yokecd/yoke: Kubernetes Package Management as Code; infrastructure as code, but actually.</title>
+    <updated>2025-03-03T05:05:32Z</updated>
+    <id>tag:github.com,2025-03-03:/yokecd/yoke</id>
+    <link href="https://github.com/yokecd/yoke" rel="alternate"></link>
   </entry>
 </feed>
