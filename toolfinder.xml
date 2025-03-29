@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-03-29T01:02:12Z</updated>
+  <updated>2025-03-29T06:17:19Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2668,6 +2668,18 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: field-monitor</title>
+    <updated>2025-03-29T05:40:53Z</updated>
+    <id>field-monitor-1743226853</id>
+    <link href="https://aur.archlinux.org/packages/field-monitor" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: ttf-atkinson-hyperlegible-nerd</title>
+    <updated>2025-03-29T01:07:11Z</updated>
+    <id>ttf-atkinson-hyperlegible-nerd-1743210431</id>
+    <link href="https://aur.archlinux.org/packages/ttf-atkinson-hyperlegible-nerd" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: wthrr-bin</title>
     <updated>2025-03-28T23:33:24Z</updated>
     <id>wthrr-bin-1743204804</id>
@@ -3256,16 +3268,52 @@
     <link href="https://aur.archlinux.org/packages/android-riscv64-pugixml" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: android-armv7a-eabi-pugixml</title>
-    <updated>2025-03-25T19:32:45Z</updated>
-    <id>android-armv7a-eabi-pugixml-1742931165</id>
-    <link href="https://aur.archlinux.org/packages/android-armv7a-eabi-pugixml" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-generic 1.1.4-2 any</title>
+    <updated>2025-03-29T04:44:35Z</updated>
+    <id>tag:archlinux.org,2025-03-29:/packages/extra/any/python-generic/202503290444</id>
+    <link href="https://archlinux.org/packages/extra/any/python-generic/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: android-aarch64-pugixml</title>
-    <updated>2025-03-25T19:32:13Z</updated>
-    <id>android-aarch64-pugixml-1742931133</id>
-    <link href="https://aur.archlinux.org/packages/android-aarch64-pugixml" rel="alternate"></link>
+    <title>2:archlinux_new_packages: iotas 0.11.0-3 any</title>
+    <updated>2025-03-29T04:41:38Z</updated>
+    <id>tag:archlinux.org,2025-03-29:/packages/extra/any/iotas/202503290441</id>
+    <link href="https://archlinux.org/packages/extra/any/iotas/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: forge-sparks 0.4.0-2 any</title>
+    <updated>2025-03-29T04:33:56Z</updated>
+    <id>tag:archlinux.org,2025-03-29:/packages/extra/any/forge-sparks/202503290433</id>
+    <link href="https://archlinux.org/packages/extra/any/forge-sparks/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: glade 3.40.0+r14+g1fbca367-7 x86_64</title>
+    <updated>2025-03-29T04:29:22Z</updated>
+    <id>tag:archlinux.org,2025-03-29:/packages/extra/x86_64/glade/202503290429</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/glade/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: incus-tools 6.11.0-1 x86_64</title>
+    <updated>2025-03-29T02:15:46Z</updated>
+    <id>tag:archlinux.org,2025-03-29:/packages/extra/x86_64/incus-tools/202503290215</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/incus-tools/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: incus 6.11.0-1 x86_64</title>
+    <updated>2025-03-29T02:15:45Z</updated>
+    <id>tag:archlinux.org,2025-03-29:/packages/extra/x86_64/incus/202503290215</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/incus/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: platformio-core-udev 6.1.18-1 any</title>
+    <updated>2025-03-29T02:15:45Z</updated>
+    <id>tag:archlinux.org,2025-03-29:/packages/extra/any/platformio-core-udev/202503290215</id>
+    <link href="https://archlinux.org/packages/extra/any/platformio-core-udev/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: platformio-core 6.1.18-1 any</title>
+    <updated>2025-03-29T02:15:44Z</updated>
+    <id>tag:archlinux.org,2025-03-29:/packages/extra/any/platformio-core/202503290215</id>
+    <link href="https://archlinux.org/packages/extra/any/platformio-core/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: poco 1.14.1-1 x86_64</title>
@@ -3518,53 +3566,5 @@
     <updated>2025-03-28T22:39:24Z</updated>
     <id>tag:archlinux.org,2025-03-28:/packages/extra/x86_64/cockpit-packagekit/202503282239</id>
     <link href="https://archlinux.org/packages/extra/x86_64/cockpit-packagekit/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: cockpit 336.2-1 x86_64</title>
-    <updated>2025-03-28T22:39:23Z</updated>
-    <id>tag:archlinux.org,2025-03-28:/packages/extra/x86_64/cockpit/202503282239</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/cockpit/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: benchmark 1.9.2-1 x86_64</title>
-    <updated>2025-03-28T22:39:23Z</updated>
-    <id>tag:archlinux.org,2025-03-28:/packages/extra/x86_64/benchmark/202503282239</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/benchmark/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nerdctl 2.0.4-2 x86_64</title>
-    <updated>2025-03-28T21:53:04Z</updated>
-    <id>tag:archlinux.org,2025-03-28:/packages/extra/x86_64/nerdctl/202503282153</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nerdctl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: go-task 3.42.1-1 x86_64</title>
-    <updated>2025-03-28T21:53:03Z</updated>
-    <id>tag:archlinux.org,2025-03-28:/packages/extra/x86_64/go-task/202503282153</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/go-task/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pgformatter 5.6-1 any</title>
-    <updated>2025-03-28T21:53:03Z</updated>
-    <id>tag:archlinux.org,2025-03-28:/packages/extra/any/pgformatter/202503282153</id>
-    <link href="https://archlinux.org/packages/extra/any/pgformatter/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: home-assistant 1:2025.3.4-1 any</title>
-    <updated>2025-03-28T21:53:02Z</updated>
-    <id>tag:archlinux.org,2025-03-28:/packages/extra/any/home-assistant/202503282153</id>
-    <link href="https://archlinux.org/packages/extra/any/home-assistant/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: rtorrent 0.15.2-1 x86_64</title>
-    <updated>2025-03-28T20:30:00Z</updated>
-    <id>tag:archlinux.org,2025-03-28:/packages/extra/x86_64/rtorrent/202503282030</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/rtorrent/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libtorrent 0.15.2-1 x86_64</title>
-    <updated>2025-03-28T20:30:00Z</updated>
-    <id>tag:archlinux.org,2025-03-28:/packages/extra/x86_64/libtorrent/202503282030</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libtorrent/" rel="alternate"></link>
   </entry>
 </feed>
