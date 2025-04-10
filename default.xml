@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-04-10T01:03:55Z</updated>
+  <updated>2025-04-10T06:20:00Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -112,6 +112,12 @@
     <link href="https://archlinux.org/news/mkinitcpio-hook-migration-and-early-microcode/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Google Cloud Next '25 Keynote 速報まとめ</title>
+    <updated>2025-04-09T19:56:33Z</updated>
+    <id>https://zenn.dev/cloud_ace/articles/google-cloud-next25-keynote-day1</id>
+    <link href="https://zenn.dev/cloud_ace/articles/google-cloud-next25-keynote-day1" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: PGlite + pgvector で100行で実装するベクトル検索 (node/deno/drizzle)</title>
     <updated>2025-04-09T05:36:30Z</updated>
     <id>https://zenn.dev/mizchi/articles/pglite-vector-search</id>
@@ -134,6 +140,12 @@
     <updated>2025-04-09T01:39:09Z</updated>
     <id>https://zenn.dev/spargel/books/20250312_control_programing_tutorial</id>
     <link href="https://zenn.dev/spargel/books/20250312_control_programing_tutorial" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: GitHub Copilot コードレビュー機能でプルリクエストを日本語でレビューしてもらいたい</title>
+    <updated>2025-04-09T01:21:42Z</updated>
+    <id>https://zenn.dev/rescuenow/articles/55ea72023527d1</id>
+    <link href="https://zenn.dev/rescuenow/articles/55ea72023527d1" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 「Rustが嫌いです。」の感想</title>
@@ -172,6 +184,12 @@
     <link href="https://zenn.dev/itte/articles/ae96a55fc7ebad" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 【Playwright MCP】を利用したエージェントを【LangGraph】で構築する</title>
+    <updated>2025-04-08T18:16:23Z</updated>
+    <id>https://zenn.dev/asap/articles/59b8dd06d44754</id>
+    <link href="https://zenn.dev/asap/articles/59b8dd06d44754" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Notionの公式MCPサーバーをCursor / Claudeから使用する方法</title>
     <updated>2025-04-08T16:37:29Z</updated>
     <id>https://zenn.dev/rince/articles/de943b82cb9bd6</id>
@@ -184,12 +202,6 @@
     <link href="https://zenn.dev/cloud_ace/articles/4628a0e0d43c58" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: Rustが嫌いです。</title>
-    <updated>2025-04-08T08:19:54Z</updated>
-    <id>https://zenn.dev/miguel/articles/f052de93fc9980</id>
-    <link href="https://zenn.dev/miguel/articles/f052de93fc9980" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: 迷った時は、主語を取り戻そう</title>
     <updated>2025-04-08T08:19:44Z</updated>
     <id>https://zenn.dev/enjapan/articles/bca0153009c7ef</id>
@@ -200,12 +212,6 @@
     <updated>2025-04-07T23:23:10Z</updated>
     <id>https://zenn.dev/ryoppippi/articles/1eb7fbe9042a88</id>
     <link href="https://zenn.dev/ryoppippi/articles/1eb7fbe9042a88" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 【RAG】文書をパラメータ化してLLMに直接注入する手法</title>
-    <updated>2025-04-07T23:00:01Z</updated>
-    <id>https://zenn.dev/knowledgesense/articles/4e6f5bf97d00d2</id>
-    <link href="https://zenn.dev/knowledgesense/articles/4e6f5bf97d00d2" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: VSCodeをMCPにする拡張機能「VSCode as MCP Server」を作った</title>
@@ -224,12 +230,6 @@
     <updated>2025-04-07T09:54:26Z</updated>
     <id>https://zenn.dev/sun_asterisk/articles/mcp_security_risk</id>
     <link href="https://zenn.dev/sun_asterisk/articles/mcp_security_risk" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: AI時代はプログラミングスキルがさらに重要になる</title>
-    <updated>2025-04-06T22:00:01Z</updated>
-    <id>https://zenn.dev/dyoshikawa/articles/programming-skills-will-be-more-valueable</id>
-    <link href="https://zenn.dev/dyoshikawa/articles/programming-skills-will-be-more-valueable" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: Playwright MCP を使ってAIにブラウザ操作をさせてみる（GitHub Copilot / Cline 環境構築手順付）</title>
@@ -1040,6 +1040,12 @@
     <updated>2025-03-31T13:39:53Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8155</id>
     <link href="https://www.publickey1.jp/blog/25/iaaspaas20244244900.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: 期待外れ？ そんなことはない「rabbit r1」レビュー②</title>
+    <updated>2025-04-10T00:00:00Z</updated>
+    <id>urn:uuid:74952bd8-94d3-6172-9376-44a825e2fd16</id>
+    <link href="https://gihyo.jp/article/2025/04/android-weekly-topics-250410?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: 第857回　bcacheでHDDへの書き込みを見かけ上速くする</title>
@@ -4354,58 +4360,22 @@
     <link href="https://tech.smarthr.jp/entry/2025/04/09/113025" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 物理学者が提案する「少ない豆でおいしいコーヒーを淹れる方法」【研究紹介】 レバテックラボ（レバテックLAB）</title>
+    <updated>2025-04-10T00:04:53Z</updated>
+    <id>tag:levtech.jp,2025-04-10:/media/article/column/detail_649/</id>
+    <link href="https://levtech.jp/media/article/column/detail_649/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: AWS Cognitoの罠10選 | 技術者ブログ | 三井物産セキュアディレクション株式会社</title>
     <updated>2025-04-09T07:43:32Z</updated>
     <id>tag:www.mbsd.jp,2025-04-09:/research/20250409/cognito-1/</id>
     <link href="https://www.mbsd.jp/research/20250409/cognito-1/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Terraform設計ガイドライン | Future Enterprise Arch Guidelines</title>
-    <updated>2025-02-22T10:09:07Z</updated>
-    <id>tag:future-architect.github.io,2025-02-22:/arch-guidelines/documents/forTerraform/terraform_guidelines.html</id>
-    <link href="https://future-architect.github.io/arch-guidelines/documents/forTerraform/terraform_guidelines.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 新刊『型システムのしくみ』の発売を4/18に予定しています</title>
-    <updated>2025-04-09T05:56:21Z</updated>
-    <id>tag:www.lambdanote.com,2025-04-09:/blogs/news/typescript</id>
-    <link href="https://www.lambdanote.com/blogs/news/typescript" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Kotlin、Swift、Rubyの人気が低迷中 — プログラミング言語最新人気ランキングにて</title>
-    <updated>2025-04-09T21:14:37Z</updated>
-    <id>tag:techfeed.io,2025-04-09:/entries/67f6e31d7566f20f76b04754</id>
-    <link href="https://techfeed.io/entries/67f6e31d7566f20f76b04754" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ChatGPTの「Deep Research」のつかいかた ～レポート作成に「包括的に／詳細に」プロンプトが超絶便利【柳谷智宣のAI ウォッチ！】</title>
-    <updated>2025-04-09T01:58:01Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-04-09:/docs/serial/yaaiwatch/2004285.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2004285.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: テキストをキレイに折り返す「text-wrap: pretty」を使うべき理由をSafariのWebkit開発チームが公式で解説</title>
-    <updated>2025-04-09T14:24:32Z</updated>
-    <id>tag:gigazine.net,2025-04-09:/news/20250409-safari-better-typography-text-wrap-pretty/</id>
-    <link href="https://gigazine.net/news/20250409-safari-better-typography-text-wrap-pretty/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 製品ドキュメントは読むのではなく質問する時代</title>
-    <updated>2025-04-09T05:33:55Z</updated>
-    <id>tag:voluntas.ghost.io,2025-04-09:/ask-instead-of-read-product-docs/</id>
-    <link href="https://voluntas.ghost.io/ask-instead-of-read-product-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Agent Development Kit: Making it easy to build multi-agent applications- Google Developers Blog</title>
-    <updated>2025-04-09T18:25:21Z</updated>
-    <id>tag:developers.googleblog.com,2025-04-09:/en/agent-development-kit-easy-to-build-multi-agent-applications/</id>
-    <link href="https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【海外記事紹介】Webフロントエンド開発の新たな潮流となるか？Rust+WebAssemblyを使用する動きが加速中 — Amazon Prime Videoにおいて7.6倍のUIレイテンシ削減</title>
-    <updated>2025-04-09T21:26:06Z</updated>
-    <id>tag:techfeed.io,2025-04-09:/entries/67f6e5867566f20f76b047a9</id>
-    <link href="https://techfeed.io/entries/67f6e5867566f20f76b047a9" rel="alternate"></link>
+    <title>1:hatena_blog_it: 短期間だけ別チームで仕事をする「レンタル移籍」でソフトウェア開発の知識共有を促進！ ユーザベース独自のチーミング制度を体験ベースで紹介する - Agile Journey</title>
+    <updated>2025-04-10T02:00:06Z</updated>
+    <id>tag:agilejourney.uzabase.com,2025-04-10:/entry/2025/04/10/103000</id>
+    <link href="https://agilejourney.uzabase.com/entry/2025/04/10/103000" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: The Best Programmers I Know | Matthias Endler</title>
@@ -4414,28 +4384,28 @@
     <link href="https://endler.dev/2025/best-programmers/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Agent2Agent Protocol</title>
-    <updated>2025-04-09T13:29:03Z</updated>
-    <id>tag:google.github.io,2025-04-09:/A2A/</id>
-    <link href="https://google.github.io/A2A/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: これだけは知っておきたいクラス設計の基礎知識 version 2</title>
-    <updated>2025-04-09T06:13:39Z</updated>
-    <id>tag:speakerdeck.com,2025-04-09:/masuda220/software-design-class-versoin2</id>
-    <link href="https://speakerdeck.com/masuda220/software-design-class-versoin2" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 便利なMCP 2025年4月版 (もう古いコードの提案はしなくなるMCP他) - Qiita</title>
-    <updated>2025-04-08T10:35:06Z</updated>
-    <id>tag:qiita.com,2025-04-08:/masakinihirota/items/8971aa8ccead3193e77f</id>
-    <link href="https://qiita.com/masakinihirota/items/8971aa8ccead3193e77f" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 「型システムのしくみ」発売のお知らせ - まめめも</title>
     <updated>2025-04-09T21:42:50Z</updated>
     <id>tag:mametter.hatenablog.com,2025-04-09:/entry/2025/04/10/063009</id>
     <link href="https://mametter.hatenablog.com/entry/2025/04/10/063009" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Terraform設計ガイドライン | Future Enterprise Arch Guidelines</title>
+    <updated>2025-02-22T10:09:07Z</updated>
+    <id>tag:future-architect.github.io,2025-02-22:/arch-guidelines/documents/forTerraform/terraform_guidelines.html</id>
+    <link href="https://future-architect.github.io/arch-guidelines/documents/forTerraform/terraform_guidelines.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ETCシステム障害、復旧までに38時間かかった理由は“見込み違い”　作業完了後に障害拡大</title>
+    <updated>2025-04-10T03:23:58Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-10:/news/articles/2504/10/news117.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2504/10/news117.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「下手なホラーより怖いんだが？」NEXCO中日本で起きたETC障害、「原因不明」「人手によるデータ操作で応急措置」とエンジニアが見たらゾッとする内容</title>
+    <updated>2025-04-10T00:51:36Z</updated>
+    <id>tag:togetter.com,2025-04-10:/li/2536557</id>
+    <link href="https://togetter.com/li/2536557" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Text-to-SQLのコモディティ化とデータ活用の民主化 - satoshihirose.log</title>
@@ -4444,10 +4414,52 @@
     <link href="https://satoshihirose.hateblo.jp/entry/2025/04/09/155623" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Googleの新TPU「Ironwood」が登場。El Capitanを24倍上回る42.5EFLOPSを実現</title>
-    <updated>2025-04-09T14:44:18Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-04-09:/docs/news/2005379.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2005379.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Devinの衝撃、エンジニアの未来 - 弁護士ドットコム株式会社 Creators’ blog</title>
+    <updated>2025-04-07T08:53:59Z</updated>
+    <id>tag:creators.bengo4.com,2025-04-07:/entry/2025/04/07/070000</id>
+    <link href="https://creators.bengo4.com/entry/2025/04/07/070000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【海外記事紹介】Webフロントエンド開発の新たな潮流となるか？Rust+WebAssemblyを使用する動きが加速中 — Amazon Prime Videoにおいて7.6倍のUIレイテンシ削減</title>
+    <updated>2025-04-09T21:26:06Z</updated>
+    <id>tag:techfeed.io,2025-04-09:/entries/67f6e5867566f20f76b047a9</id>
+    <link href="https://techfeed.io/entries/67f6e5867566f20f76b047a9" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: [増田のやべーやつ番付]2025年4月場所</title>
+    <updated>2025-04-09T16:08:53Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-04-09:/20250410005723</id>
+    <link href="https://anond.hatelabo.jp/20250410005723" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「アメリカ製iPhone」は完全に机上の空論だとの指摘</title>
+    <updated>2025-04-09T03:49:36Z</updated>
+    <id>tag:gigazine.net,2025-04-09:/news/20250409-us-made-iphone-fantasy/</id>
+    <link href="https://gigazine.net/news/20250409-us-made-iphone-fantasy/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: au、日本全土をエリア化、衛星とスマホの直接通信サービス「au Starlink Direct」を提供開始 | KDDI News Room</title>
+    <updated>2025-04-10T02:39:44Z</updated>
+    <id>tag:newsroom.kddi.com,2025-04-10:/news/detail/kddi_nr-533_3815.html</id>
+    <link href="https://newsroom.kddi.com/news/detail/kddi_nr-533_3815.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「SaaS is Dead」時代のバックオフィスAI戦略――マネーフォワードの挑戦</title>
+    <updated>2025-04-09T23:57:36Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-09:/business/articles/2504/10/news075.html</id>
+    <link href="https://www.itmedia.co.jp/business/articles/2504/10/news075.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Windowsのタスクバーからアプリがあふれる問題に新解決策！ プレビュー版でテスト開始</title>
+    <updated>2025-04-09T23:27:28Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-04-09:/docs/news/insiderpre/2005111.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/insiderpre/2005111.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Kotlin、Swift、Rubyの人気が低迷中 — プログラミング言語最新人気ランキングにて</title>
+    <updated>2025-04-09T21:14:37Z</updated>
+    <id>tag:techfeed.io,2025-04-09:/entries/67f6e31d7566f20f76b04754</id>
+    <link href="https://techfeed.io/entries/67f6e31d7566f20f76b04754" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Cursorエディタとは？使い方や無料版でできることを解説</title>
@@ -4456,21 +4468,39 @@
     <link href="https://and-engineer.com/articles/Z6Hh-REAACcAuPSl" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Vibe Codingをせずに Clineを使っている</title>
-    <updated>2025-04-08T17:25:21Z</updated>
-    <id>tag:speakerdeck.com,2025-04-08:/watany/cline-without-vibe-coding</id>
-    <link href="https://speakerdeck.com/watany/cline-without-vibe-coding" rel="alternate"></link>
+    <title>1:hatena_blog_it: Agent Development Kit: Making it easy to build multi-agent applications- Google Developers Blog</title>
+    <updated>2025-04-09T18:25:21Z</updated>
+    <id>tag:developers.googleblog.com,2025-04-09:/en/agent-development-kit-easy-to-build-multi-agent-applications/</id>
+    <link href="https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: トランプ関税による値上げリスクはiPhoneだけではない。MacBook Proは77万円超えの大暴騰危機</title>
-    <updated>2025-04-05T11:06:18Z</updated>
-    <id>tag:gori.me,2025-04-05:/iphone/iphone-news/158842</id>
-    <link href="https://gori.me/iphone/iphone-news/158842" rel="alternate"></link>
+    <title>1:hatena_blog_it: Windows 11初回起動時のMSアカウント＋ネット接続を回避する新手法が見つかる | GetNavi web ゲットナビ</title>
+    <updated>2025-04-09T10:33:35Z</updated>
+    <id>tag:getnavi.jp,2025-04-09:/digital/1031482/</id>
+    <link href="https://getnavi.jp/digital/1031482/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: drawDB | Online database diagram editor and SQL generator</title>
-    <updated>2024-12-10T10:41:10Z</updated>
-    <id>tag:www.drawdb.app,2024-12-10:/</id>
-    <link href="https://www.drawdb.app/" rel="alternate"></link>
+    <title>1:hatena_blog_it: テキストをキレイに折り返す「text-wrap: pretty」を使うべき理由をSafariのWebkit開発チームが公式で解説</title>
+    <updated>2025-04-09T14:24:32Z</updated>
+    <id>tag:gigazine.net,2025-04-09:/news/20250409-safari-better-typography-text-wrap-pretty/</id>
+    <link href="https://gigazine.net/news/20250409-safari-better-typography-text-wrap-pretty/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub - google/A2A</title>
+    <updated>2025-04-09T13:38:27Z</updated>
+    <id>tag:github.com,2025-04-09:/google/A2A</id>
+    <link href="https://github.com/google/A2A" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 巨大球体Sphereで、1939年版『オズの魔法使』を16Kの没入体験に。Google CloudがAIで挑戦【西田宗千佳のRandomTracking】</title>
+    <updated>2025-04-09T23:24:05Z</updated>
+    <id>tag:av.watch.impress.co.jp,2025-04-09:/docs/series/rt/2005534.html</id>
+    <link href="https://av.watch.impress.co.jp/docs/series/rt/2005534.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Agent2Agent Protocol</title>
+    <updated>2025-04-09T13:29:03Z</updated>
+    <id>tag:google.github.io,2025-04-09:/A2A/</id>
+    <link href="https://google.github.io/A2A/" rel="alternate"></link>
   </entry>
 </feed>
