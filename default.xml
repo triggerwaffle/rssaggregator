@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-04-11T01:04:11Z</updated>
+  <updated>2025-04-11T06:19:29Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -118,16 +118,22 @@
     <link href="https://archlinux.org/news/mkinitcpio-hook-migration-and-early-microcode/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Storybook の情報を抜き出して MCP サーバにしてみる</title>
+    <updated>2025-04-11T00:43:48Z</updated>
+    <id>https://zenn.dev/layerx/articles/7e9f87fca65e94</id>
+    <link href="https://zenn.dev/layerx/articles/7e9f87fca65e94" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Next.jsでページ遷移時のインジケーターを表示する</title>
     <updated>2025-04-10T11:26:33Z</updated>
     <id>https://zenn.dev/moozaru/articles/7961da23195486</id>
     <link href="https://zenn.dev/moozaru/articles/7961da23195486" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: .clinerulesを導入して、開発効率を上げていきたい話</title>
-    <updated>2025-04-10T00:00:01Z</updated>
-    <id>https://zenn.dev/aldagram_tech/articles/alda-clinerules</id>
-    <link href="https://zenn.dev/aldagram_tech/articles/alda-clinerules" rel="alternate"></link>
+    <title>3:zenn_trend: GoogleアカウントでログインできるStreamlitアプリの開発方法と仕組みをわかりやすく解説</title>
+    <updated>2025-04-10T10:58:09Z</updated>
+    <id>https://zenn.dev/datum_studio/articles/c964f9e38379f4</id>
+    <link href="https://zenn.dev/datum_studio/articles/c964f9e38379f4" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Google Cloud Next '25 Keynote 速報まとめ</title>
@@ -140,6 +146,12 @@
     <updated>2025-04-09T19:45:01Z</updated>
     <id>https://zenn.dev/natsukium/articles/f010c1ec1c51b2</id>
     <link href="https://zenn.dev/natsukium/articles/f010c1ec1c51b2" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: ZodとNext.jsのRoute Handlersから型安全なAPIクライアントを生成する最強ライブラリ「FrourioNext」</title>
+    <updated>2025-04-09T10:19:10Z</updated>
+    <id>https://zenn.dev/solufa/articles/frourio-next-client</id>
+    <link href="https://zenn.dev/solufa/articles/frourio-next-client" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: PGlite + pgvector で100行で実装するベクトル検索 (node/deno/drizzle)</title>
@@ -226,18 +238,6 @@
     <link href="https://zenn.dev/enjapan/articles/bca0153009c7ef" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: SiteMCP: 任意のサイトを丸ごとMCPサーバー化</title>
-    <updated>2025-04-07T23:23:10Z</updated>
-    <id>https://zenn.dev/ryoppippi/articles/1eb7fbe9042a88</id>
-    <link href="https://zenn.dev/ryoppippi/articles/1eb7fbe9042a88" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 【RAG】文書をパラメータ化してLLMに直接注入する手法</title>
-    <updated>2025-04-07T23:00:01Z</updated>
-    <id>https://zenn.dev/knowledgesense/articles/4e6f5bf97d00d2</id>
-    <link href="https://zenn.dev/knowledgesense/articles/4e6f5bf97d00d2" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:qiita_trend: ワイ「AIちゃん！ワイのタスク全部やっといて！」#MCP</title>
     <updated>2025-04-09T00:32:41Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/2010606</id>
@@ -292,7 +292,7 @@
     <link href="https://qiita.com/s_w_high/items/4f97b569415ba32f7275?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 【ストック推奨・ライブ配信情報追加予定】パーソナライズドAIエージェントが切り拓くエンタメの新領域</title>
+    <title>3:qiita_trend: 【ライブ配信あり】パーソナライズドAIエージェントが切り拓くエンタメの新領域</title>
     <updated>2025-04-09T23:58:32Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/2000494</id>
     <link href="https://qiita.com/GIFCat/items/40cacc0da0c8606ab20b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
@@ -4324,10 +4324,10 @@
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202404/12?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ［作って学ぶ］OSのしくみⅠ──メモリ管理、マルチタスク、ハードウェア制御</title>
-    <updated>2025-04-10T08:07:09Z</updated>
-    <id>tag:gihyo.jp,2025-04-10:/book/2025/978-4-297-14859-1</id>
-    <link href="https://gihyo.jp/book/2025/978-4-297-14859-1" rel="alternate"></link>
+    <title>1:hatena_blog_it: 超高速SSDでもエクスプローラーでは速度が全然出ない？！50GB/s超の“実用速度”を実現するために何が必要だったのか「FastCopy」開発者に聞いてみた[Sponsored]</title>
+    <updated>2025-04-10T15:48:09Z</updated>
+    <id>tag:akiba-pc.watch.impress.co.jp,2025-04-10:/docs/topic/special/2005307.html</id>
+    <link href="https://akiba-pc.watch.impress.co.jp/docs/topic/special/2005307.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: MCPで飲み会番長をつくる - Qiita</title>
@@ -4336,22 +4336,10 @@
     <link href="https://qiita.com/Ruuchami/items/7ced2db49fb5c01d9611" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 超高速SSDでもエクスプローラーでは速度が全然出ない？！50GB/s超の“実用速度”を実現するために何が必要だったのか「FastCopy」開発者に聞いてみた[Sponsored]</title>
-    <updated>2025-04-10T15:48:09Z</updated>
-    <id>tag:akiba-pc.watch.impress.co.jp,2025-04-10:/docs/topic/special/2005307.html</id>
-    <link href="https://akiba-pc.watch.impress.co.jp/docs/topic/special/2005307.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: バリデーション解体新書 - kawasima</title>
     <updated>2025-04-10T04:06:32Z</updated>
     <id>tag:scrapbox.io,2025-04-10:/kawasima/バリデーション解体新書</id>
     <link href="https://scrapbox.io/kawasima/%E3%83%90%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A7%A3%E4%BD%93%E6%96%B0%E6%9B%B8" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIコードエディタCursor大活用！ ── Cursor Rules、MCP、エラー調査 - SmartHR Tech Blog</title>
-    <updated>2025-04-09T10:57:43Z</updated>
-    <id>tag:tech.smarthr.jp,2025-04-09:/entry/2025/04/09/193526</id>
-    <link href="https://tech.smarthr.jp/entry/2025/04/09/193526" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: TypeScript以外が嫌いです</title>
@@ -4360,28 +4348,28 @@
     <link href="https://zenn.dev/takoserver/articles/7a624e38285b16" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 大規模言語モデルは内部で 何をやっているのか？ 覗いて分かった奇妙な回路</title>
+    <updated>2025-04-11T00:05:59Z</updated>
+    <id>tag:www.technologyreview.jp,2025-04-11:/s/358515/anthropic-can-now-track-the-bizarre-inner-workings-of-a-large-language-model/</id>
+    <link href="https://www.technologyreview.jp/s/358515/anthropic-can-now-track-the-bizarre-inner-workings-of-a-large-language-model/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: AIシフト作成が実用レベルへ！Gemini2.5Proで実現する”ほぼ修正不要”のシフト表｜genkAIjokyo|ChatGPT/Claudeで論文作成と科研費申請</title>
     <updated>2025-04-06T13:24:20Z</updated>
     <id>tag:note.com,2025-04-06:/genkaijokyo/n/nba03625524b8</id>
     <link href="https://note.com/genkaijokyo/n/nba03625524b8" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: [みんなのケータイ]「iPhoneで録音 → 書き起こし → Apple Intelligence」で記事を書いてみる</title>
-    <updated>2025-04-10T15:24:53Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2025-04-10:/docs/column/minna/2005859.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/2005859.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIコードエディタCursor大活用！ ── Cursor Rules、MCP、エラー調査 - SmartHR Tech Blog</title>
+    <updated>2025-04-09T10:57:43Z</updated>
+    <id>tag:tech.smarthr.jp,2025-04-09:/entry/2025/04/09/193526</id>
+    <link href="https://tech.smarthr.jp/entry/2025/04/09/193526" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AI News</title>
-    <updated>2025-04-10T01:19:22Z</updated>
-    <id>tag:buttondown.com,2025-04-10:/ainews/archive/</id>
-    <link href="https://buttondown.com/ainews/archive/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「AIで宿題をサボる方法」を海外の学生に教えて感じた、効率化に対する意識の違い</title>
-    <updated>2025-04-10T12:02:19Z</updated>
-    <id>tag:shuchi.php.co.jp,2025-04-10:/article/12069</id>
-    <link href="https://shuchi.php.co.jp/article/12069" rel="alternate"></link>
+    <title>1:hatena_blog_it: 2025年4月セキュリティパッチをあてると、Cドライブ直下に「inetpub」という変なフォルダーが作成される／マルウェアのせいなどではなさそう【やじうまの杜】</title>
+    <updated>2025-04-11T00:58:41Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-04-11:/docs/serial/yajiuma/2005887.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2005887.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: グーグルやアマゾンなどIT大手で「大量解雇」、従来とは「まるで違う」ポイントとは？</title>
@@ -4390,28 +4378,52 @@
     <link href="https://www.sbbit.jp/article/fj/161755" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub Actions⇔AWS らくらく連携手順書♪ - Qiita</title>
-    <updated>2025-04-10T13:55:41Z</updated>
-    <id>tag:qiita.com,2025-04-10:/natsumi_a/items/11d22f4812fcbdc5f98d</id>
-    <link href="https://qiita.com/natsumi_a/items/11d22f4812fcbdc5f98d" rel="alternate"></link>
+    <title>1:hatena_blog_it: 開発者とアーキテクトのためのコミュニケーションガイド</title>
+    <updated>2025-04-10T06:59:01Z</updated>
+    <id>tag:www.oreilly.co.jp,2025-04-10://books/9784814401055/</id>
+    <link href="https://www.oreilly.co.jp//books/9784814401055/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Gitリポジトリ全体をテキスト化できるツール：「Gitingest」の紹介 | DevelopersIO</title>
-    <updated>2025-04-10T23:43:13Z</updated>
-    <id>tag:dev.classmethod.jp,2025-04-10:/articles/gitingest-introduction/</id>
-    <link href="https://dev.classmethod.jp/articles/gitingest-introduction/" rel="alternate"></link>
+    <title>1:hatena_blog_it: ワイ「AIちゃん！ワイのタスク全部やっといて！」#MCP - Qiita</title>
+    <updated>2025-04-10T05:18:56Z</updated>
+    <id>tag:qiita.com,2025-04-10:/Yametaro/items/255eea3124e769ce845c</id>
+    <link href="https://qiita.com/Yametaro/items/255eea3124e769ce845c" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: グーグルやアマゾンなどIT大手で「大量解雇」、従来とは「まるで違う」ポイントとは？（ビジネス＋IT） - Yahoo!ニュース</title>
-    <updated>2025-04-10T23:32:02Z</updated>
-    <id>tag:news.yahoo.co.jp,2025-04-10:/articles/1fcc0b3f0ff3ca6efabac8a8dad489a771558754</id>
-    <link href="https://news.yahoo.co.jp/articles/1fcc0b3f0ff3ca6efabac8a8dad489a771558754" rel="alternate"></link>
+    <title>1:hatena_blog_it: [みんなのケータイ]「iPhoneで録音 → 書き起こし → Apple Intelligence」で記事を書いてみる</title>
+    <updated>2025-04-10T15:24:53Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2025-04-10:/docs/column/minna/2005859.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/2005859.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 大規模言語モデルは内部で 何をやっているのか？ 覗いて分かった奇妙な回路</title>
-    <updated>2025-04-11T00:05:59Z</updated>
-    <id>tag:www.technologyreview.jp,2025-04-11:/s/358515/anthropic-can-now-track-the-bizarre-inner-workings-of-a-large-language-model/</id>
-    <link href="https://www.technologyreview.jp/s/358515/anthropic-can-now-track-the-bizarre-inner-workings-of-a-large-language-model/" rel="alternate"></link>
+    <title>1:hatena_blog_it: ［作って学ぶ］OSのしくみⅠ──メモリ管理、マルチタスク、ハードウェア制御</title>
+    <updated>2025-04-10T08:07:09Z</updated>
+    <id>tag:gihyo.jp,2025-04-10:/book/2025/978-4-297-14859-1</id>
+    <link href="https://gihyo.jp/book/2025/978-4-297-14859-1" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「AIで宿題をサボる方法」を海外の学生に教えて感じた、効率化に対する意識の違い</title>
+    <updated>2025-04-10T12:02:19Z</updated>
+    <id>tag:shuchi.php.co.jp,2025-04-10:/article/12069</id>
+    <link href="https://shuchi.php.co.jp/article/12069" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AI News</title>
+    <updated>2025-04-10T01:19:22Z</updated>
+    <id>tag:buttondown.com,2025-04-10:/ainews/archive/</id>
+    <link href="https://buttondown.com/ainews/archive/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIに指示するだけでウェブサイトを作れる「AI Website Builder」を使ってみた</title>
+    <updated>2025-04-10T17:28:46Z</updated>
+    <id>tag:gigazine.net,2025-04-10:/news/20250410-ai-website-builder/</id>
+    <link href="https://gigazine.net/news/20250410-ai-website-builder/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 1週間で120万人突破の「mixi2」──小規模チームで構築・運用を可能にしたNewSQL「TiDB」とは</title>
+    <updated>2025-04-11T03:10:05Z</updated>
+    <id>tag:codezine.jp,2025-04-11:/article/detail/21127</id>
+    <link href="https://codezine.jp/article/detail/21127" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 最高のプログラマーになるため必要な15の特性とは？</title>
@@ -4420,46 +4432,16 @@
     <link href="https://gigazine.net/news/20250411-best-programmers-15-characteristics/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: JaSST ‘25 Tokyo 参加レポート：「触れて語る」ことで築く品質文化 - Nealle Developer's Blog</title>
-    <updated>2025-04-11T00:55:51Z</updated>
-    <id>tag:nealle-dev.hatenablog.com,2025-04-11:/entry/2025/04/11/095537</id>
-    <link href="https://nealle-dev.hatenablog.com/entry/2025/04/11/095537" rel="alternate"></link>
+    <title>1:hatena_blog_it: Gitリポジトリ全体をテキスト化できるツール：「Gitingest」の紹介 | DevelopersIO</title>
+    <updated>2025-04-10T23:43:13Z</updated>
+    <id>tag:dev.classmethod.jp,2025-04-10:/articles/gitingest-introduction/</id>
+    <link href="https://dev.classmethod.jp/articles/gitingest-introduction/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 開発者とアーキテクトのためのコミュニケーションガイド</title>
-    <updated>2025-04-10T06:59:01Z</updated>
-    <id>tag:www.oreilly.co.jp,2025-04-10://books/9784814401055/</id>
-    <link href="https://www.oreilly.co.jp//books/9784814401055/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: The Best Programmers I Know | Matthias Endler</title>
-    <updated>2025-04-09T03:28:10Z</updated>
-    <id>tag:endler.dev,2025-04-09:/2025/best-programmers/</id>
-    <link href="https://endler.dev/2025/best-programmers/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Introducing Cogito Preview</title>
-    <updated>2025-04-09T20:24:17Z</updated>
-    <id>tag:www.deepcogito.com,2025-04-09:/research/cogito-v1-preview</id>
-    <link href="https://www.deepcogito.com/research/cogito-v1-preview" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【要チェックや！】今日は #フォントの日 ～新作のお披露目、旧作の無料配布など盛りだくさん／お気に入りのフォントを紹介しあったり、作品で使われているフォントの紹介、Tipsも【やじうまの杜】</title>
-    <updated>2025-04-10T09:07:12Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-04-10:/docs/serial/yajiuma/2005775.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2005775.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【Hothotレビュー】 上位機譲りの性能を優れたコスパで実現。新たな低価格機「Pixel 9a」を試す</title>
-    <updated>2025-04-10T15:05:45Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-04-10:/docs/column/hothot/2005507.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/hothot/2005507.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: テクウヨ（テック右翼・ITー牛）・AIアノン（AI信者）・テクアノンの実態 @ ウィキ【4/9更新】</title>
-    <updated>2025-04-10T07:28:20Z</updated>
-    <id>tag:w.atwiki.jp,2025-04-10:/techuyo/</id>
-    <link href="https://w.atwiki.jp/techuyo/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Flutter開発の真実：クロスプラットフォームの光と影 #Flutter #GameWith #TechWith - GameWith Developer Blog</title>
+    <updated>2025-04-10T04:28:07Z</updated>
+    <id>tag:tech.gamewith.co.jp,2025-04-10:/entry/2025/04/10/123859</id>
+    <link href="https://tech.gamewith.co.jp/entry/2025/04/10/123859" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: OOP: the worst thing that happened to programming</title>
@@ -4468,39 +4450,57 @@
     <link href="https://alexanderdanilov.dev/en/articles/oop?ref=dailydev" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Zod v4 で破壊的変更が入りそうな件</title>
-    <updated>2025-04-10T12:14:39Z</updated>
-    <id>tag:dev.inorinrinrin.com,2025-04-10:/blog/bd2a030a3c28daf4ac9b9dbf</id>
-    <link href="https://dev.inorinrinrin.com/blog/bd2a030a3c28daf4ac9b9dbf" rel="alternate"></link>
+    <title>1:hatena_blog_it: グーグルやアマゾンなどIT大手で「大量解雇」、従来とは「まるで違う」ポイントとは？（ビジネス＋IT） - Yahoo!ニュース</title>
+    <updated>2025-04-10T23:32:02Z</updated>
+    <id>tag:news.yahoo.co.jp,2025-04-10:/articles/1fcc0b3f0ff3ca6efabac8a8dad489a771558754</id>
+    <link href="https://news.yahoo.co.jp/articles/1fcc0b3f0ff3ca6efabac8a8dad489a771558754" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: TOHOシネマズの“6回見たら1回タダ”終了へ　「シネマイレージ」26年春にリニューアル</title>
-    <updated>2025-04-10T09:05:57Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-04-10:/news/articles/2504/10/news163.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2504/10/news163.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: ChatGPTが全チャット履歴を参照できるようになったので、今後の活動方針を相談してみた（CloseBox） | テクノエッジ TechnoEdge</title>
+    <updated>2025-04-10T23:44:13Z</updated>
+    <id>tag:www.techno-edge.net,2025-04-10:/article/2025/04/11/4268.html</id>
+    <link href="https://www.techno-edge.net/article/2025/04/11/4268.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Googleが推論モデルの処理に最適化した第7世代TPU「Ironwood」を発表、1チップ当たり192GBのメモリを搭載し1ポッド当たりの性能は最強スパコン「El Capitan」の24倍以上</title>
-    <updated>2025-04-10T05:49:29Z</updated>
-    <id>tag:gigazine.net,2025-04-10:/news/20250410-google-tpu-7gen-ironwood-inference/</id>
-    <link href="https://gigazine.net/news/20250410-google-tpu-7gen-ironwood-inference/" rel="alternate"></link>
+    <title>1:hatena_blog_it: IIJmio「ギガプラン」改定の効果は「狙い通り」、プランの抜本改定は「検討の余地あり」　キーパーソンに聞く</title>
+    <updated>2025-04-11T03:04:42Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-11:/mobile/articles/2504/11/news117.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2504/11/news117.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 新種の寄生虫を発見　和名「イカチュウチュウ」　OIST研究チームが発表</title>
-    <updated>2025-04-10T06:23:58Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-04-10:/news/articles/2504/10/news140.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2504/10/news140.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: JR東日本の顔認証改札に思うこと【鈴木淳也のPay Attention】</title>
+    <updated>2025-04-10T23:48:14Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-04-10:/docs/series/suzukij/2005876.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/series/suzukij/2005876.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【非エンジニア向け】Cursor活用ガイド　入門編 ~ "AIと一緒に作る"が実現する業務効率化｜chihaya</title>
-    <updated>2025-04-10T00:54:48Z</updated>
-    <id>tag:note.com,2025-04-10:/chihaya_ak/n/n14aca7991694</id>
-    <link href="https://note.com/chihaya_ak/n/n14aca7991694" rel="alternate"></link>
+    <title>1:hatena_blog_it: GitHub Actions⇔AWS らくらく連携手順書♪ - Qiita</title>
+    <updated>2025-04-10T13:55:41Z</updated>
+    <id>tag:qiita.com,2025-04-10:/natsumi_a/items/11d22f4812fcbdc5f98d</id>
+    <link href="https://qiita.com/natsumi_a/items/11d22f4812fcbdc5f98d" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 実在する発信者番号を偽装した着信電話への対応について ～ 電気通信事業者協会 | ScanNetSecurity</title>
-    <updated>2025-04-07T23:48:20Z</updated>
-    <id>tag:scan.netsecurity.ne.jp,2025-04-07:/article/2025/04/08/52636.html</id>
-    <link href="https://scan.netsecurity.ne.jp/article/2025/04/08/52636.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Windows 11スタートメニュー。リニューアルで使いやすくなりそう</title>
+    <updated>2025-04-11T02:55:45Z</updated>
+    <id>tag:www.gizmodo.jp,2025-04-11:/2025/04/windows-11.html</id>
+    <link href="https://www.gizmodo.jp/2025/04/windows-11.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 転職選考の前半でやらかした失敗7選 - Panda Noir</title>
+    <updated>2025-04-10T15:47:16Z</updated>
+    <id>tag:www.pandanoir.info,2025-04-10:/entry/2025/04/10/232110</id>
+    <link href="https://www.pandanoir.info/entry/2025/04/10/232110" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【Hothotレビュー】 上位機譲りの性能を優れたコスパで実現。新たな低価格機「Pixel 9a」を試す</title>
+    <updated>2025-04-10T15:05:45Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-04-10:/docs/column/hothot/2005507.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/hothot/2005507.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: なぜ私たちは、飲食店経営を選んだのか。「ワインと鍋」×「猫廼舎」エンジニアふたりの異色キャリア論 - Findy Engineer Lab</title>
+    <updated>2025-04-10T23:32:51Z</updated>
+    <id>tag:findy-code.io,2025-04-10:/engineer-lab/winenabe-cafenekonoya</id>
+    <link href="https://findy-code.io/engineer-lab/winenabe-cafenekonoya" rel="alternate"></link>
   </entry>
 </feed>
