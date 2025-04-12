@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-04-12T01:03:08Z</updated>
+  <updated>2025-04-12T06:17:06Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2740,6 +2740,18 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: python-polling</title>
+    <updated>2025-04-12T04:09:51Z</updated>
+    <id>python-polling-1744430991</id>
+    <link href="https://aur.archlinux.org/packages/python-polling" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: cookiecloud-api-git</title>
+    <updated>2025-04-12T02:49:19Z</updated>
+    <id>cookiecloud-api-git-1744426159</id>
+    <link href="https://aur.archlinux.org/packages/cookiecloud-api-git" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: xcursor-samtoki-genshin-impact</title>
     <updated>2025-04-12T00:35:54Z</updated>
     <id>xcursor-samtoki-genshin-impact-1744418154</id>
@@ -3328,315 +3340,303 @@
     <link href="https://aur.archlinux.org/packages/lib32-gst-plugin-gopbuffer" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: lib32-gst-plugin-gtk4</title>
-    <updated>2025-04-09T11:42:19Z</updated>
-    <id>lib32-gst-plugin-gtk4-1744198939</id>
-    <link href="https://aur.archlinux.org/packages/lib32-gst-plugin-gtk4" rel="alternate"></link>
+    <title>2:archlinux_new_packages: haskell-gi-gtk 4.0.9-1 x86_64</title>
+    <updated>2025-04-12T05:55:37Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-gi-gtk/202504120555</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-gi-gtk/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: lib32-gst-plugin-hlssink3</title>
-    <updated>2025-04-09T11:42:19Z</updated>
-    <id>lib32-gst-plugin-hlssink3-1744198939</id>
-    <link href="https://aur.archlinux.org/packages/lib32-gst-plugin-hlssink3" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mighttpd2 4.0.3-207 x86_64</title>
-    <updated>2025-04-11T23:52:37Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/mighttpd2/202504112352</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/mighttpd2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-atomic-write 0.2.1.1-1 x86_64</title>
-    <updated>2025-04-11T23:52:37Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/haskell-atomic-write/202504112352</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-atomic-write/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dhall-yaml 1.2.12-20 x86_64</title>
-    <updated>2025-04-11T23:52:36Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/dhall-yaml/202504112352</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dhall-yaml/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dhall-lsp-server 1.1.3-84 x86_64</title>
-    <updated>2025-04-11T23:52:36Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/dhall-lsp-server/202504112352</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dhall-lsp-server/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dhall-json 1.7.12-18 x86_64</title>
-    <updated>2025-04-11T23:52:35Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/dhall-json/202504112352</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dhall-json/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dhall-docs 1.0.12-6 x86_64</title>
-    <updated>2025-04-11T23:52:35Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/dhall-docs/202504112352</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dhall-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dhall-bash 1.0.41-19 x86_64</title>
-    <updated>2025-04-11T23:52:34Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/dhall-bash/202504112352</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dhall-bash/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dhall 1.42.1-17 x86_64</title>
-    <updated>2025-04-11T23:52:34Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/dhall/202504112352</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dhall/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-ci 0.16.2-15 x86_64</title>
-    <updated>2025-04-11T23:13:04Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/haskell-ci/202504112313</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-ci/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mediawiki 1.43.1-1 any</title>
-    <updated>2025-04-11T23:13:01Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/any/mediawiki/202504112313</id>
-    <link href="https://archlinux.org/packages/extra/any/mediawiki/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: iso-codes 4.18.0-1 any</title>
-    <updated>2025-04-11T23:05:30Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/any/iso-codes/202504112305</id>
-    <link href="https://archlinux.org/packages/extra/any/iso-codes/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xmonad-utils 0.1.3.3-269 x86_64</title>
-    <updated>2025-04-11T22:03:31Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/xmonad-utils/202504112203</id>
+    <title>2:archlinux_new_packages: xmonad-utils 0.1.3.3-270 x86_64</title>
+    <updated>2025-04-12T05:27:08Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/xmonad-utils/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/xmonad-utils/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: xmonad-extras 0.17.2-55 x86_64</title>
-    <updated>2025-04-11T22:03:31Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/xmonad-extras/202504112203</id>
+    <title>2:archlinux_new_packages: xmonad-extras 0.17.2-56 x86_64</title>
+    <updated>2025-04-12T05:27:08Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/xmonad-extras/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/xmonad-extras/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: xmonad-dbus 0.1.0.2-113 x86_64</title>
-    <updated>2025-04-11T22:03:31Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/xmonad-dbus/202504112203</id>
+    <title>2:archlinux_new_packages: xmonad-dbus 0.1.0.2-114 x86_64</title>
+    <updated>2025-04-12T05:27:07Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/xmonad-dbus/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/xmonad-dbus/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: xmonad-contrib 0.18.1-36 x86_64</title>
-    <updated>2025-04-11T22:03:30Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/xmonad-contrib/202504112203</id>
+    <title>2:archlinux_new_packages: xmonad-contrib 0.18.1-37 x86_64</title>
+    <updated>2025-04-12T05:27:07Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/xmonad-contrib/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/xmonad-contrib/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: xmonad 0.18.0-51 x86_64</title>
-    <updated>2025-04-11T22:03:30Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/xmonad/202504112203</id>
+    <title>2:archlinux_new_packages: xmonad 0.18.0-52 x86_64</title>
+    <updated>2025-04-12T05:27:06Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/xmonad/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/xmonad/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: xmobar 0.49-25 x86_64</title>
-    <updated>2025-04-11T22:03:29Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/xmobar/202504112203</id>
+    <title>2:archlinux_new_packages: xmobar 0.49-26 x86_64</title>
+    <updated>2025-04-12T05:27:06Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/xmobar/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/xmobar/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: uusi 0.4.3.0-66 x86_64</title>
-    <updated>2025-04-11T22:03:29Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/uusi/202504112203</id>
+    <title>2:archlinux_new_packages: uusi 0.4.3.0-68 x86_64</title>
+    <updated>2025-04-12T05:27:06Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/uusi/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/uusi/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: tamarin-prover 1.10.0-59 x86_64</title>
-    <updated>2025-04-11T22:03:28Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/tamarin-prover/202504112203</id>
+    <title>2:archlinux_new_packages: tamarin-prover 1.10.0-60 x86_64</title>
+    <updated>2025-04-12T05:27:05Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/tamarin-prover/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/tamarin-prover/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: taffybar 4.0.3-68 x86_64</title>
-    <updated>2025-04-11T22:03:28Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/taffybar/202504112203</id>
+    <title>2:archlinux_new_packages: taffybar 4.0.3-69 x86_64</title>
+    <updated>2025-04-12T05:27:05Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/taffybar/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/taffybar/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: stylish-haskell 0.14.4.0-13 x86_64</title>
-    <updated>2025-04-11T22:03:28Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/stylish-haskell/202504112203</id>
+    <title>2:archlinux_new_packages: stylish-haskell 0.14.4.0-14 x86_64</title>
+    <updated>2025-04-12T05:27:04Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/stylish-haskell/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/stylish-haskell/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: stack 2.9.1-139 x86_64</title>
-    <updated>2025-04-11T22:03:27Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/stack/202504112203</id>
+    <title>2:archlinux_new_packages: stack 2.9.1-140 x86_64</title>
+    <updated>2025-04-12T05:27:04Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/stack/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/stack/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: shellcheck 0.10.0-48 x86_64</title>
-    <updated>2025-04-11T22:03:27Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/shellcheck/202504112203</id>
+    <title>2:archlinux_new_packages: shellcheck 0.10.0-49 x86_64</title>
+    <updated>2025-04-12T05:27:03Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/shellcheck/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/shellcheck/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: postgrest 10.0.0-337 x86_64</title>
-    <updated>2025-04-11T22:03:26Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/postgrest/202504112203</id>
+    <title>2:archlinux_new_packages: postgrest 10.0.0-338 x86_64</title>
+    <updated>2025-04-12T05:27:03Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/postgrest/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/postgrest/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: pandoc-plot 1.9.1-58 x86_64</title>
-    <updated>2025-04-11T22:03:26Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/pandoc-plot/202504112203</id>
+    <title>2:archlinux_new_packages: pandoc-plot 1.9.1-59 x86_64</title>
+    <updated>2025-04-12T05:27:03Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/pandoc-plot/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/pandoc-plot/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: pandoc-crossref 0.3.18.2-32 x86_64</title>
-    <updated>2025-04-11T22:03:25Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/pandoc-crossref/202504112203</id>
+    <title>2:archlinux_new_packages: pandoc-crossref 0.3.18.2-33 x86_64</title>
+    <updated>2025-04-12T05:27:02Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/pandoc-crossref/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/pandoc-crossref/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: pandoc-cli 3.1.12.1-59 x86_64</title>
-    <updated>2025-04-11T22:03:25Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/pandoc-cli/202504112203</id>
+    <title>2:archlinux_new_packages: pandoc-cli 3.1.12.1-60 x86_64</title>
+    <updated>2025-04-12T05:27:02Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/pandoc-cli/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/pandoc-cli/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: misfortune 0.1.2.1-76 x86_64</title>
-    <updated>2025-04-11T22:03:25Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/misfortune/202504112203</id>
+    <title>2:archlinux_new_packages: misfortune 0.1.2.1-77 x86_64</title>
+    <updated>2025-04-12T05:27:01Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/misfortune/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/misfortune/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: kmonad 0.4.3-40 x86_64</title>
-    <updated>2025-04-11T22:03:24Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/kmonad/202504112203</id>
+    <title>2:archlinux_new_packages: mighttpd2 4.0.3-208 x86_64</title>
+    <updated>2025-04-12T05:27:01Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/mighttpd2/202504120527</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/mighttpd2/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: kmonad 0.4.3-41 x86_64</title>
+    <updated>2025-04-12T05:27:00Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/kmonad/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/kmonad/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: ihaskell 0.11.0.0-3 x86_64</title>
-    <updated>2025-04-11T22:03:23Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/ihaskell/202504112203</id>
+    <title>2:archlinux_new_packages: ihaskell 0.11.0.0-4 x86_64</title>
+    <updated>2025-04-12T05:27:00Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/ihaskell/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/ihaskell/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: idris 1.3.4-294 x86_64</title>
-    <updated>2025-04-11T22:03:23Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/idris/202504112203</id>
+    <title>2:archlinux_new_packages: idris 1.3.4-295 x86_64</title>
+    <updated>2025-04-12T05:27:00Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/idris/202504120527</id>
     <link href="https://archlinux.org/packages/extra/x86_64/idris/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hslua-cli 1.4.2-2 x86_64</title>
-    <updated>2025-04-11T22:03:23Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/hslua-cli/202504112203</id>
+    <title>2:archlinux_new_packages: hslua-cli 1.4.2-3 x86_64</title>
+    <updated>2025-04-12T05:26:59Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/hslua-cli/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/hslua-cli/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hopenpgp-tools 0.23.7-302 x86_64</title>
-    <updated>2025-04-11T22:03:22Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/hopenpgp-tools/202504112203</id>
+    <title>2:archlinux_new_packages: hopenpgp-tools 0.23.7-303 x86_64</title>
+    <updated>2025-04-12T05:26:59Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/hopenpgp-tools/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/hopenpgp-tools/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hoogle 5.0.18.4-102 x86_64</title>
-    <updated>2025-04-11T22:03:22Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/hoogle/202504112203</id>
+    <title>2:archlinux_new_packages: hoogle 5.0.18.4-103 x86_64</title>
+    <updated>2025-04-12T05:26:58Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/hoogle/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/hoogle/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hlint 3.5-12 x86_64</title>
-    <updated>2025-04-11T22:03:21Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/hlint/202504112203</id>
+    <title>2:archlinux_new_packages: hlint 3.5-13 x86_64</title>
+    <updated>2025-04-12T05:26:58Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/hlint/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/hlint/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hledger-web 1.32.1-170 x86_64</title>
-    <updated>2025-04-11T22:03:21Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/hledger-web/202504112203</id>
+    <title>2:archlinux_new_packages: hledger-web 1.32.1-171 x86_64</title>
+    <updated>2025-04-12T05:26:57Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/hledger-web/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/hledger-web/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hledger-ui 1.32.1-148 x86_64</title>
-    <updated>2025-04-11T22:03:20Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/hledger-ui/202504112203</id>
+    <title>2:archlinux_new_packages: hledger-ui 1.32.1-149 x86_64</title>
+    <updated>2025-04-12T05:26:57Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/hledger-ui/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/hledger-ui/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hledger-iadd 1.3.20-106 x86_64</title>
-    <updated>2025-04-11T22:03:20Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/hledger-iadd/202504112203</id>
+    <title>2:archlinux_new_packages: hledger-iadd 1.3.20-107 x86_64</title>
+    <updated>2025-04-12T05:26:57Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/hledger-iadd/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/hledger-iadd/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hledger 1.32.1-134 x86_64</title>
-    <updated>2025-04-11T22:03:20Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/hledger/202504112203</id>
+    <title>2:archlinux_new_packages: hledger 1.32.1-135 x86_64</title>
+    <updated>2025-04-12T05:26:56Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/hledger/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/hledger/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hindent 5.3.4-198 x86_64</title>
-    <updated>2025-04-11T22:03:19Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/hindent/202504112203</id>
+    <title>2:archlinux_new_packages: hindent 5.3.4-199 x86_64</title>
+    <updated>2025-04-12T05:26:56Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/hindent/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/hindent/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hedgewars 1.0.2-141 x86_64</title>
-    <updated>2025-04-11T22:03:19Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/hedgewars/202504112203</id>
+    <title>2:archlinux_new_packages: hedgewars 1.0.2-142 x86_64</title>
+    <updated>2025-04-12T05:26:55Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/hedgewars/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/hedgewars/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hasktags 0.73.0-45 x86_64</title>
-    <updated>2025-04-11T22:03:18Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/hasktags/202504112203</id>
+    <title>2:archlinux_new_packages: hasktags 0.73.0-46 x86_64</title>
+    <updated>2025-04-12T05:26:55Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/hasktags/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/hasktags/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: haskell-zlib-bindings 0.1.1.5-178 x86_64</title>
-    <updated>2025-04-11T22:03:18Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/haskell-zlib-bindings/202504112203</id>
+    <title>2:archlinux_new_packages: haskell-zlib-bindings 0.1.1.5-179 x86_64</title>
+    <updated>2025-04-12T05:26:54Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-zlib-bindings/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/haskell-zlib-bindings/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: haskell-zlib 0.6.3.0-80 x86_64</title>
-    <updated>2025-04-11T22:03:17Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/haskell-zlib/202504112203</id>
+    <title>2:archlinux_new_packages: haskell-zlib 0.6.3.0-81 x86_64</title>
+    <updated>2025-04-12T05:26:54Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-zlib/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/haskell-zlib/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: haskell-zip-archive 0.4.3.2-22 x86_64</title>
-    <updated>2025-04-11T22:03:17Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/haskell-zip-archive/202504112203</id>
+    <title>2:archlinux_new_packages: haskell-zip-archive 0.4.3.2-23 x86_64</title>
+    <updated>2025-04-12T05:26:54Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-zip-archive/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/haskell-zip-archive/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: haskell-zinza 0.2-218 x86_64</title>
-    <updated>2025-04-11T22:03:17Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/haskell-zinza/202504112203</id>
+    <title>2:archlinux_new_packages: haskell-zinza 0.2-219 x86_64</title>
+    <updated>2025-04-12T05:26:53Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-zinza/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/haskell-zinza/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: haskell-zeromq4-haskell 0.8.0-66 x86_64</title>
-    <updated>2025-04-11T22:03:16Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/haskell-zeromq4-haskell/202504112203</id>
+    <title>2:archlinux_new_packages: haskell-zeromq4-haskell 0.8.0-67 x86_64</title>
+    <updated>2025-04-12T05:26:53Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-zeromq4-haskell/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/haskell-zeromq4-haskell/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: haskell-zenc 0.1.2-188 x86_64</title>
-    <updated>2025-04-11T22:03:16Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/haskell-zenc/202504112203</id>
+    <title>2:archlinux_new_packages: haskell-zenc 0.1.2-189 x86_64</title>
+    <updated>2025-04-12T05:26:52Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-zenc/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/haskell-zenc/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: haskell-yi-rope 0.11-27 x86_64</title>
-    <updated>2025-04-11T22:03:15Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/haskell-yi-rope/202504112203</id>
+    <title>2:archlinux_new_packages: haskell-yi-rope 0.11-28 x86_64</title>
+    <updated>2025-04-12T05:26:52Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-yi-rope/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/haskell-yi-rope/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: haskell-yesod-test 1.6.16-135 x86_64</title>
-    <updated>2025-04-11T22:03:15Z</updated>
-    <id>tag:archlinux.org,2025-04-11:/packages/extra/x86_64/haskell-yesod-test/202504112203</id>
+    <title>2:archlinux_new_packages: haskell-yesod-test 1.6.16-136 x86_64</title>
+    <updated>2025-04-12T05:26:52Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-yesod-test/202504120526</id>
     <link href="https://archlinux.org/packages/extra/x86_64/haskell-yesod-test/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-yesod-static 1.6.1.0-804 x86_64</title>
+    <updated>2025-04-12T05:26:51Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-yesod-static/202504120526</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-yesod-static/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-yesod-persistent 1.6.0.8-352 x86_64</title>
+    <updated>2025-04-12T05:26:51Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-yesod-persistent/202504120526</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-yesod-persistent/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-yesod-form 1.7.6-166 x86_64</title>
+    <updated>2025-04-12T05:26:50Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-yesod-form/202504120526</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-yesod-form/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-yesod-core 1.6.26.0-72 x86_64</title>
+    <updated>2025-04-12T05:26:50Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-yesod-core/202504120526</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-yesod-core/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-yesod-auth 1.6.11.3-100 x86_64</title>
+    <updated>2025-04-12T05:26:50Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-yesod-auth/202504120526</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-yesod-auth/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-yesod 1.6.2.1-290 x86_64</title>
+    <updated>2025-04-12T05:26:49Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-yesod/202504120526</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-yesod/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-yaml 0.11.11.2-98 x86_64</title>
+    <updated>2025-04-12T05:26:49Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-yaml/202504120526</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-yaml/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-xss-sanitize 0.3.7.2-46 x86_64</title>
+    <updated>2025-04-12T05:26:48Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-xss-sanitize/202504120526</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-xss-sanitize/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-xmlgen 0.6.2.2-103 x86_64</title>
+    <updated>2025-04-12T05:26:48Z</updated>
+    <id>tag:archlinux.org,2025-04-12:/packages/extra/x86_64/haskell-xmlgen/202504120526</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-xmlgen/" rel="alternate"></link>
   </entry>
 </feed>

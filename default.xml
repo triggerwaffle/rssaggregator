@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-04-12T01:03:08Z</updated>
+  <updated>2025-04-12T06:17:06Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -868,7 +868,13 @@
     <link href="https://atmarkit.itmedia.co.jp/ait/articles/2401/29/news053.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:arco_linux_youtube: Arco : 4468 Farewell to ArcoLinux and all its projects</title>
+    <title>3:arco_linux_youtube: Arco Final : 4469 Lets change ArcoLinux into Arch Linux - just type update and analyze</title>
+    <updated>2025-04-12T06:03:21Z</updated>
+    <id>yt:video:C1DxoqDsIwo</id>
+    <link href="https://www.youtube.com/watch?v=C1DxoqDsIwo" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:arco_linux_youtube: Arco Final : 4468 Farewell to ArcoLinux and all its projects</title>
     <updated>2025-04-11T18:39:10Z</updated>
     <id>yt:video:_NMQ_-77JRM</id>
     <link href="https://www.youtube.com/watch?v=_NMQ_-77JRM" rel="alternate"></link>
@@ -950,12 +956,6 @@
     <updated>2025-03-18T08:24:58Z</updated>
     <id>yt:video:sLZLtDg4tZQ</id>
     <link href="https://www.youtube.com/watch?v=sLZLtDg4tZQ" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:arco_linux_youtube: Arco : 4454 How to build ArcoPlasma ISO - adding packages - removing packages - 1/3</title>
-    <updated>2025-03-18T08:13:29Z</updated>
-    <id>yt:video:LRlHFaUZNeA</id>
-    <link href="https://www.youtube.com/watch?v=LRlHFaUZNeA" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:publickey: ［速報］Google Cloudが「Agent Development Kit」をオープンソースで公開へ。100行以下のコードでMCPやガードレールを備えたエージェントを開発可能</title>
@@ -4324,16 +4324,10 @@
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202404/12?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 昔のアニメとかでよく「こうやってテープを読む科学者」が出てきましたが、実際に読める物なんでしょうか？→古の技術を「読める」という報告例が続々</title>
-    <updated>2025-04-11T13:13:09Z</updated>
-    <id>tag:togetter.com,2025-04-11:/li/2537197</id>
-    <link href="https://togetter.com/li/2537197" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: .mdc駆動ナレッジマネジメント/.mdc-driven knowledge management</title>
-    <updated>2025-04-11T09:58:56Z</updated>
-    <id>tag:speakerdeck.com,2025-04-11:/yodakeisuke/dot-mdc-driven-knowledge-management</id>
-    <link href="https://speakerdeck.com/yodakeisuke/dot-mdc-driven-knowledge-management" rel="alternate"></link>
+    <title>1:hatena_blog_it: 300戦256敗、史上最弱、当て馬と呼ばれるも「異常なディフェンス技術」で新人たちにプロの洗礼を浴びせ、「教授」と称えられたプロボクサーの話</title>
+    <updated>2025-04-11T19:13:07Z</updated>
+    <id>tag:togetter.com,2025-04-11:/li/2537171</id>
+    <link href="https://togetter.com/li/2537171" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【山田祥平のRe:config.sys】 フォントが変われば世界の見え方も変わる</title>
@@ -4342,16 +4336,130 @@
     <link href="https://pc.watch.impress.co.jp/docs/column/config/2006241.html" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: MCPサーバーを安全に動かすための工夫</title>
+    <updated>2025-04-11T15:59:37Z</updated>
+    <id>tag:blog.lai.so,2025-04-11:/crashing-mcp-server/</id>
+    <link href="https://blog.lai.so/crashing-mcp-server/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 昔のアニメとかでよく「こうやってテープを読む科学者」が出てきましたが、実際に読める物なんでしょうか？→古の技術を「読める」という報告例が続々</title>
+    <updated>2025-04-11T13:13:09Z</updated>
+    <id>tag:togetter.com,2025-04-11:/li/2537197</id>
+    <link href="https://togetter.com/li/2537197" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 次のMCP？？A2Aはなんですか</title>
+    <updated>2025-04-11T17:45:14Z</updated>
+    <id>tag:zenn.dev,2025-04-11:/wooheum/articles/8f1da485810b42</id>
+    <link href="https://zenn.dev/wooheum/articles/8f1da485810b42" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AI エージェント新時代到来 A2A protocol を試してみた #GoogleCloudNext | DevelopersIO</title>
+    <updated>2025-04-11T22:04:00Z</updated>
+    <id>tag:dev.classmethod.jp,2025-04-11:/articles/ai-a2a-protocol-googlecloudnext/</id>
+    <link href="https://dev.classmethod.jp/articles/ai-a2a-protocol-googlecloudnext/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 20GBで月額1200円、使わない月は119円になるデータ専用eSIM/SIM「ネットだけプラン」、日本通信が提供開始　</title>
+    <updated>2025-04-11T09:56:38Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2025-04-11:/docs/news/2006168.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/news/2006168.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 50人の組織でAIエージェントを使う文化を作るためには / How to Create a Culture of Using AI Agents in a 50-Person Organization</title>
+    <updated>2025-04-11T11:51:38Z</updated>
+    <id>tag:speakerdeck.com,2025-04-11:/yuitosato/how-to-create-a-culture-of-using-ai-agents-in-a-50-person-organization</id>
+    <link href="https://speakerdeck.com/yuitosato/how-to-create-a-culture-of-using-ai-agents-in-a-50-person-organization" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: .mdc駆動ナレッジマネジメント/.mdc-driven knowledge management</title>
+    <updated>2025-04-11T09:58:56Z</updated>
+    <id>tag:speakerdeck.com,2025-04-11:/yodakeisuke/dot-mdc-driven-knowledge-management</id>
+    <link href="https://speakerdeck.com/yodakeisuke/dot-mdc-driven-knowledge-management" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ClineとAWS Bedrockでのコード開発入門 - Context管理とモデル比較の検証 | DevelopersIO</title>
+    <updated>2025-04-11T11:09:30Z</updated>
+    <id>tag:dev.classmethod.jp,2025-04-11:/articles/cline-context-model-guide/</id>
+    <link href="https://dev.classmethod.jp/articles/cline-context-model-guide/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「ChatGPT」で過去の全会話を記憶可能に--パーソナルアシスタント化を加速</title>
+    <updated>2025-04-11T03:58:33Z</updated>
+    <id>tag:japan.zdnet.com,2025-04-11:/article/35231637/</id>
+    <link href="https://japan.zdnet.com/article/35231637/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: WordPress 6.8で気になる新機能・ブロックエディター周りのアレコレ</title>
+    <updated>2025-04-11T21:39:22Z</updated>
+    <id>tag:www.vektor-inc.co.jp,2025-04-11:/post/wordpress-6-8-dev-note-note/</id>
+    <link href="https://www.vektor-inc.co.jp/post/wordpress-6-8-dev-note-note/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: Docker、新しいVisual Studio Code拡張機能「Docker DX」を発表／言語サーバーもオープンソースで</title>
     <updated>2025-04-11T07:37:15Z</updated>
     <id>tag:forest.watch.impress.co.jp,2025-04-11:/docs/news/2005946.html</id>
     <link href="https://forest.watch.impress.co.jp/docs/news/2005946.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 300戦256敗、史上最弱、当て馬と呼ばれるも「異常なディフェンス技術」で新人たちにプロの洗礼を浴びせ、「教授」と称えられたプロボクサーの話</title>
-    <updated>2025-04-11T19:13:07Z</updated>
-    <id>tag:togetter.com,2025-04-11:/li/2537171</id>
-    <link href="https://togetter.com/li/2537171" rel="alternate"></link>
+    <title>1:hatena_blog_it: アニメ主人公になりきり好きなシーンを生成しながら無限に遊べるゲームAI「AnimeGamer」、写真内の人物を映像化できる「DreamActor-M1」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
+    <updated>2025-04-11T05:32:51Z</updated>
+    <id>tag:www.techno-edge.net,2025-04-11:/article/2025/04/11/4269.html</id>
+    <link href="https://www.techno-edge.net/article/2025/04/11/4269.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【JavaScript】MDNが推奨する最強の書き方 - Qiita</title>
+    <updated>2025-04-11T05:03:56Z</updated>
+    <id>tag:qiita.com,2025-04-11:/TechForGood/items/0cc492ea3f8f3d6638e7</id>
+    <link href="https://qiita.com/TechForGood/items/0cc492ea3f8f3d6638e7" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Spotifyを英語の勉強に役立てる方法　ポッドキャストの文字起こしを活用</title>
+    <updated>2025-04-11T22:35:17Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-11:/mobile/articles/2504/12/news067.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2504/12/news067.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Google、Pixel Watch とバンドの掃除方法を公開</title>
+    <updated>2025-04-11T04:00:46Z</updated>
+    <id>tag:helentech.jp,2025-04-11:/news-64265/</id>
+    <link href="https://helentech.jp/news-64265/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AI検索時代のマーケティングは総力戦？ SEOのプロが語る今後3年間で必要な戦略と対策</title>
+    <updated>2025-04-11T09:57:50Z</updated>
+    <id>tag:markezine.jp,2025-04-11:/article/detail/48708</id>
+    <link href="https://markezine.jp/article/detail/48708" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: NPUをフルに使ってローカルでAI画像生成する「Image Creator」／CPUやGPUにはほとんど負荷をかけずに1枚数秒程度で画像を生成可能【使ってわかるCopilot+ PC】</title>
+    <updated>2025-04-10T22:56:14Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-04-10:/docs/serial/usecopilotpc/2005724.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2005724.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 6種類あるAWSのコンテナプラットフォーム、どう使い分けるか</title>
+    <updated>2025-04-10T22:02:16Z</updated>
+    <id>tag:xtech.nikkei.com,2025-04-10:/atcl/nxt/column/18/03144/040200005/</id>
+    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/03144/040200005/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIを使うと仕事が楽しくなる。日本HPから1kg切りのRyzen AI 300搭載ノート</title>
+    <updated>2025-04-11T13:09:05Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-04-11:/docs/news/2006179.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2006179.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Simple, scalable, and global: Containers are coming to Cloudflare Workers in June 2025</title>
+    <updated>2025-04-11T14:19:23Z</updated>
+    <id>tag:blog.cloudflare.com,2025-04-11:/cloudflare-containers-coming-2025/</id>
+    <link href="https://blog.cloudflare.com/cloudflare-containers-coming-2025/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AI Coding Meetup #1 を開催しました #aicoding - LayerX エンジニアブログ</title>
+    <updated>2025-04-10T08:37:07Z</updated>
+    <id>tag:tech.layerx.co.jp,2025-04-10:/entry/2025/04/10/172743</id>
+    <link href="https://tech.layerx.co.jp/entry/2025/04/10/172743" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ワイ「AIちゃん！ワイのタスク全部やっといて！」#MCP - Qiita</title>
@@ -4366,108 +4474,6 @@
     <link href="https://codezine.jp/article/detail/21127" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「ChatGPT」で過去の全会話を記憶可能に--パーソナルアシスタント化を加速</title>
-    <updated>2025-04-11T03:58:33Z</updated>
-    <id>tag:japan.zdnet.com,2025-04-11:/article/35231637/</id>
-    <link href="https://japan.zdnet.com/article/35231637/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【JavaScript】MDNが推奨する最強の書き方 - Qiita</title>
-    <updated>2025-04-11T05:03:56Z</updated>
-    <id>tag:qiita.com,2025-04-11:/TechForGood/items/0cc492ea3f8f3d6638e7</id>
-    <link href="https://qiita.com/TechForGood/items/0cc492ea3f8f3d6638e7" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ソニー、世界最小・最軽量で高い測距性能、ドローンにも搭載できるLiDARデプスセンサー</title>
-    <updated>2025-04-11T03:46:28Z</updated>
-    <id>tag:av.watch.impress.co.jp,2025-04-11:/docs/news/2005903.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/news/2005903.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Simple, scalable, and global: Containers are coming to Cloudflare Workers in June 2025</title>
-    <updated>2025-04-11T14:19:23Z</updated>
-    <id>tag:blog.cloudflare.com,2025-04-11:/cloudflare-containers-coming-2025/</id>
-    <link href="https://blog.cloudflare.com/cloudflare-containers-coming-2025/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI エージェント新時代到来 A2A protocol を試してみた #GoogleCloudNext | DevelopersIO</title>
-    <updated>2025-04-11T22:04:00Z</updated>
-    <id>tag:dev.classmethod.jp,2025-04-11:/articles/ai-a2a-protocol-googlecloudnext/</id>
-    <link href="https://dev.classmethod.jp/articles/ai-a2a-protocol-googlecloudnext/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: アニメ主人公になりきり好きなシーンを生成しながら無限に遊べるゲームAI「AnimeGamer」、写真内の人物を映像化できる「DreamActor-M1」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
-    <updated>2025-04-11T05:32:51Z</updated>
-    <id>tag:www.techno-edge.net,2025-04-11:/article/2025/04/11/4269.html</id>
-    <link href="https://www.techno-edge.net/article/2025/04/11/4269.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI Coding Meetup #1 を開催しました #aicoding - LayerX エンジニアブログ</title>
-    <updated>2025-04-10T08:37:07Z</updated>
-    <id>tag:tech.layerx.co.jp,2025-04-10:/entry/2025/04/10/172743</id>
-    <link href="https://tech.layerx.co.jp/entry/2025/04/10/172743" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 20GBで月額1200円、使わない月は119円になるデータ専用eSIM/SIM「ネットだけプラン」、日本通信が提供開始　</title>
-    <updated>2025-04-11T09:56:38Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2025-04-11:/docs/news/2006168.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2006168.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ClineとAWS Bedrockでのコード開発入門 - Context管理とモデル比較の検証 | DevelopersIO</title>
-    <updated>2025-04-11T11:09:30Z</updated>
-    <id>tag:dev.classmethod.jp,2025-04-11:/articles/cline-context-model-guide/</id>
-    <link href="https://dev.classmethod.jp/articles/cline-context-model-guide/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIを使うと仕事が楽しくなる。日本HPから1kg切りのRyzen AI 300搭載ノート</title>
-    <updated>2025-04-11T13:09:05Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-04-11:/docs/news/2006179.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2006179.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 10km先のスマホにBluetoothで直接つながる「Dimensity 9400+」。AI/ゲーミング性能も強化</title>
-    <updated>2025-04-11T05:36:58Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-04-11:/docs/news/2006012.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2006012.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ChatGPTが「すべての会話履歴を参照」可能に、メモリ大幅強化でパーソナルなAIへ</title>
-    <updated>2025-04-11T00:27:29Z</updated>
-    <id>tag:japan.cnet.com,2025-04-11:/article/35231641/</id>
-    <link href="https://japan.cnet.com/article/35231641/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: LinuxがDockerからPodmanに向かうわけ｜谷山 亮治</title>
-    <updated>2025-04-10T22:30:28Z</updated>
-    <id>tag:note.com,2025-04-10:/taniy/n/n45daa8dc5adb</id>
-    <link href="https://note.com/taniy/n/n45daa8dc5adb" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: React Three Fiber入門 - ReactとThree.jsで始める3D表現 - ICS MEDIA</title>
-    <updated>2025-04-11T05:15:18Z</updated>
-    <id>tag:ics.media,2025-04-11:/entry/250410/</id>
-    <link href="https://ics.media/entry/250410/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 技術広報をやめて、プロジェクトマネージャーにチャレンジします（転職ではない） - Money Forward Developers Blog</title>
-    <updated>2025-04-11T09:52:19Z</updated>
-    <id>tag:moneyforward-dev.jp,2025-04-11:/entry/2025/04/11/180000</id>
-    <link href="https://moneyforward-dev.jp/entry/2025/04/11/180000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 全員必読！ 内閣サイバーセキュリティセンター「インターネットの安全・安心ハンドブック」最新版が登場【読めば身に付くネットリテラシー】</title>
-    <updated>2025-04-10T23:22:19Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2025-04-10:/docs/column/netliteracy/2004137.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/column/netliteracy/2004137.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: NotebookLMとは？　調査系AIエージェントの使い方、実例付きで解説　仕事や勉強にも活用可能</title>
-    <updated>2025-04-11T04:29:59Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-04-11:/aiplus/articles/2504/11/news051.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2504/11/news051.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: On the Biology of a Large Language Model</title>
     <updated>2025-04-11T05:26:58Z</updated>
     <id>tag:transformer-circuits.pub,2025-04-11:/2025/attribution-graphs/biology.html</id>
@@ -4480,21 +4486,9 @@
     <link href="https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2005813.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 6種類あるAWSのコンテナプラットフォーム、どう使い分けるか</title>
-    <updated>2025-04-10T22:02:16Z</updated>
-    <id>tag:xtech.nikkei.com,2025-04-10:/atcl/nxt/column/18/03144/040200005/</id>
-    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/03144/040200005/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 大規模言語モデルは内部で 何をやっているのか？ 覗いて分かった奇妙な回路</title>
-    <updated>2025-04-11T00:05:59Z</updated>
-    <id>tag:www.technologyreview.jp,2025-04-11:/s/358515/anthropic-can-now-track-the-bizarre-inner-workings-of-a-large-language-model/</id>
-    <link href="https://www.technologyreview.jp/s/358515/anthropic-can-now-track-the-bizarre-inner-workings-of-a-large-language-model/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Cloud Service Mesh for Cloud Run で実現する PR 環境 - newmo 技術ブログ</title>
-    <updated>2025-04-11T07:55:12Z</updated>
-    <id>tag:tech.newmo.me,2025-04-11:/entry/2025/04/11/165239</id>
-    <link href="https://tech.newmo.me/entry/2025/04/11/165239" rel="alternate"></link>
+    <title>1:hatena_blog_it: ソニー、世界最小・最軽量で高い測距性能、ドローンにも搭載できるLiDARデプスセンサー</title>
+    <updated>2025-04-11T03:46:28Z</updated>
+    <id>tag:av.watch.impress.co.jp,2025-04-11:/docs/news/2005903.html</id>
+    <link href="https://av.watch.impress.co.jp/docs/news/2005903.html" rel="alternate"></link>
   </entry>
 </feed>
