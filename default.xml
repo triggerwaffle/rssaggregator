@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-04-18T01:04:03Z</updated>
+  <updated>2025-04-18T06:19:20Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -124,6 +124,12 @@
     <link href="https://archlinux.org/news/the-xz-package-has-been-backdoored/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 個人的 Vibe Coding のやりかた</title>
+    <updated>2025-04-17T23:29:11Z</updated>
+    <id>https://zenn.dev/yoshiko/articles/my-vibe-coding</id>
+    <link href="https://zenn.dev/yoshiko/articles/my-vibe-coding" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Notionで手軽にMarkdownを読み書きできるMCPサーバー「NotionMCP Light」を作りました</title>
     <updated>2025-04-17T02:50:05Z</updated>
     <id>https://zenn.dev/mkj/articles/10985561e37846</id>
@@ -136,22 +142,28 @@
     <link href="https://zenn.dev/schroneko/articles/codex-prompting-guide" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: Figma-MCPでフロント爆速開発を試してみた！</title>
-    <updated>2025-04-17T00:00:01Z</updated>
-    <id>https://zenn.dev/asuene/articles/6b34efb03e2425</id>
-    <link href="https://zenn.dev/asuene/articles/6b34efb03e2425" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: Gitless GitOpsとは何か？OCI中心のセキュアな新構成</title>
     <updated>2025-04-17T00:00:01Z</updated>
     <id>https://zenn.dev/cadp/articles/gitless-gitops-intro</id>
     <link href="https://zenn.dev/cadp/articles/gitless-gitops-intro" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Figma-MCPでフロント爆速開発を試してみた！</title>
+    <updated>2025-04-17T00:00:01Z</updated>
+    <id>https://zenn.dev/asuene/articles/6b34efb03e2425</id>
+    <link href="https://zenn.dev/asuene/articles/6b34efb03e2425" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: レンダラを作るためのメモ その2 - ヤコビアン・半球上の立体角での積分</title>
     <updated>2025-04-16T23:29:16Z</updated>
     <id>https://zenn.dev/matcha_choco010/articles/2025-04-17-renderer-memo-2</id>
     <link href="https://zenn.dev/matcha_choco010/articles/2025-04-17-renderer-memo-2" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Goが好きです。</title>
+    <updated>2025-04-16T23:00:01Z</updated>
+    <id>https://zenn.dev/urakawa_jinsei/articles/6a4444d78c1300</id>
+    <link href="https://zenn.dev/urakawa_jinsei/articles/6a4444d78c1300" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: JetBrains IDEs Go AI: JetBrainsの大規模AIアップデート</title>
@@ -212,18 +224,6 @@
     <updated>2025-04-15T04:41:24Z</updated>
     <id>https://zenn.dev/knowledgework/articles/9c3f33732a0754</id>
     <link href="https://zenn.dev/knowledgework/articles/9c3f33732a0754" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 【LLMは無料で使え！】OpenRouterのススメ【CLINEにも！】</title>
-    <updated>2025-04-15T02:14:28Z</updated>
-    <id>https://zenn.dev/asap/articles/5cda4576fbe7cb</id>
-    <link href="https://zenn.dev/asap/articles/5cda4576fbe7cb" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: RAGで文書を圧縮して速度を５倍にする手法</title>
-    <updated>2025-04-15T01:00:01Z</updated>
-    <id>https://zenn.dev/knowledgesense/articles/67e05b874cef74</id>
-    <link href="https://zenn.dev/knowledgesense/articles/67e05b874cef74" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 最小限のPython MCPサーバを作ってLLMを騙してみる</title>
@@ -4360,16 +4360,10 @@
     <link href="https://dev.classmethod.jp/articles/vs-code-copilot-features/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: FigmaデザインをHTMLコードへ自動変換する方法 - GMOインターネットグループ グループ研究開発本部</title>
-    <updated>2025-04-12T13:09:22Z</updated>
-    <id>tag:recruit.gmo.jp,2025-04-12:/engineer/jisedai/blog/figma-design-to-html-using-figma-mcp-and-roo-code/</id>
-    <link href="https://recruit.gmo.jp/engineer/jisedai/blog/figma-design-to-html-using-figma-mcp-and-roo-code/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「叩き台」をつくるひとが組織を変える｜うっしー</title>
-    <updated>2025-04-17T11:17:38Z</updated>
-    <id>tag:note.com,2025-04-17:/sudo5in5k/n/n48d2b9fc600e</id>
-    <link href="https://note.com/sudo5in5k/n/n48d2b9fc600e" rel="alternate"></link>
+    <title>1:hatena_blog_it: 増田45歳、最後のチャンスを逃す。</title>
+    <updated>2025-04-18T01:24:47Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-04-18:/20250418102107</id>
+    <link href="https://anond.hatelabo.jp/20250418102107" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 本庁～ガバクラ（AWS）間の業者間調整がなんとかなった話｜Kazuya</title>
@@ -4378,52 +4372,16 @@
     <link href="https://note.com/403404/n/n733233fca382" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 研究者向けの技術研修資料を公開します | | AI tech studio</title>
-    <updated>2025-04-17T08:26:52Z</updated>
-    <id>tag:cyberagent.ai,2025-04-17:/blog/research/20228/</id>
-    <link href="https://cyberagent.ai/blog/research/20228/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「叩き台」をつくるひとが組織を変える｜うっしー</title>
+    <updated>2025-04-17T11:17:38Z</updated>
+    <id>tag:note.com,2025-04-17:/sudo5in5k/n/n48d2b9fc600e</id>
+    <link href="https://note.com/sudo5in5k/n/n48d2b9fc600e" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 個人的 Vibe Coding のやりかた</title>
-    <updated>2025-04-17T23:42:56Z</updated>
-    <id>tag:zenn.dev,2025-04-17:/yoshiko/articles/my-vibe-coding</id>
-    <link href="https://zenn.dev/yoshiko/articles/my-vibe-coding" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「アマプラのEDを自動で飛ばす機能どうにかしてほしい」との呟きになんとかする方法をAmazon公式が解答、「本当にほしい機能はこう」との要望も</title>
-    <updated>2025-04-17T05:52:01Z</updated>
-    <id>tag:togetter.com,2025-04-17:/li/2539558</id>
-    <link href="https://togetter.com/li/2539558" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: “AI研究者”向けの研修資料、サイバーエージェントが無料公開　PythonやVSCode、論文の書き方まで網羅</title>
-    <updated>2025-04-17T08:26:36Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-04-17:/aiplus/articles/2504/17/news144.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2504/17/news144.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 無料ウェブサービスに落とし穴 設定ミスで個人情報閲覧も | NHK</title>
-    <updated>2025-04-17T09:57:48Z</updated>
-    <id>tag:www3.nhk.or.jp,2025-04-17:/news/html/20250417/k10014781801000.html</id>
-    <link href="https://www3.nhk.or.jp/news/html/20250417/k10014781801000.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 画面仕様書への静的検査器を実装したらたくさんの欠陥を発見できた話 - DeNA Testing Blog</title>
-    <updated>2025-04-17T00:19:01Z</updated>
-    <id>tag:swet.dena.com,2025-04-17:/entry/2025/04/17/093000</id>
-    <link href="https://swet.dena.com/entry/2025/04/17/093000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: イーロン・マスクはSF小説を未来の青写真とするべきではない…それは社会の不安を反映していることが多い | Business Insider Japan</title>
-    <updated>2025-04-17T12:17:02Z</updated>
-    <id>tag:www.businessinsider.jp,2025-04-17:/article/2504-elon-musk-sci-fi-plans-china-mieville/</id>
-    <link href="https://www.businessinsider.jp/article/2504-elon-musk-sci-fi-plans-china-mieville/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI中毒になりかけた</title>
-    <updated>2025-04-17T10:25:41Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-04-17:/20250417191818</id>
-    <link href="https://anond.hatelabo.jp/20250417191818" rel="alternate"></link>
+    <title>1:hatena_blog_it: FigmaデザインをHTMLコードへ自動変換する方法 - GMOインターネットグループ グループ研究開発本部</title>
+    <updated>2025-04-12T13:09:22Z</updated>
+    <id>tag:recruit.gmo.jp,2025-04-12:/engineer/jisedai/blog/figma-design-to-html-using-figma-mcp-and-roo-code/</id>
+    <link href="https://recruit.gmo.jp/engineer/jisedai/blog/figma-design-to-html-using-figma-mcp-and-roo-code/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: SSL/TLS証明書の有効期間が47日に短縮、2026年から段階的に実施</title>
@@ -4432,52 +4390,10 @@
     <link href="https://news.mynavi.jp/techplus/article/20250417-3190551/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ソフトウェア開発会社の倒産</title>
-    <updated>2025-04-17T12:16:58Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-04-17:/20250417211354</id>
-    <link href="https://anond.hatelabo.jp/20250417211354" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ドコモメールで「保護」したメールが勝手に削除される不具合　12年間で約32万人に影響　「復元は困難」</title>
-    <updated>2025-04-17T12:03:17Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-04-17:/news/articles/2504/17/news168.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2504/17/news168.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ツールチップの実装に役立つ！ HTMLの新属性popover="hint"の使い方 - ICS MEDIA</title>
-    <updated>2025-04-17T05:38:34Z</updated>
-    <id>tag:ics.media,2025-04-17:/entry/250417/</id>
-    <link href="https://ics.media/entry/250417/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: マイナンバーの未来？ポーランドのスーパーアプリ｢mObywatel｣</title>
-    <updated>2025-04-17T12:11:20Z</updated>
-    <id>tag:www.gizmodo.jp,2025-04-17:/2025/04/mobywatel.html</id>
-    <link href="https://www.gizmodo.jp/2025/04/mobywatel.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: DNSのセキュリティでNIST文書改訂--「目を向けてほしい」とInfobloxの専門家</title>
-    <updated>2025-04-17T04:33:07Z</updated>
-    <id>tag:japan.zdnet.com,2025-04-17:/article/35231896/</id>
-    <link href="https://japan.zdnet.com/article/35231896/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: エンジニア育成現場の「失敗」集めてみた。 42の失敗事例で学ぶマネジメントのうまい進めかた | 翔泳社</title>
-    <updated>2025-04-13T05:39:07Z</updated>
-    <id>tag:www.shoeisha.co.jp,2025-04-13:/book/detail/9784798189666</id>
-    <link href="https://www.shoeisha.co.jp/book/detail/9784798189666" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 米匿名画像掲示板「4chan」がダウン、何者かがハッキングした可能性　内部情報や個人情報なども漏えいか</title>
-    <updated>2025-04-17T23:38:05Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-04-17:/news/articles/2504/18/news095.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2504/18/news095.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 公金口座約2万件を誤停止　デジタル庁、利用再開手続きへ（共同通信） - Yahoo!ニュース</title>
-    <updated>2025-04-17T10:41:42Z</updated>
-    <id>tag:news.yahoo.co.jp,2025-04-17:/articles/a977cddc2526e4fae9c02a180b58ddd7524d2f3c</id>
-    <link href="https://news.yahoo.co.jp/articles/a977cddc2526e4fae9c02a180b58ddd7524d2f3c" rel="alternate"></link>
+    <title>1:hatena_blog_it: 研究者向けの技術研修資料を公開します | | AI tech studio</title>
+    <updated>2025-04-17T08:26:52Z</updated>
+    <id>tag:cyberagent.ai,2025-04-17:/blog/research/20228/</id>
+    <link href="https://cyberagent.ai/blog/research/20228/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Geminiの有料版を使う上で、個人アカウントでGemini Advancedを契約すると月2900円ですが、Google WorkspaceからBusiness Standardプランを契約すると同じ内容を月1800円で使える話</title>
@@ -4486,45 +4402,129 @@
     <link href="https://posfie.com/@taimport/p/uDlZ8EL" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ABEJA、「GPT-4o」性能上回るAIモデル - 日本経済新聞</title>
-    <updated>2025-04-17T10:39:33Z</updated>
-    <id>tag:www.nikkei.com,2025-04-17:/article/DGXZQOUC1769L0X10C25A4000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC1769L0X10C25A4000000/" rel="alternate"></link>
+    <title>1:hatena_blog_it: “AI研究者”向けの研修資料、サイバーエージェントが無料公開　PythonやVSCode、論文の書き方まで網羅</title>
+    <updated>2025-04-17T08:26:36Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-17:/aiplus/articles/2504/17/news144.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2504/17/news144.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ハッカー集団アノニマスがロシアに大規模サイバー攻撃を仕掛け政治情勢やロシア寄り当局者情報など合計10TBの情報をネットに放出</title>
-    <updated>2025-04-17T05:25:54Z</updated>
-    <id>tag:gigazine.net,2025-04-17:/news/20250417-anonymous-released-10tb-russian-data/</id>
-    <link href="https://gigazine.net/news/20250417-anonymous-released-10tb-russian-data/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 米匿名画像掲示板「4chan」がダウン、何者かがハッキングした可能性　内部情報や個人情報なども漏えいか</title>
+    <updated>2025-04-17T23:38:05Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-17:/news/articles/2504/18/news095.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2504/18/news095.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: NTTドコモ 保護設定メール 不具合で誤って削除 32万人余に影響 | NHK</title>
-    <updated>2025-04-17T09:17:36Z</updated>
-    <id>tag:www3.nhk.or.jp,2025-04-17:/news/html/20250417/k10014782031000.html</id>
-    <link href="https://www3.nhk.or.jp/news/html/20250417/k10014782031000.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: AI中毒になりかけた</title>
+    <updated>2025-04-17T10:25:41Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-04-17:/20250417191818</id>
+    <link href="https://anond.hatelabo.jp/20250417191818" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Cursor開発を高速化する10のテクニック</title>
-    <updated>2025-04-17T05:11:14Z</updated>
-    <id>tag:zenn.dev,2025-04-17:/kaho_network/articles/0ee02da5070184</id>
-    <link href="https://zenn.dev/kaho_network/articles/0ee02da5070184" rel="alternate"></link>
+    <title>1:hatena_blog_it: 裁判で勝てる確率、生成AIが訴状から予測　リーガルAIが開発 - 日本経済新聞</title>
+    <updated>2025-04-17T21:02:55Z</updated>
+    <id>tag:www.nikkei.com,2025-04-17:/article/DGXZQOUC10BSJ0Q5A410C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC10BSJ0Q5A410C2000000/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「逆転裁判」でOpenAI-o1、Gemini 2.5 Pro、Claude 3.7 Sonnet、Llama-4 Maverickの推論能力を検証する</title>
-    <updated>2025-04-17T10:05:52Z</updated>
-    <id>tag:gigazine.net,2025-04-17:/news/20250417-ai-plays-ace-attorney/</id>
-    <link href="https://gigazine.net/news/20250417-ai-plays-ace-attorney/" rel="alternate"></link>
+    <title>1:hatena_blog_it: ソフトウェア開発会社の倒産</title>
+    <updated>2025-04-17T12:16:58Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-04-17:/20250417211354</id>
+    <link href="https://anond.hatelabo.jp/20250417211354" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「やりたいこと」×「向いていること」は最強の武器になる。あなたの「得意なこと」を見つける思考 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習</title>
-    <updated>2025-04-14T15:09:15Z</updated>
-    <id>tag:studyhacker.net,2025-04-14:/madoka-sawa-interview501</id>
-    <link href="https://studyhacker.net/madoka-sawa-interview501" rel="alternate"></link>
+    <title>1:hatena_blog_it: “認知症”リスクが20％減──「帯状疱疹ワクチン」接種が認知症発症に与える影響　28万人以上を調査</title>
+    <updated>2025-04-17T23:31:01Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-17:/news/articles/2504/18/news075.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2504/18/news075.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub - humanlayer/12-factor-agents: What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?</title>
-    <updated>2025-04-12T08:00:55Z</updated>
-    <id>tag:github.com,2025-04-12:/humanlayer/12-factor-agents</id>
-    <link href="https://github.com/humanlayer/12-factor-agents" rel="alternate"></link>
+    <title>1:hatena_blog_it: ネット証券口座の“不正取引”は6社3312件に拡大　約506億円分の株式が勝手に売られ、中国株など買われる──金融庁まとめ</title>
+    <updated>2025-04-18T03:25:33Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-18:/news/articles/2504/18/news142.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2504/18/news142.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Cursor AgentによるパーソナルAIアシスタント育成入門―業務のプロンプト化・MCPの活用</title>
+    <updated>2025-04-17T14:09:48Z</updated>
+    <id>tag:speakerdeck.com,2025-04-17:/os1ma/cursor-agentniyorupasonaruaiasisutantoyu-cheng-ru-men-ye-wu-nopuronputohua-mcpnohuo-yong</id>
+    <link href="https://speakerdeck.com/os1ma/cursor-agentniyorupasonaruaiasisutantoyu-cheng-ru-men-ye-wu-nopuronputohua-mcpnohuo-yong" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: イーロン・マスクはSF小説を未来の青写真とするべきではない…それは社会の不安を反映していることが多い | Business Insider Japan</title>
+    <updated>2025-04-17T12:17:02Z</updated>
+    <id>tag:www.businessinsider.jp,2025-04-17:/article/2504-elon-musk-sci-fi-plans-china-mieville/</id>
+    <link href="https://www.businessinsider.jp/article/2504-elon-musk-sci-fi-plans-china-mieville/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2025年4月よりActiveXが既定無効、Microsoft 365のWord、Excel、PowerPoint、Visioで／「ActiveXを有効にしろ」はすべて詐欺です</title>
+    <updated>2025-04-18T00:43:21Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-04-18:/docs/news/2007891.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2007891.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: エンジニア育成現場の「失敗」集めてみた。 42の失敗事例で学ぶマネジメントのうまい進めかた | 翔泳社</title>
+    <updated>2025-04-13T05:39:07Z</updated>
+    <id>tag:www.shoeisha.co.jp,2025-04-13:/book/detail/9784798189666</id>
+    <link href="https://www.shoeisha.co.jp/book/detail/9784798189666" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: DNSのセキュリティでNIST文書改訂--「目を向けてほしい」とInfobloxの専門家</title>
+    <updated>2025-04-17T04:33:07Z</updated>
+    <id>tag:japan.zdnet.com,2025-04-17:/article/35231896/</id>
+    <link href="https://japan.zdnet.com/article/35231896/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: マイナンバーの未来？ポーランドのスーパーアプリ｢mObywatel｣</title>
+    <updated>2025-04-17T12:11:20Z</updated>
+    <id>tag:www.gizmodo.jp,2025-04-17:/2025/04/mobywatel.html</id>
+    <link href="https://www.gizmodo.jp/2025/04/mobywatel.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: [iPhone駆け込み寺] 「Apple Intelligence」ガッツリレビュー、iPhoneやiPadで何ができる？</title>
+    <updated>2025-04-17T15:14:39Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2025-04-17:/docs/review/iphonetips/2007335.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/review/iphonetips/2007335.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 無料ウェブサービスに落とし穴 設定ミスで個人情報閲覧も | NHK</title>
+    <updated>2025-04-17T09:57:48Z</updated>
+    <id>tag:www3.nhk.or.jp,2025-04-17:/news/html/20250417/k10014781801000.html</id>
+    <link href="https://www3.nhk.or.jp/news/html/20250417/k10014781801000.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 前澤友作氏や石破首相のフェイク動画を使った投資詐欺へ誘導するネット広告が氾濫！【読めば身に付くネットリテラシー】</title>
+    <updated>2025-04-17T22:10:49Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2025-04-17:/docs/column/netliteracy/2006647.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/column/netliteracy/2006647.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2025 業務アプリ向け WinForms モダンUIテンプレート（MVPパターン対応） - Qiita</title>
+    <updated>2025-04-17T10:27:44Z</updated>
+    <id>tag:qiita.com,2025-04-17:/masayahak/items/abf639991e4501ca18e0</id>
+    <link href="https://qiita.com/masayahak/items/abf639991e4501ca18e0" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「アマプラのEDを自動で飛ばす機能どうにかしてほしい」との呟きになんとかする方法をAmazon公式が解答、「本当にほしい機能はこう」との要望も</title>
+    <updated>2025-04-17T05:52:01Z</updated>
+    <id>tag:togetter.com,2025-04-17:/li/2539558</id>
+    <link href="https://togetter.com/li/2539558" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 新Linuxカーネル解読室 - タスクスケジューラ (その2) - EEVDF - VA Linux エンジニアブログ</title>
+    <updated>2025-04-17T02:04:43Z</updated>
+    <id>tag:valinux.hatenablog.com,2025-04-17:/entry/20250417</id>
+    <link href="https://valinux.hatenablog.com/entry/20250417" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: さくらのクラウドのSDK開発エンジニアとしてジョイン。中川真宏にインタビュー | さくマガ</title>
+    <updated>2025-04-18T00:28:18Z</updated>
+    <id>tag:sakumaga.sakura.ad.jp,2025-04-18:/entry/nakagawamasahiro/</id>
+    <link href="https://sakumaga.sakura.ad.jp/entry/nakagawamasahiro/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: アニメ「Ave Mujica」制作の舞台裏――監督と制作会社代表に聞く、フル3DCGと内製化がもたらしたもの</title>
+    <updated>2025-04-18T02:10:41Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-18:/news/articles/2504/18/news111.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2504/18/news111.html" rel="alternate"></link>
   </entry>
 </feed>
