@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-04-19T12:22:56Z</updated>
+  <updated>2025-04-19T18:16:40Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2776,6 +2776,18 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: hyprproxlock</title>
+    <updated>2025-04-19T16:01:44Z</updated>
+    <id>hyprproxlock-1745078504</id>
+    <link href="https://aur.archlinux.org/packages/hyprproxlock" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: hyprproxlock-git</title>
+    <updated>2025-04-19T12:46:25Z</updated>
+    <id>hyprproxlock-git-1745066785</id>
+    <link href="https://aur.archlinux.org/packages/hyprproxlock-git" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: alistral</title>
     <updated>2025-04-19T11:19:02Z</updated>
     <id>alistral-1745061542</id>
@@ -3364,16 +3376,112 @@
     <link href="https://aur.archlinux.org/packages/equicord-hook" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: linux-arctis-manager</title>
-    <updated>2025-04-15T20:42:44Z</updated>
-    <id>linux-arctis-manager-1744749764</id>
-    <link href="https://aur.archlinux.org/packages/linux-arctis-manager" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-eventlet 0.39.1-1 any</title>
+    <updated>2025-04-19T18:06:24Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/any/python-eventlet/202504191806</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-eventlet/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: nexus-cli</title>
-    <updated>2025-04-15T19:59:44Z</updated>
-    <id>nexus-cli-1744747184</id>
-    <link href="https://aur.archlinux.org/packages/nexus-cli" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-aiohttp 3.11.16-1 x86_64</title>
+    <updated>2025-04-19T17:27:34Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/x86_64/python-aiohttp/202504191727</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-aiohttp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-yarl 1.20.0-1 x86_64</title>
+    <updated>2025-04-19T17:23:22Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/x86_64/python-yarl/202504191723</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-yarl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-aiosignal 1.3.2-1 any</title>
+    <updated>2025-04-19T17:23:22Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/any/python-aiosignal/202504191723</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-aiosignal/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-aiohappyeyeballs 2.6.1-1 any</title>
+    <updated>2025-04-19T17:23:21Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/any/python-aiohappyeyeballs/202504191723</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-aiohappyeyeballs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-frozenlist 1.6.0-1 x86_64</title>
+    <updated>2025-04-19T17:20:46Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/x86_64/python-frozenlist/202504191720</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-frozenlist/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: tty-solitaire 1.4.1-1 x86_64</title>
+    <updated>2025-04-19T16:11:37Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra/x86_64/tty-solitaire/202504191611</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/tty-solitaire/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: jedi-language-server 0.45.0-1 any</title>
+    <updated>2025-04-19T16:11:36Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra/any/jedi-language-server/202504191611</id>
+    <link href="https://archlinux.org/packages/extra/any/jedi-language-server/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: eslint 9.25.0-1 any</title>
+    <updated>2025-04-19T16:11:36Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra/any/eslint/202504191611</id>
+    <link href="https://archlinux.org/packages/extra/any/eslint/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ibus-typing-booster 2.27.36-1 any</title>
+    <updated>2025-04-19T15:52:05Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra/any/ibus-typing-booster/202504191552</id>
+    <link href="https://archlinux.org/packages/extra/any/ibus-typing-booster/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-setuptools 1:78.1.0-2 any</title>
+    <updated>2025-04-19T15:46:57Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra/any/python-setuptools/202504191546</id>
+    <link href="https://archlinux.org/packages/extra/any/python-setuptools/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: plasma-applets-weather-widget-3 3.0.4-2 x86_64</title>
+    <updated>2025-04-19T15:43:53Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra/x86_64/plasma-applets-weather-widget-3/202504191543</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/plasma-applets-weather-widget-3/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-propcache 0.3.1-1 x86_64</title>
+    <updated>2025-04-19T15:43:50Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/x86_64/python-propcache/202504191543</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-propcache/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: pwndbg 2025.04.18-1 any</title>
+    <updated>2025-04-19T14:55:09Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra/any/pwndbg/202504191455</id>
+    <link href="https://archlinux.org/packages/extra/any/pwndbg/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-websockets 15.0.1-1 x86_64</title>
+    <updated>2025-04-19T13:39:39Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/x86_64/python-websockets/202504191339</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-websockets/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-itsdangerous 2.2.0-1 any</title>
+    <updated>2025-04-19T13:28:32Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/any/python-itsdangerous/202504191328</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-itsdangerous/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: gnome-connections 48.0-3 x86_64</title>
+    <updated>2025-04-19T13:17:43Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra/x86_64/gnome-connections/202504191317</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/gnome-connections/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: release-plz 0.3.133-1 x86_64</title>
+    <updated>2025-04-19T12:23:50Z</updated>
+    <id>tag:archlinux.org,2025-04-19:/packages/extra/x86_64/release-plz/202504191223</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/release-plz/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: dolt 1:1.52.0-1 x86_64</title>
@@ -3566,113 +3674,5 @@
     <updated>2025-04-19T11:09:47Z</updated>
     <id>tag:archlinux.org,2025-04-19:/packages/extra/any/ttc-iosevka-etoile/202504191109</id>
     <link href="https://archlinux.org/packages/extra/any/ttc-iosevka-etoile/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ttc-iosevka-curly-slab 33.2.1-1 any</title>
-    <updated>2025-04-19T11:09:46Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra/any/ttc-iosevka-curly-slab/202504191109</id>
-    <link href="https://archlinux.org/packages/extra/any/ttc-iosevka-curly-slab/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ttc-iosevka-curly 33.2.1-1 any</title>
-    <updated>2025-04-19T11:09:46Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra/any/ttc-iosevka-curly/202504191109</id>
-    <link href="https://archlinux.org/packages/extra/any/ttc-iosevka-curly/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ttc-iosevka-aile 33.2.1-1 any</title>
-    <updated>2025-04-19T11:09:45Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra/any/ttc-iosevka-aile/202504191109</id>
-    <link href="https://archlinux.org/packages/extra/any/ttc-iosevka-aile/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ttc-iosevka 33.2.1-1 any</title>
-    <updated>2025-04-19T11:09:45Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra/any/ttc-iosevka/202504191109</id>
-    <link href="https://archlinux.org/packages/extra/any/ttc-iosevka/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-mako 1.3.10-1 any</title>
-    <updated>2025-04-19T11:09:44Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra/any/python-mako/202504191109</id>
-    <link href="https://archlinux.org/packages/extra/any/python-mako/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-sdk-cpp-s3 1.11.550-1 x86_64</title>
-    <updated>2025-04-19T10:58:24Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/x86_64/aws-sdk-cpp-s3/202504191058</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-sdk-cpp-s3/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-sdk-cpp-kinesis 1.11.550-1 x86_64</title>
-    <updated>2025-04-19T10:58:23Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/x86_64/aws-sdk-cpp-kinesis/202504191058</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-sdk-cpp-kinesis/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-sdk-cpp-iam 1.11.550-1 x86_64</title>
-    <updated>2025-04-19T10:58:23Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/x86_64/aws-sdk-cpp-iam/202504191058</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-sdk-cpp-iam/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-sdk-cpp-firehose 1.11.550-1 x86_64</title>
-    <updated>2025-04-19T10:58:22Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/x86_64/aws-sdk-cpp-firehose/202504191058</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-sdk-cpp-firehose/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-sdk-cpp-ec2 1.11.550-1 x86_64</title>
-    <updated>2025-04-19T10:58:22Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/x86_64/aws-sdk-cpp-ec2/202504191058</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-sdk-cpp-ec2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-sdk-cpp-core 1.11.550-1 x86_64</title>
-    <updated>2025-04-19T10:58:21Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/x86_64/aws-sdk-cpp-core/202504191058</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-sdk-cpp-core/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-sdk-cpp 1.11.550-1 x86_64</title>
-    <updated>2025-04-19T10:58:15Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/x86_64/aws-sdk-cpp/202504191058</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-sdk-cpp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xterm 398-1 x86_64</title>
-    <updated>2025-04-19T10:55:27Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/x86_64/xterm/202504191055</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/xterm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: tinysparql-docs 3.9.2-1 x86_64</title>
-    <updated>2025-04-19T10:43:49Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra/x86_64/tinysparql-docs/202504191043</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/tinysparql-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: tinysparql 3.9.2-1 x86_64</title>
-    <updated>2025-04-19T10:43:49Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra/x86_64/tinysparql/202504191043</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/tinysparql/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gnome-settings-daemon 48.1-1 x86_64</title>
-    <updated>2025-04-19T10:43:48Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra/x86_64/gnome-settings-daemon/202504191043</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/gnome-settings-daemon/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: kafka 4.0.0-2 any</title>
-    <updated>2025-04-19T10:28:56Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/any/kafka/202504191028</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/kafka/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-hypothesis 6.131.6-1 any</title>
-    <updated>2025-04-19T09:54:03Z</updated>
-    <id>tag:archlinux.org,2025-04-19:/packages/extra-testing/any/python-hypothesis/202504190954</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-hypothesis/" rel="alternate"></link>
   </entry>
 </feed>
