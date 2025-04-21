@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-04-21T06:19:44Z</updated>
+  <updated>2025-04-21T12:26:23Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -124,10 +124,28 @@
     <link href="https://archlinux.org/news/the-xz-package-has-been-backdoored/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 【マルチエージェント徹底入門】Agent Development Kit ではじめるマルチエージェント開発</title>
+    <updated>2025-04-21T03:26:11Z</updated>
+    <id>https://zenn.dev/google_cloud_jp/articles/c5fa102f468cdf</id>
+    <link href="https://zenn.dev/google_cloud_jp/articles/c5fa102f468cdf" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Vitestの実行時間を8倍高速化：同一環境での実行によるパフォーマンス改善</title>
+    <updated>2025-04-21T03:18:08Z</updated>
+    <id>https://zenn.dev/microcms/articles/c3b9d48b5647b4</id>
+    <link href="https://zenn.dev/microcms/articles/c3b9d48b5647b4" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Neovim で文字列を動的にチャチャッと切り替える</title>
     <updated>2025-04-20T23:28:02Z</updated>
     <id>https://zenn.dev/monaqa/articles/2025-04-21-vim-dial-dynamic-constant-switching</id>
     <link href="https://zenn.dev/monaqa/articles/2025-04-21-vim-dial-dynamic-constant-switching" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Webデザインのモーション集サイトを作りました</title>
+    <updated>2025-04-20T23:19:26Z</updated>
+    <id>https://zenn.dev/crayfisher_zari/articles/ac3ade95d83ccd</id>
+    <link href="https://zenn.dev/crayfisher_zari/articles/ac3ade95d83ccd" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: [受験記] 250420 令和7年度春期 情報処理安全確保支援士試験</title>
@@ -190,12 +208,6 @@
     <link href="https://zenn.dev/grooves/articles/a1d268ac45ed67" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: SaaSにおけるIdP実装の抽象化とDI活用による柔軟な設計</title>
-    <updated>2025-04-19T06:00:01Z</updated>
-    <id>https://zenn.dev/neoai/articles/1ca27c7a237eab</id>
-    <link href="https://zenn.dev/neoai/articles/1ca27c7a237eab" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: ユーザーに「👍」と「👎」の押しミスをさせない設計にしよう</title>
     <updated>2025-04-19T01:53:37Z</updated>
     <id>https://zenn.dev/shundeveloper/articles/6d489ed4398b0b</id>
@@ -218,18 +230,6 @@
     <updated>2025-04-18T12:49:36Z</updated>
     <id>https://zenn.dev/ml_bear/articles/ea1371fc02305c</id>
     <link href="https://zenn.dev/ml_bear/articles/ea1371fc02305c" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: [2025年4月18日] o3はもうほぼAGIでいいんじゃないですかね (週刊AI)</title>
-    <updated>2025-04-18T08:37:21Z</updated>
-    <id>https://zenn.dev/carenet/articles/06df11149aa42e</id>
-    <link href="https://zenn.dev/carenet/articles/06df11149aa42e" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: IntelliJ IDEAを使っている人は全員Junieを導入しよう！</title>
-    <updated>2025-04-18T08:30:01Z</updated>
-    <id>https://zenn.dev/smartround_dev/articles/b90904e75666a3</id>
-    <link href="https://zenn.dev/smartround_dev/articles/b90904e75666a3" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 税理士さんの課題をvibe codingで解決したが類似サービスがあって不要になったのでここに供養する</title>
@@ -256,12 +256,6 @@
     <link href="https://qiita.com/Sicut_study/items/3247f55e8ae7992485e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: JavaScript or TypeScriptで大きい数字を扱うときは罠がいっぱい。</title>
-    <updated>2025-04-18T08:16:32Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2014765</id>
-    <link href="https://qiita.com/torihazi/items/acb591946e12c82c3d11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:qiita_trend: CloudWatch Logsと連携するMCPが出てた！</title>
     <updated>2025-04-19T08:04:08Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/2015128</id>
@@ -274,28 +268,52 @@
     <link href="https://qiita.com/Syoitu/items/fddf3f870a4c857ad0e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: FramePackに動画を生成させまくる話</title>
-    <updated>2025-04-18T17:13:50Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2014914</id>
-    <link href="https://qiita.com/yanosen_jp/items/258947b575131f99632a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: [備忘録] Streamlitで複数画面構成を実現するページ分割機能の実装方法</title>
-    <updated>2025-04-19T13:54:43Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015250</id>
-    <link href="https://qiita.com/Tadataka_Takahashi/items/12b9120477e5a3617917?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:qiita_trend: 非エンジニアが「cline」を使用して自然言語だけでWebアプリ作ってみたら1時間でここまでできた。</title>
     <updated>2025-04-18T14:35:29Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/2014871</id>
     <link href="https://qiita.com/shota0616/items/f7634a16e0d59f5a1e5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 【Google Colab】カレーレシピでわかる！PLaMo-Embedding-1Bによる意味検索入門</title>
-    <updated>2025-04-19T16:17:49Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015288</id>
-    <link href="https://qiita.com/Tadataka_Takahashi/items/575e1d965938ef98020e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: AI使ったら、一度やってみたかったSaaSに必須のコホート分析が一瞬でできた</title>
+    <updated>2025-04-20T23:12:57Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015818</id>
+    <link href="https://qiita.com/IkuyaM/items/b2f255123d6ea70784b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: JavaScript or TypeScriptで大きい数字を扱うときは罠がいっぱい。</title>
+    <updated>2025-04-18T08:16:32Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2014765</id>
+    <link href="https://qiita.com/torihazi/items/acb591946e12c82c3d11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 機内モードって本当に必要？通信にまつわる“なんで？”をわかりやすく解説</title>
+    <updated>2025-04-20T23:42:02Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2010333</id>
+    <link href="https://qiita.com/nucomiya/items/c73f5911d7ae234b6111?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: FramePackに動画を生成させまくる話</title>
+    <updated>2025-04-18T17:13:50Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2014914</id>
+    <link href="https://qiita.com/yanosen_jp/items/258947b575131f99632a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 【あるある】小学校音楽会練習のカオスをエンジニアリングで解決してみた話</title>
+    <updated>2025-04-20T14:46:37Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015731</id>
+    <link href="https://qiita.com/N_oka/items/275d288c12c5140a4aa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: AWS実務未経験からAWSエンジニアになって1年で学んだ実践的なこと</title>
+    <updated>2025-04-20T20:42:24Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015796</id>
+    <link href="https://qiita.com/triple321jhango/items/b4be7dfef7a899ed047e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 縦にアジャイル</title>
+    <updated>2025-04-20T08:34:45Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015543</id>
+    <link href="https://qiita.com/morry_48/items/cc7472e4592de4090e3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: 障害で理解した仮想AZと物理AZの違い</title>
@@ -310,28 +328,22 @@
     <link href="https://qiita.com/ryosuke_ohori/items/89b74127ffc469061c51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 最近話題のAIエディタ「Windsurf」を試しました</title>
-    <updated>2025-04-20T02:35:38Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015393</id>
-    <link href="https://qiita.com/xxyc/items/d610aeaf60b1a9612aa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: 【Google Colab】カレーレシピでわかる！PLaMo-Embedding-1Bによる意味検索入門</title>
+    <updated>2025-04-19T16:17:49Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015288</id>
+    <link href="https://qiita.com/Tadataka_Takahashi/items/575e1d965938ef98020e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: RareTECHというITスクールで立ち上げた「インフラ勉強会」チャンネルに、気づけば80人以上が集まっていた話</title>
-    <updated>2025-04-19T12:33:08Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015226</id>
-    <link href="https://qiita.com/free-honda/items/8918a7026c943f339827?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: AIエージェント開発ってどうやんの？</title>
+    <updated>2025-04-19T14:46:24Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015268</id>
+    <link href="https://qiita.com/zazen_inu/items/4a3afc89a0ea51342ab6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: TextRendererでSwiftUIのTextを装飾を試してみる</title>
-    <updated>2025-04-20T07:45:17Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015515</id>
-    <link href="https://qiita.com/stotic-dev/items/bd19924218d6fadeef99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: 【Delphi】TStreamReader / TStreamWriter の使い方</title>
-    <updated>2025-04-19T22:33:24Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015342</id>
-    <link href="https://qiita.com/ht_deko/items/19a719beac0625674cce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: [備忘録] Streamlitで複数画面構成を実現するページ分割機能の実装方法</title>
+    <updated>2025-04-19T13:54:43Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015250</id>
+    <link href="https://qiita.com/Tadataka_Takahashi/items/12b9120477e5a3617917?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: android/gradle-recipes全部読む</title>
@@ -346,22 +358,22 @@
     <link href="https://qiita.com/rS_alonewolf/items/679845e56bfa73d5dba9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 2025年4月15日のAWS障害についてまとめ</title>
-    <updated>2025-04-18T04:14:56Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2014677</id>
-    <link href="https://qiita.com/tsukamoto/items/03886ed64a12b1919fb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: IT歴1.5年での応用情報技術者試験の体験記</title>
+    <updated>2025-04-21T03:23:43Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015897</id>
+    <link href="https://qiita.com/hosomatu/items/85c41ad8d0a1f6d76602?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 教育係が新卒エンジニアにしてあげて欲しいこと</title>
-    <updated>2025-04-17T22:15:30Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2014567</id>
-    <link href="https://qiita.com/minegishirei_v2/items/b71d9bc9380697cec837?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: 新卒で入ったWeb開発会社で1年が経ったので習得・経験したことをまとめてみた</title>
+    <updated>2025-04-18T10:05:06Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2012866</id>
+    <link href="https://qiita.com/Fukuda716/items/bd0e24222559a9e5f0b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 縦にアジャイル</title>
-    <updated>2025-04-20T08:34:45Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015543</id>
-    <link href="https://qiita.com/morry_48/items/cc7472e4592de4090e3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: AI エージェントと Oracle DB MCP サーバー で経営戦略を策定してもらった</title>
+    <updated>2025-04-19T15:09:27Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015269</id>
+    <link href="https://qiita.com/yuji-arakawa/items/d82607da0c96eb4099c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: Claudeにばかり気を取られてた…エンベディングモデル側の最大トークン数</title>
@@ -370,34 +382,10 @@
     <link href="https://qiita.com/infra365/items/10d1b553283daacc6f1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: p5.js の新バージョン v2.0.0 のメモ（1.x から 2.x へのアップデート）</title>
-    <updated>2025-04-19T12:02:47Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015213</id>
-    <link href="https://qiita.com/youtoy/items/d9f26b3ad3f18e381035?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: Reactの勉強環境を準備する①</title>
-    <updated>2025-04-20T06:48:52Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015496</id>
-    <link href="https://qiita.com/MasahiroShouya/items/8ae4ffa73a6b39681ba6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: AtCoder402 D問題の「実は」を示してみる</title>
-    <updated>2025-04-20T06:02:53Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015481</id>
-    <link href="https://qiita.com/NeoNuc2001/items/1fb992ffcb5bd95cbf7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: SharePointリストの参照列でフィルタ操作</title>
-    <updated>2025-04-20T04:20:36Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015439</id>
-    <link href="https://qiita.com/meccha__eeyan/items/55d88022998be63071d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: AIエージェント開発ってどうやんの？</title>
-    <updated>2025-04-19T14:46:24Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015268</id>
-    <link href="https://qiita.com/zazen_inu/items/4a3afc89a0ea51342ab6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: Oracle Database@AzureのADBへBlob Storageを使ってData Pumpで移行してみた</title>
+    <updated>2025-04-19T11:06:54Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015191</id>
+    <link href="https://qiita.com/yunagash/items/037d00df68d8f17fc144?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: Copilot Studioで作った阿部寛ヲタを自律型厄介ヲタに進化させる</title>
@@ -406,22 +394,34 @@
     <link href="https://qiita.com/Oyu3m/items/fa39d334ca31172e4475?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: Oracle Database@AzureのADBへBlob Storageを使ってData Pumpで移行してみた</title>
-    <updated>2025-04-19T11:06:54Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015191</id>
-    <link href="https://qiita.com/yunagash/items/037d00df68d8f17fc144?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: 最近話題のAIエディタ「Windsurf」を試しました</title>
+    <updated>2025-04-20T02:35:38Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015393</id>
+    <link href="https://qiita.com/xxyc/items/d610aeaf60b1a9612aa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 日本語プログラミング言語Mindの小技 「関数」～戻り値を複数返せる～</title>
-    <updated>2025-04-19T15:51:21Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015282</id>
-    <link href="https://qiita.com/mylifewithviolin/items/86bfe9e74b10bde81088?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: Oracle Autonomous Database で In-database 埋め込みモデルを使ってベクトルを生成する</title>
+    <updated>2025-04-20T23:08:08Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015816</id>
+    <link href="https://qiita.com/yuji-arakawa/items/e43e0ad9f0f033fd55ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: ABC402個人的備忘録[A-D,F]</title>
-    <updated>2025-04-19T15:07:56Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2015272</id>
-    <link href="https://qiita.com/Shizen_Tota/items/231f78d8a0027e904c9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: p5.js の新バージョン v2.0.0 のメモ（1.x から 2.x へのアップデート）</title>
+    <updated>2025-04-19T12:02:47Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015213</id>
+    <link href="https://qiita.com/youtoy/items/d9f26b3ad3f18e381035?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 週末にプログラミング練習！おすすめ３選💻🎉</title>
+    <updated>2025-04-18T09:29:20Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2014788</id>
+    <link href="https://qiita.com/sana89/items/3fbb96b592f709e3e087?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: SharePointリストの参照列でフィルタ操作</title>
+    <updated>2025-04-20T04:20:36Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2015439</id>
+    <link href="https://qiita.com/meccha__eeyan/items/55d88022998be63071d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:distrotube_youtube: Building DTOS GNU/Linux - Tons Of New Features Added - LIVE!</title>
@@ -512,18 +512,6 @@
     <updated>2025-03-17T13:00:06Z</updated>
     <id>yt:video:3rHzGmfJ_y8</id>
     <link href="https://www.youtube.com/watch?v=3rHzGmfJ_y8" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:atmarkit_security: PR: 迫る「SAP ECC 6.0」のサポート期限　クラウド移行でビジネス変革を実現する方法</title>
-    <updated>2025-03-31T01:00:00Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-03-31:/enterprise/articles/2503/31/news006.html</id>
-    <link href="https://www.itmedia.co.jp/enterprise/articles/2503/31/news006.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:atmarkit_security: PR: 「2025年の崖」を乗り越える“変革のカギ”――クラウド移行を阻む壁とは　移行を成功させるための実践的アプローチ</title>
-    <updated>2025-03-31T01:00:00Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-03-31:/enterprise/articles/2503/18/news013.html</id>
-    <link href="https://www.itmedia.co.jp/enterprise/articles/2503/18/news013.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: 米国政府からの支援打ち切りを受け、CVE財団が発足　CVEプログラムの長期的な存続など狙い</title>
@@ -886,7 +874,37 @@
     <link href="https://atmarkit.itmedia.co.jp/ait/articles/2401/29/news053.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:arco_linux_youtube: Edu 0009 : workflow series - Adding i3 to ArcoLinux nemesis scripts</title>
+    <title>3:arco_linux_youtube: Edu 0014 : workflow series - Adding herbstluftwm to our computer system - not in any script</title>
+    <updated>2025-04-21T10:41:42Z</updated>
+    <id>yt:video:05EEa4nzE90</id>
+    <link href="https://www.youtube.com/watch?v=05EEa4nzE90" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:arco_linux_youtube: Edu 0013 : Use our script to set theme, icons, font, cursor, dconf, environment in one sweep</title>
+    <updated>2025-04-21T10:20:07Z</updated>
+    <id>yt:video:i0Hhav4Ls9Q</id>
+    <link href="https://www.youtube.com/watch?v=i0Hhav4Ls9Q" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:arco_linux_youtube: Edu 0012 : workflow series - Adding qtile to ArcoLinux nemesis scripts</title>
+    <updated>2025-04-21T08:54:05Z</updated>
+    <id>yt:video:3ltbirasJEw</id>
+    <link href="https://www.youtube.com/watch?v=3ltbirasJEw" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:arco_linux_youtube: Edu 0011 : workflow series - Making a script with AI to choose your desktop(s)</title>
+    <updated>2025-04-21T07:52:46Z</updated>
+    <id>yt:video:gMH1lWO3uv8</id>
+    <link href="https://www.youtube.com/watch?v=gMH1lWO3uv8" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:arco_linux_youtube: Edu 0010 : workflow series - Adding awesome to ArcoLinux Nemesis scripts</title>
+    <updated>2025-04-21T07:19:30Z</updated>
+    <id>yt:video:hQuPSLEqN0w</id>
+    <link href="https://www.youtube.com/watch?v=hQuPSLEqN0w" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:arco_linux_youtube: Edu 0009 : workflow series - Adding i3 to ArcoLinux Nemesis scripts</title>
     <updated>2025-04-20T07:07:23Z</updated>
     <id>yt:video:CwCmLbCU8S0</id>
     <link href="https://www.youtube.com/watch?v=CwCmLbCU8S0" rel="alternate"></link>
@@ -946,43 +964,13 @@
     <link href="https://www.youtube.com/watch?v=t8eRSkmVvjE" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:arco_linux_youtube: Arco Final : 4472 NEWS - 4 NEW ArcoLinux ISOs are on AAG - Why new ISOs?</title>
-    <updated>2025-04-13T08:03:17Z</updated>
-    <id>yt:video:SlSoiKeVreM</id>
-    <link href="https://www.youtube.com/watch?v=SlSoiKeVreM" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:arco_linux_youtube: Arco Final : 4471 Lets change ArcoLinux into Arch Linux - just type update - Plasma</title>
-    <updated>2025-04-12T07:08:13Z</updated>
-    <id>yt:video:rNyf-Sua3X8</id>
-    <link href="https://www.youtube.com/watch?v=rNyf-Sua3X8" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:arco_linux_youtube: Arco Final : 4470 Lets change ArcoLinux into Arch Linux - just type update and analyze - Net - Xfce4</title>
-    <updated>2025-04-12T06:28:32Z</updated>
-    <id>yt:video:PCASPqH5dHQ</id>
-    <link href="https://www.youtube.com/watch?v=PCASPqH5dHQ" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:arco_linux_youtube: Arco Final : 4469 Lets change ArcoLinux into Arch Linux - just type update and analyze - Pro - Niri</title>
-    <updated>2025-04-12T06:03:21Z</updated>
-    <id>yt:video:C1DxoqDsIwo</id>
-    <link href="https://www.youtube.com/watch?v=C1DxoqDsIwo" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:arco_linux_youtube: Arco Final : 4468 Farewell to ArcoLinux and all its projects and farewell to a community</title>
-    <updated>2025-04-11T18:39:10Z</updated>
-    <id>yt:video:_NMQ_-77JRM</id>
-    <link href="https://www.youtube.com/watch?v=_NMQ_-77JRM" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:publickey: JetBrains、AIコーディングエージェント「Junie」を一般公開</title>
     <updated>2025-04-20T15:14:37Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8179</id>
     <link href="https://www.publickey1.jp/blog/25/jetbrainsaijunie_1.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:publickey: Micorosoft Azure、西日本リージョンで可用性ゾーンを提供開始</title>
+    <title>2:publickey: Microsoft Azure、西日本リージョンで可用性ゾーンを提供開始</title>
     <updated>2025-04-20T15:08:24Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8178</id>
     <link href="https://www.publickey1.jp/blog/25/micorosoft_azure.html" rel="alternate"></link>
@@ -4330,22 +4318,16 @@
     <link href="https://newspicks.com/news/14078184/body/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【13万バズ】ChatGPT「o3」 最強かつ便利すぎる【活用ケース3選】- 検索リサーチ、図解を無限に生成、PDFと画像の解析｜たてばやし淳.エクセル兄さん@ ChatGPT書籍8冊執筆</title>
-    <updated>2025-04-20T09:04:21Z</updated>
-    <id>tag:note.com,2025-04-20:/on_consul/n/n9cd7865df4f3</id>
-    <link href="https://note.com/on_consul/n/n9cd7865df4f3" rel="alternate"></link>
+    <title>1:hatena_blog_it: ChatGPTに対する「ありがとう」や「お願いします」といった礼儀正しい言葉が数十億円分の電力消費につながっているとOpenAIのサム・アルトマンCEOが発言</title>
+    <updated>2025-04-21T04:02:05Z</updated>
+    <id>tag:gigazine.net,2025-04-21:/news/20250421-politeness-could-be-costly-ai/</id>
+    <link href="https://gigazine.net/news/20250421-politeness-could-be-costly-ai/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【日本代表へインタビュー】ウエスタンデジタルとサンディスクはなぜ再び分かれたのか。新技術による40TB HDDは2026年後半に [Sponsored]</title>
-    <updated>2025-04-20T21:44:56Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-04-20:/docs/topic/special/2003632.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/topic/special/2003632.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「Obsidian」と「Cursor」を使って、noteの記事をどんどこ書く｜akane</title>
-    <updated>2025-04-18T10:56:02Z</updated>
-    <id>tag:note.com,2025-04-18:/akane_desu/n/ne6ffcc4b24e7</id>
-    <link href="https://note.com/akane_desu/n/ne6ffcc4b24e7" rel="alternate"></link>
+    <title>1:hatena_blog_it: アプリ「DMM動画プレイヤー」、App Storeで配信停止。「諸事情により」</title>
+    <updated>2025-04-21T08:12:05Z</updated>
+    <id>tag:av.watch.impress.co.jp,2025-04-21:/docs/news/2008674.html</id>
+    <link href="https://av.watch.impress.co.jp/docs/news/2008674.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【図解解説】これ1本12分でReactのコンセプト全20種を理解できる教科書 - Qiita</title>
@@ -4354,28 +4336,10 @@
     <link href="https://qiita.com/Sicut_study/items/3247f55e8ae7992485e1" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 情報は“並べる”のではなく、“構造化”する─B‑H‑Dフレームが組織のリードタイムを短縮する。｜nishiba</title>
-    <updated>2025-04-20T05:39:21Z</updated>
-    <id>tag:note.com,2025-04-20:/nishiba/n/n6328125c300d</id>
-    <link href="https://note.com/nishiba/n/n6328125c300d" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: SaaS is Dead. Long Live SaaS ― SaaSは本当に終わるのか？進化の本質を読み解く - Nothing ventured, nothing gained.</title>
-    <updated>2025-04-20T23:30:59Z</updated>
-    <id>tag:takoratta.hatenablog.com,2025-04-20:/entry/saasisdead</id>
-    <link href="https://takoratta.hatenablog.com/entry/saasisdead" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ついに量子コンピュータでLLMの追加学習に成功。量子コンピュータとテンソルネットワークがLLM計算を変える。 | blueqat</title>
-    <updated>2025-04-20T11:14:38Z</updated>
-    <id>tag:blueqat.com,2025-04-20:/yuichiro_minato2/40faced2-a224-4c07-849d-3651ebcb3356</id>
-    <link href="https://blueqat.com/yuichiro_minato2/40faced2-a224-4c07-849d-3651ebcb3356" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: リモートMCPサーバーカタログ - Qiita</title>
-    <updated>2025-04-19T14:02:51Z</updated>
-    <id>tag:qiita.com,2025-04-19:/Syoitu/items/fddf3f870a4c857ad0e4</id>
-    <link href="https://qiita.com/Syoitu/items/fddf3f870a4c857ad0e4" rel="alternate"></link>
+    <title>1:hatena_blog_it: 慶応大学のAI対策が面白い PDFに透明度100で見えない文書を埋め込みAIに読み込ませると誤回答する仕組みに</title>
+    <updated>2025-04-21T07:24:21Z</updated>
+    <id>tag:togetter.com,2025-04-21:/li/2541260</id>
+    <link href="https://togetter.com/li/2541260" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「生成AIで簡単に稼げる！」──SNSにあふれる“謎のAIセミナー”の真相は？　実際に参加してみた</title>
@@ -4384,70 +4348,88 @@
     <link href="https://www.itmedia.co.jp/aiplus/articles/2504/21/news045.html" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: SaaS is Dead. Long Live SaaS ― SaaSは本当に終わるのか？進化の本質を読み解く - Nothing ventured, nothing gained.</title>
+    <updated>2025-04-20T23:30:59Z</updated>
+    <id>tag:takoratta.hatenablog.com,2025-04-20:/entry/saasisdead</id>
+    <link href="https://takoratta.hatenablog.com/entry/saasisdead" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 中国の「人間のランナーVSロボット」のハーフマラソンで人型ロボットがずっこけるシーンまとめ</title>
+    <updated>2025-04-21T07:10:20Z</updated>
+    <id>tag:gigazine.net,2025-04-21:/news/20250421-chinas-x-humanoid-robot-tien-kung-iltra/</id>
+    <link href="https://gigazine.net/news/20250421-chinas-x-humanoid-robot-tien-kung-iltra/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【日本代表へインタビュー】ウエスタンデジタルとサンディスクはなぜ再び分かれたのか。新技術による40TB HDDは2026年後半に [Sponsored]</title>
+    <updated>2025-04-20T21:44:56Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-04-20:/docs/topic/special/2003632.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/topic/special/2003632.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【13万バズ】ChatGPT「o3」 最強かつ便利すぎる【活用ケース3選】- 検索リサーチ、図解を無限に生成、PDFと画像の解析｜たてばやし淳.エクセル兄さん@ ChatGPT書籍8冊執筆</title>
+    <updated>2025-04-20T09:04:21Z</updated>
+    <id>tag:note.com,2025-04-20:/on_consul/n/n9cd7865df4f3</id>
+    <link href="https://note.com/on_consul/n/n9cd7865df4f3" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「Obsidian」と「Cursor」を使って、noteの記事をどんどこ書く｜akane</title>
+    <updated>2025-04-18T10:56:02Z</updated>
+    <id>tag:note.com,2025-04-18:/akane_desu/n/ne6ffcc4b24e7</id>
+    <link href="https://note.com/akane_desu/n/ne6ffcc4b24e7" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: ChatGPTで「お願いします」とか「ありがとう」っていうたびに、それを処理するためにかかっているコストはトータルで数千万ドル分らしい。でもアルトマンは「価値のある出費」と評価。</title>
     <updated>2025-04-21T02:07:15Z</updated>
     <id>tag:togetter.com,2025-04-21:/li/2541106</id>
     <link href="https://togetter.com/li/2541106" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 画家に送られた「展覧会へ出品しませんか」詐欺文がAIを使って巧妙化＆電話番号も入手されていた→慎重に相手を調べて対応すべき</title>
-    <updated>2025-04-20T16:20:27Z</updated>
-    <id>tag:togetter.com,2025-04-20:/li/2540976</id>
-    <link href="https://togetter.com/li/2540976" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【やじうまPC Watch】 NVIDIAフアンCEOが石破首相を訪問。スーツ姿で</title>
+    <updated>2025-04-21T08:37:39Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-04-21:/docs/news/yajiuma/2008689.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/yajiuma/2008689.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Mondayはなぜ、弱い人を最も傷つける構造で実装されているのか。AIによる検証と分析　2025,4,7,11時40分〜(記録用）｜Rikopin/TAKAKI KOGA</title>
-    <updated>2025-04-20T15:39:23Z</updated>
-    <id>tag:note.com,2025-04-20:/art_takario/n/nf4a4cad46b12</id>
-    <link href="https://note.com/art_takario/n/nf4a4cad46b12" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「きっかけは、フジテレビ問題。」　テレビCMの出稿を見直す企業が74％に</title>
+    <updated>2025-04-21T05:06:47Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-21:/news/articles/2504/21/news117.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2504/21/news117.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【特集】 ニュースリリースで振り返る、時代を築いたPCたち【エプソン編 HC-20～PC-286～Endeavor AT】</title>
-    <updated>2025-04-20T21:32:26Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-04-20:/docs/topic/feature/2008077.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2008077.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 1980年代、日本発マイコンベンチャー「ソード」を知っているか──椎名堯慶氏インタビュー（後編） (1/4)</title>
+    <updated>2025-04-21T00:50:36Z</updated>
+    <id>tag:ascii.jp,2025-04-21:/elem/000/004/262/4262999/</id>
+    <link href="https://ascii.jp/elem/000/004/262/4262999/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「Excel」でToDoを緊急度と重要度に応じてタスクを管理するマトリクス表を作る方法【残業を減らす！Officeテクニック】</title>
-    <updated>2025-04-20T23:21:47Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-04-20:/docs/serial/offitech/2008285.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/offitech/2008285.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 最小コストで始める Slackを活用したお問い合わせ対応 - tebiki_techblog</title>
+    <updated>2025-04-21T09:29:40Z</updated>
+    <id>tag:techblog.tebiki.co.jp,2025-04-21:/2025/04/21/142924</id>
+    <link href="https://techblog.tebiki.co.jp/2025/04/21/142924" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Next.js v15.2で使えるようになった View Transition API を試してみた</title>
-    <updated>2025-04-21T01:28:48Z</updated>
-    <id>tag:blog.asial.co.jp,2025-04-21:/5703/</id>
-    <link href="https://blog.asial.co.jp/5703/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 同期Rustと非同期Rustで同じものを作るとどれくらい実装が変わるのか - Don't Repeat Yourself</title>
+    <updated>2025-04-21T03:02:41Z</updated>
+    <id>tag:blog-dry.com,2025-04-21:/entry/2025/04/21/090439</id>
+    <link href="https://blog-dry.com/entry/2025/04/21/090439" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 約1年ぶりに復活　VMwareが「ESXi」無償版を再提供</title>
-    <updated>2025-04-18T05:53:09Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-04-18:/enterprise/articles/2504/18/news070.html</id>
-    <link href="https://www.itmedia.co.jp/enterprise/articles/2504/18/news070.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 要注意？　「ChatGTP」がApp Storeのランキング上位に　AI版「gmeil」か</title>
+    <updated>2025-04-21T02:59:31Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-21:/aiplus/articles/2504/21/news098.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2504/21/news098.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 間違ったこと言った時の「あ、ごめん。嘘言った」という言い回しが通じなくて、『なんで嘘つくの！』と言われて少しトラブルになった話「エンジニアの癖ですよね」「関西は結構多くの人が使う印象」</title>
-    <updated>2025-04-20T04:15:58Z</updated>
-    <id>tag:togetter.com,2025-04-20:/li/2540758</id>
-    <link href="https://togetter.com/li/2540758" rel="alternate"></link>
+    <title>1:hatena_blog_it: 情報は“並べる”のではなく、“構造化”する─B‑H‑Dフレームが組織のリードタイムを短縮する。｜nishiba</title>
+    <updated>2025-04-20T05:39:21Z</updated>
+    <id>tag:note.com,2025-04-20:/nishiba/n/n6328125c300d</id>
+    <link href="https://note.com/nishiba/n/n6328125c300d" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 架空の「ボット学生」がオンライン授業に出てAIで課題を作成し助成金を奪う事案が多発</title>
-    <updated>2025-04-20T23:10:02Z</updated>
-    <id>tag:gigazine.net,2025-04-20:/news/20250421-bot-students-community-colleges/</id>
-    <link href="https://gigazine.net/news/20250421-bot-students-community-colleges/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ChatGPTに対する「ありがとう」や「お願いします」といった礼儀正しい言葉が数十億円分の電力消費につながっているとOpenAIのサム・アルトマンCEOが発言</title>
-    <updated>2025-04-21T04:02:05Z</updated>
-    <id>tag:gigazine.net,2025-04-21:/news/20250421-politeness-could-be-costly-ai/</id>
-    <link href="https://gigazine.net/news/20250421-politeness-could-be-costly-ai/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Microsoft Edgeの音声読み上げ機能が最高な件</title>
-    <updated>2025-04-17T09:33:29Z</updated>
-    <id>tag:zenn.dev,2025-04-17:/rescuenow/articles/897119b0e89875</id>
-    <link href="https://zenn.dev/rescuenow/articles/897119b0e89875" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【聞いてくれ】増田がAIの文で埋まり始めてる件について思うこと</title>
+    <updated>2025-04-21T10:39:54Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-04-21:/20250421022703</id>
+    <link href="https://anond.hatelabo.jp/20250421022703" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: MCP セキュリティに関するツールやサイトをまとめてみた</title>
@@ -4456,33 +4438,45 @@
     <link href="https://zenn.dev/12ban/articles/4449a4910321bb" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: LLMが一転して価格競争に突入、Googleの攻勢にOpenAIが方向転換</title>
-    <updated>2025-04-17T21:48:53Z</updated>
-    <id>tag:xtech.nikkei.com,2025-04-17:/atcl/nxt/column/18/00692/041700156/</id>
-    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00692/041700156/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 画像生成AI「Midjourney v7」が圧倒的　品質は最高、速度は高速　“ジブリ風”も簡単に (1/5)</title>
+    <updated>2025-04-21T00:37:26Z</updated>
+    <id>tag:ascii.jp,2025-04-21:/elem/000/004/264/4264509/</id>
+    <link href="https://ascii.jp/elem/000/004/264/4264509/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIエージェントの登場で開発者はプルリクのレビュアーに成り果てるのか？ (1/2)</title>
-    <updated>2025-04-19T23:21:40Z</updated>
-    <id>tag:ascii.jp,2025-04-19:/elem/000/004/264/4264156/</id>
-    <link href="https://ascii.jp/elem/000/004/264/4264156/" rel="alternate"></link>
+    <title>1:hatena_blog_it: AI 2027</title>
+    <updated>2025-04-21T01:40:19Z</updated>
+    <id>tag:ai-2027.com,2025-04-21:/slowdown</id>
+    <link href="https://ai-2027.com/slowdown" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 社内で若手向けセキュリティイベント（1年目終了時 成果報告会）を開催しました - NTT Communications Engineers' Blog</title>
-    <updated>2025-04-20T22:06:59Z</updated>
-    <id>tag:engineers.ntt.com,2025-04-20:/entry/202504-security_rookies/entry</id>
-    <link href="https://engineers.ntt.com/entry/202504-security_rookies/entry" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「DMM動画プレイヤーアプリ」がApp Storeで配信停止に　成人向けEC「FANZA」運営が発表</title>
+    <updated>2025-04-21T09:20:31Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-21:/news/articles/2504/21/news152.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2504/21/news152.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「話が違う」自治体システム標準化、運用費3割減は幻想か</title>
-    <updated>2025-04-20T23:30:43Z</updated>
-    <id>tag:xtech.nikkei.com,2025-04-20:/atcl/nxt/column/18/03157/040900001/</id>
-    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/03157/040900001/" rel="alternate"></link>
+    <title>1:hatena_blog_it: ついに量子コンピュータでLLMの追加学習に成功。量子コンピュータとテンソルネットワークがLLM計算を変える。 | blueqat</title>
+    <updated>2025-04-20T11:14:38Z</updated>
+    <id>tag:blueqat.com,2025-04-20:/yuichiro_minato2/40faced2-a224-4c07-849d-3651ebcb3356</id>
+    <link href="https://blueqat.com/yuichiro_minato2/40faced2-a224-4c07-849d-3651ebcb3356" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 第34回 人工知能学会 金融情報学研究会（SIG-FIN） 参加レポート - Insight Edge Tech Blog</title>
-    <updated>2025-04-21T00:19:22Z</updated>
-    <id>tag:techblog.insightedge.jp,2025-04-21:/entry/Sigfin34-review</id>
-    <link href="https://techblog.insightedge.jp/entry/Sigfin34-review" rel="alternate"></link>
+    <title>1:hatena_blog_it: 画家に送られた「展覧会へ出品しませんか」詐欺文がAIを使って巧妙化＆電話番号も入手されていた→慎重に相手を調べて対応すべき</title>
+    <updated>2025-04-20T16:20:27Z</updated>
+    <id>tag:togetter.com,2025-04-20:/li/2540976</id>
+    <link href="https://togetter.com/li/2540976" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「Excel」でToDoを緊急度と重要度に応じてタスクを管理するマトリクス表を作る方法【残業を減らす！Officeテクニック】</title>
+    <updated>2025-04-20T23:21:47Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-04-20:/docs/serial/offitech/2008285.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/serial/offitech/2008285.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: NVIDIAが GeForce RTX 5060 Ti 8GB と RTX 5060 を隠し子扱い。 8GBでは性能不足のため？</title>
+    <updated>2025-04-21T07:11:08Z</updated>
+    <id>tag:gazlog.jp,2025-04-21:/entry/nvidia-hiding-8gb-rtx5060-series/</id>
+    <link href="https://gazlog.jp/entry/nvidia-hiding-8gb-rtx5060-series/" rel="alternate"></link>
   </entry>
 </feed>
