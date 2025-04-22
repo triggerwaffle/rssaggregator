@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-04-22T01:05:02Z</updated>
+  <updated>2025-04-22T06:19:35Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -124,6 +124,30 @@
     <link href="https://archlinux.org/news/the-xz-package-has-been-backdoored/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: AIエージェントのおかげでdbt開発の大部分を自動化した話</title>
+    <updated>2025-04-22T01:01:04Z</updated>
+    <id>https://zenn.dev/ubie_dev/articles/d97c5ece4660bd</id>
+    <link href="https://zenn.dev/ubie_dev/articles/d97c5ece4660bd" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: RAGの検索精度を上げる 新しいリランキング手法</title>
+    <updated>2025-04-21T23:00:01Z</updated>
+    <id>https://zenn.dev/knowledgesense/articles/bffcd60ecf3226</id>
+    <link href="https://zenn.dev/knowledgesense/articles/bffcd60ecf3226" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: OpenAI Dev Digest まとめ（o3, o4-mini, GPT-4.1, Codex など）</title>
+    <updated>2025-04-21T14:06:21Z</updated>
+    <id>https://zenn.dev/openaidevs/articles/2690ad6dd593ea</id>
+    <link href="https://zenn.dev/openaidevs/articles/2690ad6dd593ea" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 仕事で使うための Cloudflare Workers 入門 Day 2 - Durable Objects</title>
+    <updated>2025-04-21T11:30:55Z</updated>
+    <id>https://zenn.dev/mizchi/articles/cf-worker-for-pro-day2</id>
+    <link href="https://zenn.dev/mizchi/articles/cf-worker-for-pro-day2" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: CTOやめました</title>
     <updated>2025-04-21T10:05:01Z</updated>
     <id>https://zenn.dev/team_soda/articles/20250419152136</id>
@@ -202,28 +226,10 @@
     <link href="https://zenn.dev/teppeis/articles/2025-04-eslint-core-rules-typescript" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 型安全に URL を構築できるライブラリ routopia を作った</title>
-    <updated>2025-04-20T03:27:05Z</updated>
-    <id>https://zenn.dev/dena/articles/328b6655439845</id>
-    <link href="https://zenn.dev/dena/articles/328b6655439845" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: React デザインパターン</title>
     <updated>2025-04-19T07:16:28Z</updated>
     <id>https://zenn.dev/grooves/articles/a1d268ac45ed67</id>
     <link href="https://zenn.dev/grooves/articles/a1d268ac45ed67" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: ユーザーに「👍」と「👎」の押しミスをさせない設計にしよう</title>
-    <updated>2025-04-19T01:53:37Z</updated>
-    <id>https://zenn.dev/shundeveloper/articles/6d489ed4398b0b</id>
-    <link href="https://zenn.dev/shundeveloper/articles/6d489ed4398b0b" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: デザインシステム MFUI を MCP サーバー化して社内に提供した話</title>
-    <updated>2025-04-19T01:00:01Z</updated>
-    <id>https://zenn.dev/moneyforward/articles/43bcef16b033f8</id>
-    <link href="https://zenn.dev/moneyforward/articles/43bcef16b033f8" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: エンジニアリングの本質をコーディングに還元してしまう短絡的な見方への反発</title>
@@ -236,12 +242,6 @@
     <updated>2025-04-18T12:49:36Z</updated>
     <id>https://zenn.dev/ml_bear/articles/ea1371fc02305c</id>
     <link href="https://zenn.dev/ml_bear/articles/ea1371fc02305c" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 個人的 Vibe Coding のやりかた</title>
-    <updated>2025-04-17T23:29:11Z</updated>
-    <id>https://zenn.dev/yoshiko/articles/my-vibe-coding</id>
-    <link href="https://zenn.dev/yoshiko/articles/my-vibe-coding" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: 【図解解説】これ1本12分でReactのコンセプト全20種を理解できる教科書</title>
@@ -4336,10 +4336,16 @@
     <link href="https://gihyo.jp/article/2024/04/gitlab-duo-chat?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 慶応大学のAI対策が面白い PDFに透明度100で見えない文書を埋め込みAIに読み込ませると誤回答する仕組みに</title>
-    <updated>2025-04-21T07:24:21Z</updated>
-    <id>tag:togetter.com,2025-04-21:/li/2541260</id>
-    <link href="https://togetter.com/li/2541260" rel="alternate"></link>
+    <title>1:hatena_blog_it: なぜ日本人は生成AIのプロンプト作成に苦労するのか: 日本語の特性と文化的要因 - Qiita</title>
+    <updated>2025-04-21T22:51:46Z</updated>
+    <id>tag:qiita.com,2025-04-21:/hisaho/items/1e3aba7e0b1b43e44dc5</id>
+    <link href="https://qiita.com/hisaho/items/1e3aba7e0b1b43e44dc5" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 初代プレステで「神」になろうとした男。機械学習で生命創造を試みた『がんばれ森川君2号』『アストロノーカ』開発者の苦悩と野望【フォーカス】 | レバテックラボ（レバテックLAB）</title>
+    <updated>2025-04-22T01:13:22Z</updated>
+    <id>tag:levtech.jp,2025-04-22:/media/article/focus/detail_657/</id>
+    <link href="https://levtech.jp/media/article/focus/detail_657/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 新規アプリ開発を請け負う時の流れ - Qiita</title>
@@ -4348,22 +4354,10 @@
     <link href="https://qiita.com/neon-izm/items/67cdb159aabf66f3e92b" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【聞いてくれ】増田がAIの文で埋まり始めてる件について思うこと</title>
-    <updated>2025-04-21T10:39:54Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-04-21:/20250421022703</id>
-    <link href="https://anond.hatelabo.jp/20250421022703" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Docker コンテナ内からホストのポートにアクセスする方法まとめ</title>
     <updated>2023-07-01T19:12:29Z</updated>
     <id>tag:gotohayato.com,2023-07-01:/content/561/</id>
     <link href="https://gotohayato.com/content/561/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ChatGPTに対する「ありがとう」や「お願いします」といった礼儀正しい言葉が数十億円分の電力消費につながっているとOpenAIのサム・アルトマンCEOが発言</title>
-    <updated>2025-04-21T04:02:05Z</updated>
-    <id>tag:gigazine.net,2025-04-21:/news/20250421-politeness-could-be-costly-ai/</id>
-    <link href="https://gigazine.net/news/20250421-politeness-could-be-costly-ai/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ChatGPTで使えるAIモデルのプランごとまとめ、OpenAIがo3、o4-mini、o4-mini-highのChatGPTにおける使用制限の詳細を発表</title>
@@ -4378,16 +4372,28 @@
     <link href="https://hiragram.app/posts/e0uFGoNP" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: なぜ日本人は生成AIのプロンプト作成に苦労するのか: 日本語の特性と文化的要因 - Qiita</title>
-    <updated>2025-04-21T22:51:46Z</updated>
-    <id>tag:qiita.com,2025-04-21:/hisaho/items/1e3aba7e0b1b43e44dc5</id>
-    <link href="https://qiita.com/hisaho/items/1e3aba7e0b1b43e44dc5" rel="alternate"></link>
+    <title>1:hatena_blog_it: 慶応大学のAI対策が面白い PDFに透明度100で見えない文書を埋め込みAIに読み込ませると誤回答する仕組みに</title>
+    <updated>2025-04-21T07:24:21Z</updated>
+    <id>tag:togetter.com,2025-04-21:/li/2541260</id>
+    <link href="https://togetter.com/li/2541260" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「no-reply@google.com」から送信されたように見えるフィッシングメール攻撃</title>
-    <updated>2025-04-21T13:14:01Z</updated>
-    <id>tag:gigazine.net,2025-04-21:/news/20250421-phishers-abuse-google-oauth-dkim-replay-attack/</id>
-    <link href="https://gigazine.net/news/20250421-phishers-abuse-google-oauth-dkim-replay-attack/" rel="alternate"></link>
+    <title>1:hatena_blog_it: ミニPCに「外付けグラフィックボード」を増設して劇的な性能アップ【MINISFORUM DEG1を検証】 | ちもろぐ</title>
+    <updated>2025-04-22T01:02:16Z</updated>
+    <id>tag:chimolog.co,2025-04-22:/minisforum-deg1/</id>
+    <link href="https://chimolog.co/minisforum-deg1/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【聞いてくれ】増田がAIの文で埋まり始めてる件について思うこと</title>
+    <updated>2025-04-21T10:39:54Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-04-21:/20250421022703</id>
+    <link href="https://anond.hatelabo.jp/20250421022703" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Xそっくりの青い認証マーク導入をBlueskyが発表するも、一部で批判の声が上がる理由とは【やじうまWatch】</title>
+    <updated>2025-04-22T02:00:18Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2025-04-22:/docs/yajiuma/2008789.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2008789.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Raspberry PiとLiDARセンサーで360度3Dパノラマスキャナーを自作するオープンソースプロジェクト「PiLiDAR」</title>
@@ -4396,22 +4402,58 @@
     <link href="https://gigazine.net/news/20250421-pilidar-raspberry-pi/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: アプリ「DMM動画プレイヤー」、App Storeで配信停止。「諸事情により」</title>
-    <updated>2025-04-21T08:12:05Z</updated>
-    <id>tag:av.watch.impress.co.jp,2025-04-21:/docs/news/2008674.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/news/2008674.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: S3 + CloudFront構成のSPAでWAFによるブロックが効かないときの解決策 - Nealle Developer's Blog</title>
+    <updated>2025-04-22T02:48:15Z</updated>
+    <id>tag:nealle-dev.hatenablog.com,2025-04-22:/entry/2025/04/22/114803</id>
+    <link href="https://nealle-dev.hatenablog.com/entry/2025/04/22/114803" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【図解解説】これ1本12分でReactのコンセプト全20種を理解できる教科書 - Qiita</title>
-    <updated>2025-04-20T23:16:53Z</updated>
-    <id>tag:qiita.com,2025-04-20:/Sicut_study/items/3247f55e8ae7992485e1</id>
-    <link href="https://qiita.com/Sicut_study/items/3247f55e8ae7992485e1" rel="alternate"></link>
+    <title>1:hatena_blog_it: “人間が見たことない新しい色”発見　「前例のない彩度の青緑色」　目にレーザー照射で知覚</title>
+    <updated>2025-04-21T23:20:25Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-21:/news/articles/2504/22/news054.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2504/22/news054.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: MCP Server as a Judge</title>
-    <updated>2025-04-21T17:22:47Z</updated>
-    <id>tag:speakerdeck.com,2025-04-21:/licux/mcp-server-as-a-judge</id>
-    <link href="https://speakerdeck.com/licux/mcp-server-as-a-judge" rel="alternate"></link>
+    <title>1:hatena_blog_it: Programming is Dead. Long Live Programming ー プログラミングは死なず。ただ老兵は去るのみ - Nothing ventured, nothing gained.</title>
+    <updated>2025-04-22T00:44:02Z</updated>
+    <id>tag:takoratta.hatenablog.com,2025-04-22:/entry/programmingisdead</id>
+    <link href="https://takoratta.hatenablog.com/entry/programmingisdead" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 人間と人間でないものを分かつ一線、そして「エンパシー」について</title>
+    <updated>2025-04-22T04:16:24Z</updated>
+    <id>tag:wirelesswire.jp,2025-04-22:/2025/04/88435/</id>
+    <link href="https://wirelesswire.jp/2025/04/88435/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: IIJセキュアMXサービスにおけるお客様情報の漏えいについてのお詫びとご報告 | IIJ</title>
+    <updated>2025-04-22T03:14:43Z</updated>
+    <id>tag:www.iij.ad.jp,2025-04-22:/news/pressrelease/2025/0422-2.html</id>
+    <link href="https://www.iij.ad.jp/news/pressrelease/2025/0422-2.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「no-reply@google.com」から送信されたように見えるフィッシングメール攻撃</title>
+    <updated>2025-04-21T13:14:01Z</updated>
+    <id>tag:gigazine.net,2025-04-21:/news/20250421-phishers-abuse-google-oauth-dkim-replay-attack/</id>
+    <link href="https://gigazine.net/news/20250421-phishers-abuse-google-oauth-dkim-replay-attack/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: MagicPod導入で実現！enechainにおけるE2Eリグレッションテスト自動化の全貌 - enechain Tech Blog</title>
+    <updated>2025-04-22T03:18:39Z</updated>
+    <id>tag:techblog.enechain.com,2025-04-22:/entry/magicpod-e2e-regression-testing</id>
+    <link href="https://techblog.enechain.com/entry/magicpod-e2e-regression-testing" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: プルリクエストを作るだけで検証環境が自動生成！ArgoCDとk8sで実現する開発者体験の改善 - MonotaRO Tech Blog</title>
+    <updated>2025-04-22T00:05:40Z</updated>
+    <id>tag:tech-blog.monotaro.com,2025-04-22:/entry/2025/04/22/090000</id>
+    <link href="https://tech-blog.monotaro.com/entry/2025/04/22/090000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OpenAIのo3はAGIではないかという問いから生まれた概念「ギザギザのAGI」とは？</title>
+    <updated>2025-04-22T01:16:07Z</updated>
+    <id>tag:gigazine.net,2025-04-22:/news/20250422-jagged-agi/</id>
+    <link href="https://gigazine.net/news/20250422-jagged-agi/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ローカル動画生成AIの革命児「FramePack」の使い方 (1/4)</title>
@@ -4420,87 +4462,39 @@
     <link href="https://ascii.jp/elem/000/004/264/4264570/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: MCP Server as a Judge</title>
+    <updated>2025-04-21T17:22:47Z</updated>
+    <id>tag:speakerdeck.com,2025-04-21:/licux/mcp-server-as-a-judge</id>
+    <link href="https://speakerdeck.com/licux/mcp-server-as-a-judge" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ChatGPTに対する「ありがとう」や「お願いします」といった礼儀正しい言葉が数十億円分の電力消費につながっているとOpenAIのサム・アルトマンCEOが発言</title>
+    <updated>2025-04-21T04:02:05Z</updated>
+    <id>tag:gigazine.net,2025-04-21:/news/20250421-politeness-could-be-costly-ai/</id>
+    <link href="https://gigazine.net/news/20250421-politeness-could-be-costly-ai/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: なぜ「プレイヤーの自分」と決別できたのか。「技術に詳しい経営者」が、本当にやるべきこととは｜カミナシCTO原トリ | レバテックラボ（レバテックLAB）</title>
+    <updated>2025-04-22T01:45:27Z</updated>
+    <id>tag:levtech.jp,2025-04-22:/media/article/interview/detail_656/</id>
+    <link href="https://levtech.jp/media/article/interview/detail_656/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 「フック」「単純な関数」のような「実装手段」でディレクトリを分けるべきでない - honey32</title>
     <updated>2025-04-21T11:38:25Z</updated>
     <id>tag:scrapbox.io,2025-04-21:/honey32/「フック」「単純な関数」のような「実装手段」でディレクトリを分けるべきでない</id>
     <link href="https://scrapbox.io/honey32/%E3%80%8C%E3%83%95%E3%83%83%E3%82%AF%E3%80%8D%E3%80%8C%E5%8D%98%E7%B4%94%E3%81%AA%E9%96%A2%E6%95%B0%E3%80%8D%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%80%8C%E5%AE%9F%E8%A3%85%E6%89%8B%E6%AE%B5%E3%80%8D%E3%81%A7%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%82%92%E5%88%86%E3%81%91%E3%82%8B%E3%81%B9%E3%81%8D%E3%81%A7%E3%81%AA%E3%81%84" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「スクショ」が商標登録されていた──Xで話題に　GMOメディアが2015年に登録済み</title>
-    <updated>2025-04-21T11:28:28Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-04-21:/news/articles/2504/21/news160.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2504/21/news160.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: React Compiler RC – React</title>
+    <updated>2025-04-21T23:05:22Z</updated>
+    <id>tag:react.dev,2025-04-21:/blog/2025/04/21/react-compiler-rc</id>
+    <link href="https://react.dev/blog/2025/04/21/react-compiler-rc" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: RubyKaigi 2025 レポート: deprewriter-ruby で非推奨メソッドの置き換えを自動化！ - Findy Tech Blog</title>
-    <updated>2025-04-21T14:33:49Z</updated>
-    <id>tag:tech.findy.co.jp,2025-04-21:/entry/2025/04/21/203500</id>
-    <link href="https://tech.findy.co.jp/entry/2025/04/21/203500" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 最小コストで始める Slackを活用したお問い合わせ対応 - tebiki_techblog</title>
-    <updated>2025-04-21T09:29:40Z</updated>
-    <id>tag:techblog.tebiki.co.jp,2025-04-21:/2025/04/21/142924</id>
-    <link href="https://techblog.tebiki.co.jp/2025/04/21/142924" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 中国の「人間のランナーVSロボット」のハーフマラソンで人型ロボットがずっこけるシーンまとめ</title>
-    <updated>2025-04-21T07:10:20Z</updated>
-    <id>tag:gigazine.net,2025-04-21:/news/20250421-chinas-x-humanoid-robot-tien-kung-iltra/</id>
-    <link href="https://gigazine.net/news/20250421-chinas-x-humanoid-robot-tien-kung-iltra/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: キャラポンおえかきにオートマタの真髄を見た : 思いつき改造工房＋α</title>
-    <updated>2025-04-20T09:43:15Z</updated>
-    <id>tag:blog.livedoor.jp,2025-04-20:/onzdime/archives/93447395.html</id>
-    <link href="http://blog.livedoor.jp/onzdime/archives/93447395.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: サンコー、両手が自由な背負う日傘 - 家電 Watch</title>
-    <updated>2025-04-21T05:50:52Z</updated>
-    <id>tag:kaden.watch.impress.co.jp,2025-04-21:/docs/news/2008467.html</id>
-    <link href="https://kaden.watch.impress.co.jp/docs/news/2008467.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 同期Rustと非同期Rustで同じものを作るとどれくらい実装が変わるのか - Don't Repeat Yourself</title>
-    <updated>2025-04-21T03:02:41Z</updated>
-    <id>tag:blog-dry.com,2025-04-21:/entry/2025/04/21/090439</id>
-    <link href="https://blog-dry.com/entry/2025/04/21/090439" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「生成AIで簡単に稼げる！」──SNSにあふれる“謎のAIセミナー”の真相は？　実際に参加してみた</title>
-    <updated>2025-04-21T03:29:29Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-04-21:/aiplus/articles/2504/21/news045.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2504/21/news045.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Apple純正モデムが始動　「C1」のルーツを探る</title>
-    <updated>2025-04-21T05:31:05Z</updated>
-    <id>tag:eetimes.itmedia.co.jp,2025-04-21:/ee/articles/2504/21/news030.html</id>
-    <link href="https://eetimes.itmedia.co.jp/ee/articles/2504/21/news030.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: UWP製「Word」「Excel」「PowerPoint」モバイルアプリがサポート終了へ／あと半年でサポート打ち切り、後継製品への移行を</title>
-    <updated>2025-04-21T05:47:14Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-04-21:/docs/news/2008533.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2008533.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: React Server Confusion</title>
-    <updated>2025-04-21T04:01:10Z</updated>
-    <id>tag:hire.jonasgalvez.com.br,2025-04-21:/2025/apr/8/react-server-confusion/</id>
-    <link href="https://hire.jonasgalvez.com.br/2025/apr/8/react-server-confusion/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「AI」でベンダー依存脱却へ、セブン＆アイに学ぶ企業ネットワークでのAI活用</title>
-    <updated>2025-04-21T03:52:18Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2025-04-21:/ait/articles/2504/21/news028.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2504/21/news028.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: SIerの技術者は皆コンサルタントが大嫌い、だけど「ご用聞き」のままでは明日がない</title>
-    <updated>2025-04-21T00:05:59Z</updated>
-    <id>tag:xtech.nikkei.com,2025-04-21:/atcl/nxt/column/18/00148/041100382/</id>
-    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00148/041100382/" rel="alternate"></link>
+    <title>1:hatena_blog_it: LLM・AIエージェントの先駆者が集結！Siri創業者登壇「AI Engineering Summit」</title>
+    <updated>2025-04-22T01:01:11Z</updated>
+    <id>tag:ai-engineering-summit.findy-tools.io,2025-04-22:/</id>
+    <link href="https://ai-engineering-summit.findy-tools.io/" rel="alternate"></link>
   </entry>
 </feed>
