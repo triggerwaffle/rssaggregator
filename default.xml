@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-04-24T12:27:59Z</updated>
+  <updated>2025-04-24T18:18:31Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -124,6 +124,12 @@
     <link href="https://archlinux.org/news/the-xz-package-has-been-backdoored/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: XcodeCloudの実行時間を34分→16分に改善した</title>
+    <updated>2025-04-24T03:00:00Z</updated>
+    <id>https://zenn.dev/dely_jp/articles/selective-testing-script</id>
+    <link href="https://zenn.dev/dely_jp/articles/selective-testing-script" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: 4万行超のopenapi.yamlをTypeSpecに移行した話</title>
     <updated>2025-04-24T00:07:24Z</updated>
     <id>https://zenn.dev/yuta_takahashi/articles/migrate-to-typespec</id>
@@ -154,16 +160,22 @@
     <link href="https://zenn.dev/huyu2239/books/4379212c91d382" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: LLMの検証を加速するトレースツール：Langfuseのご紹介</title>
-    <updated>2025-04-23T07:48:13Z</updated>
-    <id>https://zenn.dev/rehabforjapan/articles/2025-04-01-langfuse</id>
-    <link href="https://zenn.dev/rehabforjapan/articles/2025-04-01-langfuse" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: N+1問題って結局何？TypeScript + Prismaで再現してパフォーマンスの差を見てみた</title>
     <updated>2025-04-22T16:24:27Z</updated>
     <id>https://zenn.dev/dem3860/articles/9ed0313ae9ef8d</id>
     <link href="https://zenn.dev/dem3860/articles/9ed0313ae9ef8d" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 忙しい人向け nvim-lspconfigのnvim v0.11対応</title>
+    <updated>2025-04-22T15:00:01Z</updated>
+    <id>https://zenn.dev/vim_jp/articles/migrate-nvim-lspconfig-v0_11</id>
+    <link href="https://zenn.dev/vim_jp/articles/migrate-nvim-lspconfig-v0_11" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: サーバーなしゲームで端末時間に依存しない時間管理機能を実装した話</title>
+    <updated>2025-04-22T14:53:52Z</updated>
+    <id>https://zenn.dev/hironoco/articles/597dcb6153406e</id>
+    <link href="https://zenn.dev/hironoco/articles/597dcb6153406e" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: フロントエンドのリプレイスに、いつまでかけるんだ？</title>
@@ -176,12 +188,6 @@
     <updated>2025-04-22T08:44:41Z</updated>
     <id>https://zenn.dev/mizchi/books/cloudflare-book</id>
     <link href="https://zenn.dev/mizchi/books/cloudflare-book" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: MCPの通信に対する深い考察と実装</title>
-    <updated>2025-04-22T06:45:35Z</updated>
-    <id>https://zenn.dev/acrosstudioblog/articles/f210c982b60700</id>
-    <link href="https://zenn.dev/acrosstudioblog/articles/f210c982b60700" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: SaaS公式MCPサーバーをリリースして得た学び</title>
@@ -236,12 +242,6 @@
     <updated>2025-04-21T04:57:12Z</updated>
     <id>https://zenn.dev/taian/articles/229d268b7684ac</id>
     <link href="https://zenn.dev/taian/articles/229d268b7684ac" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Vitestの実行時間を8倍高速化：同一環境での実行によるパフォーマンス改善</title>
-    <updated>2025-04-21T03:18:08Z</updated>
-    <id>https://zenn.dev/microcms/articles/c3b9d48b5647b4</id>
-    <link href="https://zenn.dev/microcms/articles/c3b9d48b5647b4" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: なぜあなたの記事には「いいね」が付かないのか？</title>
@@ -886,6 +886,18 @@
     <link href="https://atmarkit.itmedia.co.jp/ait/articles/2401/29/news053.html" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:arco_linux_youtube: Edu 0020 : Adding fix-sddm-conf to my edu-dot-files - a script for my/your convenience</title>
+    <updated>2025-04-24T15:54:07Z</updated>
+    <id>yt:video:otC5QN2Wgzk</id>
+    <link href="https://www.youtube.com/watch?v=otC5QN2Wgzk" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:arco_linux_youtube: Edu 0019 : Removing one desktop and installing another one - cinnamon removed - gnome installed</title>
+    <updated>2025-04-24T14:03:52Z</updated>
+    <id>yt:video:ZrXU5td8Dck</id>
+    <link href="https://www.youtube.com/watch?v=ZrXU5td8Dck" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:arco_linux_youtube: Edu 0018 : Removing one desktop and installing another one - xfce4 removed - cinnamon installed</title>
     <updated>2025-04-24T05:05:33Z</updated>
     <id>yt:video:ZmHm1CHWVrU</id>
@@ -962,18 +974,6 @@
     <updated>2025-04-17T08:01:43Z</updated>
     <id>yt:video:p0yDOzhlOzo</id>
     <link href="https://www.youtube.com/watch?v=p0yDOzhlOzo" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:arco_linux_youtube: Edu 0005 : Removing all ArcoLInux packages - arcolinux-nemesis - work in progress - xfce and chadwm</title>
-    <updated>2025-04-17T04:03:24Z</updated>
-    <id>yt:video:HpU1TRsSeLg</id>
-    <link href="https://www.youtube.com/watch?v=HpU1TRsSeLg" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:arco_linux_youtube: Edu 0004 : Applying and working on arcolinux-nemesis script is an ongoing process - one I love</title>
-    <updated>2025-04-15T06:53:27Z</updated>
-    <id>yt:video:fJ0AceutREw</id>
-    <link href="https://www.youtube.com/watch?v=fJ0AceutREw" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:publickey: AWS、通常のAmazon S3より最大10倍高速な「Amazon S3 Express One Zone」の価格を最大で85％引き下げ</title>
@@ -4312,16 +4312,10 @@
     <link href="https://gihyo.jp/article/2024/04/node_js-22?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Fedora Linux 40リリース、GNOME 46/KDE Plasma 6を搭載</title>
-    <updated>2024-04-24T06:58:00Z</updated>
-    <id>urn:uuid:86da8f7c-05d7-925d-1477-d0231b08e240</id>
-    <link href="https://gihyo.jp/article/2024/04/daily-linux-240424?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: 第810回　Ubuntu 24.04 LTSの変更点</title>
-    <updated>2024-04-24T00:16:00Z</updated>
-    <id>urn:uuid:dc0ada1f-637c-1eae-d0ac-5ee67d9cfc96</id>
-    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0810?utm_source=feed" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「ふりかえり」にKPTだけなんてもったいない!? チームの状況に応じたレトロスペクティブの選び方 ばやしさん×いくおさん 対談 - Agile Journey</title>
+    <updated>2025-04-24T02:00:08Z</updated>
+    <id>tag:agilejourney.uzabase.com,2025-04-24:/entry/2025/04/24/103000</id>
+    <link href="https://agilejourney.uzabase.com/entry/2025/04/24/103000" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 西和彦氏、115億円の破産手続き完了を報告</title>
@@ -4330,40 +4324,16 @@
     <link href="https://pc.watch.impress.co.jp/docs/news/2009565.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「ふりかえり」にKPTだけなんてもったいない!? チームの状況に応じたレトロスペクティブの選び方 ばやしさん×いくおさん 対談 - Agile Journey</title>
-    <updated>2025-04-24T02:00:08Z</updated>
-    <id>tag:agilejourney.uzabase.com,2025-04-24:/entry/2025/04/24/103000</id>
-    <link href="https://agilejourney.uzabase.com/entry/2025/04/24/103000" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: モノタロウのAI駆動開発の全貌をご紹介します - MonotaRO Tech Blog</title>
     <updated>2025-04-24T00:19:58Z</updated>
     <id>tag:tech-blog.monotaro.com,2025-04-24:/entry/2025/04/24/091000</id>
     <link href="https://tech-blog.monotaro.com/entry/2025/04/24/091000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「游ゴシック UI」フォントが原因？　括弧の描画があべこべになる問題が1年以上放置／「Chromium」ベースWebアプリで、」「、〉〈、》《、」「、』『、】【、〕〔などに影響【やじうまの杜】</title>
-    <updated>2025-04-23T21:56:45Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-04-23:/docs/serial/yajiuma/2009377.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2009377.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIで英語学習したい！けど「何から？」→京大・金丸准教授が提案する教材生成＆実践【AI活用ステップ】 | ライフハッカー・ジャパン</title>
-    <updated>2025-04-23T10:08:09Z</updated>
-    <id>tag:www.lifehacker.jp,2025-04-23:/article/2504-ai-english-learning/</id>
-    <link href="https://www.lifehacker.jp/article/2504-ai-english-learning/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: プロダクトマネージャーがCursorと作る、"思考が蓄積する"仕事環境 ~AI伴走を当たり前に~｜Naomi Shiraishi</title>
-    <updated>2025-04-23T06:33:14Z</updated>
-    <id>tag:note.com,2025-04-23:/naomix/n/n21310f007154</id>
-    <link href="https://note.com/naomix/n/n21310f007154" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ここはMCPの夜明けまえ</title>
-    <updated>2025-04-23T11:47:20Z</updated>
-    <id>tag:speakerdeck.com,2025-04-23:/nwiizo/kokohamcpnoye-ming-kemae</id>
-    <link href="https://speakerdeck.com/nwiizo/kokohamcpnoye-ming-kemae" rel="alternate"></link>
+    <title>1:hatena_blog_it: 第15回　スマートフォン・サイバー攻撃対策ガイド「偽基地局から送信される詐欺SMS」 ～なぜ詐欺SMSの送信が可能か？～ | JSSEC</title>
+    <updated>2025-04-24T12:23:34Z</updated>
+    <id>tag:www.jssec.org,2025-04-24:/column/20250423.html</id>
+    <link href="https://www.jssec.org/column/20250423.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: イーロン・マスクがトランプ大統領の前で閣僚と大げんかしたとの報道、「ファック・ユー」がホワイトハウスを飛び交う事態に</title>
@@ -4372,76 +4342,22 @@
     <link href="https://gigazine.net/news/20250424-elon-musk-scott-bessent-dispute/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: Microsoft 365 CopilotでAI推論エージェントが提供開始</title>
+    <updated>2025-04-24T07:00:49Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-04-24:/docs/news/2009647.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2009647.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 総務省がスターリンク巡り「合意なき周波数共用」可能に、衛星放送側は強く反発</title>
     <updated>2025-04-24T07:19:41Z</updated>
     <id>tag:xtech.nikkei.com,2025-04-24:/atcl/nxt/column/18/00001/10516/</id>
     <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/10516/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Devin に怒られたので、macOS の BSD grep で \d が使える謎を追うことにした - LayerX エンジニアブログ</title>
-    <updated>2025-04-24T08:31:19Z</updated>
-    <id>tag:tech.layerx.co.jp,2025-04-24:/entry/2025/04/24/172412</id>
-    <link href="https://tech.layerx.co.jp/entry/2025/04/24/172412" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「故人再現AI」は“死者蘇生”ではない。似ていないことに価値がある、弔いとテクノロジーの奇妙な融合 | レバテックラボ（レバテックLAB）</title>
-    <updated>2025-04-24T04:48:10Z</updated>
-    <id>tag:levtech.jp,2025-04-24:/media/article/interview/detail_658/</id>
-    <link href="https://levtech.jp/media/article/interview/detail_658/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: After Cline - あるいは語りえぬ者について語ろうとする時代について</title>
-    <updated>2025-04-23T10:53:46Z</updated>
-    <id>tag:gist.github.com,2025-04-23:/mizchi/1ad9d75fd008201571e85496fc736185</id>
-    <link href="https://gist.github.com/mizchi/1ad9d75fd008201571e85496fc736185" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIのおかげで増田引退出来そう</title>
-    <updated>2025-04-24T00:47:56Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-04-24:/20250424081239</id>
-    <link href="https://anond.hatelabo.jp/20250424081239" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: NTTデータ､OpenAIと提携　AIエージェントを世界で販売 - 日本経済新聞</title>
-    <updated>2025-04-24T06:01:54Z</updated>
-    <id>tag:www.nikkei.com,2025-04-24:/article/DGXZQOUC2333G0T20C25A4000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC2333G0T20C25A4000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 大規模言語モデルがどのように言葉をトークンに分解して処理するのかを視覚化する「Meaning Machine」</title>
-    <updated>2025-04-23T15:15:39Z</updated>
-    <id>tag:gigazine.net,2025-04-23:/news/20250423-meaning-machine-language-models/</id>
-    <link href="https://gigazine.net/news/20250423-meaning-machine-language-models/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Cursor完全ロードマップ｜しんちゃん | AI-Growth PM / UXライター｜note</title>
-    <updated>2025-04-23T12:33:02Z</updated>
-    <id>tag:note.com,2025-04-23:/shin_suge/m/me8bd6f5c4c56</id>
-    <link href="https://note.com/shin_suge/m/me8bd6f5c4c56" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ドコモが新料金プラン「ドコモ MAX」「ドコモ ポイ活 MAX」「ドコモ ポイ活 20」「ドコモ mini」を一挙発表</title>
-    <updated>2025-04-24T04:36:32Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2025-04-24:/docs/news/2009420.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2009420.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: mcp-goで作って学ぶMCPサーバー - RAKUS Developers Blog | ラクス エンジニアブログ</title>
-    <updated>2025-04-24T05:00:20Z</updated>
-    <id>tag:tech-blog.rakus.co.jp,2025-04-24:/entry/20250424/mcp-go</id>
-    <link href="https://tech-blog.rakus.co.jp/entry/20250424/mcp-go" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【実際のアウトプットつき】ChatGPTに課金している人が集まって、現在最先端と言われる「o3」の推論力の限界を試す試みが行われる</title>
-    <updated>2025-04-23T12:06:38Z</updated>
-    <id>tag:togetter.com,2025-04-23:/li/2542227</id>
-    <link href="https://togetter.com/li/2542227" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: アスキー創業者の西和彦さん、破産手続きの終了を報告</title>
-    <updated>2025-04-24T08:02:04Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-04-24:/news/articles/2504/24/news174.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2504/24/news174.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「游ゴシック UI」フォントが原因？　括弧の描画があべこべになる問題が1年以上放置／「Chromium」ベースWebアプリで、」「、〉〈、》《、」「、』『、】【、〕〔などに影響【やじうまの杜】</title>
+    <updated>2025-04-23T21:56:45Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-04-23:/docs/serial/yajiuma/2009377.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2009377.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ワークマンが「NotebookLM」導入　AIメモで新人の疑問解決を容易に　「Deep Research」も活用</title>
@@ -4450,34 +4366,22 @@
     <link href="https://www.itmedia.co.jp/aiplus/articles/2504/24/news125.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: オンライン証券口座乗っ取り急増－日本の弱点露呈、官民の対策急務</title>
-    <updated>2025-04-24T05:04:23Z</updated>
-    <id>tag:www.bloomberg.co.jp,2025-04-24:/news/articles/2025-04-24/SV72Z9DWX2PS00</id>
-    <link href="https://www.bloomberg.co.jp/news/articles/2025-04-24/SV72Z9DWX2PS00" rel="alternate"></link>
+    <title>1:hatena_blog_it: ドコモが新料金プラン「ドコモ MAX」「ドコモ ポイ活 MAX」「ドコモ ポイ活 20」「ドコモ mini」を一挙発表</title>
+    <updated>2025-04-24T04:36:32Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2025-04-24:/docs/news/2009420.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/news/2009420.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: マイニンテンドーストア、緊急メンテナンス　「Switch2」当落発表控え</title>
-    <updated>2025-04-24T06:04:47Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-04-24:/news/articles/2504/24/news150.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2504/24/news150.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 監視 やばい</title>
+    <updated>2025-04-24T10:49:11Z</updated>
+    <id>tag:speakerdeck.com,2025-04-24:/syossan27/jian-shi-yabai</id>
+    <link href="https://speakerdeck.com/syossan27/jian-shi-yabai" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Azure OpenAI Service活用最前線　5社の技術選定とアーキテクチャ - Findy Tools</title>
-    <updated>2025-04-23T23:41:23Z</updated>
-    <id>tag:findy-tools.io,2025-04-23:/articles/aoai/56</id>
-    <link href="https://findy-tools.io/articles/aoai/56" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ChatGPT 3,000円プラン、最強モデル｢o3｣の利用回数が2倍に。週100回まで使えるよ</title>
-    <updated>2025-04-23T22:00:31Z</updated>
-    <id>tag:www.gizmodo.jp,2025-04-23:/2025/04/openai_doubled_o3_usage_limit_for_chatgpt_plus.html</id>
-    <link href="https://www.gizmodo.jp/2025/04/openai_doubled_o3_usage_limit_for_chatgpt_plus.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: o3、Gemini 2.5 Pro、Claude 3.7 Sonnetの文章執筆性能の比較｜IT navi</title>
-    <updated>2025-04-23T21:11:15Z</updated>
-    <id>tag:note.com,2025-04-23:/it_navi/n/n0938b6bc4fa0</id>
-    <link href="https://note.com/it_navi/n/n0938b6bc4fa0" rel="alternate"></link>
+    <title>1:hatena_blog_it: NTTデータ､OpenAIと提携　AIエージェントを世界で販売 - 日本経済新聞</title>
+    <updated>2025-04-24T06:01:54Z</updated>
+    <id>tag:www.nikkei.com,2025-04-24:/article/DGXZQOUC2333G0T20C25A4000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC2333G0T20C25A4000000/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Datadogのメトリクス収集をAPIポーリングからCloudWatch Metric Streamsへ移行した話 - LayerX エンジニアブログ</title>
@@ -4486,9 +4390,99 @@
     <link href="https://tech.layerx.co.jp/entry/2025/04/22/105124" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Microsoft 365 CopilotでAI推論エージェントが提供開始</title>
-    <updated>2025-04-24T07:00:49Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-04-24:/docs/news/2009647.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2009647.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Devin に怒られたので、macOS の BSD grep で \d が使える謎を追うことにした - LayerX エンジニアブログ</title>
+    <updated>2025-04-24T08:31:19Z</updated>
+    <id>tag:tech.layerx.co.jp,2025-04-24:/entry/2025/04/24/172412</id>
+    <link href="https://tech.layerx.co.jp/entry/2025/04/24/172412" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Windows 11をアップデートしたら20年以上前に発売された「GTA：SA」で「飛行機が1京光年離れた場所に現れるバグ」が発生</title>
+    <updated>2025-04-24T10:43:25Z</updated>
+    <id>tag:gigazine.net,2025-04-24:/news/20250424-gtasa-windows-11-24h2-bug/</id>
+    <link href="https://gigazine.net/news/20250424-gtasa-windows-11-24h2-bug/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ドコモの「irumo」わずか2年で新規終了の理由　0.5GBプラン廃止の影響は少ない？</title>
+    <updated>2025-04-24T12:30:15Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-24:/mobile/articles/2504/24/news184.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2504/24/news184.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ここはMCPの夜明けまえ</title>
+    <updated>2025-04-23T11:47:20Z</updated>
+    <id>tag:speakerdeck.com,2025-04-23:/nwiizo/kokohamcpnoye-ming-kemae</id>
+    <link href="https://speakerdeck.com/nwiizo/kokohamcpnoye-ming-kemae" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「故人再現AI」は“死者蘇生”ではない。似ていないことに価値がある、弔いとテクノロジーの奇妙な融合 | レバテックラボ（レバテックLAB）</title>
+    <updated>2025-04-24T04:48:10Z</updated>
+    <id>tag:levtech.jp,2025-04-24:/media/article/interview/detail_658/</id>
+    <link href="https://levtech.jp/media/article/interview/detail_658/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 簡単組み立てで完成する「DIYレコードプレーヤー」が4400円！</title>
+    <updated>2025-04-24T04:37:48Z</updated>
+    <id>tag:ascii.jp,2025-04-24:/elem/000/004/265/4265450/</id>
+    <link href="https://ascii.jp/elem/000/004/265/4265450/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Microsoft、MCP対応AIエージェントによるAzure利用を支援する「Azure MCP Server」を発表</title>
+    <updated>2025-04-24T02:36:10Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2025-04-24:/ait/articles/2504/24/news065.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2504/24/news065.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: マイニンテンドーストア、緊急メンテナンス　「Switch2」当落発表控え</title>
+    <updated>2025-04-24T06:04:47Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-24:/news/articles/2504/24/news150.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2504/24/news150.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 英語の勉強がモリモリはかどる！ChatGPT先生の「瞬間英作文」を使ってみたら最強すぎた！</title>
+    <updated>2025-04-23T10:36:36Z</updated>
+    <id>tag:diamond.jp,2025-04-23:/articles/-/362585</id>
+    <link href="https://diamond.jp/articles/-/362585?page=3" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Cursor完全ロードマップ｜しんちゃん | AI-Growth PM / UXライター｜note</title>
+    <updated>2025-04-23T12:33:02Z</updated>
+    <id>tag:note.com,2025-04-23:/shin_suge/m/me8bd6f5c4c56</id>
+    <link href="https://note.com/shin_suge/m/me8bd6f5c4c56" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 入社一年目の生成AIの教科書｜KAJI | 梶谷健人</title>
+    <updated>2025-04-24T01:41:41Z</updated>
+    <id>tag:note.com,2025-04-24:/kajiken0630/n/nceb7f1b4fdd6</id>
+    <link href="https://note.com/kajiken0630/n/nceb7f1b4fdd6" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: オンライン証券口座乗っ取り急増－日本の弱点露呈、官民の対策急務</title>
+    <updated>2025-04-24T05:04:23Z</updated>
+    <id>tag:www.bloomberg.co.jp,2025-04-24:/news/articles/2025-04-24/SV72Z9DWX2PS00</id>
+    <link href="https://www.bloomberg.co.jp/news/articles/2025-04-24/SV72Z9DWX2PS00" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIで英語学習したい！けど「何から？」→京大・金丸准教授が提案する教材生成＆実践【AI活用ステップ】 | ライフハッカー・ジャパン</title>
+    <updated>2025-04-23T10:08:09Z</updated>
+    <id>tag:www.lifehacker.jp,2025-04-23:/article/2504-ai-english-learning/</id>
+    <link href="https://www.lifehacker.jp/article/2504-ai-english-learning/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 14 Advanced Python Features</title>
+    <updated>2025-04-23T14:01:11Z</updated>
+    <id>tag:blog.edward-li.com,2025-04-23:/tech/advanced-python-features/</id>
+    <link href="https://blog.edward-li.com/tech/advanced-python-features/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: アスキー創業者の西和彦さん、破産手続きの終了を報告</title>
+    <updated>2025-04-24T08:02:04Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-04-24:/news/articles/2504/24/news174.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2504/24/news174.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: イルモ、エクシモ終了。「ドコモmini/MAX」提供へ - すまほん!!</title>
+    <updated>2025-04-24T04:59:53Z</updated>
+    <id>tag:smhn.info,2025-04-24:/202504-eximo-iranaimo</id>
+    <link href="https://smhn.info/202504-eximo-iranaimo" rel="alternate"></link>
   </entry>
 </feed>
