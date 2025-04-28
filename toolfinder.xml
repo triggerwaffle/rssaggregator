@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-04-28T01:07:40Z</updated>
+  <updated>2025-04-28T06:27:11Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2812,6 +2812,24 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: mkdev</title>
+    <updated>2025-04-28T06:14:16Z</updated>
+    <id>mkdev-1745820856</id>
+    <link href="https://aur.archlinux.org/packages/mkdev" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: displayconfig-mutter</title>
+    <updated>2025-04-28T05:59:55Z</updated>
+    <id>displayconfig-mutter-1745819995</id>
+    <link href="https://aur.archlinux.org/packages/displayconfig-mutter" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: plank-reloaded</title>
+    <updated>2025-04-28T01:13:14Z</updated>
+    <id>plank-reloaded-1745802794</id>
+    <link href="https://aur.archlinux.org/packages/plank-reloaded" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: qspectrumanalyzerg-git</title>
     <updated>2025-04-27T23:51:01Z</updated>
     <id>qspectrumanalyzerg-git-1745797861</id>
@@ -3394,22 +3412,28 @@
     <link href="https://aur.archlinux.org/packages/sway-scroll-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: gc-large-config</title>
-    <updated>2025-04-24T20:09:40Z</updated>
-    <id>gc-large-config-1745525380</id>
-    <link href="https://aur.archlinux.org/packages/gc-large-config" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-pymdown-extensions 10.15-1 any</title>
+    <updated>2025-04-28T06:24:38Z</updated>
+    <id>tag:archlinux.org,2025-04-28:/packages/extra-testing/any/python-pymdown-extensions/202504280624</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-pymdown-extensions/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: chimeraos-device-quirks-sk</title>
-    <updated>2025-04-24T19:27:22Z</updated>
-    <id>chimeraos-device-quirks-sk-1745522842</id>
-    <link href="https://aur.archlinux.org/packages/chimeraos-device-quirks-sk" rel="alternate"></link>
+    <title>2:archlinux_new_packages: qbittorrent-nox 5.1.0-1 x86_64</title>
+    <updated>2025-04-28T06:23:25Z</updated>
+    <id>tag:archlinux.org,2025-04-28:/packages/extra/x86_64/qbittorrent-nox/202504280623</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qbittorrent-nox/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: gftl</title>
-    <updated>2025-04-24T19:17:01Z</updated>
-    <id>gftl-1745522221</id>
-    <link href="https://aur.archlinux.org/packages/gftl" rel="alternate"></link>
+    <title>2:archlinux_new_packages: qbittorrent 5.1.0-1 x86_64</title>
+    <updated>2025-04-28T06:23:24Z</updated>
+    <id>tag:archlinux.org,2025-04-28:/packages/extra/x86_64/qbittorrent/202504280623</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qbittorrent/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: praat 6.4.29-1 x86_64</title>
+    <updated>2025-04-28T05:02:19Z</updated>
+    <id>tag:archlinux.org,2025-04-28:/packages/extra/x86_64/praat/202504280502</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/praat/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: wayland-protocols 1.44-1 any</title>
@@ -3686,29 +3710,5 @@
     <updated>2025-04-27T12:06:41Z</updated>
     <id>tag:archlinux.org,2025-04-27:/packages/extra-testing/x86_64/erlang-parsetools/202504271206</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-parsetools/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: erlang-os_mon 27.3.3-2 x86_64</title>
-    <updated>2025-04-27T12:06:40Z</updated>
-    <id>tag:archlinux.org,2025-04-27:/packages/extra-testing/x86_64/erlang-os_mon/202504271206</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-os_mon/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: erlang-odbc 27.3.3-2 x86_64</title>
-    <updated>2025-04-27T12:06:40Z</updated>
-    <id>tag:archlinux.org,2025-04-27:/packages/extra-testing/x86_64/erlang-odbc/202504271206</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-odbc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: erlang-observer 27.3.3-2 x86_64</title>
-    <updated>2025-04-27T12:06:39Z</updated>
-    <id>tag:archlinux.org,2025-04-27:/packages/extra-testing/x86_64/erlang-observer/202504271206</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-observer/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: erlang-mnesia 27.3.3-2 x86_64</title>
-    <updated>2025-04-27T12:06:39Z</updated>
-    <id>tag:archlinux.org,2025-04-27:/packages/extra-testing/x86_64/erlang-mnesia/202504271206</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-mnesia/" rel="alternate"></link>
   </entry>
 </feed>
