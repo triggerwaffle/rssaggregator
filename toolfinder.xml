@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-05-04T01:12:57Z</updated>
+  <updated>2025-05-04T06:18:49Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -2842,6 +2842,18 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: rusnapshot</title>
+    <updated>2025-05-04T06:06:18Z</updated>
+    <id>rusnapshot-1746338778</id>
+    <link href="https://aur.archlinux.org/packages/rusnapshot" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: sausage-git</title>
+    <updated>2025-05-04T02:35:07Z</updated>
+    <id>sausage-git-1746326107</id>
+    <link href="https://aur.archlinux.org/packages/sausage-git" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: rave-vst</title>
     <updated>2025-05-04T00:39:25Z</updated>
     <id>rave-vst-1746319165</id>
@@ -3430,16 +3442,34 @@
     <link href="https://aur.archlinux.org/packages/vkbasalt-redemp-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: lib32-vkbasalt-redemp-git</title>
-    <updated>2025-05-01T01:34:33Z</updated>
-    <id>lib32-vkbasalt-redemp-git-1746063273</id>
-    <link href="https://aur.archlinux.org/packages/lib32-vkbasalt-redemp-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: lib32-amdvlk 2025.Q2.1-1 x86_64</title>
+    <updated>2025-05-04T05:46:33Z</updated>
+    <id>tag:archlinux.org,2025-05-04:/packages/multilib/x86_64/lib32-amdvlk/202505040546</id>
+    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-amdvlk/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: thorium-browser-avx2-bin</title>
-    <updated>2025-05-01T00:40:28Z</updated>
-    <id>thorium-browser-avx2-bin-1746060028</id>
-    <link href="https://aur.archlinux.org/packages/thorium-browser-avx2-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: amdvlk 2025.Q2.1-1 x86_64</title>
+    <updated>2025-05-04T05:46:29Z</updated>
+    <id>tag:archlinux.org,2025-05-04:/packages/extra/x86_64/amdvlk/202505040546</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/amdvlk/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: immich-go 1:0.26.0-1 x86_64</title>
+    <updated>2025-05-04T04:41:49Z</updated>
+    <id>tag:archlinux.org,2025-05-04:/packages/extra/x86_64/immich-go/202505040441</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/immich-go/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-sphinx-hawkmoth 0.20.0-1 x86_64</title>
+    <updated>2025-05-04T03:48:16Z</updated>
+    <id>tag:archlinux.org,2025-05-04:/packages/extra/x86_64/python-sphinx-hawkmoth/202505040348</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-sphinx-hawkmoth/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: valijson 1.0.5-1 any</title>
+    <updated>2025-05-04T03:48:15Z</updated>
+    <id>tag:archlinux.org,2025-05-04:/packages/extra/any/valijson/202505040348</id>
+    <link href="https://archlinux.org/packages/extra/any/valijson/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: dnsproxy 0.75.3-2 x86_64</title>
@@ -3710,35 +3740,5 @@
     <updated>2025-05-03T15:34:46Z</updated>
     <id>tag:archlinux.org,2025-05-03:/packages/extra-testing/x86_64/broadcom-wl/202505031534</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/broadcom-wl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: bbswitch-dkms 0.8-743 x86_64</title>
-    <updated>2025-05-03T15:34:46Z</updated>
-    <id>tag:archlinux.org,2025-05-03:/packages/extra-testing/x86_64/bbswitch-dkms/202505031534</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/bbswitch-dkms/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: bbswitch 0.8-743 x86_64</title>
-    <updated>2025-05-03T15:34:45Z</updated>
-    <id>tag:archlinux.org,2025-05-03:/packages/extra-testing/x86_64/bbswitch/202505031534</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/bbswitch/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: acpi_call 1.2.2-275 x86_64</title>
-    <updated>2025-05-03T15:34:45Z</updated>
-    <id>tag:archlinux.org,2025-05-03:/packages/extra-testing/x86_64/acpi_call/202505031534</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/acpi_call/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gettext 0.24.1-1 x86_64</title>
-    <updated>2025-05-03T15:29:07Z</updated>
-    <id>tag:archlinux.org,2025-05-03:/packages/core-testing/x86_64/gettext/202505031529</id>
-    <link href="https://archlinux.org/packages/core-testing/x86_64/gettext/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-libltdl 2.5.4+r23+g5b582aed-1 x86_64</title>
-    <updated>2025-05-03T14:01:48Z</updated>
-    <id>tag:archlinux.org,2025-05-03:/packages/multilib/x86_64/lib32-libltdl/202505031401</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-libltdl/" rel="alternate"></link>
   </entry>
 </feed>
