@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-05-08T12:27:27Z</updated>
+  <updated>2025-05-08T18:19:20Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -976,6 +976,18 @@
     <link href="https://www.youtube.com/watch?v=S6qdUf_rO0s" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: OpenAI、日本におけるデータレジデンシーの開始を発表。プロンプトやアップロードされたデータを日本国内のデータセンターに保存</title>
+    <updated>2025-05-09T14:03:15Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8190</id>
+    <link href="https://www.publickey1.jp/blog/25/openai.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: IPA、日本におけるオープンソース戦略形成に向けた現状と展望をまとめた「2024年度オープンソース推進レポート」公開</title>
+    <updated>2025-05-09T13:53:36Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8189</id>
+    <link href="https://www.publickey1.jp/blog/25/ipa2024.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: 高速化したインメモリDB「Redis 8.0」正式リリース。AGPLv3対応によりオープンソースに復帰</title>
     <updated>2025-05-08T14:54:50Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8188</id>
@@ -1052,18 +1064,6 @@
     <updated>2025-04-16T15:36:17Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8176</id>
     <link href="https://www.publickey1.jp/blog/25/aws1aws.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Cloudflare Workers、フルスタックアプリの構築とホスティングが可能に。新たにNext.jsやAngularなどに対応、MySQLへの接続も</title>
-    <updated>2025-04-15T15:40:56Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8175</id>
-    <link href="https://www.publickey1.jp/blog/25/cloudflare_workersnextjsangularpostgresqlmysql.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Cloudflare、シークレットを安全に管理できる「Cloudflare Secrets Store」ベータ公開</title>
-    <updated>2025-04-15T15:39:24Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8174</id>
-    <link href="https://www.publickey1.jp/blog/25/cloudflarecloudflare_secrets_store.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: OpenSearch 3.0リリース、GPUアクセラレーションにより処理速度が大幅に向上</title>
@@ -4324,82 +4324,10 @@
     <link href="https://gihyo.jp/article/2024/05/openai-model-spec?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: 今わかっているPixel 9シリーズのこと</title>
-    <updated>2024-05-09T00:24:00Z</updated>
-    <id>urn:uuid:19081762-52e6-e33a-926c-61f80b3ec8be</id>
-    <link href="https://gihyo.jp/article/2024/05/android-weekly-topics-240509?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: SUIDからの脱却を ―systemdクリエーター⁠⁠、sudoオルタナティブな“run0”コマンドをsystemd 256で実装へ</title>
-    <updated>2024-05-08T07:33:00Z</updated>
-    <id>urn:uuid:5154d299-3570-2ec3-3c04-d6392d6d0fa9</id>
-    <link href="https://gihyo.jp/article/2024/05/daily-linux-240508?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: 第812回　aptの新機能あれこれ ［Ubuntu 24.04 LTS版］</title>
-    <updated>2024-05-08T00:55:00Z</updated>
-    <id>urn:uuid:5de64ddd-f5c6-6732-63f2-03f07b787a1c</id>
-    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0812?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 「Firefox 138」のリリースノートにない日本人にとって重要な変更とは？／2022年にサポート対象外となってしまった「NHKプラス」の配信動画を視聴できるように【やじうまの杜】</title>
     <updated>2025-05-08T03:53:36Z</updated>
     <id>tag:forest.watch.impress.co.jp,2025-05-08:/docs/serial/yajiuma/2012339.html</id>
     <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2012339.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 個人開発で月20万円を目指すための考え方 - Qiita</title>
-    <updated>2025-05-07T13:05:31Z</updated>
-    <id>tag:qiita.com,2025-05-07:/sakes9/items/d8a94271f994ab3c26d1</id>
-    <link href="https://qiita.com/sakes9/items/d8a94271f994ab3c26d1" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: カルーセルはもうCSSだけで実装できる！ 疑似要素::scroll-button()と::scroll-marker()の使い方を解説</title>
-    <updated>2025-05-08T00:39:57Z</updated>
-    <id>tag:coliss.com,2025-05-08:/articles/build-websites/operation/css/carousel-using-only-css.html</id>
-    <link href="https://coliss.com/articles/build-websites/operation/css/carousel-using-only-css.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「アロンアルフア」を徹底解剖　「EXTRA」「光」など20種以上からどう選ぶ?</title>
-    <updated>2025-05-07T23:44:20Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-05-07:/docs/topic/2010564.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/topic/2010564.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Hyper — Reactの代替を本気で目指す新たなマークアップ言語が登場！圧倒的にシンプル、Web標準を尊重</title>
-    <updated>2025-05-07T21:55:48Z</updated>
-    <id>tag:techfeed.io,2025-05-07:/entries/681bd5cfec14c26dc729f971</id>
-    <link href="https://techfeed.io/entries/681bd5cfec14c26dc729f971" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: アクセシビリティ学習の手引きとしての入門講座</title>
-    <updated>2025-05-08T00:41:23Z</updated>
-    <id>tag:tech.plaid.co.jp,2025-05-08:/introduction-to-accessibility</id>
-    <link href="https://tech.plaid.co.jp/introduction-to-accessibility" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ウェブはSEOから「GEO」へ、ビジネスリーダーのための生成エンジン最適化ガイド | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-    <updated>2025-05-07T13:26:56Z</updated>
-    <id>tag:forbesjapan.com,2025-05-07:/articles/detail/78906</id>
-    <link href="https://forbesjapan.com/articles/detail/78906" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 俺のAIデッキ（2025年5月版） - Robot Checkerboard</title>
-    <updated>2025-05-07T13:08:13Z</updated>
-    <id>tag:kiyo-shit.hatenablog.com,2025-05-07:/entry/2025/05/07/215822</id>
-    <link href="https://kiyo-shit.hatenablog.com/entry/2025/05/07/215822" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ソニー銀行が勘定系システム全体をAWSに移行 – 同行が管理する全てのシステムがクラウドに | Amazon Web Services</title>
-    <updated>2025-05-07T03:07:33Z</updated>
-    <id>tag:aws.amazon.com,2025-05-07:/jp/blogs/news/casestudy-sonybank-core-banking-migration/</id>
-    <link href="https://aws.amazon.com/jp/blogs/news/casestudy-sonybank-core-banking-migration/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ソフトウェアエンジニアが抱えやすい21の苦労 - mtx2s’s blog</title>
-    <updated>2025-05-07T11:29:40Z</updated>
-    <id>tag:mtx2s.hatenablog.com,2025-05-07:/entry/2025/05/07/201025</id>
-    <link href="https://mtx2s.hatenablog.com/entry/2025/05/07/201025" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: チームみらい 公式ホームページ</title>
@@ -4408,28 +4336,52 @@
     <link href="https://team-mir.ai/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 「右の人が入る法案許せるか」発言は北大教授　FBで「学術会議が右派にお墨付きは害」</title>
+    <updated>2025-05-08T10:18:34Z</updated>
+    <id>tag:www.sankei.com,2025-05-08:/article/20250508-I3ZK2ZQPNNAFRAJZTJG7SDPFGU/</id>
+    <link href="https://www.sankei.com/article/20250508-I3ZK2ZQPNNAFRAJZTJG7SDPFGU/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 自分のiPhoneがどの電波（バンド）とつながっているのかを簡単に調べる方法 | イチオシ | ichioshi</title>
+    <updated>2025-05-08T08:00:38Z</updated>
+    <id>tag:ichioshi.smt.docomo.ne.jp,2025-05-08:/articles/news/34957</id>
+    <link href="https://ichioshi.smt.docomo.ne.jp/articles/news/34957" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: アクセシビリティ学習の手引きとしての入門講座</title>
+    <updated>2025-05-08T00:41:23Z</updated>
+    <id>tag:tech.plaid.co.jp,2025-05-08:/introduction-to-accessibility</id>
+    <link href="https://tech.plaid.co.jp/introduction-to-accessibility" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: SmartHRのPMにおけるAI活用事例 - SmartHR Tech Blog</title>
+    <updated>2025-05-08T08:11:11Z</updated>
+    <id>tag:tech.smarthr.jp,2025-05-08:/entry/2025/05/08/110331</id>
+    <link href="https://tech.smarthr.jp/entry/2025/05/08/110331" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: AI競争は「Googleの圧勝」で終わるのか？　Gemini 2.5 Proの衝撃</title>
     <updated>2025-05-07T23:03:13Z</updated>
     <id>tag:www.itmedia.co.jp,2025-05-07:/business/articles/2505/08/news071.html</id>
     <link href="https://www.itmedia.co.jp/business/articles/2505/08/news071.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ノジマ傘下後のVAIO、法人向けで需要拡大。国内生産による経済安全保障上の安心感も好材料</title>
-    <updated>2025-05-08T00:37:43Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-05-08:/docs/news/2012349.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2012349.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「アロンアルフア」を徹底解剖　「EXTRA」「光」など20種以上からどう選ぶ?</title>
+    <updated>2025-05-07T23:44:20Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-05-07:/docs/topic/2010564.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/topic/2010564.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ObsidianとZettelkastenを使っている話 - Don't Repeat Yourself</title>
-    <updated>2025-05-07T13:24:58Z</updated>
-    <id>tag:blog-dry.com,2025-05-07:/entry/2025/05/07/215832</id>
-    <link href="https://blog-dry.com/entry/2025/05/07/215832" rel="alternate"></link>
+    <title>1:hatena_blog_it: 夫がVRChatにどハマりした</title>
+    <updated>2025-05-08T11:10:11Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-05-08:/20250506225705</id>
+    <link href="https://anond.hatelabo.jp/20250506225705" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: プログラマーの時間を無駄にする7つの"スマート"な作り話 - Qiita</title>
-    <updated>2025-05-04T15:30:59Z</updated>
-    <id>tag:qiita.com,2025-05-04:/RepKuririn/items/1d8a649b0bd9cdbdb034</id>
-    <link href="https://qiita.com/RepKuririn/items/1d8a649b0bd9cdbdb034" rel="alternate"></link>
+    <title>1:hatena_blog_it: 証券口座乗っ取り 不正取引による売買3000億円超に 金融庁公表 | NHK</title>
+    <updated>2025-05-08T14:21:05Z</updated>
+    <id>tag:www3.nhk.or.jp,2025-05-08:/news/html/20250508/k10014800551000.html</id>
+    <link href="https://www3.nhk.or.jp/news/html/20250508/k10014800551000.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 日本語ボーカル曲をSuno並に高速生成できるオープンソース作曲AI「ACE-Step」が自分のPCでビュンビュン動くのだ（CloseBox） | テクノエッジ TechnoEdge</title>
@@ -4438,22 +4390,22 @@
     <link href="https://www.techno-edge.net/article/2025/05/08/4342.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AWS Documentation MCP Server でAWSのFAQアシスタントを作成する - Taste of Tech Topics</title>
-    <updated>2025-05-08T05:26:36Z</updated>
-    <id>tag:acro-engineer.hatenablog.com,2025-05-08:/entry/2025/05/08/120000</id>
-    <link href="https://acro-engineer.hatenablog.com/entry/2025/05/08/120000" rel="alternate"></link>
+    <title>1:hatena_blog_it: 比較的安全にMCPサーバを動かす - LIFULL Creators Blog</title>
+    <updated>2025-05-08T08:38:00Z</updated>
+    <id>tag:www.lifull.blog,2025-05-08:/entry/2025/05/08/170000</id>
+    <link href="https://www.lifull.blog/entry/2025/05/08/170000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AWS障害にOracle情報漏えい疑惑──リスク露呈したガバメントクラウド、デジタル庁の受け止めは</title>
-    <updated>2025-05-08T01:24:25Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-05-08:/news/articles/2505/08/news049.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2505/08/news049.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: カルーセルはもうCSSだけで実装できる！ 疑似要素::scroll-button()と::scroll-marker()の使い方を解説</title>
+    <updated>2025-05-08T00:39:57Z</updated>
+    <id>tag:coliss.com,2025-05-08:/articles/build-websites/operation/css/carousel-using-only-css.html</id>
+    <link href="https://coliss.com/articles/build-websites/operation/css/carousel-using-only-css.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Code Best Practices</title>
-    <updated>2025-04-18T23:14:39Z</updated>
-    <id>tag:www.anthropic.com,2025-04-18:/engineering/claude-code-best-practices</id>
-    <link href="https://www.anthropic.com/engineering/claude-code-best-practices" rel="alternate"></link>
+    <title>1:hatena_blog_it: Hyper — Reactの代替を本気で目指す新たなマークアップ言語が登場！圧倒的にシンプル、Web標準を尊重</title>
+    <updated>2025-05-07T21:55:48Z</updated>
+    <id>tag:techfeed.io,2025-05-07:/entries/681bd5cfec14c26dc729f971</id>
+    <link href="https://techfeed.io/entries/681bd5cfec14c26dc729f971" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: CursorでGoogle Apps Script(GAS)のAIコーディングしてみた｜朝日新聞社 メディア研究開発センター</title>
@@ -4462,45 +4414,81 @@
     <link href="https://note.com/asahi_ictrad/n/n8d7edd501697" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 『速読会』に参加してみた - RAKUS Developers Blog | ラクス エンジニアブログ</title>
-    <updated>2025-05-08T02:37:59Z</updated>
-    <id>tag:tech-blog.rakus.co.jp,2025-05-08:/entry/20250508/speed-reading</id>
-    <link href="https://tech-blog.rakus.co.jp/entry/20250508/speed-reading" rel="alternate"></link>
+    <title>1:hatena_blog_it: AWS Documentation MCP Server でAWSのFAQアシスタントを作成する - Taste of Tech Topics</title>
+    <updated>2025-05-08T05:26:36Z</updated>
+    <id>tag:acro-engineer.hatenablog.com,2025-05-08:/entry/2025/05/08/120000</id>
+    <link href="https://acro-engineer.hatenablog.com/entry/2025/05/08/120000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【ソフトウェア開発現代史】 DevOpsを形づくった人々 〜Kent Beck氏、Gene Kim氏の来日に寄せて〜 - Findy Tech Blog</title>
-    <updated>2025-05-07T23:33:42Z</updated>
-    <id>tag:tech.findy.co.jp,2025-05-07:/entry/2025/05/08/070000</id>
-    <link href="https://tech.findy.co.jp/entry/2025/05/08/070000" rel="alternate"></link>
+    <title>1:hatena_blog_it: Claude Code Best Practices</title>
+    <updated>2025-04-18T23:14:39Z</updated>
+    <id>tag:www.anthropic.com,2025-04-18:/engineering/claude-code-best-practices</id>
+    <link href="https://www.anthropic.com/engineering/claude-code-best-practices" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 新しさと古さの混じったタイの風景に、急激すぎる発展の歪みを見た</title>
-    <updated>2025-05-07T23:15:36Z</updated>
-    <id>tag:blog.tinect.jp,2025-05-07:/</id>
-    <link href="https://blog.tinect.jp/?p=89535" rel="alternate"></link>
+    <title>1:hatena_blog_it: Microsoftの新規のソースコードの約3割をAIが生成、Nadella氏が明かす</title>
+    <updated>2025-05-07T04:30:47Z</updated>
+    <id>tag:news.mynavi.jp,2025-05-07:/techplus/article/20250507-3271749/</id>
+    <link href="https://news.mynavi.jp/techplus/article/20250507-3271749/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub Copilot プレミアムリクエスト制限適用開始日を2025年6月4日に変更</title>
-    <updated>2025-05-08T00:51:02Z</updated>
-    <id>tag:github.blog,2025-05-08:/jp/2025-05-08-enforcement-of-copilot-premium-request-limits-moved-to-june-4-2025/</id>
-    <link href="https://github.blog/jp/2025-05-08-enforcement-of-copilot-premium-request-limits-moved-to-june-4-2025/" rel="alternate"></link>
+    <title>1:hatena_blog_it: CanvaがAIにより大幅アップデート！「Visual Suite 2.0」が起こす、デザイン革命</title>
+    <updated>2025-05-08T07:31:29Z</updated>
+    <id>tag:markezine.jp,2025-05-08:/article/detail/48996</id>
+    <link href="https://markezine.jp/article/detail/48996" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 顧客のリピート行動を取り入れた推薦アルゴリズムの現在 - MonotaRO Tech Blog</title>
-    <updated>2025-05-08T00:06:33Z</updated>
-    <id>tag:tech-blog.monotaro.com,2025-05-08:/entry/2025/05/08/090000</id>
-    <link href="https://tech-blog.monotaro.com/entry/2025/05/08/090000" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「AIカンニング」の蔓延が教育を驚くほどの速さで破壊している</title>
+    <updated>2025-05-08T11:19:47Z</updated>
+    <id>tag:gigazine.net,2025-05-08:/news/20250508-chatgpt-ai-cheating-education/</id>
+    <link href="https://gigazine.net/news/20250508-chatgpt-ai-cheating-education/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「これ試してみたい」がきっと見つかる、Web制作の最新ツール＆テクまとめ【2025年5月版】</title>
-    <updated>2025-05-07T05:59:46Z</updated>
-    <id>tag:photoshopvip.net,2025-05-07:/165345</id>
-    <link href="https://photoshopvip.net/165345" rel="alternate"></link>
+    <title>1:hatena_blog_it: 不正取引3000億円超に拡大　証券口座乗っ取り　金融庁（時事通信） - Yahoo!ニュース</title>
+    <updated>2025-05-08T13:09:15Z</updated>
+    <id>tag:news.yahoo.co.jp,2025-05-08:/articles/26a2fedf87a91444ac091c4f667cfd97cc12aa93</id>
+    <link href="https://news.yahoo.co.jp/articles/26a2fedf87a91444ac091c4f667cfd97cc12aa93" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 都知事選で15万票獲得のAIエンジニア・安野貴博氏が参院選への出馬表明　新党「チームみらい」結成、10人以上を擁立へ：東京新聞デジタル</title>
-    <updated>2025-05-08T05:11:46Z</updated>
-    <id>tag:www.tokyo-np.co.jp,2025-05-08:/article/403441</id>
-    <link href="https://www.tokyo-np.co.jp/article/403441" rel="alternate"></link>
+    <title>1:hatena_blog_it: 個人開発で月20万円を目指すための考え方 - Qiita</title>
+    <updated>2025-05-07T13:05:31Z</updated>
+    <id>tag:qiita.com,2025-05-07:/sakes9/items/d8a94271f994ab3c26d1</id>
+    <link href="https://qiita.com/sakes9/items/d8a94271f994ab3c26d1" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ソフトバンク宮川社長、NTTデータ完全子会社化に「ドコモを見ると最適とは思えない」</title>
+    <updated>2025-05-08T11:08:40Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2025-05-08:/docs/news/2012631.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/news/2012631.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 証券口座乗っ取り、大手4社の偽サイト画面を検証　専門家「判別困難」</title>
+    <updated>2025-05-08T08:11:16Z</updated>
+    <id>tag:business.nikkei.com,2025-05-08:/atcl/gen/19/00139/050700281/</id>
+    <link href="https://business.nikkei.com/atcl/gen/19/00139/050700281/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 俺のAIデッキ（2025年5月版） - Robot Checkerboard</title>
+    <updated>2025-05-07T13:08:13Z</updated>
+    <id>tag:kiyo-shit.hatenablog.com,2025-05-07:/entry/2025/05/07/215822</id>
+    <link href="https://kiyo-shit.hatenablog.com/entry/2025/05/07/215822" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ウェブはSEOから「GEO」へ、ビジネスリーダーのための生成エンジン最適化ガイド | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+    <updated>2025-05-07T13:26:56Z</updated>
+    <id>tag:forbesjapan.com,2025-05-07:/articles/detail/78906</id>
+    <link href="https://forbesjapan.com/articles/detail/78906" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ソニー銀行が勘定系システム全体をAWSに移行 – 同行が管理する全てのシステムがクラウドに | Amazon Web Services</title>
+    <updated>2025-05-07T03:07:33Z</updated>
+    <id>tag:aws.amazon.com,2025-05-07:/jp/blogs/news/casestudy-sonybank-core-banking-migration/</id>
+    <link href="https://aws.amazon.com/jp/blogs/news/casestudy-sonybank-core-banking-migration/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OneDrive刷新、AIと共有機能を強化　Macの表示問題も改善</title>
+    <updated>2025-05-08T06:14:06Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-05-08:/docs/news/2012504.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2012504.html" rel="alternate"></link>
   </entry>
 </feed>
