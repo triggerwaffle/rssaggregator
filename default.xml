@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-05-10T12:24:02Z</updated>
+  <updated>2025-05-10T18:16:50Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -130,6 +130,12 @@
     <link href="https://archlinux.org/news/the-xz-package-has-been-backdoored/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: LLMで活用するためのMarkdownをあらゆるコンテンツから変換して一箇所に集める方法</title>
+    <updated>2025-05-10T06:13:21Z</updated>
+    <id>https://zenn.dev/karaage0703/articles/c9c948b1bfe713</id>
+    <link href="https://zenn.dev/karaage0703/articles/c9c948b1bfe713" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: WebAssemblyはJavaScriptの何倍速く動くのかベンチマークしてみた。</title>
     <updated>2025-05-09T20:34:07Z</updated>
     <id>https://zenn.dev/moxak/articles/39b82280a191d9</id>
@@ -148,6 +154,12 @@
     <link href="https://zenn.dev/yoshinani_dev/articles/001be9fd0377b3" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Next.js 14.2.28 -> 15.3.1 のバージョンアップ対応</title>
+    <updated>2025-05-09T09:57:59Z</updated>
+    <id>https://zenn.dev/chot/articles/nextjs_14-2-28_15-3-1</id>
+    <link href="https://zenn.dev/chot/articles/nextjs_14-2-28_15-3-1" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Storybook の parameters の型をいい感じにして便利に使う</title>
     <updated>2025-05-09T06:14:21Z</updated>
     <id>https://zenn.dev/layerx/articles/e94d5cf1a3caba</id>
@@ -164,12 +176,6 @@
     <updated>2025-05-09T04:42:09Z</updated>
     <id>https://zenn.dev/castingone_dev/articles/eslint-prefer-destructuring-shorthand</id>
     <link href="https://zenn.dev/castingone_dev/articles/eslint-prefer-destructuring-shorthand" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: [入社エントリ]新卒で松尾研究所に来て早1か月が経ったので振り返ります</title>
-    <updated>2025-05-09T02:50:06Z</updated>
-    <id>https://zenn.dev/mkj/articles/123b0f2ca63bbc</id>
-    <link href="https://zenn.dev/mkj/articles/123b0f2ca63bbc" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: AI PMワークフロー「aipm_v0」の使用例と応用を考える</title>
@@ -236,12 +242,6 @@
     <updated>2025-05-07T13:02:36Z</updated>
     <id>https://zenn.dev/katsukiniwa/articles/8aebc891b53370</id>
     <link href="https://zenn.dev/katsukiniwa/articles/8aebc891b53370" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: C# で Discriminated Union を再現し、型安全性を高める</title>
-    <updated>2025-05-07T08:00:05Z</updated>
-    <id>https://zenn.dev/thinkingsinc/articles/c43feaf285a8b6</id>
-    <link href="https://zenn.dev/thinkingsinc/articles/c43feaf285a8b6" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: AI エージェントを仕組みから理解する</title>
@@ -4306,46 +4306,10 @@
     <link href="https://gihyo.jp/article/2024/05/microsoft-build-japan?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Ubuntu 24.10の開発コードネーム “Oracular Oriole”</title>
-    <updated>2024-05-10T01:11:00Z</updated>
-    <id>urn:uuid:3a470ef8-e275-feb8-8e6e-4477b4b91855</id>
-    <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202405/10?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Obsidianおすすめプラグイン 〜日常記録、コードスニペット、ブログの下書きに〜 - necco Note | necco inc.</title>
     <updated>2025-05-09T11:20:32Z</updated>
     <id>tag:necco.inc,2025-05-09:/note/49799</id>
     <link href="https://necco.inc/note/49799" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: パナソニック1万人削減--「じくじたる思い」と楠見CEO</title>
-    <updated>2025-05-09T11:14:35Z</updated>
-    <id>tag:japan.cnet.com,2025-05-09:/article/35232811/</id>
-    <link href="https://japan.cnet.com/article/35232811/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: font-size には rem を使うべきかどうかについての見解</title>
-    <updated>2025-05-09T21:09:09Z</updated>
-    <id>tag:gist.github.com,2025-05-09:/tak-dcxi/aed0f8e331b6d7e87af99b9e6373b7af</id>
-    <link href="https://gist.github.com/tak-dcxi/aed0f8e331b6d7e87af99b9e6373b7af" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Postman入門してみた：GUIで快適にAPIリクエストを確認する | DevelopersIO</title>
-    <updated>2025-05-09T14:52:51Z</updated>
-    <id>tag:dev.classmethod.jp,2025-05-09:/articles/postman-gui-api/</id>
-    <link href="https://dev.classmethod.jp/articles/postman-gui-api/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Webスタイルガイド | Science Tokyoデザインシステム</title>
-    <updated>2025-05-09T10:43:54Z</updated>
-    <id>tag:design-system.isct.ac.jp,2025-05-09:/ja/website/style-guide</id>
-    <link href="https://design-system.isct.ac.jp/ja/website/style-guide" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「ChatGPTと対話して精神病を発症」と「こっくりさんをやりすぎて気が触れる」ことの原理は近しいかもしれない説</title>
-    <updated>2025-05-10T02:27:22Z</updated>
-    <id>tag:togetter.com,2025-05-10:/li/2549025</id>
-    <link href="https://togetter.com/li/2549025" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: うさぎでもわかるClaude 3.7システムプロンプト流出の解説と示唆</title>
@@ -4354,46 +4318,16 @@
     <link href="https://zenn.dev/taku_sid/articles/20250508_claude_leak" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ビル・ゲイツとはシアトルに住んでいた頃に一度会ったことがある。</title>
-    <updated>2025-05-09T13:03:02Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-05-09:/20250509214711</id>
-    <link href="https://anond.hatelabo.jp/20250509214711" rel="alternate"></link>
+    <title>1:hatena_blog_it: font-size には rem を使うべきかどうかについての見解</title>
+    <updated>2025-05-09T21:09:09Z</updated>
+    <id>tag:gist.github.com,2025-05-09:/tak-dcxi/aed0f8e331b6d7e87af99b9e6373b7af</id>
+    <link href="https://gist.github.com/tak-dcxi/aed0f8e331b6d7e87af99b9e6373b7af" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: LLMで活用するためのMarkdownをあらゆるコンテンツから変換して一箇所に集める方法</title>
-    <updated>2025-05-10T07:47:52Z</updated>
-    <id>tag:zenn.dev,2025-05-10:/karaage0703/articles/c9c948b1bfe713</id>
-    <link href="https://zenn.dev/karaage0703/articles/c9c948b1bfe713" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: いちばんやさしいGit入門</title>
-    <updated>2025-05-09T12:32:23Z</updated>
-    <id>tag:speakerdeck.com,2025-05-09:/syobochim/itibanyasasiigitru-men</id>
-    <link href="https://speakerdeck.com/syobochim/itibanyasasiigitru-men" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: CursorとObsidianは理想の組み合わせではなかった｜Mekann</title>
-    <updated>2025-05-09T08:41:38Z</updated>
-    <id>tag:note.com,2025-05-09:/mekann/n/n5765bdb9d2fd</id>
-    <link href="https://note.com/mekann/n/n5765bdb9d2fd" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: はじめてのBillGレビューのこと - The Joel on Software Translation Project</title>
-    <updated>2021-03-05T04:19:52Z</updated>
-    <id>tag:web.archive.org,2021-03-05:/web/20190406043653/http://local.joelonsoftware.com/wiki/はじめてのBillGレビューのこと</id>
-    <link href="https://web.archive.org/web/20190406043653/http://local.joelonsoftware.com/wiki/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AEBillG%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E3%81%93%E3%81%A8" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIに繰り返し自己議論させる→考えが深くなり精度が向上する「CoRT 」、1ビットLLMの進化版「BitNet v2」登場など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
-    <updated>2025-05-09T10:26:18Z</updated>
-    <id>tag:www.techno-edge.net,2025-05-09:/article/2025/05/09/4344.html</id>
-    <link href="https://www.techno-edge.net/article/2025/05/09/4344.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Cursor – Background Agent (Preview)</title>
-    <updated>2025-05-10T05:30:10Z</updated>
-    <id>tag:docs.cursor.com,2025-05-10:/background-agent</id>
-    <link href="https://docs.cursor.com/background-agent" rel="alternate"></link>
+    <title>1:hatena_blog_it: Webスタイルガイド | Science Tokyoデザインシステム</title>
+    <updated>2025-05-09T10:43:54Z</updated>
+    <id>tag:design-system.isct.ac.jp,2025-05-09:/ja/website/style-guide</id>
+    <link href="https://design-system.isct.ac.jp/ja/website/style-guide" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 時間がないなら、つくればいい 〜数十人規模のチームが自律性を発揮するために試しているいくつかのこと〜</title>
@@ -4402,52 +4336,16 @@
     <link href="https://speakerdeck.com/kakehashi/time-management-and-team-autonomy" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: SUNEAST、Type-Cに挿しっぱなしで持ち運べるUSB SSD</title>
-    <updated>2025-05-09T08:28:33Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-05-09:/docs/news/2012942.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2012942.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「ChatGPTと対話して精神病を発症」と「こっくりさんをやりすぎて気が触れる」ことの原理は近しいかもしれない説</title>
+    <updated>2025-05-10T02:27:22Z</updated>
+    <id>tag:togetter.com,2025-05-10:/li/2549025</id>
+    <link href="https://togetter.com/li/2549025" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: nproc、意図通り使えていますか？ - yanorei32の雑記</title>
-    <updated>2025-05-09T09:50:28Z</updated>
-    <id>tag:blog.yr32.net,2025-05-09:/post/nproc-in-mobile-devices/</id>
-    <link href="https://blog.yr32.net/post/nproc-in-mobile-devices/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: なぜ反AIはゲームやイラストに「だけ」AIを使うなと言うのか｜金鹿トメ@なろう作家</title>
-    <updated>2025-05-09T03:31:55Z</updated>
-    <id>tag:note.com,2025-05-09:/getter0033/n/n494eef4fc726</id>
-    <link href="https://note.com/getter0033/n/n494eef4fc726" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 端折りまくって学ぶReactの内部 レンダー・コミット編</title>
-    <updated>2025-05-09T15:34:33Z</updated>
-    <id>tag:speakerdeck.com,2025-05-09:/calloc134/duan-zhe-rimakututexue-bureactnonei-bu-rendakomitutobian</id>
-    <link href="https://speakerdeck.com/calloc134/duan-zhe-rimakututexue-bureactnonei-bu-rendakomitutobian" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Ubuntu 25.10（questing）の開発; sudoを『錆びさせる』試み、25.04へのアップグレードの一時停止 | gihyo.jp</title>
-    <updated>2025-05-10T01:56:20Z</updated>
-    <id>tag:gihyo.jp,2025-05-10:/admin/clip/01/ubuntu-topics/202505/09</id>
-    <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202505/09" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: プロダクト組織と HRのコラボレーション / product team×hr_collaboration</title>
-    <updated>2025-05-10T05:28:12Z</updated>
-    <id>tag:speakerdeck.com,2025-05-10:/tomoka_nagai/collaboration</id>
-    <link href="https://speakerdeck.com/tomoka_nagai/collaboration" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIの「利用コスト」285分の1　スタンフォード大学400ページ報告を読み解く - 日本経済新聞</title>
-    <updated>2025-05-10T00:54:44Z</updated>
-    <id>tag:www.nikkei.com,2025-05-10:/article/DGXZQOUC08DJB0Y5A500C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC08DJB0Y5A500C2000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: クロスファンクショナルチームになるための壁崩しのお作法 #scrumniigata | ドクセル</title>
-    <updated>2025-05-10T01:25:22Z</updated>
-    <id>tag:www.docswell.com,2025-05-10:/s/at_946/KEXDQ6-2025-05-10-101709</id>
-    <link href="https://www.docswell.com/s/at_946/KEXDQ6-2025-05-10-101709" rel="alternate"></link>
+    <title>1:hatena_blog_it: パナソニック1万人削減--「じくじたる思い」と楠見CEO</title>
+    <updated>2025-05-09T11:14:35Z</updated>
+    <id>tag:japan.cnet.com,2025-05-09:/article/35232811/</id>
+    <link href="https://japan.cnet.com/article/35232811/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Docker の MCP Toolkit を試してみる</title>
@@ -4456,21 +4354,105 @@
     <link href="https://azukiazusa.dev/blog/docker-mcp-toolkit/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 故意によるファイル削除の責任と損害　徳島地判令7.1.16（令5ワ38） - IT・システム判例メモ</title>
-    <updated>2025-05-09T15:32:01Z</updated>
-    <id>tag:itlaw.hatenablog.com,2025-05-09:/entry/2025/05/09/225038</id>
-    <link href="https://itlaw.hatenablog.com/entry/2025/05/09/225038" rel="alternate"></link>
+    <title>1:hatena_blog_it: インターネット時代の「調べたらわかる」とか、AI時代の「聞けばわかる」って奴、「問を立てる」という知的行動を軽く見すぎてると思う… 正しく質問することはものすごく難しい</title>
+    <updated>2025-05-10T03:59:44Z</updated>
+    <id>tag:togetter.com,2025-05-10:/li/2549066</id>
+    <link href="https://togetter.com/li/2549066" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 私の知っているビルゲイツ、その１｜samf、古川 享</title>
-    <updated>2020-03-26T16:17:02Z</updated>
-    <id>tag:note.com,2020-03-26:/samf/n/n096c58eb2729</id>
-    <link href="https://note.com/samf/n/n096c58eb2729" rel="alternate"></link>
+    <title>1:hatena_blog_it: Cursor – Background Agent (Preview)</title>
+    <updated>2025-05-10T05:30:10Z</updated>
+    <id>tag:docs.cursor.com,2025-05-10:/background-agent</id>
+    <link href="https://docs.cursor.com/background-agent" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub Copilot RAG-Extension - Qiita</title>
-    <updated>2025-05-08T23:41:12Z</updated>
-    <id>tag:qiita.com,2025-05-08:/orc_jj/items/7673e8e5622847109252</id>
-    <link href="https://qiita.com/orc_jj/items/7673e8e5622847109252" rel="alternate"></link>
+    <title>1:hatena_blog_it: 外部仕様書の確認を Slack ワークフローに組み込むことで、 Devin くんにサポートしてもらってみた - KAKEHASHI Tech Blog</title>
+    <updated>2025-05-09T09:07:26Z</updated>
+    <id>tag:kakehashi-dev.hatenablog.com,2025-05-09:/entry/2025/05/09/104354</id>
+    <link href="https://kakehashi-dev.hatenablog.com/entry/2025/05/09/104354" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Obsidian×Cursorの活用方法：知的生産のシナジーを最大化｜Shin</title>
+    <updated>2025-05-10T13:17:27Z</updated>
+    <id>tag:note.com,2025-05-10:/iam_shin/n/nb29cea186412</id>
+    <link href="https://note.com/iam_shin/n/nb29cea186412" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub - marcboeker/gmail-to-sqlite: Index your Gmail account to a SQLite DB and play with the data.</title>
+    <updated>2025-05-10T07:39:58Z</updated>
+    <id>tag:github.com,2025-05-10:/marcboeker/gmail-to-sqlite</id>
+    <link href="https://github.com/marcboeker/gmail-to-sqlite" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Postman入門してみた：GUIで快適にAPIリクエストを確認する | DevelopersIO</title>
+    <updated>2025-05-09T14:52:51Z</updated>
+    <id>tag:dev.classmethod.jp,2025-05-09:/articles/postman-gui-api/</id>
+    <link href="https://dev.classmethod.jp/articles/postman-gui-api/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 端折りまくって学ぶReactの内部 レンダー・コミット編</title>
+    <updated>2025-05-09T15:34:33Z</updated>
+    <id>tag:speakerdeck.com,2025-05-09:/calloc134/duan-zhe-rimakututexue-bureactnonei-bu-rendakomitutobian</id>
+    <link href="https://speakerdeck.com/calloc134/duan-zhe-rimakututexue-bureactnonei-bu-rendakomitutobian" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 自分の「歯」を培養してインプラントや詰め物の代わりにする技術</title>
+    <updated>2025-05-10T13:06:07Z</updated>
+    <id>tag:gigazine.net,2025-05-10:/news/20250510-lab-grown-teeth/</id>
+    <link href="https://gigazine.net/news/20250510-lab-grown-teeth/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIに繰り返し自己議論させる→考えが深くなり精度が向上する「CoRT 」、1ビットLLMの進化版「BitNet v2」登場など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
+    <updated>2025-05-09T10:26:18Z</updated>
+    <id>tag:www.techno-edge.net,2025-05-09:/article/2025/05/09/4344.html</id>
+    <link href="https://www.techno-edge.net/article/2025/05/09/4344.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 本当に必要なのは「QAという技術」だった！試行錯誤から生まれた、品質とデリバリーの両取りアプローチ / Turns Out, "QA as a Discipline" Was the Key!</title>
+    <updated>2025-05-10T04:52:31Z</updated>
+    <id>tag:speakerdeck.com,2025-05-10:/ar_tama/turns-out-qa-as-a-discipline-was-the-key</id>
+    <link href="https://speakerdeck.com/ar_tama/turns-out-qa-as-a-discipline-was-the-key" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Cursorで使う.mdcファイルとは</title>
+    <updated>2025-04-12T12:20:35Z</updated>
+    <id>tag:zenn.dev,2025-04-12:/channnnsm/articles/0df0ea29d63be3</id>
+    <link href="https://zenn.dev/channnnsm/articles/0df0ea29d63be3" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 個人サイトを中心としたインターネットの歴史（１９８４年～２００３年） ＜ 佐倉葉ウェブ文化研究室</title>
+    <updated>2016-05-30T19:53:42Z</updated>
+    <id>tag:websitemap.sakura.ne.jp,2016-05-30:/history.html</id>
+    <link href="https://websitemap.sakura.ne.jp/history.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: nproc、意図通り使えていますか？ - yanorei32の雑記</title>
+    <updated>2025-05-09T09:50:28Z</updated>
+    <id>tag:blog.yr32.net,2025-05-09:/post/nproc-in-mobile-devices/</id>
+    <link href="https://blog.yr32.net/post/nproc-in-mobile-devices/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: クロスファンクショナルチームになるための壁崩しのお作法 #scrumniigata | ドクセル</title>
+    <updated>2025-05-10T01:25:22Z</updated>
+    <id>tag:www.docswell.com,2025-05-10:/s/at_946/KEXDQ6-2025-05-10-101709</id>
+    <link href="https://www.docswell.com/s/at_946/KEXDQ6-2025-05-10-101709" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: うさぎでもわかる！TypeScriptの型レベルプログラミングと高度な設計手法</title>
+    <updated>2025-05-10T01:35:39Z</updated>
+    <id>tag:zenn.dev,2025-05-10:/taku_sid/articles/20250508_typescript_advanced</id>
+    <link href="https://zenn.dev/taku_sid/articles/20250508_typescript_advanced" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 名取さなの無軌道雑談はどのくらい無軌道なのか｜みくじ</title>
+    <updated>2023-05-01T12:34:08Z</updated>
+    <id>tag:note.com,2023-05-01:/0394v/n/n8403609e64fd</id>
+    <link href="https://note.com/0394v/n/n8403609e64fd" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: samf、古川 享｜note</title>
+    <updated>2020-03-27T01:38:43Z</updated>
+    <id>tag:note.com,2020-03-27:/samf</id>
+    <link href="https://note.com/samf" rel="alternate"></link>
   </entry>
 </feed>
