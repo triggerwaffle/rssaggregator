@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-05-17T12:24:34Z</updated>
+  <updated>2025-05-17T18:17:37Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -136,7 +136,7 @@
     <link href="https://archlinux.org/news/the-xz-package-has-been-backdoored/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: Rust で Unix ライクな OS を作った話</title>
+    <title>3:zenn_trend: Rust で Unix ライクな 自作 OS</title>
     <updated>2025-05-17T07:01:25Z</updated>
     <id>https://zenn.dev/o8vm/articles/1f1ab4ba062f14</id>
     <link href="https://zenn.dev/o8vm/articles/1f1ab4ba062f14" rel="alternate"></link>
@@ -146,6 +146,12 @@
     <updated>2025-05-16T19:43:39Z</updated>
     <id>https://zenn.dev/schroneko/articles/introducing-codex</id>
     <link href="https://zenn.dev/schroneko/articles/introducing-codex" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Haskellで競プロ鉄則本を解いていく</title>
+    <updated>2025-05-16T16:58:32Z</updated>
+    <id>https://zenn.dev/ppdx999/books/65e882010be891</id>
+    <link href="https://zenn.dev/ppdx999/books/65e882010be891" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: いろんなソースを要約できるLilysAIを使ってみた</title>
@@ -248,12 +254,6 @@
     <updated>2025-05-15T09:57:41Z</updated>
     <id>https://zenn.dev/mizchi/articles/vscode-zenn-image-paste</id>
     <link href="https://zenn.dev/mizchi/articles/vscode-zenn-image-paste" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Material Design3の進化形、Material 3 Expressiveを追いかける</title>
-    <updated>2025-05-15T00:37:17Z</updated>
-    <id>https://zenn.dev/team_soda/articles/material-3-expressive</id>
-    <link href="https://zenn.dev/team_soda/articles/material-3-expressive" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: チーム内リーダーのすすめ</title>
@@ -436,6 +436,12 @@
     <link href="https://qiita.com/likapantrip/items/2b0cda56c11e269e33df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: One Line Bash Script Solves Decades Old Linux Problem</title>
+    <updated>2025-05-17T13:01:31Z</updated>
+    <id>yt:video:oFCrwS01mDs</id>
+    <link href="https://www.youtube.com/watch?v=oFCrwS01mDs" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: Drop Windows and Install AnduinOS (Made By Microsoft Employee)</title>
     <updated>2025-05-14T11:57:50Z</updated>
     <id>yt:video:oSks9dNWNaE</id>
@@ -518,12 +524,6 @@
     <updated>2025-04-14T18:52:59Z</updated>
     <id>yt:video:85eajFxk8YA</id>
     <link href="https://www.youtube.com/watch?v=85eajFxk8YA" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: ArcoLinux Is Shutting Down...Now What?</title>
-    <updated>2025-04-12T17:52:28Z</updated>
-    <id>yt:video:4hj60sw1nks</id>
-    <link href="https://www.youtube.com/watch?v=4hj60sw1nks" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: Windows OSやMicrosoft Officeが「緊急」　Microsoftが2025年5月の月例セキュリティ更新プログラムを公開</title>
@@ -4288,58 +4288,10 @@
     <link href="https://gihyo.jp/article/2024/05/project-idx?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Neovim 0.10がリリース</title>
-    <updated>2024-05-17T06:39:00Z</updated>
-    <id>urn:uuid:f9e9d992-870c-00a6-26ce-5265a32a8b14</id>
-    <link href="https://gihyo.jp/article/2024/05/neovim-0.10?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: GitLab 17.0がリリース</title>
-    <updated>2024-05-17T05:43:00Z</updated>
-    <id>urn:uuid:8a279846-e095-0e57-f49b-ebc4d8ad0c2c</id>
-    <link href="https://gihyo.jp/article/2024/05/gitlab-17?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: ChatGPTにGoogle DriveやMicrosoft OneDriveから直接ファイルを追加可能に</title>
-    <updated>2024-05-17T02:18:00Z</updated>
-    <id>urn:uuid:21b92921-395b-d883-eb35-b2140deffff3</id>
-    <link href="https://gihyo.jp/article/2024/05/chatgpt-googledrive-onedrive?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: OpenAIとRedditが提携、RedditのコンテンツでChatGPTを強化へ</title>
-    <updated>2024-05-17T01:18:00Z</updated>
-    <id>urn:uuid:bb54cbeb-3b9b-3e43-7144-502ef7477bed</id>
-    <link href="https://gihyo.jp/article/2024/05/openai-reddit?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: Ubuntu 24.10（oracular）の開発 / 仕様変更とQAの下ごしらえ、NativeEdgeへのUbuntuの採用</title>
-    <updated>2024-05-17T00:56:00Z</updated>
-    <id>urn:uuid:acc57911-24ce-c4f9-d4c6-edf41f3d9130</id>
-    <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202405/17?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: インフラからSREへ</title>
     <updated>2025-05-17T09:32:52Z</updated>
     <id>tag:speakerdeck.com,2025-05-17:/mirakui/inhurakarasrehe</id>
     <link href="https://speakerdeck.com/mirakui/inhurakarasrehe" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 食卓でおなじみのバナナ、実は「絶滅の危機」に瀕している | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-    <updated>2025-05-16T14:38:58Z</updated>
-    <id>tag:forbesjapan.com,2025-05-16:/articles/detail/79166</id>
-    <link href="https://forbesjapan.com/articles/detail/79166" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: マネジメント「される側」 こそ覚悟を決めろ</title>
-    <updated>2025-05-17T02:28:05Z</updated>
-    <id>tag:speakerdeck.com,2025-05-17:/nao_randd/manesimento-sareruce-kosojue-wu-wojue-mero</id>
-    <link href="https://speakerdeck.com/nao_randd/manesimento-sareruce-kosojue-wu-wojue-mero" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: “やる余裕がない”を解消。ChatGPTに次世代AIコーディングパートナー｢Codex｣が追加</title>
-    <updated>2025-05-17T01:09:45Z</updated>
-    <id>tag:www.gizmodo.jp,2025-05-17:/2025/05/openai_codex.html</id>
-    <link href="https://www.gizmodo.jp/2025/05/openai_codex.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: コンクラーベから万博トイレまで…生成AIの答え信じて大丈夫？ | NHK</title>
@@ -4348,28 +4300,10 @@
     <link href="https://www3.nhk.or.jp/news/html/20250517/k10014807051000.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: JavaScript不要! HTMLとCSSでつくるカルーセルUI - ICS MEDIA</title>
-    <updated>2025-05-16T09:31:54Z</updated>
-    <id>tag:ics.media,2025-05-16:/entry/250516/</id>
-    <link href="https://ics.media/entry/250516/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【Ubuntu日和】 【第73回】余っているPCとビデオカードで生成AIサーバーを建てよう</title>
-    <updated>2025-05-16T22:17:36Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-05-16:/docs/column/ubuntu/2014862.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/ubuntu/2014862.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 技術力だけで相手を「マウンティング」、極めて幼稚かつ残念な風土を変えよ</title>
-    <updated>2025-05-16T00:50:17Z</updated>
-    <id>tag:xtech.nikkei.com,2025-05-16:/atcl/nxt/column/18/03162/051200003/</id>
-    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/03162/051200003/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AWSの安価でスケーラブルなウェブアプリ構成 2025年度版 - maybe daily dev notes</title>
-    <updated>2025-05-16T05:55:18Z</updated>
-    <id>tag:tmokmss.hatenablog.com,2025-05-16:/entry/serverless-fullstack-webapp-architecture-2025</id>
-    <link href="https://tmokmss.hatenablog.com/entry/serverless-fullstack-webapp-architecture-2025" rel="alternate"></link>
+    <title>1:hatena_blog_it: “やる余裕がない”を解消。ChatGPTに次世代AIコーディングパートナー｢Codex｣が追加</title>
+    <updated>2025-05-17T01:09:45Z</updated>
+    <id>tag:www.gizmodo.jp,2025-05-17:/2025/05/openai_codex.html</id>
+    <link href="https://www.gizmodo.jp/2025/05/openai_codex.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: OpenAI Codex の使い方｜npaka</title>
@@ -4378,88 +4312,28 @@
     <link href="https://note.com/npaka/n/nf5b3e06eb895" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: マネジメント「される側」 こそ覚悟を決めろ</title>
+    <updated>2025-05-17T02:28:05Z</updated>
+    <id>tag:speakerdeck.com,2025-05-17:/nao_randd/manesimento-sareruce-kosojue-wu-wojue-mero</id>
+    <link href="https://speakerdeck.com/nao_randd/manesimento-sareruce-kosojue-wu-wojue-mero" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: IT関連の退職代行サービス利用者　7割がSESエンジニアの深刻さ</title>
     <updated>2025-05-15T03:26:13Z</updated>
     <id>tag:xtech.nikkei.com,2025-05-15:/atcl/nxt/mag/nc/18/020800017/050701252/</id>
     <link href="https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/050701252/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 転職したらMCPサーバーだった件</title>
-    <updated>2025-05-16T03:12:59Z</updated>
-    <id>tag:speakerdeck.com,2025-05-16:/nwiizo/zhuan-zhi-sitaramcpsabadatutajian</id>
-    <link href="https://speakerdeck.com/nwiizo/zhuan-zhi-sitaramcpsabadatutajian" rel="alternate"></link>
+    <title>1:hatena_blog_it: Google認証機能を持つApache HTTP Webサーバを構築してみた | SIOS Tech. Lab</title>
+    <updated>2025-05-17T11:50:26Z</updated>
+    <id>tag:tech-lab.sios.jp,2025-05-17:/archives/47375</id>
+    <link href="https://tech-lab.sios.jp/archives/47375" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: リクルートHD、約4000人の人員削減、3分の1のコードをAIで作成</title>
-    <updated>2025-05-15T11:10:05Z</updated>
-    <id>tag:newspicks.com,2025-05-15:/trends/2252/</id>
-    <link href="https://newspicks.com/trends/2252/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: チャットボットが突然「白人ジェノサイド」に言及、背後に「不良社員」の関与　ｘＡＩ</title>
-    <updated>2025-05-17T04:06:58Z</updated>
-    <id>tag:www.cnn.co.jp,2025-05-17:/tech/35233093.html</id>
-    <link href="https://www.cnn.co.jp/tech/35233093.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: イオンカードがNHK報道に反論　詐欺事件の原因が、同社のシステムエラーと取れるとして（ITmedia NEWS） - Yahoo!ニュース</title>
-    <updated>2025-05-17T03:18:19Z</updated>
-    <id>tag:news.yahoo.co.jp,2025-05-17:/articles/dc52a752862cf9431cc1fd0f119601528a2164ec</id>
-    <link href="https://news.yahoo.co.jp/articles/dc52a752862cf9431cc1fd0f119601528a2164ec" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: イオンカードがNHK報道に反論　詐欺事件の原因が、同社のシステムエラーと取れるとして</title>
-    <updated>2025-05-16T23:32:41Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-05-16:/news/articles/2505/17/news073.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2505/17/news073.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 計測による継続的なCI/CDの改善</title>
-    <updated>2025-05-15T04:15:38Z</updated>
-    <id>tag:speakerdeck.com,2025-05-15:/sansantech/20250514</id>
-    <link href="https://speakerdeck.com/sansantech/20250514" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「親としてダサい？」情報学研究者がX・FB・インスタをやめた理由：朝日新聞</title>
-    <updated>2025-05-16T06:02:34Z</updated>
-    <id>tag:www.asahi.com,2025-05-16:/articles/AST5F24DJT5FULLI002M.html</id>
-    <link href="https://www.asahi.com/articles/AST5F24DJT5FULLI002M.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「香り」を自動生成できるAIを日本の科学者らが開発</title>
-    <updated>2025-05-17T07:07:48Z</updated>
-    <id>tag:gigazine.net,2025-05-17:/news/20250517-generative-ai-ogdiffusion/</id>
-    <link href="https://gigazine.net/news/20250517-generative-ai-ogdiffusion/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI活用は「必須事項」――では、ソフトウェアアーキテクチャの設計にどう生かす？　CAの新卒研修資料が話題</title>
-    <updated>2025-05-17T02:11:33Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-05-17:/aiplus/articles/2505/16/news175.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2505/16/news175.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Techniques for improving text-to-SQL | Google Cloud Blog</title>
-    <updated>2025-05-17T03:02:09Z</updated>
-    <id>tag:cloud.google.com,2025-05-17:/blog/products/databases/techniques-for-improving-text-to-sql</id>
-    <link href="https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Dotless Domains</title>
-    <updated>2025-05-11T02:55:16Z</updated>
-    <id>tag:lab.avl.la,2025-05-11:/dotless/</id>
-    <link href="https://lab.avl.la/dotless/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 次期macOS 16で導入予定のサードパーティ製アプリのペーストボード・アクセス許可は通知に「常に許可」が用意されないためアプリ側で対応するしかないもよう。</title>
-    <updated>2025-05-17T01:24:21Z</updated>
-    <id>tag:applech2.com,2025-05-17:/archives/20250517-macos-16-clipboard-settings-not-always-allow.html</id>
-    <link href="https://applech2.com/archives/20250517-macos-16-clipboard-settings-not-always-allow.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Bet PR Agent 〜全自動コードレビューの夢〜 - LayerX エンジニアブログ</title>
-    <updated>2025-05-16T10:57:29Z</updated>
-    <id>tag:tech.layerx.co.jp,2025-05-16:/entry/2025/05/16/195429</id>
-    <link href="https://tech.layerx.co.jp/entry/2025/05/16/195429" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【Ubuntu日和】 【第73回】余っているPCとビデオカードで生成AIサーバーを建てよう</title>
+    <updated>2025-05-16T22:17:36Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-05-16:/docs/column/ubuntu/2014862.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/ubuntu/2014862.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ある日、フロントエンドエンジニア不在のチームに配属された俺達は - SmartHR Tech Blog</title>
@@ -4468,21 +4342,117 @@
     <link href="https://tech.smarthr.jp/entry/2025/05/14/163530" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 第245回　MySQL 9.2と9.3の新機能について | gihyo.jp</title>
-    <updated>2025-05-13T00:15:10Z</updated>
-    <id>tag:gihyo.jp,2025-05-13:/article/2025/05/mysql-rcn0245</id>
-    <link href="https://gihyo.jp/article/2025/05/mysql-rcn0245" rel="alternate"></link>
+    <title>1:hatena_blog_it: 技術力だけで相手を「マウンティング」、極めて幼稚かつ残念な風土を変えよ</title>
+    <updated>2025-05-16T00:50:17Z</updated>
+    <id>tag:xtech.nikkei.com,2025-05-16:/atcl/nxt/column/18/03162/051200003/</id>
+    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/03162/051200003/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: React Router RSC Preview</title>
-    <updated>2025-05-16T15:37:25Z</updated>
-    <id>tag:remix.run,2025-05-16:/blog/rsc-preview</id>
-    <link href="https://remix.run/blog/rsc-preview" rel="alternate"></link>
+    <title>1:hatena_blog_it: オライリーのLLMのプロンプトエンジニアリングは、LLMプロダクト開発者の教科書｜erukiti</title>
+    <updated>2025-05-17T13:49:22Z</updated>
+    <id>tag:note.com,2025-05-17:/erukiti/n/nddf9e9ccfd96</id>
+    <link href="https://note.com/erukiti/n/nddf9e9ccfd96" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OSSとキャリア ～Denoとの出会いとその先～ | ドクセル</title>
-    <updated>2025-05-17T07:18:06Z</updated>
-    <id>tag:www.docswell.com,2025-05-17:/s/magurotuna/ZN1P4P-2025-05-17-maguro-dev</id>
-    <link href="https://www.docswell.com/s/magurotuna/ZN1P4P-2025-05-17-maguro-dev" rel="alternate"></link>
+    <title>1:hatena_blog_it: マネージャーこそ真剣に考える 「情報量の差」を意識したオンボーディング</title>
+    <updated>2025-05-17T03:10:36Z</updated>
+    <id>tag:speakerdeck.com,2025-05-17:/suguruooki/maneziyakosozhen-jian-nikao-eru-qing-bao-liang-nochai-woyi-shi-sitaonbodeingu</id>
+    <link href="https://speakerdeck.com/suguruooki/maneziyakosozhen-jian-nikao-eru-qing-bao-liang-nochai-woyi-shi-sitaonbodeingu" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: チャットボットが突然「白人ジェノサイド」に言及、背後に「不良社員」の関与　ｘＡＩ</title>
+    <updated>2025-05-17T04:06:58Z</updated>
+    <id>tag:www.cnn.co.jp,2025-05-17:/tech/35233093.html</id>
+    <link href="https://www.cnn.co.jp/tech/35233093.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 食卓でおなじみのバナナ、実は「絶滅の危機」に瀕している | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+    <updated>2025-05-16T14:38:58Z</updated>
+    <id>tag:forbesjapan.com,2025-05-16:/articles/detail/79166</id>
+    <link href="https://forbesjapan.com/articles/detail/79166" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「香り」を自動生成できるAIを日本の科学者らが開発</title>
+    <updated>2025-05-17T07:07:48Z</updated>
+    <id>tag:gigazine.net,2025-05-17:/news/20250517-generative-ai-ogdiffusion/</id>
+    <link href="https://gigazine.net/news/20250517-generative-ai-ogdiffusion/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Techniques for improving text-to-SQL | Google Cloud Blog</title>
+    <updated>2025-05-17T03:02:09Z</updated>
+    <id>tag:cloud.google.com,2025-05-17:/blog/products/databases/techniques-for-improving-text-to-sql</id>
+    <link href="https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 計測による継続的なCI/CDの改善</title>
+    <updated>2025-05-15T04:15:38Z</updated>
+    <id>tag:speakerdeck.com,2025-05-15:/sansantech/20250514</id>
+    <link href="https://speakerdeck.com/sansantech/20250514" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 次期macOS 16で導入予定のサードパーティ製アプリのペーストボード・アクセス許可は通知に「常に許可」が用意されないためアプリ側で対応するしかないもよう。</title>
+    <updated>2025-05-17T01:24:21Z</updated>
+    <id>tag:applech2.com,2025-05-17:/archives/20250517-macos-16-clipboard-settings-not-always-allow.html</id>
+    <link href="https://applech2.com/archives/20250517-macos-16-clipboard-settings-not-always-allow.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: キーワード分割 for JAIRO Cloud - やわらか図書館学</title>
+    <updated>2025-05-13T22:33:57Z</updated>
+    <id>tag:yawatosho.hateblo.jp,2025-05-13:/keyforjc</id>
+    <link href="https://yawatosho.hateblo.jp/keyforjc" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Dotless Domains</title>
+    <updated>2025-05-11T02:55:16Z</updated>
+    <id>tag:lab.avl.la,2025-05-11:/dotless/</id>
+    <link href="https://lab.avl.la/dotless/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 詳解: Amazon EKS Auto Mode | Amazon Web Services</title>
+    <updated>2025-05-14T08:08:36Z</updated>
+    <id>tag:aws.amazon.com,2025-05-14:/jp/blogs/news/under-the-hood-amazon-eks-auto-mode/</id>
+    <link href="https://aws.amazon.com/jp/blogs/news/under-the-hood-amazon-eks-auto-mode/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: イオンカードがNHK報道に反論　詐欺事件の原因が、同社のシステムエラーと取れるとして（ITmedia NEWS） - Yahoo!ニュース</title>
+    <updated>2025-05-17T03:18:19Z</updated>
+    <id>tag:news.yahoo.co.jp,2025-05-17:/articles/dc52a752862cf9431cc1fd0f119601528a2164ec</id>
+    <link href="https://news.yahoo.co.jp/articles/dc52a752862cf9431cc1fd0f119601528a2164ec" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AWSが発表したAIエージェント構築SDK「Strands Agents」を5分だけ触ってみよう！ - Qiita</title>
+    <updated>2025-05-17T03:03:03Z</updated>
+    <id>tag:qiita.com,2025-05-17:/minorun365/items/dd05a3e4938482ac6055</id>
+    <link href="https://qiita.com/minorun365/items/dd05a3e4938482ac6055" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Bet PR Agent 〜全自動コードレビューの夢〜 - LayerX エンジニアブログ</title>
+    <updated>2025-05-16T10:57:29Z</updated>
+    <id>tag:tech.layerx.co.jp,2025-05-16:/entry/2025/05/16/195429</id>
+    <link href="https://tech.layerx.co.jp/entry/2025/05/16/195429" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AI活用は「必須事項」――では、ソフトウェアアーキテクチャの設計にどう生かす？　CAの新卒研修資料が話題</title>
+    <updated>2025-05-17T02:11:33Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-05-17:/aiplus/articles/2505/16/news175.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2505/16/news175.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GPT解説2 アテンションの仕組み (Attention, Transformer) | Chapter6, 深層学習</title>
+    <updated>2024-06-08T10:53:04Z</updated>
+    <id>tag:www.youtube.com,2024-06-08:/watch</id>
+    <link href="https://www.youtube.com/watch?v=j3_VgCt18fA" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Googleが発表したAndroid 16のセキュリティ機能まとめ、メッセージの不正検出の拡張・通話中のアプリのサイドローディング防止・高度な保護機能プログラムの強化など</title>
+    <updated>2025-05-17T05:23:29Z</updated>
+    <id>tag:gigazine.net,2025-05-17:/news/20250517-google-android-16-security/</id>
+    <link href="https://gigazine.net/news/20250517-google-android-16-security/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 第862回　「Aider」で、いつものターミナルからAIアシスタントを利用する | gihyo.jp</title>
+    <updated>2025-05-16T01:25:24Z</updated>
+    <id>tag:gihyo.jp,2025-05-16:/admin/serial/01/ubuntu-recipe/0862</id>
+    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0862" rel="alternate"></link>
   </entry>
 </feed>
