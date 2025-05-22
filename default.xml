@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-05-22T12:28:52Z</updated>
+  <updated>2025-05-22T18:19:31Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -154,7 +154,7 @@
     <link href="https://zenn.dev/nikechan/articles/b988cf067a8c56" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: やっぱりnullやundefinedは悪だと思うんだ...(TSでの工夫)</title>
+    <title>3:zenn_trend: nullの扱いに注意...(TSでの工夫)</title>
     <updated>2025-05-21T19:04:50Z</updated>
     <id>https://zenn.dev/terusi/articles/e243ead933d406</id>
     <link href="https://zenn.dev/terusi/articles/e243ead933d406" rel="alternate"></link>
@@ -4336,22 +4336,10 @@
     <link href="https://gihyo.jp/article/2024/05/python-bc-yamagata3?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: grokにファクトチェックさせている人は何も知らない</title>
-    <updated>2025-05-21T22:56:46Z</updated>
-    <id>tag:blog.tinect.jp,2025-05-21:/</id>
-    <link href="https://blog.tinect.jp/?p=89620" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 『ソフトウェアエンジニアがHondaに転職して感じたこと4選』の記事削除について - Honda Tech Blog</title>
     <updated>2025-05-22T04:24:08Z</updated>
     <id>tag:honda-techblog.hatenablog.com,2025-05-22:/entry/2025/05/22/113009</id>
     <link href="https://honda-techblog.hatenablog.com/entry/2025/05/22/113009" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: macOS Sequoia (15.4 以降) で cal や date を打つと出力がおかしい - id:onk のはてなブログ</title>
-    <updated>2025-05-21T18:03:19Z</updated>
-    <id>tag:onk.hatenablog.jp,2025-05-21:/entry/2025/05/22/023048</id>
-    <link href="https://onk.hatenablog.jp/entry/2025/05/22/023048" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AIに判断や主体性を委ねていると、自由も民主主義も滅ぶだろう - シロクマの屑籠</title>
@@ -4360,76 +4348,16 @@
     <link href="https://p-shirokuma.hatenadiary.com/entry/20250522/1747902600" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: なぜ“優秀なメンバー”がTVerを選ぶのか？月間ユーザー数4,120万、今まさに再構築フェーズにあるサービスの舞台裏 - what we use（技術スタックデータベース）</title>
-    <updated>2025-05-22T02:00:10Z</updated>
-    <id>tag:whatweuse.dev,2025-05-22:/article/tver</id>
-    <link href="https://whatweuse.dev/article/tver" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Geminiが「ポケモン青をクリア」とGoogleが発表も、ツッコミどころ満載な件</title>
-    <updated>2025-05-21T22:03:06Z</updated>
-    <id>tag:japan.cnet.com,2025-05-21:/article/35233265/</id>
-    <link href="https://japan.cnet.com/article/35233265/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【エンジニアの日常】エンジニア達の人生を変えた一冊 Part4 - Findy Tech Blog</title>
-    <updated>2025-05-21T22:37:57Z</updated>
-    <id>tag:tech.findy.co.jp,2025-05-21:/entry/2025/05/22/070000</id>
-    <link href="https://tech.findy.co.jp/entry/2025/05/22/070000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「コンピュータは数百万倍の性能になったのに、社会の生産性が数百万倍になってないのはなぜ？」学生からの質問を真面目に考えてみた</title>
-    <updated>2025-05-21T08:03:11Z</updated>
-    <id>tag:togetter.com,2025-05-21:/li/2553699</id>
-    <link href="https://togetter.com/li/2553699" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 学生にレポート課題を出す際にchatlogのURL記載を条件にChatGPTの使用を許可したら、Deep Researchをフル活用してレベルの高いレポートを出してくる学生が散見される様になった話</title>
-    <updated>2025-05-22T01:07:52Z</updated>
-    <id>tag:togetter.com,2025-05-22:/li/2554001</id>
-    <link href="https://togetter.com/li/2554001" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 電子も紙も積読を消化する技術 - sasasin’s blog</title>
     <updated>2025-05-21T21:03:23Z</updated>
     <id>tag:sasasin.hatenablog.com,2025-05-21:/entry/2025/05/22/060259</id>
     <link href="https://sasasin.hatenablog.com/entry/2025/05/22/060259" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Discordの20億件以上のメッセージが公開APIを使ってスクレイピングされオンラインで公開されてしまう、2015年から2024年まで3167サーバー分</title>
-    <updated>2025-05-22T04:30:07Z</updated>
-    <id>tag:gigazine.net,2025-05-22:/news/20250522-discord-scrape-publish-2-billion-message/</id>
-    <link href="https://gigazine.net/news/20250522-discord-scrape-publish-2-billion-message/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: プログラマーの性格が悪く見えるのは日常生活をRFCやソースコードとして解釈しているから説 - hitode909の日記</title>
-    <updated>2025-05-21T13:20:53Z</updated>
-    <id>tag:blog.sushi.money,2025-05-21:/entry/2025/05/21/221742</id>
-    <link href="https://blog.sushi.money/entry/2025/05/21/221742" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Amazon Bedrockを活用した生成AIアプリケーションにおけるセキュリティリスクと対策 - GMO Flatt Security Blog</title>
-    <updated>2025-05-22T09:17:19Z</updated>
-    <id>tag:blog.flatt.tech,2025-05-22:/entry/bedrock_security</id>
-    <link href="https://blog.flatt.tech/entry/bedrock_security" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「AIがMicrosoftの従業員を徐々に狂わせていく様子を見るのが趣味」というネットユーザーの投稿が話題に</title>
-    <updated>2025-05-22T05:15:37Z</updated>
-    <id>tag:gigazine.net,2025-05-22:/news/20250522-github-copilot-coding-agent-error/</id>
-    <link href="https://gigazine.net/news/20250522-github-copilot-coding-agent-error/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ソフトウェア品質特性、意識してますか？AIの真の力を引き出す活用事例 / ai-and-software-quality</title>
-    <updated>2025-05-22T06:44:14Z</updated>
-    <id>tag:speakerdeck.com,2025-05-22:/minodriven/ai-and-software-quality</id>
-    <link href="https://speakerdeck.com/minodriven/ai-and-software-quality" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【やじうまPC Watch】 USBマイクの音質が悪い？USBハブで解決できるかも</title>
-    <updated>2025-05-22T03:09:01Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-05-22:/docs/news/yajiuma/2016199.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/yajiuma/2016199.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: grokにファクトチェックさせている人は何も知らない</title>
+    <updated>2025-05-21T22:56:46Z</updated>
+    <id>tag:blog.tinect.jp,2025-05-21:/</id>
+    <link href="https://blog.tinect.jp/?p=89620" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【Github Copilot】設計書があるなら、全部Copilotに実装させよう（途中経過）</title>
@@ -4438,22 +4366,46 @@
     <link href="https://zenn.dev/aya/articles/b0e619ccad2d03" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: ソフトウェア品質特性、意識してますか？AIの真の力を引き出す活用事例 / ai-and-software-quality</title>
+    <updated>2025-05-22T06:44:14Z</updated>
+    <id>tag:speakerdeck.com,2025-05-22:/minodriven/ai-and-software-quality</id>
+    <link href="https://speakerdeck.com/minodriven/ai-and-software-quality" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「AIがMicrosoftの従業員を徐々に狂わせていく様子を見るのが趣味」というネットユーザーの投稿が話題に</title>
+    <updated>2025-05-22T05:15:37Z</updated>
+    <id>tag:gigazine.net,2025-05-22:/news/20250522-github-copilot-coding-agent-error/</id>
+    <link href="https://gigazine.net/news/20250522-github-copilot-coding-agent-error/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Amazon Bedrockを活用した生成AIアプリケーションにおけるセキュリティリスクと対策 - GMO Flatt Security Blog</title>
+    <updated>2025-05-22T09:17:19Z</updated>
+    <id>tag:blog.flatt.tech,2025-05-22:/entry/bedrock_security</id>
+    <link href="https://blog.flatt.tech/entry/bedrock_security" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: なぜ“優秀なメンバー”がTVerを選ぶのか？月間ユーザー数4,120万、今まさに再構築フェーズにあるサービスの舞台裏 - what we use（技術スタックデータベース）</title>
+    <updated>2025-05-22T02:00:10Z</updated>
+    <id>tag:whatweuse.dev,2025-05-22:/article/tver</id>
+    <link href="https://whatweuse.dev/article/tver" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Discordの20億件以上のメッセージが公開APIを使ってスクレイピングされオンラインで公開されてしまう、2015年から2024年まで3167サーバー分</title>
+    <updated>2025-05-22T04:30:07Z</updated>
+    <id>tag:gigazine.net,2025-05-22:/news/20250522-discord-scrape-publish-2-billion-message/</id>
+    <link href="https://gigazine.net/news/20250522-discord-scrape-publish-2-billion-message/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 情報処理技術者試験に「データ管理」新設へ　デジタル人材のニーズ変化に対応 - 日本経済新聞</title>
+    <updated>2025-05-22T08:17:53Z</updated>
+    <id>tag:www.nikkei.com,2025-05-22:/article/DGXZQOUA219D40R20C25A5000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUA219D40R20C25A5000000/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: セキュリティ界の猛者が集うイエラエ新入社員、 驚くべきその“自己PR方法”とは？ | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ</title>
     <updated>2019-10-03T13:26:58Z</updated>
     <id>tag:gmo-cybersecurity.com,2019-10-03:/blog/kawaguchi-zadankai-5/</id>
     <link href="https://gmo-cybersecurity.com/blog/kawaguchi-zadankai-5/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: イシューを割り当てるだけで代わりにやってくれる ～「GitHub Copilot」に新しいコーディングエージェント／「Copilot Enterprise」および「Copilot Pro+」に展開</title>
-    <updated>2025-05-22T02:04:14Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-05-22:/docs/news/2016156.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2016156.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: デザイナーはAIでもっとアジャイルになる ─ より速くなるディスカバリーのフィードバックサイクルとマインドセット〔ユーザベース平野さん×テックタッチ大輪さん対談〕 - Agile Journey</title>
-    <updated>2025-05-22T02:00:09Z</updated>
-    <id>tag:agilejourney.uzabase.com,2025-05-22:/entry/2025/05/22/103000</id>
-    <link href="https://agilejourney.uzabase.com/entry/2025/05/22/103000" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: “魔法の終了呪文”がいらないCLIエディタ「Edit」。Windows 11に標準搭載へ</title>
@@ -4462,22 +4414,76 @@
     <link href="https://pc.watch.impress.co.jp/docs/news/2016302.html" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 【やじうまPC Watch】 USBマイクの音質が悪い？USBハブで解決できるかも</title>
+    <updated>2025-05-22T03:09:01Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-05-22:/docs/news/yajiuma/2016199.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/yajiuma/2016199.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub - sqliteai/sqlite-js: Create custom SQLite functions in JavaScript. Extend your database with scalars, aggregates, window functions, and collations directly in JavaScript.</title>
+    <updated>2025-05-22T13:36:03Z</updated>
+    <id>tag:github.com,2025-05-22:/sqliteai/sqlite-js</id>
+    <link href="https://github.com/sqliteai/sqlite-js" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Introducing Claude 4</title>
+    <updated>2025-05-22T16:57:56Z</updated>
+    <id>tag:www.anthropic.com,2025-05-22:/news/claude-4</id>
+    <link href="https://www.anthropic.com/news/claude-4" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【エンジニアの日常】エンジニア達の人生を変えた一冊 Part4 - Findy Tech Blog</title>
+    <updated>2025-05-21T22:37:57Z</updated>
+    <id>tag:tech.findy.co.jp,2025-05-21:/entry/2025/05/22/070000</id>
+    <link href="https://tech.findy.co.jp/entry/2025/05/22/070000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 学生にレポート課題を出す際にchatlogのURL記載を条件にChatGPTの使用を許可したら、Deep Researchをフル活用してレベルの高いレポートを出してくる学生が散見される様になった話</title>
+    <updated>2025-05-22T01:07:52Z</updated>
+    <id>tag:togetter.com,2025-05-22:/li/2554001</id>
+    <link href="https://togetter.com/li/2554001" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: イシューを割り当てるだけで代わりにやってくれる ～「GitHub Copilot」に新しいコーディングエージェント／「Copilot Enterprise」および「Copilot Pro+」に展開</title>
+    <updated>2025-05-22T02:04:14Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-05-22:/docs/news/2016156.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2016156.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ESLint v9.0.0: A retrospective - ESLint - Pluggable JavaScript Linter</title>
+    <updated>2025-05-21T23:53:17Z</updated>
+    <id>tag:eslint.org,2025-05-21:/blog/2025/05/eslint-v9.0.0-retrospective/</id>
+    <link href="https://eslint.org/blog/2025/05/eslint-v9.0.0-retrospective/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: デザイナーはAIでもっとアジャイルになる ─ より速くなるディスカバリーのフィードバックサイクルとマインドセット〔ユーザベース平野さん×テックタッチ大輪さん対談〕 - Agile Journey</title>
+    <updated>2025-05-22T02:00:09Z</updated>
+    <id>tag:agilejourney.uzabase.com,2025-05-22:/entry/2025/05/22/103000</id>
+    <link href="https://agilejourney.uzabase.com/entry/2025/05/22/103000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 技術イベントに“本気のコーヒー”を。カケハシがコーヒースポンサーを続ける理由 - KAKEHASHI Tech Blog</title>
+    <updated>2025-05-22T04:00:37Z</updated>
+    <id>tag:kakehashi-dev.hatenablog.com,2025-05-22:/entry/2025/05/22/110000</id>
+    <link href="https://kakehashi-dev.hatenablog.com/entry/2025/05/22/110000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: macOS Sequoia (15.4 以降) で cal や date を打つと出力がおかしい - id:onk のはてなブログ</title>
+    <updated>2025-05-21T18:03:19Z</updated>
+    <id>tag:onk.hatenablog.jp,2025-05-21:/entry/2025/05/22/023048</id>
+    <link href="https://onk.hatenablog.jp/entry/2025/05/22/023048" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Mistral AIがローカル環境で動作する小型で高性能なエージェント型コーディングAI「Devstral」を発表</title>
+    <updated>2025-05-22T03:49:46Z</updated>
+    <id>tag:gigazine.net,2025-05-22:/news/20250522-mistral-ai-all-hands-ai-devstral/</id>
+    <link href="https://gigazine.net/news/20250522-mistral-ai-all-hands-ai-devstral/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: ピクミン ブルーム、「あすけん」とコラボ　ゲームに未来さん登場</title>
     <updated>2025-05-22T09:37:20Z</updated>
     <id>tag:k-tai.watch.impress.co.jp,2025-05-22:/docs/news/2016230.html</id>
     <link href="https://k-tai.watch.impress.co.jp/docs/news/2016230.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「iPhoneのマイナンバーカード機能搭載」で何が変わる？　Androidとの違いやメリットを解説</title>
-    <updated>2025-05-22T02:31:32Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-05-22:/mobile/articles/2505/22/news113.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2505/22/news113.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 北海道・東北の免許センターでのシステム障害、原因は道路工事による物理的断線か　警察庁</title>
-    <updated>2025-05-22T07:02:58Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-05-22:/news/articles/2505/22/news148.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2505/22/news148.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Clineで自社製品のMCPサーバーを作って遊んでみた</title>
@@ -4486,21 +4492,15 @@
     <link href="https://zenn.dev/dreamarts/articles/9300bc0436d945" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIが拡張する「ググる」体験　Google検索トップに聞く「AIモード検索」 - Impress Watc</title>
-    <updated>2025-05-21T23:42:15Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-05-21:/docs/topic/2016126.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/topic/2016126.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: GoogleのAIコーディングエディター「Jules」が世界中で利用可能に - すまほん!!</title>
+    <updated>2025-05-21T07:04:35Z</updated>
+    <id>tag:smhn.info,2025-05-21:/202505-google-jules</id>
+    <link href="https://smhn.info/202505-google-jules" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: IIJが受けた「Living off the Land攻撃」、河野前デジタル相が24年8月に危険性を指摘</title>
-    <updated>2025-05-21T23:51:18Z</updated>
-    <id>tag:xtech.nikkei.com,2025-05-21:/atcl/nxt/column/18/03207/052000001/</id>
-    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/03207/052000001/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Mistral AIがローカル環境で動作する小型で高性能なエージェント型コーディングAI「Devstral」を発表</title>
-    <updated>2025-05-22T03:49:46Z</updated>
-    <id>tag:gigazine.net,2025-05-22:/news/20250522-mistral-ai-all-hands-ai-devstral/</id>
-    <link href="https://gigazine.net/news/20250522-mistral-ai-all-hands-ai-devstral/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 三菱重工、200km飛べる重量級ハイブリッドドローン　積載量は200kg</title>
+    <updated>2025-05-22T07:23:09Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-05-22:/docs/news/2016249.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2016249.html" rel="alternate"></link>
   </entry>
 </feed>
