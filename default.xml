@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-05-23T12:27:30Z</updated>
+  <updated>2025-05-23T18:18:23Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -148,6 +148,12 @@
     <link href="https://zenn.dev/sosukesuzuki/articles/5146c84504445f" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: SnowflakeのMFA必須化への対応として、TOTPの設定を試してみた</title>
+    <updated>2025-05-23T05:26:04Z</updated>
+    <id>https://zenn.dev/nttdata_tech/articles/aa66fa0bf9e489</id>
+    <link href="https://zenn.dev/nttdata_tech/articles/aa66fa0bf9e489" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: ベクトル検索でshopらんが進化！〜インターンで挑んだ新たな検索システム〜</title>
     <updated>2025-05-23T01:21:45Z</updated>
     <id>https://zenn.dev/dreamarts/articles/8ac63485eae0eb</id>
@@ -218,12 +224,6 @@
     <updated>2025-05-21T22:09:58Z</updated>
     <id>https://zenn.dev/nikechan/articles/b988cf067a8c56</id>
     <link href="https://zenn.dev/nikechan/articles/b988cf067a8c56" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: nullの扱いに注意...(TSでの工夫)</title>
-    <updated>2025-05-21T19:04:50Z</updated>
-    <id>https://zenn.dev/terusi/articles/e243ead933d406</id>
-    <link href="https://zenn.dev/terusi/articles/e243ead933d406" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: App RouterとTanStack Queryの実践プラクティス</title>
@@ -442,6 +442,12 @@
     <link href="https://qiita.com/sun_22/items/7d18912c9e6ba2a62525?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: Is The Fish Shell Annoying Because It's Different? (No...It's AWESOME!)</title>
+    <updated>2025-05-23T13:01:59Z</updated>
+    <id>yt:video:xzPD1CuWgWw</id>
+    <link href="https://www.youtube.com/watch?v=xzPD1CuWgWw" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: Hey, DT! Without The Internet, I Wouldn't Know What's Going On!</title>
     <updated>2025-05-20T13:01:13Z</updated>
     <id>yt:video:dJi3L781pIk</id>
@@ -524,12 +530,6 @@
     <updated>2025-04-18T13:00:45Z</updated>
     <id>yt:video:NOBPUxeWsTk</id>
     <link href="https://www.youtube.com/watch?v=NOBPUxeWsTk" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: Don't Associate With THAT Person!  (He/She Wrong Thinks!)</title>
-    <updated>2025-04-15T13:00:31Z</updated>
-    <id>yt:video:ASla8uJgYw0</id>
-    <link href="https://www.youtube.com/watch?v=ASla8uJgYw0" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: 約4割の日本企業で「セキュリティインシデントに関する最終責任者が不明確」　ファストリー調査</title>
@@ -4330,28 +4330,10 @@
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202405/24?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Microsoft、Windowsアプリ開発者に強力なAIプラットフォームを提供するWindows Copilot Runtimeを発表</title>
-    <updated>2024-05-23T06:21:00Z</updated>
-    <id>urn:uuid:d48a5290-3146-be17-fd93-26e0a1cd076c</id>
-    <link href="https://gihyo.jp/article/2024/05/microsoft-copilot-runtime?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: GitHub Copilot Extensions発表 ―さまざまな開発ツールを組み合わせながらCopilotを利用可能に</title>
-    <updated>2024-05-23T02:06:00Z</updated>
-    <id>urn:uuid:810c8169-8063-2c54-6b6a-4fab0a75759b</id>
-    <link href="https://gihyo.jp/article/2024/05/github-copilot-extension?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: 「Python Boot Camp」6/29に山形県酒田市で開催</title>
-    <updated>2024-05-23T00:39:00Z</updated>
-    <id>urn:uuid:362997e1-10eb-fba5-78fb-aa9e5d0296e4</id>
-    <link href="https://gihyo.jp/article/2024/05/python-bc-yamagata3?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 品質管理の歴史学 / Quality Management History</title>
-    <updated>2025-01-09T07:47:43Z</updated>
-    <id>tag:speakerdeck.com,2025-01-09:/nihonbuson/quality-management-history</id>
-    <link href="https://speakerdeck.com/nihonbuson/quality-management-history" rel="alternate"></link>
+    <title>1:hatena_blog_it: ついに終了するPocketからの移行候補まとめ、Pocketのデータをインポートできてページ保存が引き続き可能なサービスは？</title>
+    <updated>2025-05-23T10:18:48Z</updated>
+    <id>tag:gigazine.net,2025-05-23:/news/20250523-pocket-alternative-services/</id>
+    <link href="https://gigazine.net/news/20250523-pocket-alternative-services/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Claude 4 プロンプトエンジニアリングのベストプラクティス - Anthropic</title>
@@ -4360,16 +4342,16 @@
     <link href="https://docs.anthropic.com/ja/docs/build-with-claude/prompt-engineering/claude-4-best-practices" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Pythonパッケージ管理 [uv] 完全入門</title>
-    <updated>2025-05-22T14:40:02Z</updated>
-    <id>tag:speakerdeck.com,2025-05-22:/mickey_kubo/pythonpatukeziguan-li-uv-wan-quan-ru-men</id>
-    <link href="https://speakerdeck.com/mickey_kubo/pythonpatukeziguan-li-uv-wan-quan-ru-men" rel="alternate"></link>
+    <title>1:hatena_blog_it: Python×株式投資：月利3〜5%を狙う自動スクリーニング戦略 - Qiita</title>
+    <updated>2025-05-19T11:51:14Z</updated>
+    <id>tag:qiita.com,2025-05-19:/rS_alonewolf/items/a8856f0cb28ae6a7da57</id>
+    <link href="https://qiita.com/rS_alonewolf/items/a8856f0cb28ae6a7da57" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Firefoxの“後で読む”機能「Pocket」提供終了へ　7月8日に</title>
-    <updated>2025-05-22T22:20:37Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-05-22:/news/articles/2505/23/news112.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2505/23/news112.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 品質管理の歴史学 / Quality Management History</title>
+    <updated>2025-01-09T07:47:43Z</updated>
+    <id>tag:speakerdeck.com,2025-01-09:/nihonbuson/quality-management-history</id>
+    <link href="https://speakerdeck.com/nihonbuson/quality-management-history" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「Cursor」で「難解コード」のリーディングがめちゃ楽になった話 - Qiita</title>
@@ -4384,52 +4366,10 @@
     <link href="https://www.watch.impress.co.jp/docs/news/2016119.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude 4 prompt engineering best practices - Anthropic</title>
-    <updated>2025-05-22T18:14:37Z</updated>
-    <id>tag:docs.anthropic.com,2025-05-22:/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices</id>
-    <link href="https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Go Scheduler</title>
-    <updated>2025-05-22T04:57:17Z</updated>
-    <id>tag:nghiant3223.github.io,2025-05-22:/2025/04/15/go-scheduler.html</id>
-    <link href="https://nghiant3223.github.io/2025/04/15/go-scheduler.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ついに終了するPocketからの移行候補まとめ、Pocketのデータをインポートできてページ保存が引き続き可能なサービスは？</title>
-    <updated>2025-05-23T10:18:48Z</updated>
-    <id>tag:gigazine.net,2025-05-23:/news/20250523-pocket-alternative-services/</id>
-    <link href="https://gigazine.net/news/20250523-pocket-alternative-services/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「インターネットが好きだから、さくらを選んだ」。エンジニア渡辺 博文（cho45）が語る転職の理由 - さくマガ</title>
-    <updated>2025-05-23T00:13:44Z</updated>
-    <id>tag:sakumaga.sakura.ad.jp,2025-05-23:/entry/watanabehirohumi/</id>
-    <link href="https://sakumaga.sakura.ad.jp/entry/watanabehirohumi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 対話型AIと失語症、情報処理のパターンが類似　東京大学 - 日本経済新聞</title>
-    <updated>2025-05-23T07:13:03Z</updated>
-    <id>tag:www.nikkei.com,2025-05-23:/article/DGXZQOSG2168C0R20C25A5000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOSG2168C0R20C25A5000000/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Twitter好きとInstagram好きがそれぞれ料理を撮影したらなかなか興味深いことになった「印象変わるの面白い」</title>
     <updated>2025-05-23T07:25:27Z</updated>
     <id>tag:togetter.com,2025-05-23:/li/2554447</id>
     <link href="https://togetter.com/li/2554447" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: いじめ 不登校の相談窓口 “AIなどで充実を” こども家庭庁 | NHK</title>
-    <updated>2025-05-23T05:56:07Z</updated>
-    <id>tag:www3.nhk.or.jp,2025-05-23:/news/html/20250523/k10014814511000.html</id>
-    <link href="https://www3.nhk.or.jp/news/html/20250523/k10014814511000.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Python×株式投資：月利3〜5%を狙う自動スクリーニング戦略 - Qiita</title>
-    <updated>2025-05-19T11:51:14Z</updated>
-    <id>tag:qiita.com,2025-05-19:/rS_alonewolf/items/a8856f0cb28ae6a7da57</id>
-    <link href="https://qiita.com/rS_alonewolf/items/a8856f0cb28ae6a7da57" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: TypeScriptで実践するクリーンアーキテクチャ ― WebからもCLIからも使えるアプリ設計 / CClean Architecture with Typescript Application</title>
@@ -4438,10 +4378,22 @@
     <link href="https://speakerdeck.com/panda_program/clean-architecture-with-typescript-application" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 現場のAI活用希望 vs セキュリティ - 板挟みコーポレートエンジニアのためのセキュリティ・ガバナンス実践録 - GMO Flatt Security Blog</title>
-    <updated>2025-05-23T09:32:02Z</updated>
-    <id>tag:blog.flatt.tech,2025-05-23:/entry/corp_ai_security</id>
-    <link href="https://blog.flatt.tech/entry/corp_ai_security" rel="alternate"></link>
+    <title>1:hatena_blog_it: 対話型AIと失語症、情報処理のパターンが類似　東京大学 - 日本経済新聞</title>
+    <updated>2025-05-23T07:13:03Z</updated>
+    <id>tag:www.nikkei.com,2025-05-23:/article/DGXZQOSG2168C0R20C25A5000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOSG2168C0R20C25A5000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Firefoxの“後で読む”機能「Pocket」提供終了へ　7月8日に</title>
+    <updated>2025-05-22T22:20:37Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-05-22:/news/articles/2505/23/news112.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2505/23/news112.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Pythonパッケージ管理 [uv] 完全入門</title>
+    <updated>2025-05-22T14:40:02Z</updated>
+    <id>tag:speakerdeck.com,2025-05-22:/mickey_kubo/pythonpatukeziguan-li-uv-wan-quan-ru-men</id>
+    <link href="https://speakerdeck.com/mickey_kubo/pythonpatukeziguan-li-uv-wan-quan-ru-men" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Windowsに最初から入ってる不要なソフト、重くなる原因かも。簡単に一掃する方法 | ライフハッカー・ジャパン</title>
@@ -4450,22 +4402,70 @@
     <link href="https://www.lifehacker.jp/article/2505-you-need-hack-faster-windows-11/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: いじめ 不登校の相談窓口 “AIなどで充実を” こども家庭庁 | NHK</title>
+    <updated>2025-05-23T05:56:07Z</updated>
+    <id>tag:www3.nhk.or.jp,2025-05-23:/news/html/20250523/k10014814511000.html</id>
+    <link href="https://www3.nhk.or.jp/news/html/20250523/k10014814511000.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 赤外線が見えるようになるコンタクトレンズが開発される</title>
+    <updated>2025-05-23T03:52:56Z</updated>
+    <id>tag:gigazine.net,2025-05-23:/news/20250523-upconversion-contact-lenses/</id>
+    <link href="https://gigazine.net/news/20250523-upconversion-contact-lenses/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Pythonで月利3％狙ってるけど、頭と机がごちゃごちゃだったので、まず現実から片付けた話 - Qiita</title>
+    <updated>2025-05-23T08:54:48Z</updated>
+    <id>tag:qiita.com,2025-05-23:/rS_alonewolf/items/6dbb932d5deef9429a4d</id>
+    <link href="https://qiita.com/rS_alonewolf/items/6dbb932d5deef9429a4d" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: LLMと感覚性失語症、情報処理に類似性　東大が明らかに</title>
+    <updated>2025-05-23T08:39:44Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-05-23:/aiplus/articles/2505/23/news171.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2505/23/news171.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 現場のAI活用希望 vs セキュリティ - 板挟みコーポレートエンジニアのためのセキュリティ・ガバナンス実践録 - GMO Flatt Security Blog</title>
+    <updated>2025-05-23T09:32:02Z</updated>
+    <id>tag:blog.flatt.tech,2025-05-23:/entry/corp_ai_security</id>
+    <link href="https://blog.flatt.tech/entry/corp_ai_security" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【もっと早く出会いたかった】「40%キーボード」を試したら…→”狂ったように”ドはまり。小さすぎるのに実用的な”魅惑の配列”を語りたい。</title>
+    <updated>2025-05-23T08:59:29Z</updated>
+    <id>tag:www.nicovideo.jp,2025-05-23:/watch/sm45006602</id>
+    <link href="https://www.nicovideo.jp/watch/sm45006602" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: React Server Componentsを理解する | POSTD</title>
+    <updated>2025-05-22T08:19:47Z</updated>
+    <id>tag:postd.cc,2025-05-22:/understanding-react-server-components/</id>
+    <link href="https://postd.cc/understanding-react-server-components/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Go Scheduler</title>
+    <updated>2025-05-22T04:57:17Z</updated>
+    <id>tag:nghiant3223.github.io,2025-05-22:/2025/04/15/go-scheduler.html</id>
+    <link href="https://nghiant3223.github.io/2025/04/15/go-scheduler.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: NVMe対応HDDのコンセプトをSeagateが展示</title>
     <updated>2025-05-23T08:05:08Z</updated>
     <id>tag:pc.watch.impress.co.jp,2025-05-23:/docs/news/event/2016764.html</id>
     <link href="https://pc.watch.impress.co.jp/docs/news/event/2016764.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 電子も紙も積読を消化する技術 - sasasin’s blog</title>
-    <updated>2025-05-21T21:03:23Z</updated>
-    <id>tag:sasasin.hatenablog.com,2025-05-21:/entry/2025/05/22/060259</id>
-    <link href="https://sasasin.hatenablog.com/entry/2025/05/22/060259" rel="alternate"></link>
+    <title>1:hatena_blog_it: ブラウザ拡張開発者ワイ、Firefoxが好きになってしまう</title>
+    <updated>2025-05-23T07:31:57Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-05-23:/20250523162704</id>
+    <link href="https://anond.hatelabo.jp/20250523162704" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Introducing Claude 4</title>
-    <updated>2025-05-22T16:57:56Z</updated>
-    <id>tag:www.anthropic.com,2025-05-22:/news/claude-4</id>
-    <link href="https://www.anthropic.com/news/claude-4" rel="alternate"></link>
+    <title>1:hatena_blog_it: NISTが脆弱性管理の新指標「LEV」を提案　EPSSやKEVより信頼できる？</title>
+    <updated>2025-05-23T02:26:17Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-05-23:/enterprise/articles/2505/23/news076.html</id>
+    <link href="https://www.itmedia.co.jp/enterprise/articles/2505/23/news076.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「人間を甘やかして依存させることがロボット三原則に抵触するか」に様々な意見→三原則を提唱したアシモフが既に描いているが、改めて考える時が来たのかも</title>
@@ -4474,33 +4474,21 @@
     <link href="https://togetter.com/li/2554415" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: アプリよりもブラウザの方が使いやすいもの教えて</title>
+    <updated>2025-05-23T00:58:09Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-05-23:/20250522225916</id>
+    <link href="https://anond.hatelabo.jp/20250522225916" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 2カ月で39万台に感染した情報窃取マルウェア「Lumma」、Microsoftが国際的撲滅を主導</title>
     <updated>2025-05-23T04:37:17Z</updated>
     <id>tag:pc.watch.impress.co.jp,2025-05-23:/docs/news/2016629.html</id>
     <link href="https://pc.watch.impress.co.jp/docs/news/2016629.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: “コーディング最強クラス”の「Claude 4」を使いこなせ　開発元がプロンプトエンジニアリングのコツを紹介</title>
-    <updated>2025-05-23T04:32:54Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-05-23:/aiplus/articles/2505/23/news138.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2505/23/news138.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Pocket is Saying Goodbye: What You Need to Know | Pocket Help</title>
-    <updated>2025-05-22T18:39:07Z</updated>
-    <id>tag:support.mozilla.org,2025-05-22:/en-US/kb/future-of-pocket</id>
-    <link href="https://support.mozilla.org/en-US/kb/future-of-pocket" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: まつもとゆきひろさん「Programming Language for AI age」～RubyKaigi 2025 3日目キーノート | gihyo.jp</title>
     <updated>2025-05-23T04:46:25Z</updated>
     <id>tag:gihyo.jp,2025-05-23:/article/2025/05/rubykaigi-2025-keynote-report-day3</id>
     <link href="https://gihyo.jp/article/2025/05/rubykaigi-2025-keynote-report-day3" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 極限ケモノRPG『戦場のフーガ』開発者によると「ケモノゲームの市場はでかい」。ケモノセールで3倍、ファンはイベントにくる。でもゲーム内ではケモノたちは酷い目に遭う - AUTOMATON</title>
-    <updated>2025-05-23T04:01:22Z</updated>
-    <id>tag:automaton-media.com,2025-05-23:/articles/interviewsjp/fuga-20250513-340205/</id>
-    <link href="https://automaton-media.com/articles/interviewsjp/fuga-20250513-340205/" rel="alternate"></link>
   </entry>
 </feed>
