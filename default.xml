@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-05-26T01:10:02Z</updated>
+  <updated>2025-05-26T06:21:20Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -148,6 +148,12 @@
     <link href="https://zenn.dev/anatoo/articles/a9eebb9414c156" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: tsgo をビルドしてLSPから会話する</title>
+    <updated>2025-05-25T09:23:19Z</updated>
+    <id>https://zenn.dev/mizchi/articles/tsgo-try-and-internal</id>
+    <link href="https://zenn.dev/mizchi/articles/tsgo-try-and-internal" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: vLLMのSpeculative Decodingによる推論高速化を試す</title>
     <updated>2025-05-25T08:00:02Z</updated>
     <id>https://zenn.dev/aratako_lm/articles/efeadd6d1e0f4b</id>
@@ -220,6 +226,12 @@
     <link href="https://zenn.dev/robustonian/articles/ryzen_ai_max_sd" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Devin Searchのプロンプト生成機能で指示の精度を上げる</title>
+    <updated>2025-05-23T09:41:25Z</updated>
+    <id>https://zenn.dev/knowledgework/articles/97184cf5b974a2</id>
+    <link href="https://zenn.dev/knowledgework/articles/97184cf5b974a2" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: TSKaigi 2025「TypeScriptとは何であって何でなく、誰のもので、どこへ向かうのか」スピーカーノート</title>
     <updated>2025-05-23T08:14:12Z</updated>
     <id>https://zenn.dev/sosukesuzuki/articles/5146c84504445f</id>
@@ -238,12 +250,6 @@
     <link href="https://zenn.dev/hathle/books/next-multi-tenant-blog-book" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: Claude Code で5時間で2つのミニアプリを作った話</title>
-    <updated>2025-05-23T02:26:48Z</updated>
-    <id>https://zenn.dev/hololab/articles/9b8eb0570975ac</id>
-    <link href="https://zenn.dev/hololab/articles/9b8eb0570975ac" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: AI時代なので、もうDDDは要らなくなりますかね？</title>
     <updated>2025-05-23T00:46:43Z</updated>
     <id>https://zenn.dev/loglass/articles/a0dbecd36dfb75</id>
@@ -254,12 +260,6 @@
     <updated>2025-05-22T16:39:36Z</updated>
     <id>https://zenn.dev/schroneko/articles/code-with-claude</id>
     <link href="https://zenn.dev/schroneko/articles/code-with-claude" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: コードの寿命・データの寿命・互換性の寿命</title>
-    <updated>2025-05-22T03:59:38Z</updated>
-    <id>https://zenn.dev/dmikurube/articles/life-of-code-life-of-data-life-of-compatibility</id>
-    <link href="https://zenn.dev/dmikurube/articles/life-of-code-life-of-data-life-of-compatibility" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: 生成AIに「要件定義プロンプト」を作らせてみたら、未来が見えた話</title>
@@ -443,7 +443,7 @@
   </entry>
   <entry>
     <title>3:distrotube_youtube: Chat With Patrons (May 25, 2025)</title>
-    <updated>2025-05-23T18:04:39Z</updated>
+    <updated>2025-05-26T05:21:14Z</updated>
     <id>yt:video:D6O6EfagYoE</id>
     <link href="https://www.youtube.com/watch?v=D6O6EfagYoE" rel="alternate"></link>
   </entry>
@@ -4324,10 +4324,10 @@
     <link href="https://gihyo.jp/article/2024/05/powertoys-advanced-paste?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 子ども３人、全員Androidだったことについての記録</title>
-    <updated>2025-05-25T11:34:34Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-05-25:/20250525201148</id>
-    <link href="https://anond.hatelabo.jp/20250525201148" rel="alternate"></link>
+    <title>1:hatena_blog_it: 郵便番号・デジタルアドレスAPI | 郵便番号・デジタルアドレス for Biz | 日本郵便株式会社</title>
+    <updated>2025-05-25T23:36:12Z</updated>
+    <id>tag:guide-biz.da.pf.japanpost.jp,2025-05-25:/api/</id>
+    <link href="https://guide-biz.da.pf.japanpost.jp/api/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「ボタンを押下する」という言い方ITの方言かってくらい一般人に伝わらないんだけど、調べたら本当にその意味しかなさそうな単語だった「良く使います」「手順書に当たり前の様にかいてある」</title>
@@ -4336,22 +4336,22 @@
     <link href="https://togetter.com/li/2555368" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: サイバーエージェント社員の20%が使うAIプラットフォーム「Dify」、プロダクト主導で3,000時間/月削減する方法 | CyberAgent Developers Blog</title>
+    <updated>2025-05-25T23:46:36Z</updated>
+    <id>tag:developers.cyberagent.co.jp,2025-05-25:/blog/archives/56492/</id>
+    <link href="https://developers.cyberagent.co.jp/blog/archives/56492/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 子ども３人、全員Androidだったことについての記録</title>
+    <updated>2025-05-25T11:34:34Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-05-25:/20250525201148</id>
+    <link href="https://anond.hatelabo.jp/20250525201148" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: ダ・ヴィンチ・恐山「はてな匿名ダイアリーのバズ記事の結構な割合がAIによって書かれている」</title>
     <updated>2025-05-24T16:32:54Z</updated>
     <id>tag:anond.hatelabo.jp,2025-05-24:/20250525012334</id>
     <link href="https://anond.hatelabo.jp/20250525012334" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 郵便番号・デジタルアドレスAPI | 郵便番号・デジタルアドレス for Biz | 日本郵便株式会社</title>
-    <updated>2025-05-25T23:36:12Z</updated>
-    <id>tag:guide-biz.da.pf.japanpost.jp,2025-05-25:/api/</id>
-    <link href="https://guide-biz.da.pf.japanpost.jp/api/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ボタンを「押下（おうか）する」という言い方はかなり昔から存在していた（文献引用つき） - StatsBeginner: 初学者の統計学習ノート</title>
-    <updated>2016-08-18T18:35:07Z</updated>
-    <id>tag:blog.statsbeginner.net,2016-08-18:/entry/2016/08/19/012316</id>
-    <link href="https://blog.statsbeginner.net/entry/2016/08/19/012316" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 経産省が情報処理安全確保支援士を「5年で5万人」の策、実務で8万円の講習不要に</title>
@@ -4360,10 +4360,52 @@
     <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/10667/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 4月から寮暮らしの大学生の弟、楽天モバイルの使用量エグくて草、なにに使ってんねん「ヤバすぎる笑」「テザリングしてPCとかに繋いでるとか？」</title>
-    <updated>2025-05-25T10:53:37Z</updated>
-    <id>tag:togetter.com,2025-05-25:/li/2555274</id>
-    <link href="https://togetter.com/li/2555274" rel="alternate"></link>
+    <title>1:hatena_blog_it: ボタンを「押下（おうか）する」という言い方はかなり昔から存在していた（文献引用つき） - StatsBeginner: 初学者の統計学習ノート</title>
+    <updated>2016-08-18T18:35:07Z</updated>
+    <id>tag:blog.statsbeginner.net,2016-08-18:/entry/2016/08/19/012316</id>
+    <link href="https://blog.statsbeginner.net/entry/2016/08/19/012316" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 『フルスクラッチして理解するSSL/TLS』の裏側 - エムスリーテックブログ</title>
+    <updated>2025-05-26T02:11:59Z</updated>
+    <id>tag:www.m3tech.blog,2025-05-26:/entry/2025/05/26/100000</id>
+    <link href="https://www.m3tech.blog/entry/2025/05/26/100000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「アマゾンの部族がネットのせいでポルノ中毒に」という報道にアマゾンの部族が激怒しニューヨーク・タイムズを提訴</title>
+    <updated>2025-05-26T02:58:26Z</updated>
+    <id>tag:gigazine.net,2025-05-26:/news/20250526-nyt-amazon-tribe-lawsuit/</id>
+    <link href="https://gigazine.net/news/20250526-nyt-amazon-tribe-lawsuit/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: redditで猛威を振るった論破AIの話好き</title>
+    <updated>2025-05-26T01:45:36Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-05-26:/20250526104410</id>
+    <link href="https://anond.hatelabo.jp/20250526104410" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 郵便番号・デジタルアドレスAPI｜日本郵便株式会社</title>
+    <updated>2025-05-25T21:40:39Z</updated>
+    <id>tag:lp-api.da.pf.japanpost.jp,2025-05-25:/</id>
+    <link href="https://lp-api.da.pf.japanpost.jp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 世界最大のダム、満タンになると地球の自転を遅くしてしまう</title>
+    <updated>2025-05-25T13:44:53Z</updated>
+    <id>tag:www.gizmodo.jp,2025-05-25:/2025/05/the-dam-slows-down-the-earths-rotation.html</id>
+    <link href="https://www.gizmodo.jp/2025/05/the-dam-slows-down-the-earths-rotation.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ECSのTask数がいつの間にか0に？Task消失事件の顛末 - エムスリーテックブログ</title>
+    <updated>2025-05-25T13:33:16Z</updated>
+    <id>tag:www.m3tech.blog,2025-05-25:/entry/vanishing-ecs-task</id>
+    <link href="https://www.m3tech.blog/entry/vanishing-ecs-task" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: サービス終了の“あとで読む”サービス「Pocket」、ソーシャルニュースサイトが買収の申し出【やじうまWatch】</title>
+    <updated>2025-05-26T03:10:57Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2025-05-26:/docs/yajiuma/2017066.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2017066.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: エディタ型からCLI型・自律型へと多様化するコーディングエージェント</title>
@@ -4378,70 +4420,10 @@
     <link href="https://togetter.com/li/2555287" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ECSのTask数がいつの間にか0に？Task消失事件の顛末 - エムスリーテックブログ</title>
-    <updated>2025-05-25T13:33:16Z</updated>
-    <id>tag:www.m3tech.blog,2025-05-25:/entry/vanishing-ecs-task</id>
-    <link href="https://www.m3tech.blog/entry/vanishing-ecs-task" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Twitterを買収し、経営陣と社員の半数以上を解雇して崩壊させるまでの物語風ノンフィクションだが、買収された側から描く話が面白い「イーロン・マスク 史上最悪の企業買収」</title>
-    <updated>2025-05-25T06:15:11Z</updated>
-    <id>tag:posfie.com,2025-05-25:/@blackstaragent/p/4BZ4vjL</id>
-    <link href="https://posfie.com/@blackstaragent/p/4BZ4vjL" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 世界最大のダム、満タンになると地球の自転を遅くしてしまう</title>
-    <updated>2025-05-25T13:44:53Z</updated>
-    <id>tag:www.gizmodo.jp,2025-05-25:/2025/05/the-dam-slows-down-the-earths-rotation.html</id>
-    <link href="https://www.gizmodo.jp/2025/05/the-dam-slows-down-the-earths-rotation.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 安全なMCPへの第一歩 : Authorization の仕様を理解する - Qiita</title>
-    <updated>2025-05-25T09:34:51Z</updated>
-    <id>tag:qiita.com,2025-05-25:/icoxfog417/items/ef2c3382056968032dd5</id>
-    <link href="https://qiita.com/icoxfog417/items/ef2c3382056968032dd5" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Firefoxの新しいアドレスバーがかなり便利そう。ちょっと注目に値するアップデート</title>
-    <updated>2025-05-25T21:34:14Z</updated>
-    <id>tag:techfeed.io,2025-05-25:/entries/68338c9bf83e83374e583e8a</id>
-    <link href="https://techfeed.io/entries/68338c9bf83e83374e583e8a" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 在庫管理のための機械学習と最適化の融合</title>
-    <updated>2025-05-25T11:56:31Z</updated>
-    <id>tag:speakerdeck.com,2025-05-25:/mickey_kubo/zai-ku-guan-li-notamenoji-jie-xue-xi-tozui-shi-hua-norong-he</id>
-    <link href="https://speakerdeck.com/mickey_kubo/zai-ku-guan-li-notamenoji-jie-xue-xi-tozui-shi-hua-norong-he" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 変化に強いテーブル設計の勘所 / Table design that is resistant to changes</title>
-    <updated>2025-05-24T20:12:41Z</updated>
-    <id>tag:speakerdeck.com,2025-05-24:/soudai/table-design-that-is-resistant-to-changes</id>
-    <link href="https://speakerdeck.com/soudai/table-design-that-is-resistant-to-changes" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 痛みやかゆみを解消。耳にやさしいAirPods Pro用のイヤーピース</title>
-    <updated>2025-05-25T15:36:36Z</updated>
-    <id>tag:www.gizmodo.jp,2025-05-25:/2025/05/azla_sednaearfit_max_for_airpods_pro.html</id>
-    <link href="https://www.gizmodo.jp/2025/05/azla_sednaearfit_max_for_airpods_pro.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: エンジニアのための 法規制への取り組み方 #healthtechmeetup</title>
-    <updated>2025-05-24T06:22:32Z</updated>
-    <id>tag:speakerdeck.com,2025-05-24:/77web/enzinianotameno-fa-gui-zhi-henoqu-rizu-mifang-number-healthtechmeetup</id>
-    <link href="https://speakerdeck.com/77web/enzinianotameno-fa-gui-zhi-henoqu-rizu-mifang-number-healthtechmeetup" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: MacBook Proより13万円安い！M4 Pro Mac miniを選ぶべき5つの理由（g.O.R.i） - エキスパート - Yahoo!ニュース</title>
-    <updated>2025-05-25T13:05:05Z</updated>
-    <id>tag:news.yahoo.co.jp,2025-05-25:/expert/articles/df5dc3e7e3e6b8666b7e3501cc964563543f3f57</id>
-    <link href="https://news.yahoo.co.jp/expert/articles/df5dc3e7e3e6b8666b7e3501cc964563543f3f57" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 技術的負債解消に向けたWordPressの一元管理とShifter移行で実現した運用最適化 - Findy Tech Blog</title>
-    <updated>2025-05-25T22:15:06Z</updated>
-    <id>tag:tech.findy.co.jp,2025-05-25:/entry/2025/05/26/070000</id>
-    <link href="https://tech.findy.co.jp/entry/2025/05/26/070000" rel="alternate"></link>
+    <title>1:hatena_blog_it: macOS以外のWindows/Linux環境でもXcodeを使わずにiOSアプリをビルド＆デプロイできる「xtool」がリリース。</title>
+    <updated>2025-05-26T00:21:38Z</updated>
+    <id>tag:applech2.com,2025-05-26:/archives/20250526-xtool-cross-platform-xcode-replacement.html</id>
+    <link href="https://applech2.com/archives/20250526-xtool-cross-platform-xcode-replacement.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: グーグルはAIで「検索＋広告ビジネス」を壊すのか。幹部取材でわかった真の狙い | Business Insider Japan</title>
@@ -4450,21 +4432,63 @@
     <link href="https://www.businessinsider.jp/article/2505-strategy-of-google-ai-mode/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 収入と生産性を倍増する「無料AIツール」10選　SNS作成からストーリーテリングまで | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-    <updated>2025-05-25T08:02:40Z</updated>
-    <id>tag:forbesjapan.com,2025-05-25:/articles/detail/79280</id>
-    <link href="https://forbesjapan.com/articles/detail/79280" rel="alternate"></link>
+    <title>1:hatena_blog_it: 読みやすい「BIZ UD」を帳票向けにカスタマイズした「帳票 UDPゴシック」フォントが公開／明朝体バージョンの「帳票 UDP明朝」もあり</title>
+    <updated>2025-05-26T01:09:33Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-05-26:/docs/news/2016989.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2016989.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: トランプ大統領「AppleだけでなくSamsungにも25％の関税」と発言</title>
-    <updated>2025-05-24T23:03:57Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-05-24:/news/articles/2505/25/news066.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2505/25/news066.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 技術的負債解消に向けたWordPressの一元管理とShifter移行で実現した運用最適化 - Findy Tech Blog</title>
+    <updated>2025-05-25T22:15:06Z</updated>
+    <id>tag:tech.findy.co.jp,2025-05-25:/entry/2025/05/26/070000</id>
+    <link href="https://tech.findy.co.jp/entry/2025/05/26/070000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「Snipping Tool」にAIを活用した“完璧スクリーンショット”機能、カラーピッカーも導入へ／「Copilot+ PC」のAIパワーでざっくり選んだコンテンツをピッタリ選択</title>
-    <updated>2025-05-23T08:27:07Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-05-23:/docs/news/2016715.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2016715.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Google I/Oで地味に注目したい「Gemini in Chrome」【Watch+】</title>
+    <updated>2025-05-24T01:52:16Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-05-24:/docs/topic/2016495.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/topic/2016495.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Firefoxの新しいアドレスバーがかなり便利そう。ちょっと注目に値するアップデート</title>
+    <updated>2025-05-25T21:34:14Z</updated>
+    <id>tag:techfeed.io,2025-05-25:/entries/68338c9bf83e83374e583e8a</id>
+    <link href="https://techfeed.io/entries/68338c9bf83e83374e583e8a" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 4月から寮暮らしの大学生の弟、楽天モバイルの使用量エグくて草、なにに使ってんねん「ヤバすぎる笑」「テザリングしてPCとかに繋いでるとか？」</title>
+    <updated>2025-05-25T10:53:37Z</updated>
+    <id>tag:togetter.com,2025-05-25:/li/2555274</id>
+    <link href="https://togetter.com/li/2555274" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: リスクベースドテストのアプローチを使って重篤なバグを早期に検出しホットフィックスを防いだ話 - Tabelog Tech Blog</title>
+    <updated>2025-05-26T03:05:43Z</updated>
+    <id>tag:tech-blog.tabelog.com,2025-05-26:/entry/risk-based-testing</id>
+    <link href="https://tech-blog.tabelog.com/entry/risk-based-testing" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 自分の住所を英数字7桁で表現「デジタルアドレス」　日本郵便が開始　入力の手間省く</title>
+    <updated>2025-05-26T04:13:20Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-05-26:/news/articles/2505/26/news082.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2505/26/news082.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「脳への電極埋め込み」なしで脳活動から高精度で考えを文字起こしするAI技術、オックスフォード大が発表（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+    <updated>2025-05-25T23:27:01Z</updated>
+    <id>tag:www.techno-edge.net,2025-05-25:/article/2025/05/26/4386.html</id>
+    <link href="https://www.techno-edge.net/article/2025/05/26/4386.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 日本郵便が住所を英数字7桁で表して送り状作成を簡略化できる「デジタルアドレス」を開始、ただしデジタルアドレスを書くだけでは郵便物や荷物を送れない</title>
+    <updated>2025-05-26T02:06:10Z</updated>
+    <id>tag:gigazine.net,2025-05-26:/news/20250526-japanpost-digital-address/</id>
+    <link href="https://gigazine.net/news/20250526-japanpost-digital-address/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIと一緒に論文を読める「alphaXiv」　英語論文のURL「arxiv」→「alphaxiv」に変えて起動　“日本語ブログ”に変換可能</title>
+    <updated>2025-05-26T03:01:27Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-05-26:/aiplus/articles/2505/26/news031.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2505/26/news031.html" rel="alternate"></link>
   </entry>
 </feed>
