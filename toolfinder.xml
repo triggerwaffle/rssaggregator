@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-06-07T01:08:10Z</updated>
+  <updated>2025-06-07T06:18:50Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3022,6 +3022,30 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: netbird-ui-bin</title>
+    <updated>2025-06-07T04:25:30Z</updated>
+    <id>netbird-ui-bin-1749270330</id>
+    <link href="https://aur.archlinux.org/packages/netbird-ui-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: rust-name-time-period</title>
+    <updated>2025-06-07T04:12:22Z</updated>
+    <id>rust-name-time-period-1749269542</id>
+    <link href="https://aur.archlinux.org/packages/rust-name-time-period" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: rust-images-matching-subdirectories</title>
+    <updated>2025-06-07T03:38:19Z</updated>
+    <id>rust-images-matching-subdirectories-1749267499</id>
+    <link href="https://aur.archlinux.org/packages/rust-images-matching-subdirectories" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: linuxtoys-bin</title>
+    <updated>2025-06-07T01:20:31Z</updated>
+    <id>linuxtoys-bin-1749259231</id>
+    <link href="https://aur.archlinux.org/packages/linuxtoys-bin" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: serial-monitor-rust-bin</title>
     <updated>2025-06-07T00:46:12Z</updated>
     <id>serial-monitor-rust-bin-1749257172</id>
@@ -3598,28 +3622,238 @@
     <link href="https://aur.archlinux.org/packages/pypy3-idna" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: 2048-tui</title>
-    <updated>2025-06-04T14:29:04Z</updated>
-    <id>2048-tui-1749047344</id>
-    <link href="https://aur.archlinux.org/packages/2048-tui" rel="alternate"></link>
+    <title>2:archlinux_new_packages: lxd 6.4-1 x86_64</title>
+    <updated>2025-06-07T05:54:37Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/x86_64/lxd/202506070554</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/lxd/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: gobw-bin</title>
-    <updated>2025-06-04T11:59:21Z</updated>
-    <id>gobw-bin-1749038361</id>
-    <link href="https://aur.archlinux.org/packages/gobw-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: vulkan-virtio 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:36Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra-testing/x86_64/vulkan-virtio/202506070226</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/vulkan-virtio/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: gobw</title>
-    <updated>2025-06-04T11:50:22Z</updated>
-    <id>gobw-1749037822</id>
-    <link href="https://aur.archlinux.org/packages/gobw" rel="alternate"></link>
+    <title>2:archlinux_new_packages: vulkan-swrast 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:36Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra-testing/x86_64/vulkan-swrast/202506070226</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/vulkan-swrast/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: vite</title>
-    <updated>2025-06-04T11:23:22Z</updated>
-    <id>vite-1749036202</id>
-    <link href="https://aur.archlinux.org/packages/vite" rel="alternate"></link>
+    <title>2:archlinux_new_packages: vulkan-radeon 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:35Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra-testing/x86_64/vulkan-radeon/202506070226</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/vulkan-radeon/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: vulkan-nouveau 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:35Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra-testing/x86_64/vulkan-nouveau/202506070226</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/vulkan-nouveau/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: vulkan-mesa-layers 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:34Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra-testing/x86_64/vulkan-mesa-layers/202506070226</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/vulkan-mesa-layers/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: vulkan-intel 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:34Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra-testing/x86_64/vulkan-intel/202506070226</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/vulkan-intel/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: vulkan-gfxstream 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:33Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra-testing/x86_64/vulkan-gfxstream/202506070226</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/vulkan-gfxstream/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: vulkan-dzn 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:33Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra-testing/x86_64/vulkan-dzn/202506070226</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/vulkan-dzn/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-vulkan-virtio 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:33Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/multilib-testing/x86_64/lib32-vulkan-virtio/202506070226</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-vulkan-virtio/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: opencl-mesa 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:33Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra-testing/x86_64/opencl-mesa/202506070226</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/opencl-mesa/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-vulkan-swrast 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:32Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/multilib-testing/x86_64/lib32-vulkan-swrast/202506070226</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-vulkan-swrast/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: mesa-docs 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:32Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra-testing/x86_64/mesa-docs/202506070226</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/mesa-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-vulkan-radeon 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:32Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/multilib-testing/x86_64/lib32-vulkan-radeon/202506070226</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-vulkan-radeon/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: mesa 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:32Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra-testing/x86_64/mesa/202506070226</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/mesa/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-vulkan-nouveau 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:31Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/multilib-testing/x86_64/lib32-vulkan-nouveau/202506070226</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-vulkan-nouveau/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-vulkan-mesa-layers 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:31Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/multilib-testing/x86_64/lib32-vulkan-mesa-layers/202506070226</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-vulkan-mesa-layers/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-vulkan-intel 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:30Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/multilib-testing/x86_64/lib32-vulkan-intel/202506070226</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-vulkan-intel/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-vulkan-gfxstream 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:30Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/multilib-testing/x86_64/lib32-vulkan-gfxstream/202506070226</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-vulkan-gfxstream/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-vulkan-dzn 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:30Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/multilib-testing/x86_64/lib32-vulkan-dzn/202506070226</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-vulkan-dzn/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-opencl-mesa 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:29Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/multilib-testing/x86_64/lib32-opencl-mesa/202506070226</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-opencl-mesa/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-mesa 1:25.1.2-3 x86_64</title>
+    <updated>2025-06-07T02:26:28Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/multilib-testing/x86_64/lib32-mesa/202506070226</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-mesa/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: crawl-tiles 0.33.1-1 x86_64</title>
+    <updated>2025-06-07T02:20:14Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/x86_64/crawl-tiles/202506070220</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/crawl-tiles/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: crawl-ncurses 0.33.1-1 x86_64</title>
+    <updated>2025-06-07T02:20:14Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/x86_64/crawl-ncurses/202506070220</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/crawl-ncurses/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: crawl-data 0.33.1-1 x86_64</title>
+    <updated>2025-06-07T02:20:13Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/x86_64/crawl-data/202506070220</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/crawl-data/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: emscripten 4.0.10-1 x86_64</title>
+    <updated>2025-06-07T01:56:26Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/x86_64/emscripten/202506070156</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/emscripten/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: furnace 0.6.8.2-1 x86_64</title>
+    <updated>2025-06-07T01:48:16Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/x86_64/furnace/202506070148</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/furnace/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: angle-grinder 0.19.6-1 x86_64</title>
+    <updated>2025-06-07T01:48:15Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/x86_64/angle-grinder/202506070148</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/angle-grinder/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: wallabag 2.6.13-1 any</title>
+    <updated>2025-06-07T01:48:13Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/any/wallabag/202506070148</id>
+    <link href="https://archlinux.org/packages/extra/any/wallabag/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: shattered-pixel-dungeon 3.1.0-1 any</title>
+    <updated>2025-06-07T01:48:13Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/any/shattered-pixel-dungeon/202506070148</id>
+    <link href="https://archlinux.org/packages/extra/any/shattered-pixel-dungeon/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-requests-unixsocket 0.4.1-1 any</title>
+    <updated>2025-06-07T01:48:12Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/any/python-requests-unixsocket/202506070148</id>
+    <link href="https://archlinux.org/packages/extra/any/python-requests-unixsocket/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pyopenssl 25.1.0-1 any</title>
+    <updated>2025-06-07T01:48:12Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/any/python-pyopenssl/202506070148</id>
+    <link href="https://archlinux.org/packages/extra/any/python-pyopenssl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-poetry-dynamic-versioning 1.8.2-1 any</title>
+    <updated>2025-06-07T01:48:11Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/any/python-poetry-dynamic-versioning/202506070148</id>
+    <link href="https://archlinux.org/packages/extra/any/python-poetry-dynamic-versioning/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: perl-mozilla-ca 20250602-1 any</title>
+    <updated>2025-06-07T01:48:11Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/any/perl-mozilla-ca/202506070148</id>
+    <link href="https://archlinux.org/packages/extra/any/perl-mozilla-ca/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: home-assistant 1:2025.5.3-1 any</title>
+    <updated>2025-06-07T01:48:10Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/any/home-assistant/202506070148</id>
+    <link href="https://archlinux.org/packages/extra/any/home-assistant/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: netdata 2.5.3-1 x86_64</title>
+    <updated>2025-06-07T01:25:41Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/x86_64/netdata/202506070125</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/netdata/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libkrun 1.13.0-3 x86_64</title>
+    <updated>2025-06-07T01:19:01Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/x86_64/libkrun/202506070119</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libkrun/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: packer 1.13.1-1 x86_64</title>
+    <updated>2025-06-07T01:06:12Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/x86_64/packer/202506070106</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/packer/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: headscale 0.26.1-1 x86_64</title>
+    <updated>2025-06-07T01:06:11Z</updated>
+    <id>tag:archlinux.org,2025-06-07:/packages/extra/x86_64/headscale/202506070106</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/headscale/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: gitlab 18.0.1-2 x86_64</title>
@@ -3686,239 +3920,5 @@
     <updated>2025-06-06T20:58:18Z</updated>
     <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/uv/202506062058</id>
     <link href="https://archlinux.org/packages/extra/x86_64/uv/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-uv 0.7.12-1 x86_64</title>
-    <updated>2025-06-06T20:58:17Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/python-uv/202506062058</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/python-uv/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: openpgp-card-tools 0.11.9-1 x86_64</title>
-    <updated>2025-06-06T20:53:36Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/openpgp-card-tools/202506062053</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/openpgp-card-tools/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: cargo-binstall 1.12.7-1 x86_64</title>
-    <updated>2025-06-06T20:53:35Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/cargo-binstall/202506062053</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/cargo-binstall/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: cargo-nextest 0.9.98-1 x86_64</title>
-    <updated>2025-06-06T20:46:48Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/cargo-nextest/202506062046</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/cargo-nextest/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: uwsm 0.21.7-1 any</title>
-    <updated>2025-06-06T20:42:56Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/uwsm/202506062042</id>
-    <link href="https://archlinux.org/packages/extra/any/uwsm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: collision 3.10.0-1 x86_64</title>
-    <updated>2025-06-06T20:17:25Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/collision/202506062017</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/collision/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: flowblade 2.22-1 any</title>
-    <updated>2025-06-06T20:13:34Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/flowblade/202506062013</id>
-    <link href="https://archlinux.org/packages/extra/any/flowblade/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: curtail 1.13.0-1 any</title>
-    <updated>2025-06-06T20:12:04Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/curtail/202506062012</id>
-    <link href="https://archlinux.org/packages/extra/any/curtail/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: switcheroo 2.4.0-1 x86_64</title>
-    <updated>2025-06-06T20:09:27Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/switcheroo/202506062009</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/switcheroo/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libgit2 1:1.9.1-1 x86_64</title>
-    <updated>2025-06-06T20:06:57Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/libgit2/202506062006</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libgit2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: chezmoi 2.62.6-1 x86_64</title>
-    <updated>2025-06-06T20:03:20Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/chezmoi/202506062003</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/chezmoi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: cartridges 2.12.1-1 any</title>
-    <updated>2025-06-06T19:50:35Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/cartridges/202506061950</id>
-    <link href="https://archlinux.org/packages/extra/any/cartridges/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: eyedropper 2.1.0-1 x86_64</title>
-    <updated>2025-06-06T19:39:34Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/eyedropper/202506061939</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/eyedropper/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: eartag 0.6.5-1 any</title>
-    <updated>2025-06-06T19:20:20Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/eartag/202506061920</id>
-    <link href="https://archlinux.org/packages/extra/any/eartag/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-pyqt6 6.9.1-1 x86_64</title>
-    <updated>2025-06-06T19:18:30Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/python-pyqt6/202506061918</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/python-pyqt6/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: okteta 1:0.26.22-1 x86_64</title>
-    <updated>2025-06-06T19:06:50Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/okteta/202506061906</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/okteta/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pulumi 3.175.0-1 x86_64</title>
-    <updated>2025-06-06T19:02:38Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/pulumi/202506061902</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pulumi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: distribution-gpg-keys 1.112-1 any</title>
-    <updated>2025-06-06T18:47:56Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/distribution-gpg-keys/202506061847</id>
-    <link href="https://archlinux.org/packages/extra/any/distribution-gpg-keys/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: oxlint 0.18.0-1 x86_64</title>
-    <updated>2025-06-06T18:23:34Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/oxlint/202506061823</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/oxlint/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: oxc-language-server 0.18.0-1 x86_64</title>
-    <updated>2025-06-06T18:23:34Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/x86_64/oxc-language-server/202506061823</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/oxc-language-server/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-zh-tw 140.0b6-1 any</title>
-    <updated>2025-06-06T18:09:00Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-zh-tw/202506061809</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-zh-tw/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-zh-cn 140.0b6-1 any</title>
-    <updated>2025-06-06T18:09:00Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-zh-cn/202506061809</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-zh-cn/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-xh 140.0b6-1 any</title>
-    <updated>2025-06-06T18:09:00Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-xh/202506061809</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-xh/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-vi 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:59Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-vi/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-vi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-uz 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:59Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-uz/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-uz/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-ur 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:58Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-ur/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-ur/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-uk 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:58Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-uk/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-uk/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-trs 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:57Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-trs/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-trs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-tr 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:57Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-tr/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-tr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-tl 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:56Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-tl/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-tl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-th 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:56Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-th/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-th/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-tg 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:56Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-tg/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-tg/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-te 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:55Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-te/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-te/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-ta 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:55Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-ta/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-ta/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-szl 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:54Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-szl/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-szl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sv-se 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:54Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-sv-se/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sv-se/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sr 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:53Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-sr/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sr/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-sq 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:53Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-sq/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-sq/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-developer-edition-i18n-son 140.0b6-1 any</title>
-    <updated>2025-06-06T18:08:52Z</updated>
-    <id>tag:archlinux.org,2025-06-06:/packages/extra/any/firefox-developer-edition-i18n-son/202506061808</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-developer-edition-i18n-son/" rel="alternate"></link>
   </entry>
 </feed>
