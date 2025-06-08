@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-06-08T12:25:32Z</updated>
+  <updated>2025-06-08T18:17:41Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -970,6 +970,18 @@
     <link href="https://www.youtube.com/watch?v=DfrZna_4I_w" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: 次期PostgreSQL 18では非同期I/Oの採用により性能が2～3倍向上する見通し</title>
+    <updated>2025-06-08T15:46:39Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8222</id>
+    <link href="https://www.publickey1.jp/blog/25/postgresql_18io23.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: すべてのコーディングエージェントに独立した開発用コンテナ環境を与えられる「Container Use」、Docker創業者がオープンソースで公開</title>
+    <updated>2025-06-08T15:41:40Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8221</id>
+    <link href="https://www.publickey1.jp/blog/25/container_usedocker.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: WindowsがMCPをサポート／WSLがオープンソースに／AWSのシェアがついに30％を切る、ほか。2025年5月の人気記事</title>
     <updated>2025-06-05T15:47:25Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8220</id>
@@ -1046,18 +1058,6 @@
     <updated>2025-05-25T15:28:41Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8207</id>
     <link href="https://www.publickey1.jp/blog/25/dbtsurugimcp.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Google、WebUIの自動生成ツール「Stitch」をベータ公開。自然言語で指示するとHTML/CSSを生成</title>
-    <updated>2025-05-21T15:10:13Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8206</id>
-    <link href="https://www.publickey1.jp/blog/25/googlewebuistitchhtmlcss.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Google、自律型コーディングエージェント「Jules」をベータ公開</title>
-    <updated>2025-05-20T15:23:42Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8205</id>
-    <link href="https://www.publickey1.jp/blog/25/googlejules.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Gemini 2.5 Proアップグレード版プレビューリリース</title>
@@ -4300,10 +4300,10 @@
     <link href="https://nomolk.hatenablog.com/entry/2025/06/05/113000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ビル・アトキンソン氏が死去　AppleのUIを確立したビジョナリー</title>
-    <updated>2025-06-07T22:49:31Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-06-07:/news/articles/2506/08/news022.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2506/08/news022.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Tmux Cheat Sheet [Inc. Visuals]</title>
+    <updated>2025-06-03T01:16:36Z</updated>
+    <id>tag:tmuxai.dev,2025-06-03:/tmux-cheat-sheet/</id>
+    <link href="https://tmuxai.dev/tmux-cheat-sheet/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 自治体システム標準化～コスト増の本質～｜標準化どうしましょう（自治体システム標準化にちょっと関わってる）</title>
@@ -4312,88 +4312,10 @@
     <link href="https://note.com/local_devya/n/n518b887d3b0e" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 初代Macintoshの基礎を作り、HyperCardを生み出したビル・アトキンソンの功績を振り返る（CloseBox） | テクノエッジ TechnoEdge</title>
-    <updated>2025-06-07T22:19:41Z</updated>
-    <id>tag:www.techno-edge.net,2025-06-07:/article/2025/06/08/4406.html</id>
-    <link href="https://www.techno-edge.net/article/2025/06/08/4406.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Tmux Cheat Sheet [Inc. Visuals]</title>
-    <updated>2025-06-03T01:16:36Z</updated>
-    <id>tag:tmuxai.dev,2025-06-03:/tmux-cheat-sheet/</id>
-    <link href="https://tmuxai.dev/tmux-cheat-sheet/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIの著作権問題に終止符か？ 8TBの巨大オープンデータセット「Common Pile」登場、Llama 2に匹敵するLLMもリリース | XenoSpectrum</title>
-    <updated>2025-06-07T14:39:11Z</updated>
-    <id>tag:xenospectrum.com,2025-06-07:/8tb-massive-open-dataset-common-pile-now-available/</id>
-    <link href="https://xenospectrum.com/8tb-massive-open-dataset-common-pile-now-available/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: v0 APIのアーキテクチャ: Chat Completion API自作界隈</title>
-    <updated>2025-06-07T10:51:12Z</updated>
-    <id>tag:blog.lai.so,2025-06-07:/v0-api/</id>
-    <link href="https://blog.lai.so/v0-api/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: JavaScript PrimerのNotebookLMが利用可能になりました！</title>
-    <updated>2025-06-07T10:11:42Z</updated>
-    <id>tag:efcl.info,2025-06-07:/2025/06/07/jsprimer-notebooklm/</id>
-    <link href="https://efcl.info/2025/06/07/jsprimer-notebooklm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: クソリプしてきたやつの唇をキスで塞いだらめちゃくちゃ動揺してて可愛い。→「そりゃ動揺するよ」思ったよりかなり濃厚で草</title>
-    <updated>2025-06-07T12:21:14Z</updated>
-    <id>tag:posfie.com,2025-06-07:/@mumimushunyu/p/pxlInP8</id>
-    <link href="https://posfie.com/@mumimushunyu/p/pxlInP8" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ティム・オライリー曰く、ソフトウェア開発者がAIに職を奪われることはない</title>
-    <updated>2025-06-07T07:51:01Z</updated>
-    <id>tag:ascii.jp,2025-06-07:/elem/000/004/279/4279935/</id>
-    <link href="https://ascii.jp/elem/000/004/279/4279935/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 【初心者向け】ほぼ無料でWebアプリをデプロイできるおすすめサービスまとめ - Qiita</title>
     <updated>2025-06-06T07:05:22Z</updated>
     <id>tag:qiita.com,2025-06-06:/pam5596/items/feab853f3a62a3d3f0a0</id>
     <link href="https://qiita.com/pam5596/items/feab853f3a62a3d3f0a0" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: JJUG CCC 2025 Spring ( #jjug_ccc ) - セッション資料の一覧 - 地平線に行く</title>
-    <updated>2025-06-07T21:43:21Z</updated>
-    <id>tag:yujisoftware.hatenablog.com,2025-06-07:/entry/jjug_ccc_2025_spring</id>
-    <link href="https://yujisoftware.hatenablog.com/entry/jjug_ccc_2025_spring" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Claude Code (MAX plan) + ghコマンド + 英語プロンプトが一旦完成系だと思った話</title>
-    <updated>2025-06-06T08:13:58Z</updated>
-    <id>tag:zenn.dev,2025-06-06:/engine0606/articles/9201ff4c3e837d</id>
-    <link href="https://zenn.dev/engine0606/articles/9201ff4c3e837d" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: “AIが95％書いた小説”に挑戦した芥川賞作家　人間に「忖度しないAI」がもたらす可能性 [1/2] | ログミーBusiness</title>
-    <updated>2025-06-06T10:35:34Z</updated>
-    <id>tag:logmi.jp,2025-06-06:/main/technology/331830</id>
-    <link href="https://logmi.jp/main/technology/331830" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 複数アプリケーションを育てていくための共通化戦略</title>
-    <updated>2025-06-07T07:38:03Z</updated>
-    <id>tag:speakerdeck.com,2025-06-07:/irof/glowing-multiple-applications-with-shared-strategy</id>
-    <link href="https://speakerdeck.com/irof/glowing-multiple-applications-with-shared-strategy" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 今、見ておきたい！世界のイケてるWebサイト60選【2025年最新版】</title>
-    <updated>2025-06-06T22:45:59Z</updated>
-    <id>tag:photoshopvip.net,2025-06-06:/165990</id>
-    <link href="https://photoshopvip.net/165990" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 総務にAIを取り入れてみたら、仕事がもっと面白くなった話｜SmartHR 総務</title>
-    <updated>2025-06-06T05:36:17Z</updated>
-    <id>tag:note.com,2025-06-06:/shr_soumu/n/n17eb21736c48</id>
-    <link href="https://note.com/shr_soumu/n/n17eb21736c48" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Windows Subsystem for Linux（WSL）のソースコードが公開された (1/2)</title>
@@ -4402,46 +4324,76 @@
     <link href="https://ascii.jp/elem/000/004/280/4280224/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: ビル・アトキンソン氏が死去　AppleのUIを確立したビジョナリー</title>
+    <updated>2025-06-07T22:49:31Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-06-07:/news/articles/2506/08/news022.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2506/08/news022.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: JavaScript PrimerのNotebookLMが利用可能になりました！</title>
+    <updated>2025-06-07T10:11:42Z</updated>
+    <id>tag:efcl.info,2025-06-07:/2025/06/07/jsprimer-notebooklm/</id>
+    <link href="https://efcl.info/2025/06/07/jsprimer-notebooklm/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 初代Macintoshの基礎を作り、HyperCardを生み出したビル・アトキンソンの功績を振り返る（CloseBox） | テクノエッジ TechnoEdge</title>
+    <updated>2025-06-07T22:19:41Z</updated>
+    <id>tag:www.techno-edge.net,2025-06-07:/article/2025/06/08/4406.html</id>
+    <link href="https://www.techno-edge.net/article/2025/06/08/4406.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: v0 APIのアーキテクチャ: Chat Completion API自作界隈</title>
+    <updated>2025-06-07T10:51:12Z</updated>
+    <id>tag:blog.lai.so,2025-06-07:/v0-api/</id>
+    <link href="https://blog.lai.so/v0-api/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIの著作権問題に終止符か？ 8TBの巨大オープンデータセット「Common Pile」登場、Llama 2に匹敵するLLMもリリース | XenoSpectrum</title>
+    <updated>2025-06-07T14:39:11Z</updated>
+    <id>tag:xenospectrum.com,2025-06-07:/8tb-massive-open-dataset-common-pile-now-available/</id>
+    <link href="https://xenospectrum.com/8tb-massive-open-dataset-common-pile-now-available/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: claude code でローカルなMCPサーバーを叩けるようにする</title>
+    <updated>2025-06-08T11:08:27Z</updated>
+    <id>tag:zenn.dev,2025-06-08:/mizchi/articles/claude-local-mcp-server</id>
+    <link href="https://zenn.dev/mizchi/articles/claude-local-mcp-server" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Python×株式投資：都度DLはやめた─yfinanceで爆速テクニカル分析を回したい - Qiita</title>
+    <updated>2025-06-07T17:02:58Z</updated>
+    <id>tag:qiita.com,2025-06-07:/rS_alonewolf/items/1d297dbe346b2876eee7</id>
+    <link href="https://qiita.com/rS_alonewolf/items/1d297dbe346b2876eee7" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ソフトウェアエンジニアとしての将来が見えなくなってきた｜choo</title>
+    <updated>2025-06-08T14:57:40Z</updated>
+    <id>tag:note.com,2025-06-08:/choo/n/n44ea8a77770f</id>
+    <link href="https://note.com/choo/n/n44ea8a77770f" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 反AIウォッチャーのワイが選ぶ厳選キャラクターたち</title>
+    <updated>2025-06-08T04:54:40Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-06-08:/20250607214030</id>
+    <link href="https://anond.hatelabo.jp/20250607214030" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 総務にAIを取り入れてみたら、仕事がもっと面白くなった話｜SmartHR 総務</title>
+    <updated>2025-06-06T05:36:17Z</updated>
+    <id>tag:note.com,2025-06-06:/shr_soumu/n/n17eb21736c48</id>
+    <link href="https://note.com/shr_soumu/n/n17eb21736c48" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: GoogleがProtobufとgRPCのRust公式サポート発表 - 広がる賛否両論 - Qiita</title>
     <updated>2025-06-07T18:55:50Z</updated>
     <id>tag:qiita.com,2025-06-07:/yonaka15/items/76394364118d965b6974</id>
     <link href="https://qiita.com/yonaka15/items/76394364118d965b6974" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 生成AI推進派のよくある勘違い集｜Yunomix</title>
-    <updated>2025-06-07T05:08:41Z</updated>
-    <id>tag:note.com,2025-06-07:/yunomix/n/n513b5aa8b2c4</id>
-    <link href="https://note.com/yunomix/n/n513b5aa8b2c4" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 課題提起に“嫌ならやるな”──自治体システム標準化ヒアリングで威圧的な対応｜共闘プラットフォームマガジン</title>
-    <updated>2025-06-04T22:54:52Z</updated>
-    <id>tag:note.com,2025-06-04:/kyoutou2025/n/n24675a9a9274</id>
-    <link href="https://note.com/kyoutou2025/n/n24675a9a9274" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 日本のAI法案の全文をみてみよう！〜2025/2/28閣議決定「人工知能関連技術の研究開発及び活用の推進に関する法律案」｜Ami〜こちら個人情報担当です</title>
-    <updated>2025-03-01T11:44:56Z</updated>
-    <id>tag:note.com,2025-03-01:/informationlaw1/n/nea72aa2e6b7e</id>
-    <link href="https://note.com/informationlaw1/n/nea72aa2e6b7e" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: シンプルは作れる！イミュータブルデータモデルの真髄 - kawasima</title>
-    <updated>2025-06-07T08:57:46Z</updated>
-    <id>tag:scrapbox.io,2025-06-07:/kawasima/シンプルは作れる！イミュータブルデータモデルの真髄</id>
-    <link href="https://scrapbox.io/kawasima/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AF%E4%BD%9C%E3%82%8C%E3%82%8B%EF%BC%81%E3%82%A4%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E7%9C%9F%E9%AB%84" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 人型ロボ、物流倉庫で働く　荷物の向きをそろえ、ベルトコンベヤーへ　米ロボットメーカーが動画公開</title>
-    <updated>2025-06-07T04:27:07Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-06-07:/aiplus/articles/2506/07/news029.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2506/07/news029.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: GitHub - dagger/container-use: Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.</title>
-    <updated>2025-06-06T01:05:12Z</updated>
-    <id>tag:github.com,2025-06-06:/dagger/container-use</id>
-    <link href="https://github.com/dagger/container-use" rel="alternate"></link>
+    <title>1:hatena_blog_it: 今、見ておきたい！世界のイケてるWebサイト60選【2025年最新版】</title>
+    <updated>2025-06-06T22:45:59Z</updated>
+    <id>tag:photoshopvip.net,2025-06-06:/165990</id>
+    <link href="https://photoshopvip.net/165990" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: CUDA を AMD GPU で動かす ZLUDA｜七誌</title>
@@ -4450,15 +4402,45 @@
     <link href="https://note.com/7shi/n/n718f81f50bba" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: iPhoneの「メモ」がMarkdownに対応予定と報じられるもMarkdown発明者は「メモにMarkdownは不要」とコメント</title>
-    <updated>2025-06-06T14:09:42Z</updated>
-    <id>tag:gigazine.net,2025-06-06:/news/20250606-markdown-ios-notes-john-gruber/</id>
-    <link href="https://gigazine.net/news/20250606-markdown-ios-notes-john-gruber/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 人型ロボ、物流倉庫で働く　荷物の向きをそろえ、ベルトコンベヤーへ　米ロボットメーカーが動画公開</title>
+    <updated>2025-06-07T04:27:07Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-06-07:/aiplus/articles/2506/07/news029.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2506/07/news029.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub - codexu/note-gen: A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.</title>
-    <updated>2025-06-05T04:11:27Z</updated>
-    <id>tag:github.com,2025-06-05:/codexu/note-gen</id>
-    <link href="https://github.com/codexu/note-gen" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIエージェントの更なる発展 ─ MCPとA2Aがもたらすビジネス革新</title>
+    <updated>2025-06-08T13:15:52Z</updated>
+    <id>tag:newspicks.com,2025-06-08:/news/14341537/body/</id>
+    <link href="https://newspicks.com/news/14341537/body/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 日本のAI法案の全文をみてみよう！〜2025/2/28閣議決定「人工知能関連技術の研究開発及び活用の推進に関する法律案」｜Ami〜こちら個人情報担当です</title>
+    <updated>2025-03-01T11:44:56Z</updated>
+    <id>tag:note.com,2025-03-01:/informationlaw1/n/nea72aa2e6b7e</id>
+    <link href="https://note.com/informationlaw1/n/nea72aa2e6b7e" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 日本IBMはどこでミスを犯したのか？　NHKシステム再構築“失敗”から学ぶ</title>
+    <updated>2025-06-05T23:51:29Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-06-05:/enterprise/articles/2506/04/news135.html</id>
+    <link href="https://www.itmedia.co.jp/enterprise/articles/2506/04/news135.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub - dagger/container-use: Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.</title>
+    <updated>2025-06-06T01:05:12Z</updated>
+    <id>tag:github.com,2025-06-06:/dagger/container-use</id>
+    <link href="https://github.com/dagger/container-use" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Docusaurus v3 の全文検索を DuckDB Wasm + FTS 拡張で実装した - ROUTE06 Tech Blog</title>
+    <updated>2025-06-05T01:44:42Z</updated>
+    <id>tag:tech.route06.co.jp,2025-06-05:/entry/2025/06/04/170000</id>
+    <link href="https://tech.route06.co.jp/entry/2025/06/04/170000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 複数アプリケーションを育てていくための共通化戦略</title>
+    <updated>2025-06-07T07:38:03Z</updated>
+    <id>tag:speakerdeck.com,2025-06-07:/irof/glowing-multiple-applications-with-shared-strategy</id>
+    <link href="https://speakerdeck.com/irof/glowing-multiple-applications-with-shared-strategy" rel="alternate"></link>
   </entry>
 </feed>
