@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-06-10T12:29:18Z</updated>
+  <updated>2025-06-10T18:19:51Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -9,6 +9,42 @@
     <name>triggerwaffle</name>
     <email>johndoe@example.com</email>
   </author>
+  <entry>
+    <title>4:terminal trove: deletor</title>
+    <updated>2025-06-09T23:00:00Z</updated>
+    <id>https://terminaltrove.com/deletor/</id>
+    <link href="https://terminaltrove.com/deletor/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>4:terminal trove: eg</title>
+    <updated>2025-06-09T23:00:00Z</updated>
+    <id>https://terminaltrove.com/eg/</id>
+    <link href="https://terminaltrove.com/eg/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>4:terminal trove: feluda</title>
+    <updated>2025-06-09T23:00:00Z</updated>
+    <id>https://terminaltrove.com/feluda/</id>
+    <link href="https://terminaltrove.com/feluda/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>4:terminal trove: gollama</title>
+    <updated>2025-06-09T23:00:00Z</updated>
+    <id>https://terminaltrove.com/gollama/</id>
+    <link href="https://terminaltrove.com/gollama/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>4:terminal trove: mdns-scanner</title>
+    <updated>2025-06-09T23:00:00Z</updated>
+    <id>https://terminaltrove.com/mdns-scanner/</id>
+    <link href="https://terminaltrove.com/mdns-scanner/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>4:terminal trove: ssm</title>
+    <updated>2025-06-09T23:00:00Z</updated>
+    <id>https://terminaltrove.com/ssm/</id>
+    <link href="https://terminaltrove.com/ssm/" rel="alternate"></link>
+  </entry>
   <entry>
     <title>4:terminal trove: bbrew</title>
     <updated>2025-06-02T23:00:00Z</updated>
@@ -3022,6 +3058,54 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: cargofetch</title>
+    <updated>2025-06-10T17:06:40Z</updated>
+    <id>cargofetch-1749575200</id>
+    <link href="https://aur.archlinux.org/packages/cargofetch" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: mingw-w64-highs</title>
+    <updated>2025-06-10T16:29:24Z</updated>
+    <id>mingw-w64-highs-1749572964</id>
+    <link href="https://aur.archlinux.org/packages/mingw-w64-highs" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: icestorm-git-pinned</title>
+    <updated>2025-06-10T15:34:31Z</updated>
+    <id>icestorm-git-pinned-1749569671</id>
+    <link href="https://aur.archlinux.org/packages/icestorm-git-pinned" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: prjtrellis-git-pinned</title>
+    <updated>2025-06-10T15:34:03Z</updated>
+    <id>prjtrellis-git-pinned-1749569643</id>
+    <link href="https://aur.archlinux.org/packages/prjtrellis-git-pinned" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: thinkfan-cli</title>
+    <updated>2025-06-10T15:29:00Z</updated>
+    <id>thinkfan-cli-1749569340</id>
+    <link href="https://aur.archlinux.org/packages/thinkfan-cli" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: k3s-1.33-bin</title>
+    <updated>2025-06-10T14:21:52Z</updated>
+    <id>k3s-1.33-bin-1749565312</id>
+    <link href="https://aur.archlinux.org/packages/k3s-1.33-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: go2train-bin</title>
+    <updated>2025-06-10T14:07:19Z</updated>
+    <id>go2train-bin-1749564439</id>
+    <link href="https://aur.archlinux.org/packages/go2train-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: catppuccin-qt5ct-git</title>
+    <updated>2025-06-10T13:28:50Z</updated>
+    <id>catppuccin-qt5ct-git-1749562130</id>
+    <link href="https://aur.archlinux.org/packages/catppuccin-qt5ct-git" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: git-plumber-git</title>
     <updated>2025-06-10T12:28:56Z</updated>
     <id>git-plumber-git-1749558536</id>
@@ -3128,12 +3212,6 @@
     <updated>2025-06-09T22:39:52Z</updated>
     <id>ratatouille-vst-1749508792</id>
     <link href="https://aur.archlinux.org/packages/ratatouille-vst" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: update-systemd-resolved</title>
-    <updated>2025-06-09T21:44:30Z</updated>
-    <id>update-systemd-resolved-1749505470</id>
-    <link href="https://aur.archlinux.org/packages/update-systemd-resolved" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:aur_new_packages: estedad-mad-fonts</title>
@@ -3580,345 +3658,303 @@
     <link href="https://aur.archlinux.org/packages/python-ezchlog-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-ezchlog</title>
-    <updated>2025-06-08T00:51:17Z</updated>
-    <id>python-ezchlog-1749343877</id>
-    <link href="https://aur.archlinux.org/packages/python-ezchlog" rel="alternate"></link>
+    <title>2:archlinux_new_packages: apt-docs 3.1.1-1 x86_64</title>
+    <updated>2025-06-10T18:17:12Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/x86_64/apt-docs/202506101817</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/apt-docs/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: ezchlog-git</title>
-    <updated>2025-06-08T00:50:26Z</updated>
-    <id>ezchlog-git-1749343826</id>
-    <link href="https://aur.archlinux.org/packages/ezchlog-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: apt 3.1.1-1 x86_64</title>
+    <updated>2025-06-10T18:17:11Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/x86_64/apt/202506101817</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/apt/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: ezchlog</title>
-    <updated>2025-06-08T00:49:29Z</updated>
-    <id>ezchlog-1749343769</id>
-    <link href="https://aur.archlinux.org/packages/ezchlog" rel="alternate"></link>
+    <title>2:archlinux_new_packages: ruby-sass-embedded 1.89.2-1 any</title>
+    <updated>2025-06-10T18:17:10Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/ruby-sass-embedded/202506101817</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/ruby-sass-embedded/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: estedad-mad</title>
-    <updated>2025-06-08T00:15:54Z</updated>
-    <id>estedad-mad-1749341754</id>
-    <link href="https://aur.archlinux.org/packages/estedad-mad" rel="alternate"></link>
+    <title>2:archlinux_new_packages: ruby-liquid 5.8.7-1 any</title>
+    <updated>2025-06-10T18:17:10Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/ruby-liquid/202506101817</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/ruby-liquid/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: sorena</title>
-    <updated>2025-06-07T23:36:35Z</updated>
-    <id>sorena-1749339395</id>
-    <link href="https://aur.archlinux.org/packages/sorena" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-narwhals 1.42.0-1 any</title>
+    <updated>2025-06-10T18:17:09Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/python-narwhals/202506101817</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-narwhals/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: unixel</title>
-    <updated>2025-06-07T23:12:39Z</updated>
-    <id>unixel-1749337959</id>
-    <link href="https://aur.archlinux.org/packages/unixel" rel="alternate"></link>
+    <title>2:archlinux_new_packages: ruby-mime-types-data 3.2025.0603-1 any</title>
+    <updated>2025-06-10T18:16:35Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/any/ruby-mime-types-data/202506101816</id>
+    <link href="https://archlinux.org/packages/extra/any/ruby-mime-types-data/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: easyrpg-player-bin</title>
-    <updated>2025-06-07T22:29:37Z</updated>
-    <id>easyrpg-player-bin-1749335377</id>
-    <link href="https://aur.archlinux.org/packages/easyrpg-player-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: perl-nix 2.29.0-1 x86_64</title>
+    <updated>2025-06-10T18:05:20Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/perl-nix/202506101805</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/perl-nix/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: python-crispy-bootstrap5 2025.6-1 any</title>
-    <updated>2025-06-10T09:05:49Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra/any/python-crispy-bootstrap5/202506100905</id>
-    <link href="https://archlinux.org/packages/extra/any/python-crispy-bootstrap5/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: nix 2.29.0-1 x86_64</title>
+    <updated>2025-06-10T18:05:19Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/nix/202506101805</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/nix/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: python-crispy-bootstrap4 2025.6-1 any</title>
-    <updated>2025-06-10T09:02:33Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra/any/python-crispy-bootstrap4/202506100902</id>
-    <link href="https://archlinux.org/packages/extra/any/python-crispy-bootstrap4/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-huggingface-hub 1:0.32.5-1 any</title>
+    <updated>2025-06-10T18:05:18Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/any/python-huggingface-hub/202506101805</id>
+    <link href="https://archlinux.org/packages/extra/any/python-huggingface-hub/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: hyperkitty 1.3.12-5 any</title>
-    <updated>2025-06-10T09:00:38Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra/any/hyperkitty/202506100900</id>
-    <link href="https://archlinux.org/packages/extra/any/hyperkitty/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: jenkins 2.514-1 any</title>
+    <updated>2025-06-10T17:36:58Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/jenkins/202506101736</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/jenkins/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: doctl 1.130.0-1 x86_64</title>
-    <updated>2025-06-10T08:58:04Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/doctl/202506100858</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/doctl/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-cryptography 45.0.4-1 x86_64</title>
+    <updated>2025-06-10T17:17:46Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/x86_64/python-cryptography/202506101717</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-cryptography/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: lua53-luarocks-build-rust-mlua 0.2.4-1 any</title>
-    <updated>2025-06-10T08:58:03Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra/any/lua53-luarocks-build-rust-mlua/202506100858</id>
-    <link href="https://archlinux.org/packages/extra/any/lua53-luarocks-build-rust-mlua/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-aiohttp 3.12.12-1 x86_64</title>
+    <updated>2025-06-10T17:17:32Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/python-aiohttp/202506101717</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-aiohttp/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: lua52-luarocks-build-rust-mlua 0.2.4-1 any</title>
-    <updated>2025-06-10T08:58:03Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra/any/lua52-luarocks-build-rust-mlua/202506100858</id>
-    <link href="https://archlinux.org/packages/extra/any/lua52-luarocks-build-rust-mlua/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: nodejs 24.2.0-1 x86_64</title>
+    <updated>2025-06-10T17:17:31Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/nodejs/202506101717</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/nodejs/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: lua51-luarocks-build-rust-mlua 0.2.4-1 any</title>
-    <updated>2025-06-10T08:58:02Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra/any/lua51-luarocks-build-rust-mlua/202506100858</id>
-    <link href="https://archlinux.org/packages/extra/any/lua51-luarocks-build-rust-mlua/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-propcache 0.3.2-1 x86_64</title>
+    <updated>2025-06-10T17:15:43Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/x86_64/python-propcache/202506101715</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-propcache/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: lua-luarocks-build-rust-mlua 0.2.4-1 any</title>
-    <updated>2025-06-10T08:58:02Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra/any/lua-luarocks-build-rust-mlua/202506100858</id>
-    <link href="https://archlinux.org/packages/extra/any/lua-luarocks-build-rust-mlua/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: libtpms 0.10.1-1 x86_64</title>
+    <updated>2025-06-10T17:09:29Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/x86_64/libtpms/202506101709</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/libtpms/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: glaze 5.4.1-1 any</title>
-    <updated>2025-06-10T08:58:01Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra/any/glaze/202506100858</id>
-    <link href="https://archlinux.org/packages/extra/any/glaze/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: vifm 0.14.3-1 x86_64</title>
+    <updated>2025-06-10T17:06:13Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/vifm/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/vifm/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: frescobaldi 4.0.3-1 any</title>
-    <updated>2025-06-10T08:58:01Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra/any/frescobaldi/202506100858</id>
-    <link href="https://archlinux.org/packages/extra/any/frescobaldi/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-xmerl 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:12Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-xmerl/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-xmerl/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: bore 0.6.0-1 x86_64</title>
-    <updated>2025-06-10T08:04:55Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/bore/202506100804</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/bore/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-wx 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:11Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-wx/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-wx/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: mongo-c-driver 1.30.5-1 x86_64</title>
-    <updated>2025-06-10T07:54:17Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/x86_64/mongo-c-driver/202506100754</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/mongo-c-driver/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-tools 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:11Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-tools/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-tools/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: swww 0.10.3-1 x86_64</title>
-    <updated>2025-06-10T07:50:39Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/x86_64/swww/202506100750</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/swww/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-tftp 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:10Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-tftp/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-tftp/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: yubikey-manager 1:5.7.2-1 any</title>
-    <updated>2025-06-10T07:50:38Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/yubikey-manager/202506100750</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/yubikey-manager/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-syntax_tools 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:10Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-syntax_tools/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-syntax_tools/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: python-kubernetes 33.1.0-1 any</title>
-    <updated>2025-06-10T07:50:37Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/python-kubernetes/202506100750</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-kubernetes/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-ssl 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:10Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-ssl/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-ssl/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox 139.0.4-1 x86_64</title>
-    <updated>2025-06-10T07:21:09Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/x86_64/firefox/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/firefox/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-ssh 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:09Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-ssh/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-ssh/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-zh-tw 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:08Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-zh-tw/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-zh-tw/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-snmp 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:09Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-snmp/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-snmp/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-zh-cn 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:07Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-zh-cn/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-zh-cn/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-sasl 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:08Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-sasl/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-sasl/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-xh 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:07Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-xh/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-xh/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-runtime_tools 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:08Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-runtime_tools/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-runtime_tools/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-vi 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:06Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-vi/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-vi/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-reltool 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:07Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-reltool/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-reltool/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-uz 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:06Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-uz/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-uz/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-public_key 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:07Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-public_key/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-public_key/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-ur 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:05Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-ur/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-ur/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-parsetools 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:06Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-parsetools/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-parsetools/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-uk 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:05Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-uk/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-uk/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-os_mon 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:06Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-os_mon/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-os_mon/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-trs 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:05Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-trs/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-trs/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-odbc 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:05Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-odbc/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-odbc/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-tr 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:04Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-tr/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-tr/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-observer 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:05Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-observer/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-observer/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-tl 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:04Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-tl/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-tl/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-mnesia 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:04Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-mnesia/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-mnesia/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-th 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:03Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-th/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-th/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-megaco 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:04Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-megaco/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-megaco/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-tg 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:03Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-tg/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-tg/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-jinterface 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:03Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-jinterface/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-jinterface/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-te 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:02Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-te/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-te/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-inets 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:03Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-inets/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-inets/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-ta 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:02Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-ta/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-ta/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-headless 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:02Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-headless/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-headless/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-szl 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:01Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-szl/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-szl/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-ftp 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:02Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-ftp/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-ftp/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-sv-se 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:01Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-sv-se/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-sv-se/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-eunit 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:01Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-eunit/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-eunit/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-sr 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:00Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-sr/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-sr/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-et 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:01Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-et/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-et/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-sq 139.0.4-1 any</title>
-    <updated>2025-06-10T07:21:00Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-sq/202506100721</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-sq/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-erl_interface 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:00Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-erl_interface/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-erl_interface/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-son 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:59Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-son/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-son/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-eldap 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:00Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-eldap/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-eldap/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-sl 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:59Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-sl/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-sl/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-edoc 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:06:00Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-edoc/202506101706</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-edoc/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-skr 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:58Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-skr/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-skr/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-diameter 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:05:59Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-diameter/202506101705</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-diameter/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-sk 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:58Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-sk/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-sk/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-dialyzer 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:05:59Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-dialyzer/202506101705</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-dialyzer/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-si 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:57Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-si/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-si/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-debugger 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:05:58Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-debugger/202506101705</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-debugger/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-sco 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:57Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-sco/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-sco/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-core 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:05:58Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-core/202506101705</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-core/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-sc 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:57Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-sc/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-sc/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-common_test 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:05:57Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-common_test/202506101705</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-common_test/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-sat 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:56Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-sat/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-sat/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang-asn1 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:05:57Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang-asn1/202506101705</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang-asn1/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-ru 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:56Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-ru/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-ru/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-ro 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:55Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-ro/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-ro/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-rm 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:55Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-rm/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-rm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-pt-pt 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:54Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-pt-pt/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-pt-pt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-pt-br 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:54Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-pt-br/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-pt-br/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-pl 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:53Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-pl/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-pl/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-pa-in 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:53Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-pa-in/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-pa-in/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-i18n-oc 139.0.4-1 any</title>
-    <updated>2025-06-10T07:20:52Z</updated>
-    <id>tag:archlinux.org,2025-06-10:/packages/extra-testing/any/firefox-i18n-oc/202506100720</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/firefox-i18n-oc/" rel="alternate"></link>
+    <title>2:archlinux_new_packages: erlang 28.0-2 x86_64</title>
+    <updated>2025-06-10T17:05:56Z</updated>
+    <id>tag:archlinux.org,2025-06-10:/packages/extra/x86_64/erlang/202506101705</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/erlang/" rel="alternate"></link>
   </entry>
 </feed>
