@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-06-14T12:25:37Z</updated>
+  <updated>2025-06-14T18:17:28Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -130,6 +130,12 @@
     <link href="https://archlinux.org/news/the-xz-package-has-been-backdoored/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Claude Codeの問題解決能力の底上げを試みる：MCPサーバー + subagents</title>
+    <updated>2025-06-14T02:30:05Z</updated>
+    <id>https://zenn.dev/oikon/articles/82c9a52dc45810</id>
+    <link href="https://zenn.dev/oikon/articles/82c9a52dc45810" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: uv, ruff, devcontainer, Claude Codeを使ったモダンなPython開発環境のテンプレート</title>
     <updated>2025-06-14T02:13:09Z</updated>
     <id>https://zenn.dev/mjun0812/articles/0ae2325d40ed20</id>
@@ -142,16 +148,16 @@
     <link href="https://zenn.dev/katsuyuki/articles/69081373cf9f0b" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: DatabricksのOLTPデータベース『Lakebase』を使ってみた！</title>
+    <updated>2025-06-13T14:30:12Z</updated>
+    <id>https://zenn.dev/nttdata_tech/articles/04789d6c573830</id>
+    <link href="https://zenn.dev/nttdata_tech/articles/04789d6c573830" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: [2025年6月13日] やっぱりClaude Codeしか勝たんかもしれない (週刊AI)</title>
     <updated>2025-06-13T09:13:28Z</updated>
     <id>https://zenn.dev/carenet/articles/59f62014092a1b</id>
     <link href="https://zenn.dev/carenet/articles/59f62014092a1b" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 「鉄ナビ検収AI」のアーキテクチャを紹介します！</title>
-    <updated>2025-06-13T08:32:19Z</updated>
-    <id>https://zenn.dev/eversteel_tech/articles/20250526-es_tnavi_kensyu-arch_intro</id>
-    <link href="https://zenn.dev/eversteel_tech/articles/20250526-es_tnavi_kensyu-arch_intro" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Claude Code による技術的特異点を見届けろ</title>
@@ -164,6 +170,12 @@
     <updated>2025-06-13T05:27:34Z</updated>
     <id>https://zenn.dev/algoartis/articles/kalmanfilter_masters_2024</id>
     <link href="https://zenn.dev/algoartis/articles/kalmanfilter_masters_2024" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: [Frontend Replace] アーキテクチャ設計篇</title>
+    <updated>2025-06-13T00:30:01Z</updated>
+    <id>https://zenn.dev/team_soda/articles/26fca8234d9bc5</id>
+    <link href="https://zenn.dev/team_soda/articles/26fca8234d9bc5" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 「Claude Codeで効率的に開発するための知見管理」をコマンド1発で自分のプロジェクトに反映する方法</title>
@@ -196,12 +208,6 @@
     <link href="https://zenn.dev/mizchi/articles/claude-code-orchestrator" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 最先端のオープンソースTTSモデル『Chatterbox』とは！？〜使い方から技術詳細まで〜</title>
-    <updated>2025-06-12T08:04:13Z</updated>
-    <id>https://zenn.dev/parakeet_tech/articles/aee87a4137398b</id>
-    <link href="https://zenn.dev/parakeet_tech/articles/aee87a4137398b" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: 令和に爆誕したモダンなCSSフレームワーク、Lism CSS の概要</title>
     <updated>2025-06-12T06:06:10Z</updated>
     <id>https://zenn.dev/ddryo_loos/articles/20250612-lism-css</id>
@@ -224,12 +230,6 @@
     <updated>2025-06-11T08:58:34Z</updated>
     <id>https://zenn.dev/b_tm/articles/69cdb64e9db4ca</id>
     <link href="https://zenn.dev/b_tm/articles/69cdb64e9db4ca" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Claude Codeでトークン使用量を削減するアプローチ</title>
-    <updated>2025-06-11T03:48:07Z</updated>
-    <id>https://zenn.dev/driller/articles/ff6a50ae228b2b</id>
-    <link href="https://zenn.dev/driller/articles/ff6a50ae228b2b" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Claude Codeで効率的に開発するための知見管理</title>
@@ -4228,12 +4228,6 @@
     <link href="https://gihyo.jp/article/2024/06/monthly-python-2406?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Samuel Williamsさん「Leveraging Falcon and Rails for Real-Time Interactivity」 ～RubyKaigi 2024 2日目キーノート</title>
-    <updated>2024-06-27T00:14:00Z</updated>
-    <id>urn:uuid:1caaab1b-3bf6-90d9-0ba4-701a9dbfe402</id>
-    <link href="https://gihyo.jp/article/2024/06/rubykaigi-2024-keynote-report-day2?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: 8/10開催「builderscon 2024」チケット販売中</title>
     <updated>2024-06-27T00:10:00Z</updated>
     <id>urn:uuid:254c2cc7-4e15-1626-f710-516043cd133c</id>
@@ -4312,40 +4306,10 @@
     <link href="https://gihyo.jp/article/2024/06/sre-next2024?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Ubuntu 24.04 LTSの日本語RemixのISOイメージの提供スキップ、DC-ROMA RISC-V Laptop II、Banana PI BPI-F3</title>
-    <updated>2024-06-14T00:04:00Z</updated>
-    <id>urn:uuid:e6dac636-d6e6-88a9-258d-a5b0d2c512c1</id>
-    <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202406/14?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: DXブームがついに終了　生成AI活用に逃げ込む日本企業の末路</title>
-    <updated>2025-06-12T15:37:58Z</updated>
-    <id>tag:business.nikkei.com,2025-06-12:/atcl/gen/19/00322/060200186/</id>
-    <link href="https://business.nikkei.com/atcl/gen/19/00322/060200186/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 開発人生25年で学んだ7つのソフトウェア原則（翻訳）｜TechRacho by BPS株式会社</title>
-    <updated>2025-06-13T08:46:01Z</updated>
-    <id>tag:techracho.bpsinc.jp,2025-06-13:/hachi8833/2025_06_13/151017</id>
-    <link href="https://techracho.bpsinc.jp/hachi8833/2025_06_13/151017" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「知性がタダになる世界」で我々は何を価値とするのか？ — Sam AltmanのAI論から考える人間の価値の未来｜KAJI | 梶谷健人</title>
-    <updated>2025-06-13T09:00:45Z</updated>
-    <id>tag:note.com,2025-06-13:/kajiken0630/n/n0bea37994358</id>
-    <link href="https://note.com/kajiken0630/n/n0bea37994358" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 外骨格ロボットで登山、中国観光地でブーム⋯“若返りツール”に高齢者もハマる | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア</title>
     <updated>2025-06-14T03:15:14Z</updated>
     <id>tag:36kr.jp,2025-06-14:/350889/</id>
     <link href="https://36kr.jp/350889/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 型システムを知りたい人のための型検査器作成入門</title>
-    <updated>2025-06-14T00:17:05Z</updated>
-    <id>tag:speakerdeck.com,2025-06-14:/mame/fp-matsuri-2025-bootstrapping-type-checker</id>
-    <link href="https://speakerdeck.com/mame/fp-matsuri-2025-bootstrapping-type-checker" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: GeminiとNotebookLMを使った最強の旅行準備方法｜けんすう</title>
@@ -4354,16 +4318,16 @@
     <link href="https://kensuu.com/n/na917a6c26bec" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Switch 2のはずが……発送されるのは写真や作文　メルカリで悪質な出品を見抜くコツ</title>
-    <updated>2025-06-14T02:49:50Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-06-14:/mobile/articles/2506/14/news013.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2506/14/news013.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: バイブコーディングチュートリアル：Claude Code でカンバンアプリケーションを作成しよう</title>
+    <updated>2025-06-14T07:06:00Z</updated>
+    <id>tag:azukiazusa.dev,2025-06-14:/blog/vibe-coding-tutorial-create-app-with-claude-code/</id>
+    <link href="https://azukiazusa.dev/blog/vibe-coding-tutorial-create-app-with-claude-code/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「注目エントリ」が英語の“Delta／Alaska Airlines”など旅行サイトのFAQsばかりになっているのは、荒らしではなく 英語圏のFAQ系自動投稿ボット が Hatena Anond にリンクだけ貼って宣伝スパムしているからです。</title>
-    <updated>2025-06-14T00:19:48Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-06-14:/20250614060156</id>
-    <link href="https://anond.hatelabo.jp/20250614060156" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「知性がタダになる世界」で我々は何を価値とするのか？ — Sam AltmanのAI論から考える人間の価値の未来｜KAJI | 梶谷健人</title>
+    <updated>2025-06-13T09:00:45Z</updated>
+    <id>tag:note.com,2025-06-13:/kajiken0630/n/n0bea37994358</id>
+    <link href="https://note.com/kajiken0630/n/n0bea37994358" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【tmuxでClaude CodeのMaxプランでAI組織を動かし放題のローカル環境ができた〜〜〜！ので、やり方をシェア！！🔥🔥🔥🙌☺️】 - Qiita</title>
@@ -4372,16 +4336,22 @@
     <link href="https://qiita.com/akira_papa_AI/items/9f6c6605e925a88b9ac5" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ローカルAI、スマホでサクッと動かせる　グーグル「AI Edge Gallery」 (1/7)</title>
-    <updated>2025-06-13T08:12:18Z</updated>
-    <id>tag:ascii.jp,2025-06-13:/elem/000/004/279/4279553/</id>
-    <link href="https://ascii.jp/elem/000/004/279/4279553/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 型システムを知りたい人のための型検査器作成入門</title>
+    <updated>2025-06-14T00:17:05Z</updated>
+    <id>tag:speakerdeck.com,2025-06-14:/mame/fp-matsuri-2025-bootstrapping-type-checker</id>
+    <link href="https://speakerdeck.com/mame/fp-matsuri-2025-bootstrapping-type-checker" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: バイブコーディングチュートリアル：Claude Code でカンバンアプリケーションを作成しよう</title>
-    <updated>2025-06-14T07:06:00Z</updated>
-    <id>tag:azukiazusa.dev,2025-06-14:/blog/vibe-coding-tutorial-create-app-with-claude-code/</id>
-    <link href="https://azukiazusa.dev/blog/vibe-coding-tutorial-create-app-with-claude-code/" rel="alternate"></link>
+    <title>1:hatena_blog_it: DXブームがついに終了　生成AI活用に逃げ込む日本企業の末路</title>
+    <updated>2025-06-12T15:37:58Z</updated>
+    <id>tag:business.nikkei.com,2025-06-12:/atcl/gen/19/00322/060200186/</id>
+    <link href="https://business.nikkei.com/atcl/gen/19/00322/060200186/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Switch 2のはずが……発送されるのは写真や作文　メルカリで悪質な出品を見抜くコツ</title>
+    <updated>2025-06-14T02:49:50Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-06-14:/mobile/articles/2506/14/news013.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2506/14/news013.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【Ubuntu日和】 【第75回】自宅ネットワークを10GbE化してみた</title>
@@ -4390,22 +4360,34 @@
     <link href="https://pc.watch.impress.co.jp/docs/column/ubuntu/2022695.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Codeの問題解決能力の底上げを試みる：MCPサーバー + subagents</title>
-    <updated>2025-06-14T07:04:09Z</updated>
-    <id>tag:zenn.dev,2025-06-14:/oikon/articles/82c9a52dc45810</id>
-    <link href="https://zenn.dev/oikon/articles/82c9a52dc45810" rel="alternate"></link>
+    <title>1:hatena_blog_it: 開発人生25年で学んだ7つのソフトウェア原則（翻訳）｜TechRacho by BPS株式会社</title>
+    <updated>2025-06-13T08:46:01Z</updated>
+    <id>tag:techracho.bpsinc.jp,2025-06-13:/hachi8833/2025_06_13/151017</id>
+    <link href="https://techracho.bpsinc.jp/hachi8833/2025_06_13/151017" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: デジタル庁、政府のAI基盤「ガバメントAI」（仮称）を開発へ　26年度までの提供目指す</title>
-    <updated>2025-06-13T21:44:02Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-06-13:/aiplus/articles/2506/13/news119.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2506/13/news119.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Copilot code review: Customization for all - GitHub Changelog</title>
+    <updated>2025-06-14T12:06:40Z</updated>
+    <id>tag:github.blog,2025-06-14:/changelog/2025-06-13-copilot-code-review-customization-for-all/</id>
+    <link href="https://github.blog/changelog/2025-06-13-copilot-code-review-customization-for-all/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: グッドパッチ、誰もがよいデザインを生み出せるように設計されたデザインシステム「Sparkle Design」を無償公開</title>
-    <updated>2025-06-13T06:46:43Z</updated>
-    <id>tag:productzine.jp,2025-06-13:/article/detail/3522</id>
-    <link href="https://productzine.jp/article/detail/3522" rel="alternate"></link>
+    <title>1:hatena_blog_it: Implementing Logic Programming</title>
+    <updated>2025-06-14T07:54:00Z</updated>
+    <id>tag:btmc.substack.com,2025-06-14:/p/implementing-logic-programming</id>
+    <link href="https://btmc.substack.com/p/implementing-logic-programming" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: システム開発は「決めること」の連続 - Magnolia Tech</title>
+    <updated>2025-06-14T10:02:29Z</updated>
+    <id>tag:blog.magnolia.tech,2025-06-14:/entry/2025/06/14/142324</id>
+    <link href="https://blog.magnolia.tech/entry/2025/06/14/142324" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ローカルAI、スマホでサクッと動かせる　グーグル「AI Edge Gallery」 (1/7)</title>
+    <updated>2025-06-13T08:12:18Z</updated>
+    <id>tag:ascii.jp,2025-06-13:/elem/000/004/279/4279553/</id>
+    <link href="https://ascii.jp/elem/000/004/279/4279553/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: NotebookLM無償版・Pro・Enterpriseの違い - G-gen Tech Blog</title>
@@ -4414,28 +4396,34 @@
     <link href="https://blog.g-gen.co.jp/entry/difference-between-notebooklm-free-pro-enterprise" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「間接部門は単なるコスト」と考えて軽視していると、恐ろしいタタリがくると教わって育った。</title>
-    <updated>2025-06-12T22:54:42Z</updated>
-    <id>tag:blog.tinect.jp,2025-06-12:/</id>
-    <link href="https://blog.tinect.jp/?p=89726" rel="alternate"></link>
+    <title>1:hatena_blog_it: Figma AI全部使ってみた｜Akane Inoguchi</title>
+    <updated>2025-06-13T12:13:23Z</updated>
+    <id>tag:note.com,2025-06-13:/a_inoguchi/n/n824607e30fc5</id>
+    <link href="https://note.com/a_inoguchi/n/n824607e30fc5" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: How we built our multi-agent research system</title>
-    <updated>2025-06-13T22:17:24Z</updated>
-    <id>tag:www.anthropic.com,2025-06-13:/engineering/built-multi-agent-research-system</id>
-    <link href="https://www.anthropic.com/engineering/built-multi-agent-research-system" rel="alternate"></link>
+    <title>1:hatena_blog_it: デジタル庁、政府のAI基盤「ガバメントAI」（仮称）を開発へ　26年度までの提供目指す</title>
+    <updated>2025-06-13T21:44:02Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-06-13:/aiplus/articles/2506/13/news119.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2506/13/news119.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub - MicrosoftDocs/mcp</title>
-    <updated>2025-06-13T22:20:29Z</updated>
-    <id>tag:github.com,2025-06-13:/MicrosoftDocs/mcp</id>
-    <link href="https://github.com/MicrosoftDocs/mcp" rel="alternate"></link>
+    <title>1:hatena_blog_it: 生成AI時代のデータエンジニアの未来は明るい｜zono</title>
+    <updated>2025-06-14T09:13:33Z</updated>
+    <id>tag:note.com,2025-06-14:/zono_data/n/n9ed0ea816169</id>
+    <link href="https://note.com/zono_data/n/n9ed0ea816169" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: フロッピーディスクが衰退した理由と「それでも古い業種で使われ続ける理由」（スマホライフPLUS） - Yahoo!ニュース</title>
-    <updated>2025-06-14T07:00:20Z</updated>
-    <id>tag:news.yahoo.co.jp,2025-06-14:/articles/710403e9107cf8f552e744558d36a35cc355b122</id>
-    <link href="https://news.yahoo.co.jp/articles/710403e9107cf8f552e744558d36a35cc355b122" rel="alternate"></link>
+    <title>1:hatena_blog_it: Cline x MCP サーバーで入社後のシステム理解を効率化 - エムスリーテックブログ</title>
+    <updated>2025-06-13T03:55:13Z</updated>
+    <id>tag:www.m3tech.blog,2025-06-13:/entry/2025/06/13/120000</id>
+    <link href="https://www.m3tech.blog/entry/2025/06/13/120000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 脱VMwareの大本命！“Proxmox VE“に仮想マシンをマイグレーションしてみた。 | OTTOSERVER "TECH" Blog</title>
+    <updated>2025-06-14T04:22:27Z</updated>
+    <id>tag:www.pcserver1.jp,2025-06-14:/blog/archives/9985</id>
+    <link href="https://www.pcserver1.jp/blog/archives/9985" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AWS Product Lifecycle | AWS</title>
@@ -4444,39 +4432,33 @@
     <link href="https://aws.amazon.com/products/lifecycle/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ディズニー&ユニバーサル対ミッドジャーニー生成AI訴訟の訴状を読んでみた（栗原潔） - エキスパート - Yahoo!ニュース</title>
-    <updated>2025-06-13T15:45:59Z</updated>
-    <id>tag:news.yahoo.co.jp,2025-06-13:/expert/articles/f5ee93b9f61268cbbff017c6ab9e4f4904c27651</id>
-    <link href="https://news.yahoo.co.jp/expert/articles/f5ee93b9f61268cbbff017c6ab9e4f4904c27651" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「iPadOS 26」でiPadがついにMacBook Airの代替に！一番安いモデルが最も価値あるiPadに - こぼねみ</title>
+    <updated>2025-06-12T01:43:48Z</updated>
+    <id>tag:www.kobonemi.com,2025-06-12:/entry/2025/06/12/iPadOS-26-iPad-Computer</id>
+    <link href="https://www.kobonemi.com/entry/2025/06/12/iPadOS-26-iPad-Computer" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「macOS」風の「Linux」ディストロ5選--「Intel Mac」のサポート終了に備え</title>
-    <updated>2025-06-13T22:37:42Z</updated>
-    <id>tag:japan.zdnet.com,2025-06-13:/article/35234220/</id>
-    <link href="https://japan.zdnet.com/article/35234220/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Fujitsu D3410-B Mainboard Recovery UEFI/BIOS-Flash nach SecureBoot DBX WindowsUpdate – Gunnar Haslinger</title>
+    <updated>2025-06-14T06:07:54Z</updated>
+    <id>tag:hitco.at,2025-06-14:/blog/fujitsu-d3410-b-mainboard-recovery-uefi-bios-flash-nach-secureboot-dbx-windowsupdate/</id>
+    <link href="https://hitco.at/blog/fujitsu-d3410-b-mainboard-recovery-uefi-bios-flash-nach-secureboot-dbx-windowsupdate/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ケーブルによる音の変化を追体験、“機器の魅力をスポイルしない”AudioQuest LAN/HDMIの違いを空気録音してみた[Sponsored]</title>
-    <updated>2025-06-13T03:56:37Z</updated>
-    <id>tag:av.watch.impress.co.jp,2025-06-13:/docs/topic/special/2022006.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/topic/special/2022006.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: SNS上の情報リテラシー高いSEはClaude Codeに感銘を受けている一方、実際SESの現場ではAIどころかネット接続すら禁止というリアル</title>
+    <updated>2025-06-13T01:27:52Z</updated>
+    <id>tag:togetter.com,2025-06-13:/li/2562949</id>
+    <link href="https://togetter.com/li/2562949" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Introducing AWS API models and publicly available resources for AWS API definitions | Amazon Web Services</title>
-    <updated>2025-06-05T21:03:18Z</updated>
-    <id>tag:aws.amazon.com,2025-06-05:/blogs/aws/introducing-aws-api-models-and-publicly-available-resources-for-aws-api-definitions/</id>
-    <link href="https://aws.amazon.com/blogs/aws/introducing-aws-api-models-and-publicly-available-resources-for-aws-api-definitions/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「注目エントリ」が英語の“Delta／Alaska Airlines”など旅行サイトのFAQsばかりになっているのは、荒らしではなく 英語圏のFAQ系自動投稿ボット が Hatena Anond にリンクだけ貼って宣伝スパムしているからです。</title>
+    <updated>2025-06-14T00:19:48Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-06-14:/20250614060156</id>
+    <link href="https://anond.hatelabo.jp/20250614060156" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: もう今の10代、20代には10年間の休暇を取ってもらって生殖と育児に専念してもらうべきではないか。代わりに生殖能力を失ったワイら氷河期社畜が骨になるまで働くという方向で手を打ちませんか、総理。</title>
-    <updated>2025-06-13T14:43:21Z</updated>
-    <id>tag:posfie.com,2025-06-13:/@petaritape/p/er49XVh</id>
-    <link href="https://posfie.com/@petaritape/p/er49XVh" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Figma AI全部使ってみた｜Akane Inoguchi</title>
-    <updated>2025-06-13T12:13:23Z</updated>
-    <id>tag:note.com,2025-06-13:/a_inoguchi/n/n824607e30fc5</id>
-    <link href="https://note.com/a_inoguchi/n/n824607e30fc5" rel="alternate"></link>
+    <title>1:hatena_blog_it: グッドパッチ、誰もがよいデザインを生み出せるように設計されたデザインシステム「Sparkle Design」を無償公開</title>
+    <updated>2025-06-13T06:46:43Z</updated>
+    <id>tag:productzine.jp,2025-06-13:/article/detail/3522</id>
+    <link href="https://productzine.jp/article/detail/3522" rel="alternate"></link>
   </entry>
 </feed>
