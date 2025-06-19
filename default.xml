@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-06-19T12:28:49Z</updated>
+  <updated>2025-06-19T18:19:20Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -142,6 +142,12 @@
     <link href="https://archlinux.org/news/increasing-the-default-vmmax_map_count-value/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: similarity-ts でAIと人間が書き散らした重複コードを見つける</title>
+    <updated>2025-06-19T05:47:56Z</updated>
+    <id>https://zenn.dev/mizchi/articles/introduce-ts-similarity</id>
+    <link href="https://zenn.dev/mizchi/articles/introduce-ts-similarity" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: 【祝 1K Star 達成】ccusageの３週間を振り返る</title>
     <updated>2025-06-18T22:17:09Z</updated>
     <id>https://zenn.dev/ryoppippi/articles/aad087994f26a7</id>
@@ -152,6 +158,12 @@
     <updated>2025-06-18T22:12:22Z</updated>
     <id>https://zenn.dev/tesla/articles/3abc9e61da0b1e</id>
     <link href="https://zenn.dev/tesla/articles/3abc9e61da0b1e" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Azure MCP Server で始めるインシデント対応の自動化</title>
+    <updated>2025-06-18T17:22:52Z</updated>
+    <id>https://zenn.dev/openjny/articles/07ef9e45e1cfea</id>
+    <link href="https://zenn.dev/openjny/articles/07ef9e45e1cfea" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: GeminiでSQLクエリを書くのを爆速にした話</title>
@@ -248,18 +260,6 @@
     <updated>2025-06-16T16:29:43Z</updated>
     <id>https://zenn.dev/blackenedgold/articles/e06dadc4c3921f</id>
     <link href="https://zenn.dev/blackenedgold/articles/e06dadc4c3921f" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 大規模 Node.js サーバーに潜むパフォーマンス上のリスクを Event Loop から理解する</title>
-    <updated>2025-06-16T05:08:15Z</updated>
-    <id>https://zenn.dev/dinii/articles/f09d21542871ae</id>
-    <link href="https://zenn.dev/dinii/articles/f09d21542871ae" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Wasm を使えば Go サーバーが無料でデプロイできるんです！</title>
-    <updated>2025-06-15T10:43:46Z</updated>
-    <id>https://zenn.dev/otakakot/articles/906fe4df725ac3</id>
-    <link href="https://zenn.dev/otakakot/articles/906fe4df725ac3" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: [入門] Pythonを10倍高速化する実践テクニック集</title>
@@ -442,6 +442,12 @@
     <link href="https://qiita.com/mizzun8/items/00f0b09fb2a76d6d943d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: Help Vampires Are The Reason The Linux Community Is Toxic!</title>
+    <updated>2025-06-19T13:01:35Z</updated>
+    <id>yt:video:q4fWi07jGBk</id>
+    <link href="https://www.youtube.com/watch?v=q4fWi07jGBk" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: 'cd' - change directory - Video Man Pages</title>
     <updated>2025-06-17T16:12:45Z</updated>
     <id>yt:video:0p4l-rIGTfs</id>
@@ -524,12 +530,6 @@
     <updated>2025-05-14T11:57:50Z</updated>
     <id>yt:video:oSks9dNWNaE</id>
     <link href="https://www.youtube.com/watch?v=oSks9dNWNaE" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: Replacing 'Sudo' With 'Doas' On Linux</title>
-    <updated>2025-05-11T13:00:14Z</updated>
-    <id>yt:video:9uJPJ4lmTSY</id>
-    <link href="https://www.youtube.com/watch?v=9uJPJ4lmTSY" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: 外部公開資産から内部サーバまで、企業の脆弱性を徹底診断するサービス　ソフトクリエイトが提供開始</title>
@@ -4348,10 +4348,10 @@
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202406/21?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Threads APIの一般提供がはじまる ～API経由で投稿や返信管理、インサイトの取得などが可能に</title>
-    <updated>2024-06-19T01:37:00Z</updated>
-    <id>urn:uuid:c062e1db-ecc6-0f4c-7a04-6263654f26c5</id>
-    <link href="https://gihyo.jp/article/2024/06/threads-api?utm_source=feed" rel="alternate"></link>
+    <title>1:hatena_blog_it: 自動運転で「周回遅れ」の日本、原因は「国民性」と判明 | 自動運転ラボ</title>
+    <updated>2025-06-19T05:11:21Z</updated>
+    <id>tag:jidounten-lab.com,2025-06-19:/u_55091</id>
+    <link href="https://jidounten-lab.com/u_55091" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: できるだけ楽にGoogleアカウントを守る方法</title>
@@ -4360,52 +4360,16 @@
     <link href="https://anond.hatelabo.jp/20250618175600" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 自動運転で「周回遅れ」の日本、原因は「国民性」と判明 | 自動運転ラボ</title>
-    <updated>2025-06-19T05:11:21Z</updated>
-    <id>tag:jidounten-lab.com,2025-06-19:/u_55091</id>
-    <link href="https://jidounten-lab.com/u_55091" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 映画「岸辺露伴は動かない」劇伴制作元、AIの利用について声明　“1万6000文字超”で訴えた、AIを使う理由は？</title>
-    <updated>2025-06-19T00:35:25Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-06-19:/aiplus/articles/2506/17/news107.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2506/17/news107.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIに少しの「誤った情報」を学習させるだけで全体的に非倫理的な「道を外れたAI」になることがOpenAIの研究で判明</title>
-    <updated>2025-06-19T03:35:32Z</updated>
-    <id>tag:gigazine.net,2025-06-19:/news/20250619-emergent-misalignment/</id>
-    <link href="https://gigazine.net/news/20250619-emergent-misalignment/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: MCP導入の現在地 〜プロダクト開発での活用のリアル〜 - Findy Tools</title>
-    <updated>2025-06-18T23:30:53Z</updated>
-    <id>tag:findy-tools.io,2025-06-18:/articles/mcp-202506/84</id>
-    <link href="https://findy-tools.io/articles/mcp-202506/84" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 2025年6月配信の Windows Update で起動不能になる不具合はSecureBoot DBXが原因。BIOSの書き換えが必須に</title>
-    <updated>2025-06-18T09:19:51Z</updated>
-    <id>tag:gazlog.jp,2025-06-18:/entry/windows-update-need-bios-rewrite/</id>
-    <link href="https://gazlog.jp/entry/windows-update-need-bios-rewrite/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Claude Code どこまでも/ Claude Code Everywhere</title>
-    <updated>2025-06-18T10:15:11Z</updated>
-    <id>tag:speakerdeck.com,2025-06-18:/nwiizo/claude-everywhere</id>
-    <link href="https://speakerdeck.com/nwiizo/claude-everywhere" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: [入門] Pythonを10倍高速化する実践テクニック集 - Qiita</title>
-    <updated>2025-06-18T15:43:47Z</updated>
-    <id>tag:qiita.com,2025-06-18:/ShigemoriMasato/items/7081c88482e27b7f8535</id>
-    <link href="https://qiita.com/ShigemoriMasato/items/7081c88482e27b7f8535" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 2025年から Elasticsearch に入門して、同義語検索を理解する | Wantedly Engineer Blog</title>
     <updated>2025-06-19T07:59:48Z</updated>
     <id>tag:www.wantedly.com,2025-06-19:/companies/wantedly/post_articles/984252</id>
     <link href="https://www.wantedly.com/companies/wantedly/post_articles/984252" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 口座開設時の本人確認 画像送信廃止へ 再来年4月1日から 政府 | NHK</title>
+    <updated>2025-06-19T09:15:44Z</updated>
+    <id>tag:www3.nhk.or.jp,2025-06-19:/news/html/20250619/k10014839251000.html</id>
+    <link href="https://www3.nhk.or.jp/news/html/20250619/k10014839251000.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AIでプログラミングが「楽しくなった」人たちと、少し違和感を抱く自分｜magurotuna</title>
@@ -4414,40 +4378,22 @@
     <link href="https://note.com/maguro_tuna/n/n81f1cabc1183" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: フロントエンドの最新情報を収集しよう - hiroppy's site</title>
-    <updated>2025-06-19T02:30:39Z</updated>
-    <id>tag:hiroppy.me,2025-06-19:/blog/create-feedle/</id>
-    <link href="https://hiroppy.me/blog/create-feedle/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 映画「岸辺露伴は動かない」劇伴制作元、AIの利用について声明　“1万6000文字超”で訴えた、AIを使う理由は？</title>
+    <updated>2025-06-19T00:35:25Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-06-19:/aiplus/articles/2506/17/news107.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2506/17/news107.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: NFC、通信距離が4倍に拡大 素早く便利に</title>
-    <updated>2025-06-19T04:46:50Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-06-19:/docs/news/2023969.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2023969.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: [入門] Pythonを10倍高速化する実践テクニック集 - Qiita</title>
+    <updated>2025-06-18T15:43:47Z</updated>
+    <id>tag:qiita.com,2025-06-18:/ShigemoriMasato/items/7081c88482e27b7f8535</id>
+    <link href="https://qiita.com/ShigemoriMasato/items/7081c88482e27b7f8535" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「なるほど、照り焼き丼は却下っと。じゃあ別ルートでいこう。」と言って..</title>
-    <updated>2025-06-19T08:25:55Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-06-19:/20250619092242</id>
-    <link href="https://anond.hatelabo.jp/20250619092242" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: メンテされないgemとどう向き合うか。“普通のOSS開発者” willnetさんの取り組み</title>
-    <updated>2025-06-19T00:45:23Z</updated>
-    <id>tag:findy-code.io,2025-06-19:/media/articles/codesidechat-willnet</id>
-    <link href="https://findy-code.io/media/articles/codesidechat-willnet" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 暑いから料理したくないけど夏バテするのもいやだという人のためのレシピ群がこちら「火使う料理もうやだ」</title>
-    <updated>2025-06-18T15:06:52Z</updated>
-    <id>tag:togetter.com,2025-06-18:/li/2565324</id>
-    <link href="https://togetter.com/li/2565324" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: それ、AIじゃなくて『人間』が書いてます。｜武智倫太郎</title>
-    <updated>2025-06-19T08:05:37Z</updated>
-    <id>tag:note.com,2025-06-19:/aiethics496/n/n77042572de9d</id>
-    <link href="https://note.com/aiethics496/n/n77042572de9d" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIに少しの「誤った情報」を学習させるだけで全体的に非倫理的な「道を外れたAI」になることがOpenAIの研究で判明</title>
+    <updated>2025-06-19T03:35:32Z</updated>
+    <id>tag:gigazine.net,2025-06-19:/news/20250619-emergent-misalignment/</id>
+    <link href="https://gigazine.net/news/20250619-emergent-misalignment/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AI にデータ分析 SQL を書かせる仕組みを作りました - Bdash Server MCP の紹介 - クックパッド開発者ブログ</title>
@@ -4456,34 +4402,28 @@
     <link href="https://techlife.cookpad.com/entry/2025/06/19/111539" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: MCP導入の現在地 〜プロダクト開発での活用のリアル〜 - Findy Tools</title>
+    <updated>2025-06-18T23:30:53Z</updated>
+    <id>tag:findy-tools.io,2025-06-18:/articles/mcp-202506/84</id>
+    <link href="https://findy-tools.io/articles/mcp-202506/84" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: ついに姿を現したホンダロケット、開発責任者に現在の状況を聞いた</title>
     <updated>2025-06-19T06:44:49Z</updated>
     <id>tag:news.mynavi.jp,2025-06-19:/techplus/article/20250619-3358023/</id>
     <link href="https://news.mynavi.jp/techplus/article/20250619-3358023/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: MCPアーキテクチャパターン - Carpe Diem</title>
-    <updated>2025-06-18T01:21:10Z</updated>
-    <id>tag:christina04.hatenablog.com,2025-06-18:/entry/mcp-architecture-pattern</id>
-    <link href="https://christina04.hatenablog.com/entry/mcp-architecture-pattern" rel="alternate"></link>
+    <title>1:hatena_blog_it: オープンソースのAI開発エージェント基盤にコマンドライン版「OpenHands CLI」が登場 | gihyo.jp</title>
+    <updated>2025-06-19T05:58:04Z</updated>
+    <id>tag:gihyo.jp,2025-06-19:/article/2025/06/openhands-cli</id>
+    <link href="https://gihyo.jp/article/2025/06/openhands-cli" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude CodeでリモートMCPがサポートされました | DevelopersIO</title>
-    <updated>2025-06-19T01:15:45Z</updated>
-    <id>tag:dev.classmethod.jp,2025-06-19:/articles/shuntaka-support-claude-code-remote-mcp/</id>
-    <link href="https://dev.classmethod.jp/articles/shuntaka-support-claude-code-remote-mcp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【西川和久の不定期コラム】 AIに指示するだけの「バイブコーディング」もここまでできるようになった！ ～Claude CodeでXのアーカイブをメディアとともにデータベースへ取り込み、検索アプリを作ってみる</title>
-    <updated>2025-06-19T02:27:51Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-06-19:/docs/column/nishikawa/2023840.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/nishikawa/2023840.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: マルウェア感染でサイト改ざん→「対抗できない」ため仮設サイトオープン　日本体操協会</title>
-    <updated>2025-06-19T01:51:49Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-06-19:/news/articles/2506/19/news065.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2506/19/news065.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Reactの内部構造を知っておく (React Tokyo #6 - @calloc134)</title>
+    <updated>2025-06-19T11:23:03Z</updated>
+    <id>tag:speakerdeck.com,2025-06-19:/calloc134/reactnonei-bu-gou-zao-wozhi-tuteoku-react-tokyo-number-6-at-calloc134</id>
+    <link href="https://speakerdeck.com/calloc134/reactnonei-bu-gou-zao-wozhi-tuteoku-react-tokyo-number-6-at-calloc134" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 地方都市でフルリモートって実際どうなの？デスク周りとリモートワーク環境について - Nealle Developer's Blog</title>
@@ -4492,28 +4432,28 @@
     <link href="https://nealle-dev.hatenablog.com/entry/2025/06/19/184821" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「生成AIで競馬予想」って勝てるの？　AI予想歴20年のベテランに聞く最新の勝ち方と、宝塚記念の結果</title>
-    <updated>2025-06-19T00:15:52Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-06-19:/news/articles/2506/16/news118.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2506/16/news118.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: PCが起動できない不具合、エプソンダイレクトは修理対応。Windows Update問題収束せず</title>
     <updated>2025-06-19T08:42:21Z</updated>
     <id>tag:pc.watch.impress.co.jp,2025-06-19:/docs/news/2024033.html</id>
     <link href="https://pc.watch.impress.co.jp/docs/news/2024033.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Code で要望からデプロイまでを爆速にするツールを作った - ABEJA Tech Blog</title>
-    <updated>2025-06-18T00:29:21Z</updated>
-    <id>tag:tech-blog.abeja.asia,2025-06-18:/entry/claude-code-quick-dev-202506</id>
-    <link href="https://tech-blog.abeja.asia/entry/claude-code-quick-dev-202506" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「なるほど、照り焼き丼は却下っと。じゃあ別ルートでいこう。」と言って..</title>
+    <updated>2025-06-19T08:25:55Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-06-19:/20250619092242</id>
+    <link href="https://anond.hatelabo.jp/20250619092242" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 開発AIエージェント導入に年間約4億円を投資決定</title>
-    <updated>2025-06-19T04:06:57Z</updated>
-    <id>tag:www.cyberagent.co.jp,2025-06-19:/news/detail/id=32077</id>
-    <link href="https://www.cyberagent.co.jp/news/detail/id=32077" rel="alternate"></link>
+    <title>1:hatena_blog_it: それ、AIじゃなくて『人間』が書いてます。｜武智倫太郎</title>
+    <updated>2025-06-19T08:05:37Z</updated>
+    <id>tag:note.com,2025-06-19:/aiethics496/n/n77042572de9d</id>
+    <link href="https://note.com/aiethics496/n/n77042572de9d" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「実装」から「設計」へのパラダイムシフト というより無限に体力が必要という話をした #KAGのLT会 - じゃあ、おうちで学べる</title>
+    <updated>2025-06-19T01:54:03Z</updated>
+    <id>tag:syu-m-5151.hatenablog.com,2025-06-19:/entry/2025/06/19/102529</id>
+    <link href="https://syu-m-5151.hatenablog.com/entry/2025/06/19/102529" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 通知センターにデッカい、秒単位の時計復活へ ～『Windows 10にはあるのに……』をまた一つ解消</title>
@@ -4522,9 +4462,57 @@
     <link href="https://forest.watch.impress.co.jp/docs/news/insiderpre/2023162.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Cursor導入の効果とチームの変化 - enechain Tech Blog</title>
-    <updated>2025-06-19T02:40:24Z</updated>
-    <id>tag:techblog.enechain.com,2025-06-19:/entry/cursor-development-review</id>
-    <link href="https://techblog.enechain.com/entry/cursor-development-review" rel="alternate"></link>
+    <title>1:hatena_blog_it: NFC、通信距離が4倍に拡大 素早く便利に</title>
+    <updated>2025-06-19T04:46:50Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-06-19:/docs/news/2023969.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2023969.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「Google スプレッドシート」でGeminiのデータ分析・グラフ生成機能が日本語に対応／複雑で膨大なデータもGeminiが傾向やパターンなどをグラフ付きで解説してくれる</title>
+    <updated>2025-06-18T23:48:37Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-06-18:/docs/news/2023811.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2023811.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: フロントエンドの最新情報を収集しよう - hiroppy's site</title>
+    <updated>2025-06-19T02:30:39Z</updated>
+    <id>tag:hiroppy.me,2025-06-19:/blog/create-feedle/</id>
+    <link href="https://hiroppy.me/blog/create-feedle/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【西川和久の不定期コラム】 AIに指示するだけの「バイブコーディング」もここまでできるようになった！ ～Claude CodeでXのアーカイブをメディアとともにデータベースへ取り込み、検索アプリを作ってみる</title>
+    <updated>2025-06-19T02:27:51Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-06-19:/docs/column/nishikawa/2023840.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/nishikawa/2023840.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Microsoft、OpenAIと提携見直し協議停止も　FT報道 - 日本経済新聞</title>
+    <updated>2025-06-19T12:16:39Z</updated>
+    <id>tag:www.nikkei.com,2025-06-19:/article/DGXZQOGN195EX0Z10C25A6000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN195EX0Z10C25A6000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 開発AIエージェント導入に年間約4億円を投資決定</title>
+    <updated>2025-06-19T04:06:57Z</updated>
+    <id>tag:www.cyberagent.co.jp,2025-06-19:/news/detail/id=32077</id>
+    <link href="https://www.cyberagent.co.jp/news/detail/id=32077" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Entra ID 初学者向けシリーズ第 2 弾 - ID Protection 入門 - その 1: ID Protection とは</title>
+    <updated>2025-06-19T05:34:33Z</updated>
+    <id>tag:jpazureid.github.io,2025-06-19:/blog/azure-active-directory/starter-series-id-protection-1/</id>
+    <link href="https://jpazureid.github.io/blog/azure-active-directory/starter-series-id-protection-1/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: MCPアーキテクチャパターン - Carpe Diem</title>
+    <updated>2025-06-18T01:21:10Z</updated>
+    <id>tag:christina04.hatenablog.com,2025-06-18:/entry/mcp-architecture-pattern</id>
+    <link href="https://christina04.hatenablog.com/entry/mcp-architecture-pattern" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Claude Code どこまでも/ Claude Code Everywhere</title>
+    <updated>2025-06-18T10:15:11Z</updated>
+    <id>tag:speakerdeck.com,2025-06-18:/nwiizo/claude-everywhere</id>
+    <link href="https://speakerdeck.com/nwiizo/claude-everywhere" rel="alternate"></link>
   </entry>
 </feed>
