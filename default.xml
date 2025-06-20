@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-06-20T01:09:37Z</updated>
+  <updated>2025-06-20T06:21:07Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -32,6 +32,12 @@
     <updated>2025-06-17T00:00:00+09:00</updated>
     <id>tag:www.oreilly.co.jp,2025-06-17:/books/9784814401222/</id>
     <link href="http://www.oreilly.co.jp/books/9784814401222/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>4:orielly_books_soon: Async Rust</title>
+    <updated>2025-07-16T00:00:00+09:00</updated>
+    <id>tag:www.oreilly.co.jp,2025-07-16:/books/9784814401185/</id>
+    <link href="http://www.oreilly.co.jp/books/9784814401185/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:orielly_books_soon: SQLアンチパターン 第2版</title>
@@ -160,6 +166,12 @@
     <link href="https://zenn.dev/turing_motors/articles/ab14252a4da9da" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: BDDを導入してみて実際どうだったか</title>
+    <updated>2025-06-19T03:38:40Z</updated>
+    <id>https://zenn.dev/loglass/articles/9feee3dbd2faa6</id>
+    <link href="https://zenn.dev/loglass/articles/9feee3dbd2faa6" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Snowflake Summit 2025で話題のSnowflake Openflowを試してみた</title>
     <updated>2025-06-19T02:30:01Z</updated>
     <id>https://zenn.dev/nttdata_tech/articles/7b338bf9f21f67</id>
@@ -200,12 +212,6 @@
     <updated>2025-06-17T14:01:33Z</updated>
     <id>https://zenn.dev/satotakahumi/articles/9c5afd5e3253e8</id>
     <link href="https://zenn.dev/satotakahumi/articles/9c5afd5e3253e8" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: なぜGoogleはパスキーをゴリ押しするのか？その仕組みと本当の狙いを深掘りしてみた</title>
-    <updated>2025-06-17T13:23:25Z</updated>
-    <id>https://zenn.dev/nihiru/articles/93e3788c340ae6</id>
-    <link href="https://zenn.dev/nihiru/articles/93e3788c340ae6" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: TypeScript 環境構築ガイドラインを書いてLLMに再現させる</title>
@@ -892,6 +898,12 @@
     <link href="https://atmarkit.itmedia.co.jp/ait/articles/2402/08/news045.html" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:arco_linux_youtube: Kiro 010 : BUILDRA - removing XFCE4 and CHADWM and replacing with PLASMA</title>
+    <updated>2025-06-20T05:39:55Z</updated>
+    <id>yt:video:mH52To8DvlI</id>
+    <link href="https://www.youtube.com/watch?v=mH52To8DvlI" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:arco_linux_youtube: Kiro 009 : The ultimate ISO building video - using KIRO ISO to create BUILDRA ISO</title>
     <updated>2025-06-19T09:39:10Z</updated>
     <id>yt:video:3jdKH6bLgUE</id>
@@ -974,12 +986,6 @@
     <updated>2025-06-09T07:33:31Z</updated>
     <id>yt:video:fjuqeeKkxsM</id>
     <link href="https://www.youtube.com/watch?v=fjuqeeKkxsM" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:arco_linux_youtube: Edu 0050 : Arch Linux and Archinstall scripts - how to update to the last version - long version</title>
-    <updated>2025-06-09T07:13:26Z</updated>
-    <id>yt:video:hP84kakp88g</id>
-    <link href="https://www.youtube.com/watch?v=hP84kakp88g" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:publickey: CVE Foundationが取締役会と今後の計画を明らかに。安定性のために複数の収入源による財務基盤を確立など</title>
@@ -1070,6 +1076,18 @@
     <updated>2025-06-03T18:03:03Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8218</id>
     <link href="https://www.publickey1.jp/blog/25/awsred_hat_enterprise_linux_for_aws.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: オープンソースのAIコーディングエージェントopencodeが一般利用可能に</title>
+    <updated>2025-06-20T01:51:00Z</updated>
+    <id>urn:uuid:8aec752c-ddc0-ee86-9a99-f65869dfc6ca</id>
+    <link href="https://gihyo.jp/article/2025/06/opencode?utm_source=feed" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: Ubuntu 25.10（questing）の開発; RISC-VのRVA23への切り替え・OpenSSL 3.5.0の導入</title>
+    <updated>2025-06-20T01:18:00Z</updated>
+    <id>urn:uuid:2c1040e8-eff5-7c4a-3d31-4f9415121871</id>
+    <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202506/20?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: OpenAI、Agents SDKを利用したカスタマーサービスとアプリケーションテスト向けのAIエージェントのデモを公開</title>
@@ -4354,10 +4372,10 @@
     <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2022711.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Reactの内部構造を知っておく (React Tokyo #6 - @calloc134)</title>
-    <updated>2025-06-19T11:23:03Z</updated>
-    <id>tag:speakerdeck.com,2025-06-19:/calloc134/reactnonei-bu-gou-zao-wozhi-tuteoku-react-tokyo-number-6-at-calloc134</id>
-    <link href="https://speakerdeck.com/calloc134/reactnonei-bu-gou-zao-wozhi-tuteoku-react-tokyo-number-6-at-calloc134" rel="alternate"></link>
+    <title>1:hatena_blog_it: π（円周率）って「直径と円周の比」だったんだ</title>
+    <updated>2025-06-19T16:11:49Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-06-19:/20250620010738</id>
+    <link href="https://anond.hatelabo.jp/20250620010738" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【Hothotレビュー】 次世代NASのあるべき姿？手のひらサイズにSSDを6基積める「Beelink ME Mini」</title>
@@ -4366,34 +4384,34 @@
     <link href="https://pc.watch.impress.co.jp/docs/column/hothot/2023782.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 口座開設時の本人確認 画像送信廃止へ 再来年4月1日から 政府 | NHK</title>
-    <updated>2025-06-19T09:15:44Z</updated>
-    <id>tag:www3.nhk.or.jp,2025-06-19:/news/html/20250619/k10014839251000.html</id>
-    <link href="https://www3.nhk.or.jp/news/html/20250619/k10014839251000.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: オープンソースのAI開発エージェント基盤にコマンドライン版「OpenHands CLI」が登場 | gihyo.jp</title>
-    <updated>2025-06-19T05:58:04Z</updated>
-    <id>tag:gihyo.jp,2025-06-19:/article/2025/06/openhands-cli</id>
-    <link href="https://gihyo.jp/article/2025/06/openhands-cli" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: LINEヤフーはなぜ“Switch 2転売禁止”を決めたのか？　担当者に聞いた　メルカリ・ラクマと対応が分かれたワケ</title>
     <updated>2025-06-19T22:44:06Z</updated>
     <id>tag:www.itmedia.co.jp,2025-06-19:/news/articles/2506/20/news048.html</id>
     <link href="https://www.itmedia.co.jp/news/articles/2506/20/news048.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 2025年から Elasticsearch に入門して、同義語検索を理解する | Wantedly Engineer Blog</title>
-    <updated>2025-06-19T07:59:48Z</updated>
-    <id>tag:www.wantedly.com,2025-06-19:/companies/wantedly/post_articles/984252</id>
-    <link href="https://www.wantedly.com/companies/wantedly/post_articles/984252" rel="alternate"></link>
+    <title>1:hatena_blog_it: 古いiPhone 8を太陽光発電で動作するOCRサーバーに改造し完全オフグリッド状態で数千枚の画像処理に成功</title>
+    <updated>2025-06-20T00:15:52Z</updated>
+    <id>tag:gigazine.net,2025-06-20:/news/20250620-iphone-8-refuses-solar-powered-vision-ocr-server/</id>
+    <link href="https://gigazine.net/news/20250620-iphone-8-refuses-solar-powered-vision-ocr-server/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AI にデータ分析 SQL を書かせる仕組みを作りました - Bdash Server MCP の紹介 - クックパッド開発者ブログ</title>
-    <updated>2025-06-19T03:04:40Z</updated>
-    <id>tag:techlife.cookpad.com,2025-06-19:/entry/2025/06/19/111539</id>
-    <link href="https://techlife.cookpad.com/entry/2025/06/19/111539" rel="alternate"></link>
+    <title>1:hatena_blog_it: 旧Twitter本社のシンボル「青い鳥」看板、爆破され木っ端微塵になったことが明らかに【やじうまWatch】</title>
+    <updated>2025-06-20T01:03:21Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2025-06-20:/docs/yajiuma/2024244.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2024244.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Reactの内部構造を知っておく (React Tokyo #6 - @calloc134)</title>
+    <updated>2025-06-19T11:23:03Z</updated>
+    <id>tag:speakerdeck.com,2025-06-19:/calloc134/reactnonei-bu-gou-zao-wozhi-tuteoku-react-tokyo-number-6-at-calloc134</id>
+    <link href="https://speakerdeck.com/calloc134/reactnonei-bu-gou-zao-wozhi-tuteoku-react-tokyo-number-6-at-calloc134" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 口座開設時の本人確認 画像送信廃止へ 再来年4月1日から 政府 | NHK</title>
+    <updated>2025-06-19T09:15:44Z</updated>
+    <id>tag:www3.nhk.or.jp,2025-06-19:/news/html/20250619/k10014839251000.html</id>
+    <link href="https://www3.nhk.or.jp/news/html/20250619/k10014839251000.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「実装」から「設計」へのパラダイムシフト というより無限に体力が必要という話をした #KAGのLT会 - じゃあ、おうちで学べる</title>
@@ -4402,16 +4420,46 @@
     <link href="https://syu-m-5151.hatenablog.com/entry/2025/06/19/102529" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIでプログラミングが「楽しくなった」人たちと、少し違和感を抱く自分｜magurotuna</title>
-    <updated>2025-06-19T05:44:55Z</updated>
-    <id>tag:note.com,2025-06-19:/maguro_tuna/n/n81f1cabc1183</id>
-    <link href="https://note.com/maguro_tuna/n/n81f1cabc1183" rel="alternate"></link>
+    <title>1:hatena_blog_it: オープンソースのAI開発エージェント基盤にコマンドライン版「OpenHands CLI」が登場 | gihyo.jp</title>
+    <updated>2025-06-19T05:58:04Z</updated>
+    <id>tag:gihyo.jp,2025-06-19:/article/2025/06/openhands-cli</id>
+    <link href="https://gihyo.jp/article/2025/06/openhands-cli" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 自動運転で「周回遅れ」の日本、原因は「国民性」と判明 | 自動運転ラボ</title>
-    <updated>2025-06-19T05:11:21Z</updated>
-    <id>tag:jidounten-lab.com,2025-06-19:/u_55091</id>
-    <link href="https://jidounten-lab.com/u_55091" rel="alternate"></link>
+    <title>1:hatena_blog_it: Claude Codeを超えたかも！？OpenHands CLIで抽象的な指示から完動するコードを一発生成</title>
+    <updated>2025-06-20T02:28:35Z</updated>
+    <id>tag:zenn.dev,2025-06-20:/minedia/articles/openhands-cli</id>
+    <link href="https://zenn.dev/minedia/articles/openhands-cli" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: “お腹を壊しやすい人”が夏の水分補給に飲むべき飲み物とは？　海外チームが2024年に研究発表</title>
+    <updated>2025-06-19T23:23:37Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-06-19:/news/articles/2506/20/news027.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2506/20/news027.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: オープンソースのAIコーディングエージェントOpenCodeが一般利用可能に | gihyo.jp</title>
+    <updated>2025-06-20T03:41:57Z</updated>
+    <id>tag:gihyo.jp,2025-06-20:/article/2025/06/opencode</id>
+    <link href="https://gihyo.jp/article/2025/06/opencode" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 160億件のパスワードが流出―アップル、フェイスブック、グーグル、GitHubも 今すぐ対策を | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+    <updated>2025-06-20T02:05:39Z</updated>
+    <id>tag:forbesjapan.com,2025-06-20:/articles/detail/80004</id>
+    <link href="https://forbesjapan.com/articles/detail/80004" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 重たいモバイルディスプレイと老眼からの解放！　独自チップを搭載したARグラス「XREAL One」を試す</title>
+    <updated>2025-06-19T08:04:17Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-06-19:/pcuser/articles/2506/19/news087.html</id>
+    <link href="https://www.itmedia.co.jp/pcuser/articles/2506/19/news087.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: トランプ米大統領、TikTok禁止施行を9月17日まで延期する大統領令に署名</title>
+    <updated>2025-06-19T21:02:52Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-06-19:/news/articles/2506/20/news051.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2506/20/news051.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Appleの新しい文字起こしAPI「SpeechAnalyzer」がスピードテストでOpenAIのWhisperを圧倒</title>
@@ -4420,10 +4468,28 @@
     <link href="https://gigazine.net/news/20250619-apple-speech-analyzer/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Microsoft、OpenAIと提携見直し協議停止も　FT報道 - 日本経済新聞</title>
-    <updated>2025-06-19T12:16:39Z</updated>
-    <id>tag:www.nikkei.com,2025-06-19:/article/DGXZQOGN195EX0Z10C25A6000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN195EX0Z10C25A6000000/" rel="alternate"></link>
+    <title>1:hatena_blog_it: OpenAIの知られざる実態がわかる詳細調査レポート「The OpenAI Files」リリース、非営利の理想と営利の現実がもたらす危険性について</title>
+    <updated>2025-06-19T11:09:25Z</updated>
+    <id>tag:gigazine.net,2025-06-19:/news/20250619-openai-files/</id>
+    <link href="https://gigazine.net/news/20250619-openai-files/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIでプログラミングが「楽しくなった」人たちと、少し違和感を抱く自分｜magurotuna</title>
+    <updated>2025-06-19T05:44:55Z</updated>
+    <id>tag:note.com,2025-06-19:/maguro_tuna/n/n81f1cabc1183</id>
+    <link href="https://note.com/maguro_tuna/n/n81f1cabc1183" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AI にデータ分析 SQL を書かせる仕組みを作りました - Bdash Server MCP の紹介 - クックパッド開発者ブログ</title>
+    <updated>2025-06-19T03:04:40Z</updated>
+    <id>tag:techlife.cookpad.com,2025-06-19:/entry/2025/06/19/111539</id>
+    <link href="https://techlife.cookpad.com/entry/2025/06/19/111539" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Pythonの生みの親が問いかける「今でも『悪いほうが良い』と言えるのか？」 - YAMDAS現更新履歴</title>
+    <updated>2025-06-18T22:58:17Z</updated>
+    <id>tag:yamdas.hatenablog.com,2025-06-18:/entry/20250618/still-worse-is-better</id>
+    <link href="https://yamdas.hatenablog.com/entry/20250618/still-worse-is-better" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Yahoo!ジオコーダAPIとRubyで緯度経度自動取得をやってみた - PLEX Product Team Blog</title>
@@ -4432,22 +4498,40 @@
     <link href="https://product.plex.co.jp/entry/geo-coder-ruby" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: できるだけ楽にGoogleアカウントを守る方法(追記しました)</title>
-    <updated>2025-06-18T08:56:25Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-06-18:/20250618175600</id>
-    <link href="https://anond.hatelabo.jp/20250618175600" rel="alternate"></link>
+    <title>1:hatena_blog_it: 2025年から Elasticsearch に入門して、同義語検索を理解する | Wantedly Engineer Blog</title>
+    <updated>2025-06-19T07:59:48Z</updated>
+    <id>tag:www.wantedly.com,2025-06-19:/companies/wantedly/post_articles/984252</id>
+    <link href="https://www.wantedly.com/companies/wantedly/post_articles/984252" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: [入門] Pythonを10倍高速化する実践テクニック集 - Qiita</title>
-    <updated>2025-06-18T15:43:47Z</updated>
-    <id>tag:qiita.com,2025-06-18:/ShigemoriMasato/items/7081c88482e27b7f8535</id>
-    <link href="https://qiita.com/ShigemoriMasato/items/7081c88482e27b7f8535" rel="alternate"></link>
+    <title>1:hatena_blog_it: Wordには二次元コードを生成する標準機能があることを知って驚いた話「実はExcelとかにもある」→新機能は追加されていくけど実務で使うかは微妙？という反応も</title>
+    <updated>2025-06-19T06:08:28Z</updated>
+    <id>tag:togetter.com,2025-06-19:/li/2565560</id>
+    <link href="https://togetter.com/li/2565560" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: π（円周率）って「直径と円周の比」だったんだ</title>
-    <updated>2025-06-19T16:11:49Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-06-19:/20250620010738</id>
-    <link href="https://anond.hatelabo.jp/20250620010738" rel="alternate"></link>
+    <title>1:hatena_blog_it: 最後の「H-IIAロケット」いよいよ打上げ　その苦難と栄光の歴史</title>
+    <updated>2025-06-19T23:41:16Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-06-19:/docs/topic/2020683.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/topic/2020683.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 10X SRE 現状報告 2025 - 10X Product Blog</title>
+    <updated>2025-06-20T03:49:13Z</updated>
+    <id>tag:product.10x.co.jp,2025-06-20:/entry/2025/06/20/123803</id>
+    <link href="https://product.10x.co.jp/entry/2025/06/20/123803" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Microsoft、OpenAIと提携見直し協議停止も　FT報道 - 日本経済新聞</title>
+    <updated>2025-06-19T12:16:39Z</updated>
+    <id>tag:www.nikkei.com,2025-06-19:/article/DGXZQOGN195EX0Z10C25A6000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN195EX0Z10C25A6000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: マイクロソフト離れが進む欧州--独シュレースヴィヒ＝ホルシュタイン州が「Linux」に移行（ZDNET Japan） - Yahoo!ニュース</title>
+    <updated>2025-06-20T00:06:18Z</updated>
+    <id>tag:news.yahoo.co.jp,2025-06-20:/articles/7a8084a7a6c3428e6678005c0605acff016fd183</id>
+    <link href="https://news.yahoo.co.jp/articles/7a8084a7a6c3428e6678005c0605acff016fd183" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: アマゾンが一部社員に「転居か退職か」通告、静かな人員削減の懸念</title>
@@ -4460,65 +4544,5 @@
     <updated>2025-06-19T00:21:45Z</updated>
     <id>tag:surma.dev,2025-06-19:/things/langgraph/</id>
     <link href="https://surma.dev/things/langgraph/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「メール購読解除ボタン」に注意、個人情報を盗む詐欺の恐れ</title>
-    <updated>2025-06-19T01:49:02Z</updated>
-    <id>tag:news.mynavi.jp,2025-06-19:/techplus/article/20250619-3357199/</id>
-    <link href="https://news.mynavi.jp/techplus/article/20250619-3357199/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Astro 5.10 | Astro</title>
-    <updated>2025-06-19T13:28:39Z</updated>
-    <id>tag:astro.build,2025-06-19:/blog/astro-5100/</id>
-    <link href="https://astro.build/blog/astro-5100/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「Google スプレッドシート」でGeminiのデータ分析・グラフ生成機能が日本語に対応／複雑で膨大なデータもGeminiが傾向やパターンなどをグラフ付きで解説してくれる</title>
-    <updated>2025-06-18T23:48:37Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-06-18:/docs/news/2023811.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2023811.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: YouTubeが2025年夏後半に動画生成AI「Veo 3」をYouTubeショートに統合、YouTubeショートの1日平均動画再生数は2000億回に到達</title>
-    <updated>2025-06-19T10:29:09Z</updated>
-    <id>tag:gigazine.net,2025-06-19:/news/20250619-youtube-shorts-veo-3-ai-video/</id>
-    <link href="https://gigazine.net/news/20250619-youtube-shorts-veo-3-ai-video/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: MicrosoftがOpenAIとの交渉から撤退の準備を開始か</title>
-    <updated>2025-06-19T07:21:22Z</updated>
-    <id>tag:gigazine.net,2025-06-19:/news/20250619-microsoft-openai-high-stake-talks/</id>
-    <link href="https://gigazine.net/news/20250619-microsoft-openai-high-stake-talks/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: OpenAIの知られざる実態がわかる詳細調査レポート「The OpenAI Files」リリース、非営利の理想と営利の現実がもたらす危険性について</title>
-    <updated>2025-06-19T11:09:25Z</updated>
-    <id>tag:gigazine.net,2025-06-19:/news/20250619-openai-files/</id>
-    <link href="https://gigazine.net/news/20250619-openai-files/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ついに姿を現したホンダロケット、開発責任者に現在の状況を聞いた</title>
-    <updated>2025-06-19T06:44:49Z</updated>
-    <id>tag:news.mynavi.jp,2025-06-19:/techplus/article/20250619-3358023/</id>
-    <link href="https://news.mynavi.jp/techplus/article/20250619-3358023/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Wordには二次元コードを生成する標準機能があることを知って驚いた話「実はExcelとかにもある」→新機能は追加されていくけど実務で使うかは微妙？という反応も</title>
-    <updated>2025-06-19T06:08:28Z</updated>
-    <id>tag:togetter.com,2025-06-19:/li/2565560</id>
-    <link href="https://togetter.com/li/2565560" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Eliciting Reasoning in Language Models with Cognitive Tools</title>
-    <updated>2025-06-19T01:27:34Z</updated>
-    <id>tag:arxiv.org,2025-06-19:/pdf/2506.12115</id>
-    <link href="https://arxiv.org/pdf/2506.12115" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIエージェントの継続的改善のためオブザーバビリティ</title>
-    <updated>2025-06-18T08:18:21Z</updated>
-    <id>tag:speakerdeck.com,2025-06-18:/pharma_x_tech/aiezientonoji-sok-de-gai-shan-notameobuzababiritei</id>
-    <link href="https://speakerdeck.com/pharma_x_tech/aiezientonoji-sok-de-gai-shan-notameobuzababiritei" rel="alternate"></link>
   </entry>
 </feed>
