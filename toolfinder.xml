@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-06-19T18:19:20Z</updated>
+  <updated>2025-06-20T01:09:37Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3094,6 +3094,30 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: iw4x-launcher-git</title>
+    <updated>2025-06-20T00:40:50Z</updated>
+    <id>iw4x-launcher-git-1750380050</id>
+    <link href="https://aur.archlinux.org/packages/iw4x-launcher-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: wakey</title>
+    <updated>2025-06-19T23:54:55Z</updated>
+    <id>wakey-1750377295</id>
+    <link href="https://aur.archlinux.org/packages/wakey" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: lutris-gamepad-ui-git</title>
+    <updated>2025-06-19T21:58:10Z</updated>
+    <id>lutris-gamepad-ui-git-1750370290</id>
+    <link href="https://aur.archlinux.org/packages/lutris-gamepad-ui-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: ytsurf</title>
+    <updated>2025-06-19T18:16:34Z</updated>
+    <id>ytsurf-1750356994</id>
+    <link href="https://aur.archlinux.org/packages/ytsurf" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: mechsim</title>
     <updated>2025-06-19T16:21:35Z</updated>
     <id>mechsim-1750350095</id>
@@ -3670,28 +3694,118 @@
     <link href="https://aur.archlinux.org/packages/notifica-task-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: ape-loader-bin</title>
-    <updated>2025-06-16T22:37:09Z</updated>
-    <id>ape-loader-bin-1750113429</id>
-    <link href="https://aur.archlinux.org/packages/ape-loader-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: linux-hardened-headers 6.14.11.hardened1-1 x86_64</title>
+    <updated>2025-06-19T22:13:32Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/linux-hardened-headers/202506192213</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/linux-hardened-headers/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: zxbasic</title>
-    <updated>2025-06-16T22:30:13Z</updated>
-    <id>zxbasic-1750113013</id>
-    <link href="https://aur.archlinux.org/packages/zxbasic" rel="alternate"></link>
+    <title>2:archlinux_new_packages: linux-hardened-docs 6.14.11.hardened1-1 x86_64</title>
+    <updated>2025-06-19T22:13:30Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/linux-hardened-docs/202506192213</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/linux-hardened-docs/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: plasma-potd-windows-spotlight</title>
-    <updated>2025-06-16T21:42:47Z</updated>
-    <id>plasma-potd-windows-spotlight-1750110167</id>
-    <link href="https://aur.archlinux.org/packages/plasma-potd-windows-spotlight" rel="alternate"></link>
+    <title>2:archlinux_new_packages: linux-hardened 6.14.11.hardened1-1 x86_64</title>
+    <updated>2025-06-19T22:13:28Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/linux-hardened/202506192213</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/linux-hardened/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: stm32cuben6</title>
-    <updated>2025-06-16T21:38:40Z</updated>
-    <id>stm32cuben6-1750109920</id>
-    <link href="https://aur.archlinux.org/packages/stm32cuben6" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-hypothesis 6.135.12-1 any</title>
+    <updated>2025-06-19T20:53:15Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra-testing/any/python-hypothesis/202506192053</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-hypothesis/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: protonmail-bridge-core 3.21.1-1 x86_64</title>
+    <updated>2025-06-19T20:52:51Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/protonmail-bridge-core/202506192052</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/protonmail-bridge-core/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: protonmail-bridge 3.21.1-1 x86_64</title>
+    <updated>2025-06-19T20:52:51Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/protonmail-bridge/202506192052</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/protonmail-bridge/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-fakeredis 2.30.1-1 any</title>
+    <updated>2025-06-19T20:44:14Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/any/python-fakeredis/202506192044</id>
+    <link href="https://archlinux.org/packages/extra/any/python-fakeredis/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: zed 0.191.6-1 x86_64</title>
+    <updated>2025-06-19T20:10:19Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/zed/202506192010</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/zed/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-polars 1.31.0-1 x86_64</title>
+    <updated>2025-06-19T20:02:26Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra-testing/x86_64/python-polars/202506192002</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-polars/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-narwhals 1.43.1-1 any</title>
+    <updated>2025-06-19T19:58:30Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra-testing/any/python-narwhals/202506191958</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-narwhals/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: mermaid-cli 11.6.0-1 any</title>
+    <updated>2025-06-19T19:58:28Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra-testing/any/mermaid-cli/202506191958</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/mermaid-cli/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ruby-mime-types-data 3.2025.0617-1 any</title>
+    <updated>2025-06-19T19:49:56Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/any/ruby-mime-types-data/202506191949</id>
+    <link href="https://archlinux.org/packages/extra/any/ruby-mime-types-data/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: code 1.101.1-1 x86_64</title>
+    <updated>2025-06-19T19:41:32Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra-testing/x86_64/code/202506191941</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/code/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pytorch-rocm 2.7.1-3 x86_64</title>
+    <updated>2025-06-19T18:34:59Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/python-pytorch-rocm/202506191834</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-pytorch-rocm/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pytorch-opt-rocm 2.7.1-3 x86_64</title>
+    <updated>2025-06-19T18:34:56Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/python-pytorch-opt-rocm/202506191834</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-pytorch-opt-rocm/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pytorch-opt-cuda 2.7.1-3 x86_64</title>
+    <updated>2025-06-19T18:34:55Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/python-pytorch-opt-cuda/202506191834</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-pytorch-opt-cuda/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pytorch-opt 2.7.1-3 x86_64</title>
+    <updated>2025-06-19T18:34:53Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/python-pytorch-opt/202506191834</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-pytorch-opt/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pytorch-cuda 2.7.1-3 x86_64</title>
+    <updated>2025-06-19T18:34:51Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/python-pytorch-cuda/202506191834</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-pytorch-cuda/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pytorch 2.7.1-3 x86_64</title>
+    <updated>2025-06-19T18:34:49Z</updated>
+    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/python-pytorch/202506191834</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-pytorch/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: plasma-x11-session 6.4.0-3 x86_64</title>
@@ -3878,119 +3992,5 @@
     <updated>2025-06-19T15:47:17Z</updated>
     <id>tag:archlinux.org,2025-06-19:/packages/extra-testing/x86_64/nvidia-lts/202506191547</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/nvidia-lts/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: acpi_call-lts 1.2.2-267 x86_64</title>
-    <updated>2025-06-19T15:47:17Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra-testing/x86_64/acpi_call-lts/202506191547</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/acpi_call-lts/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux-lts-docs 6.12.34-1 x86_64</title>
-    <updated>2025-06-19T15:47:16Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/core-testing/x86_64/linux-lts-docs/202506191547</id>
-    <link href="https://archlinux.org/packages/core-testing/x86_64/linux-lts-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux-lts 6.12.34-1 x86_64</title>
-    <updated>2025-06-19T15:47:15Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/core-testing/x86_64/linux-lts/202506191547</id>
-    <link href="https://archlinux.org/packages/core-testing/x86_64/linux-lts/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: osbuild 152-1 any</title>
-    <updated>2025-06-19T15:42:15Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/any/osbuild/202506191542</id>
-    <link href="https://archlinux.org/packages/extra/any/osbuild/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: zypper 1.14.91-1 x86_64</title>
-    <updated>2025-06-19T15:16:06Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/zypper/202506191516</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/zypper/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libzypp-docs 17.37.6-1 x86_64</title>
-    <updated>2025-06-19T15:16:05Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/libzypp-docs/202506191516</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libzypp-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libzypp 17.37.6-1 x86_64</title>
-    <updated>2025-06-19T15:16:04Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/libzypp/202506191516</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libzypp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: docker-buildx 0.25.0-1 x86_64</title>
-    <updated>2025-06-19T15:16:04Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/docker-buildx/202506191516</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/docker-buildx/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: abseil-cpp 20250512.1-1 x86_64</title>
-    <updated>2025-06-19T15:14:58Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/abseil-cpp/202506191514</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/abseil-cpp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: rclone 1.70.1-1 x86_64</title>
-    <updated>2025-06-19T15:08:46Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/rclone/202506191508</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/rclone/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-opencl-nvidia 575.64-2 x86_64</title>
-    <updated>2025-06-19T14:49:37Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/multilib/x86_64/lib32-opencl-nvidia/202506191449</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-opencl-nvidia/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-nvidia-utils 575.64-2 x86_64</title>
-    <updated>2025-06-19T14:49:37Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/multilib/x86_64/lib32-nvidia-utils/202506191449</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-nvidia-utils/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: opencl-nvidia 575.64-1 x86_64</title>
-    <updated>2025-06-19T14:46:25Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/opencl-nvidia/202506191446</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/opencl-nvidia/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nvidia-utils 575.64-1 x86_64</title>
-    <updated>2025-06-19T14:46:24Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/nvidia-utils/202506191446</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nvidia-utils/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nvidia-settings 575.64-1 x86_64</title>
-    <updated>2025-06-19T14:46:24Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/nvidia-settings/202506191446</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nvidia-settings/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nvidia-open-lts 575.64-1 x86_64</title>
-    <updated>2025-06-19T14:46:23Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/nvidia-open-lts/202506191446</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nvidia-open-lts/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nvidia-open-dkms 575.64-1 x86_64</title>
-    <updated>2025-06-19T14:46:22Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/nvidia-open-dkms/202506191446</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nvidia-open-dkms/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nvidia-open 575.64-1 x86_64</title>
-    <updated>2025-06-19T14:46:22Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/nvidia-open/202506191446</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nvidia-open/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nvidia-lts 1:575.64-1 x86_64</title>
-    <updated>2025-06-19T14:46:21Z</updated>
-    <id>tag:archlinux.org,2025-06-19:/packages/extra/x86_64/nvidia-lts/202506191446</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nvidia-lts/" rel="alternate"></link>
   </entry>
 </feed>
