@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-06-21T01:08:42Z</updated>
+  <updated>2025-06-21T06:18:59Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3094,6 +3094,18 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: doh-server-bin</title>
+    <updated>2025-06-21T03:36:15Z</updated>
+    <id>doh-server-bin-1750476975</id>
+    <link href="https://aur.archlinux.org/packages/doh-server-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: claudia</title>
+    <updated>2025-06-21T01:15:01Z</updated>
+    <id>claudia-1750468501</id>
+    <link href="https://aur.archlinux.org/packages/claudia" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: samrewritten-legacy-git</title>
     <updated>2025-06-20T21:13:39Z</updated>
     <id>samrewritten-legacy-git-1750454019</id>
@@ -3682,16 +3694,52 @@
     <link href="https://aur.archlinux.org/packages/libc++abi18" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: ai-assistant-studio-bin</title>
-    <updated>2025-06-18T01:09:14Z</updated>
-    <id>ai-assistant-studio-bin-1750208954</id>
-    <link href="https://aur.archlinux.org/packages/ai-assistant-studio-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: ruby-ffi 1.17.1-4 x86_64</title>
+    <updated>2025-06-21T05:17:26Z</updated>
+    <id>tag:archlinux.org,2025-06-21:/packages/extra/x86_64/ruby-ffi/202506210517</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/ruby-ffi/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: nautilus-file-explorer</title>
-    <updated>2025-06-17T21:59:10Z</updated>
-    <id>nautilus-file-explorer-1750197550</id>
-    <link href="https://aur.archlinux.org/packages/nautilus-file-explorer" rel="alternate"></link>
+    <title>2:archlinux_new_packages: cargo-expand 1.0.110-1 x86_64</title>
+    <updated>2025-06-21T04:54:06Z</updated>
+    <id>tag:archlinux.org,2025-06-21:/packages/extra/x86_64/cargo-expand/202506210454</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/cargo-expand/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: shattered-pixel-dungeon 3.1.1-1 any</title>
+    <updated>2025-06-21T04:25:17Z</updated>
+    <id>tag:archlinux.org,2025-06-21:/packages/extra/any/shattered-pixel-dungeon/202506210425</id>
+    <link href="https://archlinux.org/packages/extra/any/shattered-pixel-dungeon/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ruby-bundler 2.6.9-1 any</title>
+    <updated>2025-06-21T04:25:17Z</updated>
+    <id>tag:archlinux.org,2025-06-21:/packages/extra/any/ruby-bundler/202506210425</id>
+    <link href="https://archlinux.org/packages/extra/any/ruby-bundler/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-urllib3 2.5.0-1 any</title>
+    <updated>2025-06-21T04:19:38Z</updated>
+    <id>tag:archlinux.org,2025-06-21:/packages/extra/any/python-urllib3/202506210419</id>
+    <link href="https://archlinux.org/packages/extra/any/python-urllib3/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-managesieve 0.8.1-1 any</title>
+    <updated>2025-06-21T03:22:35Z</updated>
+    <id>tag:archlinux.org,2025-06-21:/packages/extra/any/python-managesieve/202506210322</id>
+    <link href="https://archlinux.org/packages/extra/any/python-managesieve/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: papers-lib-docs 48.4-1 x86_64</title>
+    <updated>2025-06-21T01:31:13Z</updated>
+    <id>tag:archlinux.org,2025-06-21:/packages/extra/x86_64/papers-lib-docs/202506210131</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/papers-lib-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: papers 48.4-1 x86_64</title>
+    <updated>2025-06-21T01:31:12Z</updated>
+    <id>tag:archlinux.org,2025-06-21:/packages/extra/x86_64/papers/202506210131</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/papers/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: lib32-libdrm 2.4.125-1 x86_64</title>
@@ -3944,53 +3992,5 @@
     <updated>2025-06-20T21:35:45Z</updated>
     <id>tag:archlinux.org,2025-06-20:/packages/extra/x86_64/rio/202506202135</id>
     <link href="https://archlinux.org/packages/extra/x86_64/rio/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: bandit 1.8.5-1 any</title>
-    <updated>2025-06-20T20:51:39Z</updated>
-    <id>tag:archlinux.org,2025-06-20:/packages/extra/any/bandit/202506202051</id>
-    <link href="https://archlinux.org/packages/extra/any/bandit/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: zabbix-web-service 7.2.9-1 x86_64</title>
-    <updated>2025-06-20T20:18:33Z</updated>
-    <id>tag:archlinux.org,2025-06-20:/packages/extra/x86_64/zabbix-web-service/202506202018</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/zabbix-web-service/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: zabbix-server 7.2.9-1 x86_64</title>
-    <updated>2025-06-20T20:18:33Z</updated>
-    <id>tag:archlinux.org,2025-06-20:/packages/extra/x86_64/zabbix-server/202506202018</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/zabbix-server/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: zabbix-proxy 7.2.9-1 x86_64</title>
-    <updated>2025-06-20T20:18:32Z</updated>
-    <id>tag:archlinux.org,2025-06-20:/packages/extra/x86_64/zabbix-proxy/202506202018</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/zabbix-proxy/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: zabbix-frontend-php 7.2.9-1 x86_64</title>
-    <updated>2025-06-20T20:18:32Z</updated>
-    <id>tag:archlinux.org,2025-06-20:/packages/extra/x86_64/zabbix-frontend-php/202506202018</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/zabbix-frontend-php/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: zabbix-agent2 7.2.9-1 x86_64</title>
-    <updated>2025-06-20T20:18:31Z</updated>
-    <id>tag:archlinux.org,2025-06-20:/packages/extra/x86_64/zabbix-agent2/202506202018</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/zabbix-agent2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: zabbix-agent 7.2.9-1 x86_64</title>
-    <updated>2025-06-20T20:18:31Z</updated>
-    <id>tag:archlinux.org,2025-06-20:/packages/extra/x86_64/zabbix-agent/202506202018</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/zabbix-agent/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xfburn 0.8.0-1 x86_64</title>
-    <updated>2025-06-20T20:18:30Z</updated>
-    <id>tag:archlinux.org,2025-06-20:/packages/extra/x86_64/xfburn/202506202018</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/xfburn/" rel="alternate"></link>
   </entry>
 </feed>
