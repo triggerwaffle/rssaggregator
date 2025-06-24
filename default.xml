@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-06-24T01:10:25Z</updated>
+  <updated>2025-06-24T06:21:57Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -166,6 +166,12 @@
     <link href="https://zenn.dev/parakeet_tech/articles/2591e71094ea58" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: MCPサーバーを使うなら Prompt Caching が大切だと思い知った話</title>
+    <updated>2025-06-23T11:16:01Z</updated>
+    <id>https://zenn.dev/ncdc/articles/26165a6fedd7e4</id>
+    <link href="https://zenn.dev/ncdc/articles/26165a6fedd7e4" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Claude Code時代のアプリ開発手法</title>
     <updated>2025-06-23T06:27:25Z</updated>
     <id>https://zenn.dev/itome/articles/f8f1d6ff662a92</id>
@@ -200,6 +206,18 @@
     <updated>2025-06-22T11:36:00Z</updated>
     <id>https://zenn.dev/yohamta/articles/25581c19b45c5f</id>
     <link href="https://zenn.dev/yohamta/articles/25581c19b45c5f" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 個人的CLAUDE.mdのすゝめ</title>
+    <updated>2025-06-22T11:02:02Z</updated>
+    <id>https://zenn.dev/solvio/articles/b53d24a41e6d5b</id>
+    <link href="https://zenn.dev/solvio/articles/b53d24a41e6d5b" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Claude Code実用する上で最低限やると良いこと</title>
+    <updated>2025-06-22T10:34:33Z</updated>
+    <id>https://zenn.dev/dala/articles/claude-code-efficiency</id>
+    <link href="https://zenn.dev/dala/articles/claude-code-efficiency" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: MCP 2025-06-18 で追加された structured tool output を試す</title>
@@ -248,24 +266,6 @@
     <updated>2025-06-21T13:29:21Z</updated>
     <id>https://zenn.dev/pepabo/articles/3113622c0be8d9</id>
     <link href="https://zenn.dev/pepabo/articles/3113622c0be8d9" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Claude Code中心の開発のためのPythonテンプレートの設計</title>
-    <updated>2025-06-21T08:27:45Z</updated>
-    <id>https://zenn.dev/discus0434/articles/claude-code-python-template</id>
-    <link href="https://zenn.dev/discus0434/articles/claude-code-python-template" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 【Claude Code】カスタムSlash Commandの作り方とコマンド例を紹介する</title>
-    <updated>2025-06-21T03:01:01Z</updated>
-    <id>https://zenn.dev/oikon/articles/cb11b84f891228</id>
-    <link href="https://zenn.dev/oikon/articles/cb11b84f891228" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 「スマートリポジトリ」という概念について</title>
-    <updated>2025-06-20T11:54:29Z</updated>
-    <id>https://zenn.dev/tesla/articles/57b9ebc3117d5f</id>
-    <link href="https://zenn.dev/tesla/articles/57b9ebc3117d5f" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: AI Agent Manager (AAM) として生きていく : 作業環境とワークフローの設計</title>
@@ -388,7 +388,7 @@
     <link href="https://qiita.com/shiminori0612/items/a3da653ca1570042ed77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 深夜のデバッグセッションが変わる！SuperClaudeで開発効率70%アップの秘密</title>
+    <title>3:qiita_trend: SuperClaudeがAI支援開発を次のレベルに引き上げる方法</title>
     <updated>2025-06-23T08:12:07Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/2043672</id>
     <link href="https://qiita.com/Nakamura-Kaito/items/f97ba185468e017b0691?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
@@ -4402,76 +4402,16 @@
     <link href="https://gihyo.jp/article/2024/06/claude-3-5-sonnet?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: Apple、iPhoneのマイナンバーカードを提供開始</title>
+    <updated>2025-06-24T02:07:34Z</updated>
+    <id>tag:www.apple.com,2025-06-24:/jp/newsroom/2025/06/apple-introduces-my-number-card-on-iphone/</id>
+    <link href="https://www.apple.com/jp/newsroom/2025/06/apple-introduces-my-number-card-on-iphone/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 人間を騙してサボるAIたち - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ</title>
     <updated>2025-06-23T08:34:56Z</updated>
     <id>tag:joisino.hatenablog.com,2025-06-23:/entry/mislead</id>
     <link href="https://joisino.hatenablog.com/entry/mislead" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Adobe、一眼レフのような自然な写真が撮れるiPhone向けカメラアプリ</title>
-    <updated>2025-06-23T08:21:08Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-06-23:/docs/news/2024929.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2024929.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: イランへの塩対応は予想の範疇だったらしい</title>
-    <updated>2025-06-23T14:10:17Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-06-23:/20250623230749</id>
-    <link href="https://anond.hatelabo.jp/20250623230749" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 楽曲生成AIの進化が凄い　鼻歌からプロ級の曲がポンポンできる (1/7)</title>
-    <updated>2025-06-22T23:01:07Z</updated>
-    <id>tag:ascii.jp,2025-06-22:/elem/000/004/293/4293733/</id>
-    <link href="https://ascii.jp/elem/000/004/293/4293733/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 京都大学ら、リチウムイオン電池の倍の容量の全固体電池材料を開発。主成分は鉄、カルシウム、酸素</title>
-    <updated>2025-06-23T08:29:37Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-06-23:/docs/news/2024969.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2024969.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 頑張りすぎず、PlaywrightのCI実行時間を短縮した話 - カミナシ エンジニアブログ</title>
-    <updated>2025-06-23T23:37:24Z</updated>
-    <id>tag:kaminashi-developer.hatenablog.jp,2025-06-23:/entry/2025/06/24/playwright-ci-quick-wins</id>
-    <link href="https://kaminashi-developer.hatenablog.jp/entry/2025/06/24/playwright-ci-quick-wins" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Microsoftがトランプ大統領の命令で国際刑事裁判所職員のメールアカウントを停止、EU各国でアメリカ企業離れが加速する</title>
-    <updated>2025-06-23T03:41:02Z</updated>
-    <id>tag:gigazine.net,2025-06-23:/news/20250623-europeans-seek-digital-sovereignty-us-tech/</id>
-    <link href="https://gigazine.net/news/20250623-europeans-seek-digital-sovereignty-us-tech/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「機械彫刻用標準書体」フォントがv0.310へ、計2,561グリフにまで拡充／アクリル板の注意書きなどでよく見かける独特の機能美を持つフォント</title>
-    <updated>2025-06-23T08:37:59Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-06-23:/docs/news/2024748.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2024748.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: “手のりケルヒャー”爆売れ、30分で2500台を完売　再販や市販の予定は？</title>
-    <updated>2025-06-23T03:03:34Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-06-23:/news/articles/2506/23/news062.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2506/23/news062.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIでプログラマ不要になるというのは、プログラミング言語構文わかればプログラム組めるという誤解に基づくのでは - きしだのHatena</title>
-    <updated>2025-06-23T02:52:29Z</updated>
-    <id>tag:nowokay.hatenablog.com,2025-06-23:/entry/2025/06/23/113527</id>
-    <link href="https://nowokay.hatenablog.com/entry/2025/06/23/113527" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: なぜプログラマーは文章を書くべきなのか | ソフトアンテナ</title>
-    <updated>2025-06-22T14:04:45Z</updated>
-    <id>tag:softantenna.com,2025-06-22:/blog/programmer-writing/</id>
-    <link href="https://softantenna.com/blog/programmer-writing/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIによる開発は楽しすぎるが、基礎学習が疎かになりそうで怖い - $shibayu36->blog;</title>
-    <updated>2025-06-23T01:06:11Z</updated>
-    <id>tag:blog.shibayu36.org,2025-06-23:/entry/2025/06/23/090555</id>
-    <link href="https://blog.shibayu36.org/entry/2025/06/23/090555" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Googleが抽出した10個のカテゴリで技術的負債を捉えなおす - mtx2s’s blog</title>
@@ -4480,40 +4420,16 @@
     <link href="https://mtx2s.hatenablog.com/entry/2025/06/23/195937" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「英語話せない問題」を2時間のVibe Codingで解決してみた - エムスリーテックブログ</title>
-    <updated>2025-06-23T02:52:06Z</updated>
-    <id>tag:www.m3tech.blog,2025-06-23:/entry/2025/06/23/110000</id>
-    <link href="https://www.m3tech.blog/entry/2025/06/23/110000" rel="alternate"></link>
+    <title>1:hatena_blog_it: 頑張りすぎず、PlaywrightのCI実行時間を短縮した話 - カミナシ エンジニアブログ</title>
+    <updated>2025-06-23T23:37:24Z</updated>
+    <id>tag:kaminashi-developer.hatenablog.jp,2025-06-23:/entry/2025/06/24/playwright-ci-quick-wins</id>
+    <link href="https://kaminashi-developer.hatenablog.jp/entry/2025/06/24/playwright-ci-quick-wins" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: プログラマ不要論が度々話題に上がる一方、正確な要件定義とちゃんとした成果物レビューが求められているが、それってプログラミング能力そのものなのでは？</title>
-    <updated>2025-06-22T14:52:05Z</updated>
-    <id>tag:togetter.com,2025-06-22:/li/2567083</id>
-    <link href="https://togetter.com/li/2567083" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Anthropic、「Claude Code for VSCode」をリリース／ターミナルで動作する同社のコーディング支援AIツールを「Visual Studio Code」で</title>
-    <updated>2025-06-23T05:10:30Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-06-23:/docs/news/2024736.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2024736.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 既存の Angular アプリケーションの Zoneless 化への道のり - Nealle Developer's Blog</title>
-    <updated>2025-06-24T00:59:45Z</updated>
-    <id>tag:nealle-dev.hatenablog.com,2025-06-24:/entry/2025/06/24/095906</id>
-    <link href="https://nealle-dev.hatenablog.com/entry/2025/06/24/095906" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: リポジトリの内容を別リポジトリにpushするGitHub Actionを公開した | おそらくはそれさえも平凡な日々</title>
-    <updated>2025-06-23T18:19:44Z</updated>
-    <id>tag:songmu.jp,2025-06-23:/riji/entry/2025-06-24-action-push-to-another-repository.html</id>
-    <link href="https://songmu.jp/riji/entry/2025-06-24-action-push-to-another-repository.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: YAML ファイルからアーキテクチャ図を生成する Diagram-as-Code を使ってみたメモ✍ - 継続は力なり</title>
-    <updated>2025-06-22T23:51:32Z</updated>
-    <id>tag:sadayoshi-tada.hatenablog.com,2025-06-22:/entry/2025/06/22/123925</id>
-    <link href="https://sadayoshi-tada.hatenablog.com/entry/2025/06/22/123925" rel="alternate"></link>
+    <title>1:hatena_blog_it: 高齢の男性がアップした『5Gに怒ってます！』的なタイトルのYouTube、よくある陰謀論かと恐る恐る観たらしっかりした人だった→共感も集まる</title>
+    <updated>2025-06-24T02:30:06Z</updated>
+    <id>tag:togetter.com,2025-06-24:/li/2567618</id>
+    <link href="https://togetter.com/li/2567618" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AIエージェント規格「MCP」が3ヶ月ぶりにアプデ！ どこが変わったの？ - Qiita</title>
@@ -4522,10 +4438,40 @@
     <link href="https://qiita.com/minorun365/items/cbf4e475e6dd9892ee11" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【AWS】無料枠、終わるってさ。。。急がば「問い合わせ」 - Qiita</title>
-    <updated>2025-06-21T08:03:07Z</updated>
-    <id>tag:qiita.com,2025-06-21:/wa-chan222/items/37053aaf6a96fcc92d83</id>
-    <link href="https://qiita.com/wa-chan222/items/37053aaf6a96fcc92d83" rel="alternate"></link>
+    <title>1:hatena_blog_it: イランへの塩対応は予想の範疇だったらしい</title>
+    <updated>2025-06-23T14:10:17Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-06-23:/20250623230749</id>
+    <link href="https://anond.hatelabo.jp/20250623230749" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【やじうまPC Watch】 空冷ユーザーに告ぐ。上部に2つのファンがあるなら1つを逆向きにしてみて</title>
+    <updated>2025-06-24T04:47:09Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-06-24:/docs/news/yajiuma/2025160.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/yajiuma/2025160.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: iPhoneのマイナンバーカード搭載は「自然な流れ」だった　Apple Pay担当者に聞く「ウォレット」戦略</title>
+    <updated>2025-06-24T01:46:07Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-06-24:/mobile/articles/2506/24/news067.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2506/24/news067.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Adobe、一眼レフのような自然な写真が撮れるiPhone向けカメラアプリ</title>
+    <updated>2025-06-23T08:21:08Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-06-23:/docs/news/2024929.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2024929.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: なぜプログラマーは文章を書くべきなのか | ソフトアンテナ</title>
+    <updated>2025-06-22T14:04:45Z</updated>
+    <id>tag:softantenna.com,2025-06-22:/blog/programmer-writing/</id>
+    <link href="https://softantenna.com/blog/programmer-writing/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 京都大学ら、リチウムイオン電池の倍の容量の全固体電池材料を開発。主成分は鉄、カルシウム、酸素</title>
+    <updated>2025-06-23T08:29:37Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-06-23:/docs/news/2024969.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2024969.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「iPhoneのマイナカード」きょうから　「マイナポータルアプリ」でAppleウォレットに追加</title>
@@ -4534,9 +4480,75 @@
     <link href="https://www.itmedia.co.jp/news/articles/2506/24/news065.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub - EbodShojaei/bake: mbake is a Makefile formatter and linter. It only took 50 years!</title>
-    <updated>2025-06-22T13:59:34Z</updated>
-    <id>tag:github.com,2025-06-22:/EbodShojaei/bake</id>
-    <link href="https://github.com/EbodShojaei/bake" rel="alternate"></link>
+    <title>1:hatena_blog_it: LLMは因果推論を理解できるのか？最新研究から探る生成AIの因果推論の可能性と課題 - Insight Edge Tech Blog</title>
+    <updated>2025-06-24T00:33:45Z</updated>
+    <id>tag:techblog.insightedge.jp,2025-06-24:/entry/genai-causal-inference</id>
+    <link href="https://techblog.insightedge.jp/entry/genai-causal-inference" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 商品クリック58%増・経由受注26%増の裏側 - Two-Towerモデル×Vertex AI Vector Searchで実現したZOZOTOWN ホーム画面のパーソナライズ - ZOZO TECH BLOG</title>
+    <updated>2025-06-24T02:08:06Z</updated>
+    <id>tag:techblog.zozo.com,2025-06-24:/entry/home-module-contents-personalization</id>
+    <link href="https://techblog.zozo.com/entry/home-module-contents-personalization" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIを使うと脳が衰えていく？　AIツール長期使用の脳への影響を測定（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+    <updated>2025-06-23T23:16:11Z</updated>
+    <id>tag:www.techno-edge.net,2025-06-23:/article/2025/06/24/4439.html</id>
+    <link href="https://www.techno-edge.net/article/2025/06/24/4439.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「iPhoneのマイナンバーカード」の提供を開始しました | iPhoneのマイナンバーカード | デジタル庁 ウェブサービス・アプリケーション</title>
+    <updated>2025-06-24T01:44:53Z</updated>
+    <id>tag:services.digital.go.jp,2025-06-24:/mynumbercard-iphone/news/10c42297159b33349de8e/</id>
+    <link href="https://services.digital.go.jp/mynumbercard-iphone/news/10c42297159b33349de8e/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「機械彫刻用標準書体」フォントがv0.310へ、計2,561グリフにまで拡充／アクリル板の注意書きなどでよく見かける独特の機能美を持つフォント - 窓の杜</title>
+    <updated>2025-06-23T08:37:59Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-06-23:/docs/news/2024748.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2024748.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: リポジトリの内容を別リポジトリにpushするGitHub Actionを公開した | おそらくはそれさえも平凡な日々</title>
+    <updated>2025-06-23T18:19:44Z</updated>
+    <id>tag:songmu.jp,2025-06-23:/riji/entry/2025-06-24-action-push-to-another-repository.html</id>
+    <link href="https://songmu.jp/riji/entry/2025-06-24-action-push-to-another-repository.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: NVIDIAがヒト型ロボットでGPUを作る計画を進めているとの報道、Foxconnの工場にヒト型ロボットが導入される見込み</title>
+    <updated>2025-06-23T13:46:36Z</updated>
+    <id>tag:gigazine.net,2025-06-23:/news/20250623-nvidia-foxconn-humanoid-robot/</id>
+    <link href="https://gigazine.net/news/20250623-nvidia-foxconn-humanoid-robot/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「AIの要約を信頼する人が増えてサイトへのトラフィックが急落しパブリッシャーは危機にある」とCloudflareのマシュー・プリンスCEOが警告</title>
+    <updated>2025-06-23T23:39:22Z</updated>
+    <id>tag:gigazine.net,2025-06-23:/news/20250624-cloudflare-ceo-warn-ai-age-publisher/</id>
+    <link href="https://gigazine.net/news/20250624-cloudflare-ceo-warn-ai-age-publisher/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【2025年版】企業のコンプライアンス違反事例20選と対策</title>
+    <updated>2025-06-24T02:00:09Z</updated>
+    <id>tag:ldcube.jp,2025-06-24:/blog/compliance451</id>
+    <link href="https://ldcube.jp/blog/compliance451" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 既存の Angular アプリケーションの Zoneless 化への道のり - Nealle Developer's Blog</title>
+    <updated>2025-06-24T00:59:45Z</updated>
+    <id>tag:nealle-dev.hatenablog.com,2025-06-24:/entry/2025/06/24/095906</id>
+    <link href="https://nealle-dev.hatenablog.com/entry/2025/06/24/095906" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GoogleのAIも信じる「万博80歳以上無料」の偽情報　誤回答の新機能「さらなる改善」</title>
+    <updated>2025-06-24T04:40:43Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-06-24:/news/articles/2506/24/news082.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2506/24/news082.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 社内でVibe Coding Hackathonを開催してみた - CADDi Tech Blog</title>
+    <updated>2025-06-24T02:36:17Z</updated>
+    <id>tag:caddi.tech,2025-06-24:/2025/06/24/113128</id>
+    <link href="https://caddi.tech/2025/06/24/113128" rel="alternate"></link>
   </entry>
 </feed>
