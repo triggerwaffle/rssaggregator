@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - reddit</title>
   <id>https://a.example.com</id>
-  <updated>2025-06-29T18:18:20Z</updated>
+  <updated>2025-06-30T01:14:57Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of reddit</subtitle>
   <link href="https://a.example.com"></link>
@@ -10,10 +10,16 @@
     <email>johndoe@example.com</email>
   </author>
   <entry>
-    <title>2:reddit aggregaor: This is why you self host</title>
-    <updated>2025-06-29T16:17:04Z</updated>
-    <id>t3_1lnil6j</id>
-    <link href="https://www.reddit.com/r/selfhosted/comments/1lnil6j/this_is_why_you_self_host/" rel="alternate"></link>
+    <title>2:reddit aggregaor: Code is skimmed more often than it is written, so it should be clear at a glance</title>
+    <updated>2025-06-29T19:31:11Z</updated>
+    <id>t3_1lnnbyc</id>
+    <link href="https://www.reddit.com/r/programming/comments/1lnnbyc/code_is_skimmed_more_often_than_it_is_written_so/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:reddit aggregaor: Stop Killing Games: Nostalgic about the old days when you could self-host your private video-game server for your friends? Take control of the video games you bought by voting for it NOW</title>
+    <updated>2025-06-29T17:30:33Z</updated>
+    <id>t3_1lnke2i</id>
+    <link href="https://www.reddit.com/r/selfhosted/comments/1lnke2i/stop_killing_games_nostalgic_about_the_old_days/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:reddit aggregaor: I was infected by a Trojan from combatshell[.]com – here’s what happened (Full Malware Analysis)</title>
@@ -28,16 +34,16 @@
     <link href="https://www.reddit.com/r/linux/comments/1lndntz/my_linux_survived_where_windows_died/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:reddit aggregaor: [doWM] photodump of my WM</title>
-    <updated>2025-06-29T10:28:36Z</updated>
-    <id>t3_1lnbgzm</id>
-    <link href="https://www.reddit.com/r/unixporn/comments/1lnbgzm/dowm_photodump_of_my_wm/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:reddit aggregaor: Internet addiction</title>
     <updated>2025-06-29T16:40:25Z</updated>
     <id>t3_1lnj5bf</id>
     <link href="https://www.reddit.com/r/networking/comments/1lnj5bf/internet_addiction/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:reddit aggregaor: [doWM] photodump of my WM</title>
+    <updated>2025-06-29T10:28:36Z</updated>
+    <id>t3_1lnbgzm</id>
+    <link href="https://www.reddit.com/r/unixporn/comments/1lnbgzm/dowm_photodump_of_my_wm/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:reddit aggregaor: I passed the Network+ exam with a score of 837 out of 900! 🎉🥳</title>
@@ -46,16 +52,22 @@
     <link href="https://www.reddit.com/r/CompTIA/comments/1lnfqj8/i_passed_the_network_exam_with_a_score_of_837_out/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:reddit aggregaor: tengine - A dependencies free, cross platform, terminal engine to create text based games.</title>
+    <updated>2025-06-29T21:46:17Z</updated>
+    <id>t3_1lnqjcg</id>
+    <link href="https://www.reddit.com/r/commandline/comments/1lnqjcg/tengine_a_dependencies_free_cross_platform/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:reddit aggregaor: I passed the CISSP, 150 questions last friday (even though I couldn’t finish due to overtime)!</title>
+    <updated>2025-06-29T22:12:37Z</updated>
+    <id>t3_1lnr4sy</id>
+    <link href="https://www.reddit.com/r/cissp/comments/1lnr4sy/i_passed_the_cissp_150_questions_last_friday_even/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:reddit aggregaor: Mexican drug cartel used hacker to track FBI official, then killed potential informants, government audit says</title>
     <updated>2025-06-28T23:48:57Z</updated>
     <id>t3_1ln0u3m</id>
     <link href="https://www.reddit.com/r/hacking/comments/1ln0u3m/mexican_drug_cartel_used_hacker_to_track_fbi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:reddit aggregaor: Dyson Sphere Program - The New Multithreading Framework</title>
-    <updated>2025-06-29T03:56:38Z</updated>
-    <id>t3_1ln5exk</id>
-    <link href="https://www.reddit.com/r/programming/comments/1ln5exk/dyson_sphere_program_the_new_multithreading/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:reddit aggregaor: Just passed AWS AI Practitioner with 810 after 5 days of study (here's my minimal viable approach)</title>
@@ -64,40 +76,34 @@
     <link href="https://www.reddit.com/r/AWSCertifications/comments/1lni0oi/just_passed_aws_ai_practitioner_with_810_after_5/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:reddit aggregaor: Shout out to Inteltechniques.com</title>
-    <updated>2025-06-29T17:22:30Z</updated>
-    <id>t3_1lnk739</id>
-    <link href="https://www.reddit.com/r/OSINT/comments/1lnk739/shout_out_to_inteltechniquescom/" rel="alternate"></link>
+    <title>2:reddit aggregaor: Inspired by the discussion on PL aesthetics, I wrote a small filter that will take Algol 68 code written using MathBold and MathItalic (like the code itself), and produce UPPER-stropped Algol 68 code.</title>
+    <updated>2025-06-29T20:43:45Z</updated>
+    <id>t3_1lnp2fu</id>
+    <link href="https://www.reddit.com/r/ProgrammingLanguages/comments/1lnp2fu/inspired_by_the_discussion_on_pl_aesthetics_i/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:reddit aggregaor: Native Subresource Support in Kubectl</title>
-    <updated>2025-06-29T15:52:16Z</updated>
-    <id>t3_1lnhztk</id>
-    <link href="https://www.reddit.com/r/kubernetes/comments/1lnhztk/native_subresource_support_in_kubectl/" rel="alternate"></link>
+    <title>2:reddit aggregaor: Quick pricing examples on Apprunner page links to loremipsum.com</title>
+    <updated>2025-06-30T00:36:45Z</updated>
+    <id>t3_1lnu6ub</id>
+    <link href="https://www.reddit.com/r/aws/comments/1lnu6ub/quick_pricing_examples_on_apprunner_page_links_to/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:reddit aggregaor: A collection of resources about normalization-by-evaluation</title>
-    <updated>2025-06-29T13:57:52Z</updated>
-    <id>t3_1lnfbmd</id>
-    <link href="https://www.reddit.com/r/haskell/comments/1lnfbmd/a_collection_of_resources_about/" rel="alternate"></link>
+    <title>2:reddit aggregaor: One click k8s deploy!</title>
+    <updated>2025-06-29T19:24:46Z</updated>
+    <id>t3_1lnn6i2</id>
+    <link href="https://www.reddit.com/r/kubernetes/comments/1lnn6i2/one_click_k8s_deploy/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:reddit aggregaor: Lost EC2 Key Pair – Can I Still Connect to My Instance via AWS Console?</title>
-    <updated>2025-06-29T16:34:44Z</updated>
-    <id>t3_1lnj0ds</id>
-    <link href="https://www.reddit.com/r/aws/comments/1lnj0ds/lost_ec2_key_pair_can_i_still_connect_to_my/" rel="alternate"></link>
+    <title>2:reddit aggregaor: Remote home directories in Linux using NFS are kind of slow / laggy</title>
+    <updated>2025-06-29T18:25:51Z</updated>
+    <id>t3_1lnlr1m</id>
+    <link href="https://www.reddit.com/r/linuxadmin/comments/1lnlr1m/remote_home_directories_in_linux_using_nfs_are/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:reddit aggregaor: Passed CISSP last Thursday at 100 Qs — messy notes from a risk-guy-turned-cyber (plus anxiety hacks)</title>
-    <updated>2025-06-29T05:56:41Z</updated>
-    <id>t3_1ln7e4o</id>
-    <link href="https://www.reddit.com/r/cissp/comments/1ln7e4o/passed_cissp_last_thursday_at_100_qs_messy_notes/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:reddit aggregaor: Regarding the linux-firmware split</title>
-    <updated>2025-06-29T04:19:51Z</updated>
-    <id>t3_1ln5tew</id>
-    <link href="https://www.reddit.com/r/archlinux/comments/1ln5tew/regarding_the_linuxfirmware_split/" rel="alternate"></link>
+    <title>2:reddit aggregaor: Optimize Arch likes CachyOs</title>
+    <updated>2025-06-29T20:07:18Z</updated>
+    <id>t3_1lno73d</id>
+    <link href="https://www.reddit.com/r/archlinux/comments/1lno73d/optimize_arch_likes_cachyos/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:reddit aggregaor: SQL Noir: Learn SQL by solving crimes</title>
@@ -106,10 +112,28 @@
     <link href="https://www.reddit.com/r/learnSQL/comments/1lnk6lv/sql_noir_learn_sql_by_solving_crimes/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:reddit aggregaor: The year of the European Union Linux desktop may finally arrive -- "True digital sovereignty begins at the desktop"</title>
-    <updated>2025-06-29T02:35:33Z</updated>
-    <id>t3_1ln3zwc</id>
-    <link href="https://www.reddit.com/r/linuxadmin/comments/1ln3zwc/the_year_of_the_european_union_linux_desktop_may/" rel="alternate"></link>
+    <title>2:reddit aggregaor: Do shell companies ever screw up their filings? What mistakes to look for in corp records?</title>
+    <updated>2025-06-29T12:22:56Z</updated>
+    <id>t3_1lndek2</id>
+    <link href="https://www.reddit.com/r/OSINT/comments/1lndek2/do_shell_companies_ever_screw_up_their_filings/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:reddit aggregaor: A collection of resources about normalization-by-evaluation</title>
+    <updated>2025-06-29T13:57:52Z</updated>
+    <id>t3_1lnfbmd</id>
+    <link href="https://www.reddit.com/r/haskell/comments/1lnfbmd/a_collection_of_resources_about/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:reddit aggregaor: How to read data on car wash prepaid card</title>
+    <updated>2025-06-29T19:37:25Z</updated>
+    <id>t3_1lnnhd9</id>
+    <link href="https://www.reddit.com/r/HowToHack/comments/1lnnhd9/how_to_read_data_on_car_wash_prepaid_card/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:reddit aggregaor: Simple methodology based note taking tool for bug bounty hunting and pentesting (offline, no trackers)</title>
+    <updated>2025-06-29T19:36:00Z</updated>
+    <id>t3_1lnng4l</id>
+    <link href="https://www.reddit.com/r/Hacking_Tutorials/comments/1lnng4l/simple_methodology_based_note_taking_tool_for_bug/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:reddit aggregaor: Just a SPARQL ORM</title>
@@ -118,45 +142,21 @@
     <link href="https://www.reddit.com/r/semanticweb/comments/1lngal4/just_a_sparql_orm/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:reddit aggregaor: Google IT Support Certificate- Coursera</title>
-    <updated>2025-06-29T15:55:00Z</updated>
-    <id>t3_1lni222</id>
-    <link href="https://www.reddit.com/r/Hacking_Tutorials/comments/1lni222/google_it_support_certificate_coursera/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:reddit aggregaor: Memory Obfuscation in Rust</title>
-    <updated>2025-06-29T12:57:13Z</updated>
-    <id>t3_1lne1ws</id>
-    <link href="https://www.reddit.com/r/redteamsec/comments/1lne1ws/memory_obfuscation_in_rust/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:reddit aggregaor: Diary of an Elm Developer - Exploring an API for form fields</title>
-    <updated>2025-06-29T08:30:56Z</updated>
-    <id>t3_1ln9pxa</id>
-    <link href="https://www.reddit.com/r/elm/comments/1ln9pxa/diary_of_an_elm_developer_exploring_an_api_for/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:reddit aggregaor: Vulnerable homelab</title>
-    <updated>2025-06-29T12:06:01Z</updated>
-    <id>t3_1lnd3c8</id>
-    <link href="https://www.reddit.com/r/HowToHack/comments/1lnd3c8/vulnerable_homelab/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:reddit aggregaor: I need any help i can to get my account back</title>
-    <updated>2025-06-29T17:50:32Z</updated>
-    <id>t3_1lnkvcc</id>
-    <link href="https://www.reddit.com/r/Hacking_Tricks/comments/1lnkvcc/i_need_any_help_i_can_to_get_my_account_back/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:reddit aggregaor: How to handle a split UDS/UDP message?</title>
-    <updated>2025-06-29T13:25:49Z</updated>
-    <id>t3_1lnen3v</id>
-    <link href="https://www.reddit.com/r/linux_programming/comments/1lnen3v/how_to_handle_a_split_udsudp_message/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:reddit aggregaor: Stuck on TryHackMe Windows Fundamentals 2</title>
     <updated>2025-06-29T16:03:41Z</updated>
     <id>t3_1lni9m5</id>
     <link href="https://www.reddit.com/r/tryhackme/comments/1lni9m5/stuck_on_tryhackme_windows_fundamentals_2/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:reddit aggregaor: @tailwindcss/forms plugin not working in v4</title>
+    <updated>2025-06-29T19:47:41Z</updated>
+    <id>t3_1lnnq8u</id>
+    <link href="https://www.reddit.com/r/tailwindcss/comments/1lnnq8u/tailwindcssforms_plugin_not_working_in_v4/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:reddit aggregaor: Sql course if you need to refresh your memory</title>
+    <updated>2025-06-29T22:47:44Z</updated>
+    <id>t3_1lnrx1z</id>
+    <link href="https://www.reddit.com/r/SQL/comments/1lnrx1z/sql_course_if_you_need_to_refresh_your_memory/" rel="alternate"></link>
   </entry>
 </feed>
