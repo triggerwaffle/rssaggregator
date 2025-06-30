@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-06-30T01:14:57Z</updated>
+  <updated>2025-06-30T06:22:20Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3130,6 +3130,30 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: sonyheadphonesclient</title>
+    <updated>2025-06-30T02:37:26Z</updated>
+    <id>sonyheadphonesclient-1751251046</id>
+    <link href="https://aur.archlinux.org/packages/sonyheadphonesclient" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: sonyheadphonesclient-bluetooth</title>
+    <updated>2025-06-30T02:00:26Z</updated>
+    <id>sonyheadphonesclient-bluetooth-1751248826</id>
+    <link href="https://aur.archlinux.org/packages/sonyheadphonesclient-bluetooth" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: termpicker-bin</title>
+    <updated>2025-06-30T01:54:30Z</updated>
+    <id>termpicker-bin-1751248470</id>
+    <link href="https://aur.archlinux.org/packages/termpicker-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: tailsdvd-git</title>
+    <updated>2025-06-30T01:52:56Z</updated>
+    <id>tailsdvd-git-1751248376</id>
+    <link href="https://aur.archlinux.org/packages/tailsdvd-git" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: liblastfm-qt6-git</title>
     <updated>2025-06-29T23:38:49Z</updated>
     <id>liblastfm-qt6-git-1751240329</id>
@@ -3706,28 +3730,76 @@
     <link href="https://aur.archlinux.org/packages/ugrd" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-pycpio</title>
-    <updated>2025-06-26T19:22:30Z</updated>
-    <id>python-pycpio-1750965750</id>
-    <link href="https://aur.archlinux.org/packages/python-pycpio" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-mwparserfromhell 0.7.1-1 x86_64</title>
+    <updated>2025-06-30T05:23:23Z</updated>
+    <id>tag:archlinux.org,2025-06-30:/packages/extra/x86_64/python-mwparserfromhell/202506300523</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-mwparserfromhell/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-zenlib</title>
-    <updated>2025-06-26T19:09:14Z</updated>
-    <id>python-zenlib-1750964954</id>
-    <link href="https://aur.archlinux.org/packages/python-zenlib" rel="alternate"></link>
+    <title>2:archlinux_new_packages: check-sieve 0.11-1 x86_64</title>
+    <updated>2025-06-30T05:23:23Z</updated>
+    <id>tag:archlinux.org,2025-06-30:/packages/extra/x86_64/check-sieve/202506300523</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/check-sieve/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: hostman-bin</title>
-    <updated>2025-06-26T19:08:29Z</updated>
-    <id>hostman-bin-1750964909</id>
-    <link href="https://aur.archlinux.org/packages/hostman-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: vhs 0.10.0-1 x86_64</title>
+    <updated>2025-06-30T05:17:33Z</updated>
+    <id>tag:archlinux.org,2025-06-30:/packages/extra/x86_64/vhs/202506300517</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/vhs/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: berry-git</title>
-    <updated>2025-06-26T18:44:42Z</updated>
-    <id>berry-git-1750963482</id>
-    <link href="https://aur.archlinux.org/packages/berry-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: libsidplayfp 2.15.0-1 x86_64</title>
+    <updated>2025-06-30T05:17:33Z</updated>
+    <id>tag:archlinux.org,2025-06-30:/packages/extra/x86_64/libsidplayfp/202506300517</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libsidplayfp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: sbcl 2.5.6-1 x86_64</title>
+    <updated>2025-06-30T05:17:19Z</updated>
+    <id>tag:archlinux.org,2025-06-30:/packages/extra-testing/x86_64/sbcl/202506300517</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/sbcl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-colord 1.4.8-1 x86_64</title>
+    <updated>2025-06-30T03:03:46Z</updated>
+    <id>tag:archlinux.org,2025-06-30:/packages/multilib/x86_64/lib32-colord/202506300303</id>
+    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-colord/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libcolord 1.4.8-1 x86_64</title>
+    <updated>2025-06-30T03:03:44Z</updated>
+    <id>tag:archlinux.org,2025-06-30:/packages/extra/x86_64/libcolord/202506300303</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libcolord/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: colord-sane 1.4.8-1 x86_64</title>
+    <updated>2025-06-30T03:03:43Z</updated>
+    <id>tag:archlinux.org,2025-06-30:/packages/extra/x86_64/colord-sane/202506300303</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/colord-sane/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: colord 1.4.8-1 x86_64</title>
+    <updated>2025-06-30T03:03:43Z</updated>
+    <id>tag:archlinux.org,2025-06-30:/packages/extra/x86_64/colord/202506300303</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/colord/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: colord-docs 1.4.8-1 x86_64</title>
+    <updated>2025-06-30T03:03:42Z</updated>
+    <id>tag:archlinux.org,2025-06-30:/packages/extra/x86_64/colord-docs/202506300303</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/colord-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-fontconfig 2:2.17.0-2 x86_64</title>
+    <updated>2025-06-30T01:22:33Z</updated>
+    <id>tag:archlinux.org,2025-06-30:/packages/multilib/x86_64/lib32-fontconfig/202506300122</id>
+    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-fontconfig/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: fontconfig 2:2.17.0-2 x86_64</title>
+    <updated>2025-06-30T01:22:29Z</updated>
+    <id>tag:archlinux.org,2025-06-30:/packages/extra/x86_64/fontconfig/202506300122</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/fontconfig/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: modemmanager-docs 1.24.0-2 x86_64</title>
@@ -3956,77 +4028,5 @@
     <updated>2025-06-29T23:05:00Z</updated>
     <id>tag:archlinux.org,2025-06-29:/packages/extra/x86_64/haskell-yesod-static/202506292305</id>
     <link href="https://archlinux.org/packages/extra/x86_64/haskell-yesod-static/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-yesod-persistent 1.6.0.8-377 x86_64</title>
-    <updated>2025-06-29T23:04:59Z</updated>
-    <id>tag:archlinux.org,2025-06-29:/packages/extra/x86_64/haskell-yesod-persistent/202506292304</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-yesod-persistent/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-yesod-form 1.7.9-16 x86_64</title>
-    <updated>2025-06-29T23:04:59Z</updated>
-    <id>tag:archlinux.org,2025-06-29:/packages/extra/x86_64/haskell-yesod-form/202506292304</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-yesod-form/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-yesod-core 1.6.27.0-18 x86_64</title>
-    <updated>2025-06-29T23:04:58Z</updated>
-    <id>tag:archlinux.org,2025-06-29:/packages/extra/x86_64/haskell-yesod-core/202506292304</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-yesod-core/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-yesod-auth 1.6.11.3-127 x86_64</title>
-    <updated>2025-06-29T23:04:58Z</updated>
-    <id>tag:archlinux.org,2025-06-29:/packages/extra/x86_64/haskell-yesod-auth/202506292304</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-yesod-auth/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-yesod 1.6.2.1-316 x86_64</title>
-    <updated>2025-06-29T23:04:58Z</updated>
-    <id>tag:archlinux.org,2025-06-29:/packages/extra/x86_64/haskell-yesod/202506292304</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-yesod/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-yaml 0.11.11.2-115 x86_64</title>
-    <updated>2025-06-29T23:04:57Z</updated>
-    <id>tag:archlinux.org,2025-06-29:/packages/extra/x86_64/haskell-yaml/202506292304</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-yaml/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-xml-hamlet 0.5.0.2-263 x86_64</title>
-    <updated>2025-06-29T23:04:57Z</updated>
-    <id>tag:archlinux.org,2025-06-29:/packages/extra/x86_64/haskell-xml-hamlet/202506292304</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-xml-hamlet/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-xml-conduit 1.9.1.4-52 x86_64</title>
-    <updated>2025-06-29T23:04:56Z</updated>
-    <id>tag:archlinux.org,2025-06-29:/packages/extra/x86_64/haskell-xml-conduit/202506292304</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-xml-conduit/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-xdg-desktop-entry 0.1.1.2-60 x86_64</title>
-    <updated>2025-06-29T23:04:56Z</updated>
-    <id>tag:archlinux.org,2025-06-29:/packages/extra/x86_64/haskell-xdg-desktop-entry/202506292304</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-xdg-desktop-entry/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-xcffib 1.5.0-21 x86_64</title>
-    <updated>2025-06-29T23:04:56Z</updated>
-    <id>tag:archlinux.org,2025-06-29:/packages/extra/x86_64/haskell-xcffib/202506292304</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-xcffib/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-wreq 0.5.4.3-106 x86_64</title>
-    <updated>2025-06-29T23:04:55Z</updated>
-    <id>tag:archlinux.org,2025-06-29:/packages/extra/x86_64/haskell-wreq/202506292304</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-wreq/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-what4 1.5.1-92 x86_64</title>
-    <updated>2025-06-29T23:04:55Z</updated>
-    <id>tag:archlinux.org,2025-06-29:/packages/extra/x86_64/haskell-what4/202506292304</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-what4/" rel="alternate"></link>
   </entry>
 </feed>
