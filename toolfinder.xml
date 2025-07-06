@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-07-06T01:17:00Z</updated>
+  <updated>2025-07-06T06:19:54Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3166,6 +3166,30 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: slack-bin</title>
+    <updated>2025-07-06T04:47:32Z</updated>
+    <id>slack-bin-1751777252</id>
+    <link href="https://aur.archlinux.org/packages/slack-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: aosp-overhaul</title>
+    <updated>2025-07-06T04:11:16Z</updated>
+    <id>aosp-overhaul-1751775076</id>
+    <link href="https://aur.archlinux.org/packages/aosp-overhaul" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: gitmastery-bin</title>
+    <updated>2025-07-06T02:40:16Z</updated>
+    <id>gitmastery-bin-1751769616</id>
+    <link href="https://aur.archlinux.org/packages/gitmastery-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: gitmastery</title>
+    <updated>2025-07-06T02:30:22Z</updated>
+    <id>gitmastery-1751769022</id>
+    <link href="https://aur.archlinux.org/packages/gitmastery" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: rmlint-shredder</title>
     <updated>2025-07-05T22:24:28Z</updated>
     <id>rmlint-shredder-1751754268</id>
@@ -3742,28 +3766,64 @@
     <link href="https://aur.archlinux.org/packages/video-guard-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: comm-line</title>
-    <updated>2025-07-02T14:12:44Z</updated>
-    <id>comm-line-1751465564</id>
-    <link href="https://aur.archlinux.org/packages/comm-line" rel="alternate"></link>
+    <title>2:archlinux_new_packages: eslint 9.30.1-1 any</title>
+    <updated>2025-07-06T05:54:15Z</updated>
+    <id>tag:archlinux.org,2025-07-06:/packages/extra/any/eslint/202507060554</id>
+    <link href="https://archlinux.org/packages/extra/any/eslint/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: davinci-resolve-community</title>
-    <updated>2025-07-02T13:29:03Z</updated>
-    <id>davinci-resolve-community-1751462943</id>
-    <link href="https://aur.archlinux.org/packages/davinci-resolve-community" rel="alternate"></link>
+    <title>2:archlinux_new_packages: vue-typescript-plugin 2.2.12-1 any</title>
+    <updated>2025-07-06T05:50:37Z</updated>
+    <id>tag:archlinux.org,2025-07-06:/packages/extra/any/vue-typescript-plugin/202507060550</id>
+    <link href="https://archlinux.org/packages/extra/any/vue-typescript-plugin/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: claude-tauri-desktop-git</title>
-    <updated>2025-07-02T13:26:40Z</updated>
-    <id>claude-tauri-desktop-git-1751462800</id>
-    <link href="https://aur.archlinux.org/packages/claude-tauri-desktop-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: vue-language-server 2.2.12-1 any</title>
+    <updated>2025-07-06T05:50:36Z</updated>
+    <id>tag:archlinux.org,2025-07-06:/packages/extra/any/vue-language-server/202507060550</id>
+    <link href="https://archlinux.org/packages/extra/any/vue-language-server/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: r2d2</title>
-    <updated>2025-07-02T12:59:04Z</updated>
-    <id>r2d2-1751461144</id>
-    <link href="https://aur.archlinux.org/packages/r2d2" rel="alternate"></link>
+    <title>2:archlinux_new_packages: tailwindcss-language-server 0.14.24-1 any</title>
+    <updated>2025-07-06T05:45:04Z</updated>
+    <id>tag:archlinux.org,2025-07-06:/packages/extra/any/tailwindcss-language-server/202507060545</id>
+    <link href="https://archlinux.org/packages/extra/any/tailwindcss-language-server/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: termusic 0.11.0-3 x86_64</title>
+    <updated>2025-07-06T05:31:24Z</updated>
+    <id>tag:archlinux.org,2025-07-06:/packages/extra/x86_64/termusic/202507060531</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/termusic/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: cargo-llvm-cov 0.6.17-1 x86_64</title>
+    <updated>2025-07-06T05:20:12Z</updated>
+    <id>tag:archlinux.org,2025-07-06:/packages/extra/x86_64/cargo-llvm-cov/202507060520</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/cargo-llvm-cov/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: onefetch 2.25.0-1 x86_64</title>
+    <updated>2025-07-06T05:02:49Z</updated>
+    <id>tag:archlinux.org,2025-07-06:/packages/extra/x86_64/onefetch/202507060502</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/onefetch/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: cargo-udeps 0.1.57-1 x86_64</title>
+    <updated>2025-07-06T05:02:48Z</updated>
+    <id>tag:archlinux.org,2025-07-06:/packages/extra/x86_64/cargo-udeps/202507060502</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/cargo-udeps/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: inferno 0.12.3-1 x86_64</title>
+    <updated>2025-07-06T04:49:31Z</updated>
+    <id>tag:archlinux.org,2025-07-06:/packages/extra/x86_64/inferno/202507060449</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/inferno/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: vaultwarden 1.34.1-2 x86_64</title>
+    <updated>2025-07-06T03:40:33Z</updated>
+    <id>tag:archlinux.org,2025-07-06:/packages/extra/x86_64/vaultwarden/202507060340</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/vaultwarden/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: ruff 0.12.2-1 x86_64</title>
@@ -4004,65 +4064,5 @@
     <updated>2025-07-05T14:29:05Z</updated>
     <id>tag:archlinux.org,2025-07-05:/packages/extra-testing/x86_64/nzbget/202507051429</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/nzbget/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: luau 0.681-1 x86_64</title>
-    <updated>2025-07-05T14:29:04Z</updated>
-    <id>tag:archlinux.org,2025-07-05:/packages/extra-testing/x86_64/luau/202507051429</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/luau/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-hypothesis 6.135.26-1 any</title>
-    <updated>2025-07-05T14:29:03Z</updated>
-    <id>tag:archlinux.org,2025-07-05:/packages/extra-testing/any/python-hypothesis/202507051429</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-hypothesis/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-httpx-aiohttp 0.1.8-1 any</title>
-    <updated>2025-07-05T14:29:03Z</updated>
-    <id>tag:archlinux.org,2025-07-05:/packages/extra-testing/any/python-httpx-aiohttp/202507051429</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-httpx-aiohttp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: rpm-sequoia 1.9.0-1 x86_64</title>
-    <updated>2025-07-05T14:05:53Z</updated>
-    <id>tag:archlinux.org,2025-07-05:/packages/extra/x86_64/rpm-sequoia/202507051405</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/rpm-sequoia/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-coverage 7.9.2-1 x86_64</title>
-    <updated>2025-07-05T14:05:52Z</updated>
-    <id>tag:archlinux.org,2025-07-05:/packages/extra/x86_64/python-coverage/202507051405</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/python-coverage/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-pytest-container 0.4.4-1 any</title>
-    <updated>2025-07-05T14:05:51Z</updated>
-    <id>tag:archlinux.org,2025-07-05:/packages/extra/any/python-pytest-container/202507051405</id>
-    <link href="https://archlinux.org/packages/extra/any/python-pytest-container/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: wrangler 4.23.0-1 x86_64</title>
-    <updated>2025-07-05T13:46:28Z</updated>
-    <id>tag:archlinux.org,2025-07-05:/packages/extra/x86_64/wrangler/202507051346</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/wrangler/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: harper 0.48.0-1 x86_64</title>
-    <updated>2025-07-05T13:44:13Z</updated>
-    <id>tag:archlinux.org,2025-07-05:/packages/extra/x86_64/harper/202507051344</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/harper/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: psalm 6.12.1-1 any</title>
-    <updated>2025-07-05T13:41:11Z</updated>
-    <id>tag:archlinux.org,2025-07-05:/packages/extra/any/psalm/202507051341</id>
-    <link href="https://archlinux.org/packages/extra/any/psalm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: melange 0.29.0-1 x86_64</title>
-    <updated>2025-07-05T13:40:04Z</updated>
-    <id>tag:archlinux.org,2025-07-05:/packages/extra/x86_64/melange/202507051340</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/melange/" rel="alternate"></link>
   </entry>
 </feed>
