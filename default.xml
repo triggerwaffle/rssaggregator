@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-07-09T12:29:38Z</updated>
+  <updated>2025-07-09T18:20:31Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -982,7 +982,13 @@
     <link href="https://www.youtube.com/watch?v=3jdKH6bLgUE" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:publickey: Nuxt.jsの開発元NuxtLabs、Next.jsの開発元Vercelへの合流を発表</title>
+    <title>2:publickey: Amazon DynamoDB、複数リージョンでも強整合性によるデータの一貫性を提供開始</title>
+    <updated>2025-07-09T14:39:34Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8251</id>
+    <link href="https://www.publickey1.jp/blog/25/amazon_dynamodb.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: Nuxtの開発元NuxtLabs、Next.jsの開発元Vercelへの合流を発表</title>
     <updated>2025-07-08T15:07:18Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8250</id>
     <link href="https://www.publickey1.jp/blog/25/nuxtjsnuxt_labsnextjsvercel.html" rel="alternate"></link>
@@ -1064,12 +1070,6 @@
     <updated>2025-06-25T15:47:23Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8237</id>
     <link href="https://www.publickey1.jp/blog/25/android_studiogeminiai.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: AWS、Google、マイクロソフトらがAIエージェント連携のため「Agent2Agentプロジェクト」設立。Linux Foundation傘下で</title>
-    <updated>2025-06-24T14:53:25Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8236</id>
-    <link href="https://www.publickey1.jp/blog/25/awsgoogleaiagent2agentlinux_foundation.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: ローカルLLM実行環境LM Studio、企業・組織での商用利用を無料に</title>
@@ -4438,28 +4438,10 @@
     <link href="https://gihyo.jp/article/2024/07/pycon-us-2024-03?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: <model-viewer>を使って3Dモデルをノーコードで表示</title>
-    <updated>2024-07-15T23:55:00Z</updated>
-    <id>urn:uuid:a9d7875e-5838-35c6-6906-6d30eaa2586b</id>
-    <link href="https://gihyo.jp/article/2024/07/misskey-14?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: Ubuntu 24.10（oracular）の開発; 各種フレーバーを含む壁紙コンテストのリニューアル、“Firefighting Support”</title>
     <updated>2024-07-12T00:35:00Z</updated>
     <id>urn:uuid:cb5331c1-e7e2-e623-29ae-b1646390c885</id>
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202407/12?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: FlutterとUnityを連携させる</title>
-    <updated>2024-07-11T00:14:00Z</updated>
-    <id>urn:uuid:1d7cafb8-e35d-6dc2-70ba-9a259107f821</id>
-    <link href="https://gihyo.jp/article/2024/07/flutter-unity-04?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: 3大クラウド×日米両リージョンでハニーポットを動かしてみる【後編】</title>
-    <updated>2024-07-11T00:08:00Z</updated>
-    <id>urn:uuid:6f7fa6a6-5cf3-a2ec-be2f-f3b29c00fc57</id>
-    <link href="https://gihyo.jp/article/2024/07/hosting-honeypot-on-cloud-02?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Androidの「デバイス探す」が再設計されています</title>
@@ -4474,58 +4456,10 @@
     <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0821?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 何者かがAIを使って米国務長官を装い 複数の国の外相らと連絡 | NHK</title>
-    <updated>2025-07-09T01:00:36Z</updated>
-    <id>tag:www3.nhk.or.jp,2025-07-09:/news/html/20250709/k10014857921000.html</id>
-    <link href="https://www3.nhk.or.jp/news/html/20250709/k10014857921000.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: LLMは新しい抽象化をもたらす - Martin Fowler's Bliki (ja)</title>
     <updated>2025-07-09T05:49:59Z</updated>
     <id>tag:bliki-ja.github.io,2025-07-09:/LLMsBringNewNatureOfAbstraction</id>
     <link href="https://bliki-ja.github.io/LLMsBringNewNatureOfAbstraction" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: DBのスキルで生き残る技術 - AI時代におけるテーブル設計の勘所</title>
-    <updated>2025-07-08T13:53:56Z</updated>
-    <id>tag:speakerdeck.com,2025-07-08:/soudai/survival-db-skill</id>
-    <link href="https://speakerdeck.com/soudai/survival-db-skill" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「オレオ」を分離すると、なぜ片方にクリームが残る？　米MITが本気で研究「オレオロジー」　22年に発表</title>
-    <updated>2025-07-08T23:37:01Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-07-08:/news/articles/2507/09/news008.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2507/09/news008.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 画像生成AI「Stable Diffusion」、性的コンテンツでの利用を禁止に　開発会社が規約改定へ</title>
-    <updated>2025-07-09T02:51:25Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-07-09:/news/articles/2507/09/news076.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2507/09/news076.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: SwitchBot、2980円の防犯ブザー　Apple「探す」対応</title>
-    <updated>2025-07-08T09:01:46Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-07-08:/docs/news/2029428.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2029428.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: アップデートした「Grok」がイーロン・マスクになりすまし自らを「メカ・ヒトラー」と呼び反ユダヤ主義を主張してくると批判が集まる</title>
-    <updated>2025-07-09T05:30:56Z</updated>
-    <id>tag:gigazine.net,2025-07-09:/news/20250709-grok-update-conspiracy-jewish/</id>
-    <link href="https://gigazine.net/news/20250709-grok-update-conspiracy-jewish/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: サイボウズ、新卒エンジニア向け研修資料を無料公開　AIツール「Dify」や「GitHub Copilot」など全19種</title>
-    <updated>2025-07-09T03:03:10Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-07-09:/news/articles/2507/09/news074.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2507/09/news074.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: LINEヤフー新卒研修「わかりやすい文章の書き方講座」を一部抜粋して公開します</title>
-    <updated>2025-07-08T07:29:34Z</updated>
-    <id>tag:techblog.lycorp.co.jp,2025-07-08:/ja/20250708b</id>
-    <link href="https://techblog.lycorp.co.jp/ja/20250708b" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ローカルLLM実行環境LM Studio、企業・組織での商用利用を無料に | gihyo.jp</title>
@@ -4534,10 +4468,40 @@
     <link href="https://gihyo.jp/article/2025/07/lm-studio-is-free-for-work" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 高校のワイ「作者の気持ちなんて考えて何になるんだよ」就職後、ITシステム設計に従事したワイ「うわあぁぁぁぁーーーーーーーーー!! 前任者の設計意図ーーーーーーーーー!!」</title>
-    <updated>2025-07-09T01:36:02Z</updated>
-    <id>tag:togetter.com,2025-07-09:/li/2573810</id>
-    <link href="https://togetter.com/li/2573810" rel="alternate"></link>
+    <title>1:hatena_blog_it: 何者かがAIを使って米国務長官を装い 複数の国の外相らと連絡 | NHK</title>
+    <updated>2025-07-09T01:00:36Z</updated>
+    <id>tag:www3.nhk.or.jp,2025-07-09:/news/html/20250709/k10014857921000.html</id>
+    <link href="https://www3.nhk.or.jp/news/html/20250709/k10014857921000.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 画像生成AI「Stable Diffusion」、性的コンテンツでの利用を禁止に　開発会社が規約改定へ</title>
+    <updated>2025-07-09T02:51:25Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-07-09:/news/articles/2507/09/news076.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2507/09/news076.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: サイボウズ、新卒エンジニア向け研修資料を無料公開　AIツール「Dify」や「GitHub Copilot」など全19種</title>
+    <updated>2025-07-09T03:03:10Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-07-09:/news/articles/2507/09/news074.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2507/09/news074.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「オレオ」を分離すると、なぜ片方にクリームが残る？　米MITが本気で研究「オレオロジー」　22年に発表</title>
+    <updated>2025-07-08T23:37:01Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-07-08:/news/articles/2507/09/news008.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2507/09/news008.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: DBのスキルで生き残る技術 - AI時代におけるテーブル設計の勘所</title>
+    <updated>2025-07-08T13:53:56Z</updated>
+    <id>tag:speakerdeck.com,2025-07-08:/soudai/survival-db-skill</id>
+    <link href="https://speakerdeck.com/soudai/survival-db-skill" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: アップデートした「Grok」がイーロン・マスクになりすまし自らを「メカ・ヒトラー」と呼び反ユダヤ主義を主張してくると批判が集まる</title>
+    <updated>2025-07-09T05:30:56Z</updated>
+    <id>tag:gigazine.net,2025-07-09:/news/20250709-grok-update-conspiracy-jewish/</id>
+    <link href="https://gigazine.net/news/20250709-grok-update-conspiracy-jewish/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 魚拓を取る奴ら全員地獄に落ちろクソが</title>
@@ -4546,10 +4510,40 @@
     <link href="https://anond.hatelabo.jp/20250709081021" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Webデザインやってた時に『無印良品みたいな簡単なデザインでいい』って言われて、無印なめてんのか？ってなった事ある</title>
-    <updated>2025-07-09T01:53:58Z</updated>
-    <id>tag:togetter.com,2025-07-09:/li/2573800</id>
-    <link href="https://togetter.com/li/2573800" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIのプロトコル「MCP」経由でSQLデータベース全体を漏洩させる可能性がある手法が発見される</title>
+    <updated>2025-07-09T12:20:59Z</updated>
+    <id>tag:gigazine.net,2025-07-09:/news/20250709-mcp-sql-leak/</id>
+    <link href="https://gigazine.net/news/20250709-mcp-sql-leak/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 破産した秀和システムの出版事業を引き継いだ会社からの連絡を読んで、思わず笑ってしまった（CloseBox） | テクノエッジ TechnoEdge</title>
+    <updated>2025-07-09T09:25:23Z</updated>
+    <id>tag:www.techno-edge.net,2025-07-09:/article/2025/07/09/4471.html</id>
+    <link href="https://www.techno-edge.net/article/2025/07/09/4471.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIともっと楽するE2Eテスト</title>
+    <updated>2025-07-08T21:51:32Z</updated>
+    <id>tag:speakerdeck.com,2025-07-08:/myohei/aitomotutole-surue2etesuto</id>
+    <link href="https://speakerdeck.com/myohei/aitomotutole-surue2etesuto" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: NVIDIA時価総額、世界初の4兆ドル突破　AI成長期待で - 日本経済新聞</title>
+    <updated>2025-07-09T14:17:40Z</updated>
+    <id>tag:www.nikkei.com,2025-07-09:/article/DGXZQOGN098R70Z00C25A7000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN098R70Z00C25A7000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: SwitchBot、2980円の防犯ブザー　Apple「探す」対応</title>
+    <updated>2025-07-08T09:01:46Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-07-08:/docs/news/2029428.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2029428.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: LINEヤフー新卒研修「わかりやすい文章の書き方講座」を一部抜粋して公開します</title>
+    <updated>2025-07-08T07:29:34Z</updated>
+    <id>tag:techblog.lycorp.co.jp,2025-07-08:/ja/20250708b</id>
+    <link href="https://techblog.lycorp.co.jp/ja/20250708b" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 日常的にClaude Codeを使うようになって便利だと思ったTips集</title>
@@ -4558,22 +4552,10 @@
     <link href="https://zenn.dev/yareyare/articles/99f176a8b1c3a9" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Code + Container Use と Cursor で作る ローカル並列開発環境のススメ / ccc local dev</title>
-    <updated>2025-07-08T16:14:08Z</updated>
-    <id>tag:speakerdeck.com,2025-07-08:/kaelaela/ccc-local-dev</id>
-    <link href="https://speakerdeck.com/kaelaela/ccc-local-dev" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Cursorの価格設定変更の騒動について</title>
-    <updated>2025-07-07T22:04:57Z</updated>
-    <id>tag:blog.lai.so,2025-07-07:/cursor-pricing/</id>
-    <link href="https://blog.lai.so/cursor-pricing/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 社内AI推進者はつらいよ｜Kakko🌸🌈</title>
-    <updated>2025-07-08T04:01:25Z</updated>
-    <id>tag:note.com,2025-07-08:/kakowara/n/n46ca355a6aa6</id>
-    <link href="https://note.com/kakowara/n/n46ca355a6aa6" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【配信修行僧】 OBSにゲームの勝敗や死亡を自動判定させる方法、解説します</title>
+    <updated>2025-07-09T00:08:36Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-07-09:/docs/column/haishin_shugyousou/2029483.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/haishin_shugyousou/2029483.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 世界初、発電船で電力供給する「洋上データセンター」を商船三井とKaradenizが共同開発　</title>
@@ -4582,10 +4564,22 @@
     <link href="https://internet.watch.impress.co.jp/docs/news/2029584.html" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: chezmoiでdotfilesを1年間運用した知見について | Wantedly Engineer Blog</title>
+    <updated>2025-07-09T06:57:25Z</updated>
+    <id>tag:www.wantedly.com,2025-07-09:/companies/wantedly/post_articles/990055</id>
+    <link href="https://www.wantedly.com/companies/wantedly/post_articles/990055" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 米テスラの苦境、思った以上に深刻か</title>
     <updated>2025-07-09T01:49:47Z</updated>
     <id>tag:www.cnn.co.jp,2025-07-09:/business/35235275.html</id>
     <link href="https://www.cnn.co.jp/business/35235275.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「本当に大きい」データセンター</title>
+    <updated>2025-07-09T11:16:31Z</updated>
+    <id>tag:xtech.nikkei.com,2025-07-09:/atcl/nxt/mag/nc/18/070200496/070200001/</id>
+    <link href="https://xtech.nikkei.com/atcl/nxt/mag/nc/18/070200496/070200001/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Arm版Windows 11で「ATOK」が問題なく使える日は来るのか？　Qualcomm日本法人のPC事業責任者の見解</title>
@@ -4594,28 +4588,28 @@
     <link href="https://www.itmedia.co.jp/pcuser/articles/2507/09/news063.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 開発生産性を測る前にやるべきこと - 組織改善の実践 / Before Measuring Dev Productivity</title>
-    <updated>2025-07-08T15:50:55Z</updated>
-    <id>tag:speakerdeck.com,2025-07-08:/kaonavi/before-measuring-dev-productivity</id>
-    <link href="https://speakerdeck.com/kaonavi/before-measuring-dev-productivity" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「Gemini」が他アプリのデータにアクセス--「Android」ユーザーが今すぐできる対策とは</title>
+    <updated>2025-07-09T01:44:24Z</updated>
+    <id>tag:japan.zdnet.com,2025-07-09:/article/35235285/</id>
+    <link href="https://japan.zdnet.com/article/35235285/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【配信修行僧】 OBSにゲームの勝敗や死亡を自動判定させる方法、解説します</title>
-    <updated>2025-07-09T00:08:36Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-07-09:/docs/column/haishin_shugyousou/2029483.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/haishin_shugyousou/2029483.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: VS Codeで注目のMCPを実践　「SQLite MCP」「Playwright MCP」でデータとテストコードを生成する方法</title>
+    <updated>2025-07-09T00:08:11Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2025-07-09:/ait/articles/2507/09/news005.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2507/09/news005.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: IIJの皆さんと「掘り下げると長くなるネットの疑問～IIJに聞きました」という連載を始めます 【INTERNET Watch編集部コラム】</title>
-    <updated>2025-07-08T23:42:35Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2025-07-08:/docs/column/editors/2026700.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/column/editors/2026700.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Windows機能アップグレードの強制が廃止か</title>
+    <updated>2025-07-09T02:36:27Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-07-09:/docs/news/2029436.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2029436.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【特集】 5万円台までで普通に使える激安ミニPCはどう選ぶ？コスパ良好なオススメ5モデルにも注目</title>
-    <updated>2025-07-08T22:14:09Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-07-08:/docs/topic/feature/2029462.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2029462.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 高校のワイ「作者の気持ちなんて考えて何になるんだよ」就職後、ITシステム設計に従事したワイ「うわあぁぁぁぁーーーーーーーーー!! 前任者の設計意図ーーーーーーーーー!!」</title>
+    <updated>2025-07-09T01:36:02Z</updated>
+    <id>tag:togetter.com,2025-07-09:/li/2573810</id>
+    <link href="https://togetter.com/li/2573810" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: イーロン・マスク氏の生成ＡＩ、反ユダヤ的な回答を突然連発　</title>
@@ -4624,21 +4618,9 @@
     <link href="https://www.cnn.co.jp/tech/35235295.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Code に プロジェクト管理やらせたみた</title>
-    <updated>2025-07-08T16:13:22Z</updated>
-    <id>tag:speakerdeck.com,2025-07-08:/unson/claude-code-ni-puroziekutoguan-li-yarasetamita</id>
-    <link href="https://speakerdeck.com/unson/claude-code-ni-puroziekutoguan-li-yarasetamita" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「Gemini」が他アプリのデータにアクセス--「Android」ユーザーが今すぐできる対策とは</title>
-    <updated>2025-07-09T01:44:24Z</updated>
-    <id>tag:japan.zdnet.com,2025-07-09:/article/35235285/</id>
-    <link href="https://japan.zdnet.com/article/35235285/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: chezmoiでdotfilesを1年間運用した知見について | Wantedly Engineer Blog</title>
-    <updated>2025-07-09T06:57:25Z</updated>
-    <id>tag:www.wantedly.com,2025-07-09:/companies/wantedly/post_articles/990055</id>
-    <link href="https://www.wantedly.com/companies/wantedly/post_articles/990055" rel="alternate"></link>
+    <title>1:hatena_blog_it: Webデザインやってた時に『無印良品みたいな簡単なデザインでいい』って言われて、無印なめてんのか？ってなった事ある</title>
+    <updated>2025-07-09T01:53:58Z</updated>
+    <id>tag:togetter.com,2025-07-09:/li/2573800</id>
+    <link href="https://togetter.com/li/2573800" rel="alternate"></link>
   </entry>
 </feed>
