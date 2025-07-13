@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-07-12T18:18:59Z</updated>
+  <updated>2025-07-13T01:19:15Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3202,6 +3202,24 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: spotube-nightly-bin</title>
+    <updated>2025-07-12T21:09:23Z</updated>
+    <id>spotube-nightly-bin-1752354563</id>
+    <link href="https://aur.archlinux.org/packages/spotube-nightly-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: superfan</title>
+    <updated>2025-07-12T19:39:26Z</updated>
+    <id>superfan-1752349166</id>
+    <link href="https://aur.archlinux.org/packages/superfan" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: binutils-mipsel-linux-gnu</title>
+    <updated>2025-07-12T18:48:47Z</updated>
+    <id>binutils-mipsel-linux-gnu-1752346127</id>
+    <link href="https://aur.archlinux.org/packages/binutils-mipsel-linux-gnu" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: sameboy-highscore-git</title>
     <updated>2025-07-12T17:51:10Z</updated>
     <id>sameboy-highscore-git-1752342670</id>
@@ -3784,34 +3802,154 @@
     <link href="https://aur.archlinux.org/packages/haskell-bmp" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: xfce4-zorinappgridlite-plugin-elite</title>
-    <updated>2025-07-09T16:21:19Z</updated>
-    <id>xfce4-zorinappgridlite-plugin-elite-1752078079</id>
-    <link href="https://aur.archlinux.org/packages/xfce4-zorinappgridlite-plugin-elite" rel="alternate"></link>
+    <title>2:archlinux_new_packages: perl-term-readline-gnu 1.47-1 x86_64</title>
+    <updated>2025-07-12T23:36:03Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/perl-term-readline-gnu/202507122336</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/perl-term-readline-gnu/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: haskell-gloss-rendering</title>
-    <updated>2025-07-09T16:20:49Z</updated>
-    <id>haskell-gloss-rendering-1752078049</id>
-    <link href="https://aur.archlinux.org/packages/haskell-gloss-rendering" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-tappy 3.2.1-1 any</title>
+    <updated>2025-07-12T23:36:02Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/any/python-tappy/202507122336</id>
+    <link href="https://archlinux.org/packages/extra/any/python-tappy/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: ruby-ruby_wasm</title>
-    <updated>2025-07-09T15:56:32Z</updated>
-    <id>ruby-ruby_wasm-1752076592</id>
-    <link href="https://aur.archlinux.org/packages/ruby-ruby_wasm" rel="alternate"></link>
+    <title>2:archlinux_new_packages: swayosd 0.2.1-1 x86_64</title>
+    <updated>2025-07-12T21:57:57Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/swayosd/202507122157</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/swayosd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: esptool 5.0.0-1 any</title>
+    <updated>2025-07-12T21:57:56Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/any/esptool/202507122157</id>
+    <link href="https://archlinux.org/packages/extra/any/esptool/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-aioesphomeapi 34.2.1-1 x86_64</title>
+    <updated>2025-07-12T21:56:45Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/python-aioesphomeapi/202507122156</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-aioesphomeapi/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libkrunfw 4.10.0-1 x86_64</title>
+    <updated>2025-07-12T21:40:07Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/libkrunfw/202507122140</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libkrunfw/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libkrun 1.14.0-1 x86_64</title>
+    <updated>2025-07-12T21:38:26Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/libkrun/202507122138</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libkrun/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: bazel 8.3.1-1 x86_64</title>
+    <updated>2025-07-12T21:38:26Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/bazel/202507122138</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/bazel/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: tree-sitter-cli 0.25.7-1 x86_64</title>
+    <updated>2025-07-12T21:34:45Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/tree-sitter-cli/202507122134</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/tree-sitter-cli/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: tree-sitter 0.25.7-1 x86_64</title>
+    <updated>2025-07-12T21:34:45Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/tree-sitter/202507122134</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/tree-sitter/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: neovim 0.11.3-1 x86_64</title>
+    <updated>2025-07-12T21:25:37Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/neovim/202507122125</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/neovim/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: eza 0.22.1-1 x86_64</title>
+    <updated>2025-07-12T19:57:13Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/eza/202507121957</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/eza/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: perl-nix 2.30.1-1 x86_64</title>
+    <updated>2025-07-12T19:50:01Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/perl-nix/202507121950</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/perl-nix/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: nix 2.30.1-1 x86_64</title>
+    <updated>2025-07-12T19:50:01Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/nix/202507121950</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/nix/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lua53-system 0.6.3-1 x86_64</title>
+    <updated>2025-07-12T19:50:01Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/lua53-system/202507121950</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/lua53-system/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lua52-system 0.6.3-1 x86_64</title>
+    <updated>2025-07-12T19:50:00Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/lua52-system/202507121950</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/lua52-system/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lua51-system 0.6.3-1 x86_64</title>
+    <updated>2025-07-12T19:50:00Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/lua51-system/202507121950</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/lua51-system/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lua-system 0.6.3-1 x86_64</title>
+    <updated>2025-07-12T19:49:59Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/lua-system/202507121949</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/lua-system/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-hypothesis 6.135.29-1 any</title>
+    <updated>2025-07-12T19:46:21Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/any/python-hypothesis/202507121946</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-hypothesis/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: dragon 25.07.80-2 x86_64</title>
+    <updated>2025-07-12T18:51:12Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/kde-unstable/x86_64/dragon/202507121851</id>
+    <link href="https://archlinux.org/packages/kde-unstable/x86_64/dragon/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: readline 8.3.0-3 x86_64</title>
+    <updated>2025-07-12T18:49:18Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/core/x86_64/readline/202507121849</id>
+    <link href="https://archlinux.org/packages/core/x86_64/readline/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: bash 5.3.0-1 x86_64</title>
+    <updated>2025-07-12T18:49:17Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/core/x86_64/bash/202507121849</id>
+    <link href="https://archlinux.org/packages/core/x86_64/bash/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: xbuild 0.2.0-1 x86_64</title>
+    <updated>2025-07-12T18:38:28Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/xbuild/202507121838</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/xbuild/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: arti 1.4.5-1 x86_64</title>
+    <updated>2025-07-12T18:19:48Z</updated>
+    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/arti/202507121819</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/arti/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: tree-sitter-vim 0.7.0-1 x86_64</title>
     <updated>2025-07-12T17:37:19Z</updated>
     <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/tree-sitter-vim/202507121737</id>
     <link href="https://archlinux.org/packages/extra/x86_64/tree-sitter-vim/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: neovim 0.11.2-4 x86_64</title>
-    <updated>2025-07-12T17:37:18Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/neovim/202507121737</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/neovim/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: umu-launcher 1.2.9-1 x86_64</title>
@@ -3962,143 +4100,5 @@
     <updated>2025-07-12T10:17:03Z</updated>
     <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/x86_64/aws-sdk-cpp-iam/202507121017</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-sdk-cpp-iam/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-sdk-cpp-firehose 1.11.603-1 x86_64</title>
-    <updated>2025-07-12T10:17:03Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/x86_64/aws-sdk-cpp-firehose/202507121017</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-sdk-cpp-firehose/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-sdk-cpp-ec2 1.11.603-1 x86_64</title>
-    <updated>2025-07-12T10:17:02Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/x86_64/aws-sdk-cpp-ec2/202507121017</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-sdk-cpp-ec2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-sdk-cpp-core 1.11.603-1 x86_64</title>
-    <updated>2025-07-12T10:17:02Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/x86_64/aws-sdk-cpp-core/202507121017</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-sdk-cpp-core/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-sdk-cpp 1.11.603-1 x86_64</title>
-    <updated>2025-07-12T10:16:57Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/x86_64/aws-sdk-cpp/202507121016</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-sdk-cpp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-cli 1.41.4-1 any</title>
-    <updated>2025-07-12T10:08:55Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/any/aws-cli/202507121008</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/aws-cli/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-cfn-lint 1.37.2-1 any</title>
-    <updated>2025-07-12T10:05:56Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/any/python-cfn-lint/202507121005</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-cfn-lint/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-moto 5.1.8-1 any</title>
-    <updated>2025-07-12T10:03:21Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/any/python-moto/202507121003</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-moto/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: kea-docs 3.0.0-4 x86_64</title>
-    <updated>2025-07-12T09:41:55Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/kea-docs/202507120941</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/kea-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: kea 3.0.0-4 x86_64</title>
-    <updated>2025-07-12T09:41:55Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/kea/202507120941</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/kea/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: hugo 0.148.1-1 x86_64</title>
-    <updated>2025-07-12T09:41:54Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/hugo/202507120941</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/hugo/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-fastapi 0.116.1-1 any</title>
-    <updated>2025-07-12T09:41:53Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra/any/python-fastapi/202507120941</id>
-    <link href="https://archlinux.org/packages/extra/any/python-fastapi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-boto3 1.39.4-1 any</title>
-    <updated>2025-07-12T09:15:48Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/any/python-boto3/202507120915</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-boto3/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: plasma-login-manager 6.4.git20250712-2 x86_64</title>
-    <updated>2025-07-12T09:11:53Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/kde-unstable/x86_64/plasma-login-manager/202507120911</id>
-    <link href="https://archlinux.org/packages/kde-unstable/x86_64/plasma-login-manager/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-botocore 1.39.4-1 any</title>
-    <updated>2025-07-12T09:10:52Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/any/python-botocore/202507120910</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-botocore/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-crt-cpp 0.33.0-1 x86_64</title>
-    <updated>2025-07-12T09:05:48Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/x86_64/aws-crt-cpp/202507120905</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-crt-cpp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: swaync 0.12.0-1 x86_64</title>
-    <updated>2025-07-12T09:03:53Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/x86_64/swaync/202507120903</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/swaync/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-c-io 0.21.0-1 x86_64</title>
-    <updated>2025-07-12T09:03:52Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/x86_64/aws-c-io/202507120903</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-c-io/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: autotiling-rs 0.1.5-1 x86_64</title>
-    <updated>2025-07-12T08:59:58Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra/x86_64/autotiling-rs/202507120859</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/autotiling-rs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: s2n-tls 1.5.22-1 x86_64</title>
-    <updated>2025-07-12T08:58:53Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/x86_64/s2n-tls/202507120858</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/s2n-tls/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: aws-c-common 0.12.4-1 x86_64</title>
-    <updated>2025-07-12T08:54:18Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/x86_64/aws-c-common/202507120854</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/aws-c-common/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: traefik 3.4.4-1 x86_64</title>
-    <updated>2025-07-12T08:49:30Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/x86_64/traefik/202507120849</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/traefik/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-flask-compress 1.18-1 any</title>
-    <updated>2025-07-12T08:43:01Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/any/python-flask-compress/202507120843</id>
-    <link href="https://archlinux.org/packages/extra-testing/any/python-flask-compress/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: golangci-lint 2.2.2-1 x86_64</title>
-    <updated>2025-07-12T08:40:47Z</updated>
-    <id>tag:archlinux.org,2025-07-12:/packages/extra-testing/x86_64/golangci-lint/202507120840</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/golangci-lint/" rel="alternate"></link>
   </entry>
 </feed>
