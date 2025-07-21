@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-07-21T01:18:17Z</updated>
+  <updated>2025-07-21T06:23:36Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3238,6 +3238,30 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: nmgui-bin</title>
+    <updated>2025-07-21T06:19:06Z</updated>
+    <id>nmgui-bin-1753078746</id>
+    <link href="https://aur.archlinux.org/packages/nmgui-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: pickle-glass-git</title>
+    <updated>2025-07-21T05:37:08Z</updated>
+    <id>pickle-glass-git-1753076228</id>
+    <link href="https://aur.archlinux.org/packages/pickle-glass-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: lrzsz-shim</title>
+    <updated>2025-07-21T04:27:37Z</updated>
+    <id>lrzsz-shim-1753072057</id>
+    <link href="https://aur.archlinux.org/packages/lrzsz-shim" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: huion-keydial-mini-driver</title>
+    <updated>2025-07-21T01:51:24Z</updated>
+    <id>huion-keydial-mini-driver-1753062684</id>
+    <link href="https://aur.archlinux.org/packages/huion-keydial-mini-driver" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: spacefm-gtk2-bin</title>
     <updated>2025-07-21T00:58:03Z</updated>
     <id>spacefm-gtk2-bin-1753059483</id>
@@ -3814,28 +3838,76 @@
     <link href="https://aur.archlinux.org/packages/forge-gui-desktop-snapshot-bin" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: shatteredprism</title>
-    <updated>2025-07-18T07:10:43Z</updated>
-    <id>shatteredprism-1752822643</id>
-    <link href="https://aur.archlinux.org/packages/shatteredprism" rel="alternate"></link>
+    <title>2:archlinux_new_packages: wofi 1.5-1 x86_64</title>
+    <updated>2025-07-21T06:12:10Z</updated>
+    <id>tag:archlinux.org,2025-07-21:/packages/extra-testing/x86_64/wofi/202507210612</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/wofi/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: shatteredprism-bin</title>
-    <updated>2025-07-18T07:05:47Z</updated>
-    <id>shatteredprism-bin-1752822347</id>
-    <link href="https://aur.archlinux.org/packages/shatteredprism-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: pacredir 0.7.2-1 x86_64</title>
+    <updated>2025-07-21T05:24:37Z</updated>
+    <id>tag:archlinux.org,2025-07-21:/packages/extra/x86_64/pacredir/202507210524</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/pacredir/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-livekit-blingfire</title>
-    <updated>2025-07-18T06:09:19Z</updated>
-    <id>python-livekit-blingfire-1752818959</id>
-    <link href="https://aur.archlinux.org/packages/python-livekit-blingfire" rel="alternate"></link>
+    <title>2:archlinux_new_packages: pacredir-avahi 0.7.2-1 x86_64</title>
+    <updated>2025-07-21T05:24:36Z</updated>
+    <id>tag:archlinux.org,2025-07-21:/packages/extra/x86_64/pacredir-avahi/202507210524</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/pacredir-avahi/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: cpp-mcp</title>
-    <updated>2025-07-18T04:58:36Z</updated>
-    <id>cpp-mcp-1752814716</id>
-    <link href="https://aur.archlinux.org/packages/cpp-mcp" rel="alternate"></link>
+    <title>2:archlinux_new_packages: gitolite 3.6.14-1 any</title>
+    <updated>2025-07-21T05:24:35Z</updated>
+    <id>tag:archlinux.org,2025-07-21:/packages/extra/any/gitolite/202507210524</id>
+    <link href="https://archlinux.org/packages/extra/any/gitolite/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: harfbuzz-utils 11.3.2-1 x86_64</title>
+    <updated>2025-07-21T02:47:37Z</updated>
+    <id>tag:archlinux.org,2025-07-21:/packages/extra-testing/x86_64/harfbuzz-utils/202507210247</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/harfbuzz-utils/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: harfbuzz-icu 11.3.2-1 x86_64</title>
+    <updated>2025-07-21T02:47:36Z</updated>
+    <id>tag:archlinux.org,2025-07-21:/packages/extra-testing/x86_64/harfbuzz-icu/202507210247</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/harfbuzz-icu/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: harfbuzz-docs 11.3.2-1 x86_64</title>
+    <updated>2025-07-21T02:47:36Z</updated>
+    <id>tag:archlinux.org,2025-07-21:/packages/extra-testing/x86_64/harfbuzz-docs/202507210247</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/harfbuzz-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: harfbuzz-cairo 11.3.2-1 x86_64</title>
+    <updated>2025-07-21T02:47:35Z</updated>
+    <id>tag:archlinux.org,2025-07-21:/packages/extra-testing/x86_64/harfbuzz-cairo/202507210247</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/harfbuzz-cairo/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: harfbuzz 11.3.2-1 x86_64</title>
+    <updated>2025-07-21T02:47:35Z</updated>
+    <id>tag:archlinux.org,2025-07-21:/packages/extra-testing/x86_64/harfbuzz/202507210247</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/harfbuzz/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-harfbuzz-icu 11.3.2-1 x86_64</title>
+    <updated>2025-07-21T02:47:35Z</updated>
+    <id>tag:archlinux.org,2025-07-21:/packages/multilib-testing/x86_64/lib32-harfbuzz-icu/202507210247</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-harfbuzz-icu/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-harfbuzz-cairo 11.3.2-1 x86_64</title>
+    <updated>2025-07-21T02:47:34Z</updated>
+    <id>tag:archlinux.org,2025-07-21:/packages/multilib-testing/x86_64/lib32-harfbuzz-cairo/202507210247</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-harfbuzz-cairo/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-harfbuzz 11.3.2-1 x86_64</title>
+    <updated>2025-07-21T02:47:34Z</updated>
+    <id>tag:archlinux.org,2025-07-21:/packages/multilib-testing/x86_64/lib32-harfbuzz/202507210247</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-harfbuzz/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: python-aioesphomeapi 37.0.2-1 x86_64</title>
@@ -3872,54 +3944,6 @@
     <updated>2025-07-20T21:31:28Z</updated>
     <id>tag:archlinux.org,2025-07-20:/packages/extra/x86_64/dbeaver/202507202131</id>
     <link href="https://archlinux.org/packages/extra/x86_64/dbeaver/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: harfbuzz-utils 11.3.1-1 x86_64</title>
-    <updated>2025-07-20T20:41:38Z</updated>
-    <id>tag:archlinux.org,2025-07-20:/packages/extra-testing/x86_64/harfbuzz-utils/202507202041</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/harfbuzz-utils/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: harfbuzz-icu 11.3.1-1 x86_64</title>
-    <updated>2025-07-20T20:41:37Z</updated>
-    <id>tag:archlinux.org,2025-07-20:/packages/extra-testing/x86_64/harfbuzz-icu/202507202041</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/harfbuzz-icu/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: harfbuzz-docs 11.3.1-1 x86_64</title>
-    <updated>2025-07-20T20:41:37Z</updated>
-    <id>tag:archlinux.org,2025-07-20:/packages/extra-testing/x86_64/harfbuzz-docs/202507202041</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/harfbuzz-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: harfbuzz-cairo 11.3.1-1 x86_64</title>
-    <updated>2025-07-20T20:41:36Z</updated>
-    <id>tag:archlinux.org,2025-07-20:/packages/extra-testing/x86_64/harfbuzz-cairo/202507202041</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/harfbuzz-cairo/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: harfbuzz 11.3.1-1 x86_64</title>
-    <updated>2025-07-20T20:41:36Z</updated>
-    <id>tag:archlinux.org,2025-07-20:/packages/extra-testing/x86_64/harfbuzz/202507202041</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/harfbuzz/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-harfbuzz-icu 11.3.1-1 x86_64</title>
-    <updated>2025-07-20T20:41:34Z</updated>
-    <id>tag:archlinux.org,2025-07-20:/packages/multilib-testing/x86_64/lib32-harfbuzz-icu/202507202041</id>
-    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-harfbuzz-icu/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-harfbuzz-cairo 11.3.1-1 x86_64</title>
-    <updated>2025-07-20T20:41:33Z</updated>
-    <id>tag:archlinux.org,2025-07-20:/packages/multilib-testing/x86_64/lib32-harfbuzz-cairo/202507202041</id>
-    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-harfbuzz-cairo/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-harfbuzz 11.3.1-1 x86_64</title>
-    <updated>2025-07-20T20:41:33Z</updated>
-    <id>tag:archlinux.org,2025-07-20:/packages/multilib-testing/x86_64/lib32-harfbuzz/202507202041</id>
-    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-harfbuzz/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: workerd 1.20250719.0-1 x86_64</title>
@@ -4112,29 +4136,5 @@
     <updated>2025-07-20T13:32:00Z</updated>
     <id>tag:archlinux.org,2025-07-20:/packages/extra-testing/x86_64/phosh/202507201332</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/phosh/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: weechat 4.7.0-1 x86_64</title>
-    <updated>2025-07-20T11:39:51Z</updated>
-    <id>tag:archlinux.org,2025-07-20:/packages/extra/x86_64/weechat/202507201139</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/weechat/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ibus-typing-booster 2.27.70-1 any</title>
-    <updated>2025-07-20T11:28:07Z</updated>
-    <id>tag:archlinux.org,2025-07-20:/packages/extra/any/ibus-typing-booster/202507201128</id>
-    <link href="https://archlinux.org/packages/extra/any/ibus-typing-booster/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-nss 3.114-1 x86_64</title>
-    <updated>2025-07-20T11:26:45Z</updated>
-    <id>tag:archlinux.org,2025-07-20:/packages/multilib/x86_64/lib32-nss/202507201126</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-nss/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-nspr 4.37-1 x86_64</title>
-    <updated>2025-07-20T11:26:44Z</updated>
-    <id>tag:archlinux.org,2025-07-20:/packages/multilib/x86_64/lib32-nspr/202507201126</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-nspr/" rel="alternate"></link>
   </entry>
 </feed>
