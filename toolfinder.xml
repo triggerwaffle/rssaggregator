@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-07-22T01:14:21Z</updated>
+  <updated>2025-07-22T06:22:51Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3238,6 +3238,18 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: videosubfinder-git</title>
+    <updated>2025-07-22T03:55:06Z</updated>
+    <id>videosubfinder-git-1753156506</id>
+    <link href="https://aur.archlinux.org/packages/videosubfinder-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: agemo</title>
+    <updated>2025-07-22T03:43:28Z</updated>
+    <id>agemo-1753155808</id>
+    <link href="https://aur.archlinux.org/packages/agemo" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: box-git</title>
     <updated>2025-07-22T01:05:33Z</updated>
     <id>box-git-1753146333</id>
@@ -3826,16 +3838,28 @@
     <link href="https://aur.archlinux.org/packages/genwallet-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: wayterm-git</title>
-    <updated>2025-07-19T10:06:37Z</updated>
-    <id>wayterm-git-1752919597</id>
-    <link href="https://aur.archlinux.org/packages/wayterm-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-jsonschema-specifications 2025.4.1-1 any</title>
+    <updated>2025-07-22T05:16:09Z</updated>
+    <id>tag:archlinux.org,2025-07-22:/packages/extra/any/python-jsonschema-specifications/202507220516</id>
+    <link href="https://archlinux.org/packages/extra/any/python-jsonschema-specifications/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-nmcli</title>
-    <updated>2025-07-19T08:17:56Z</updated>
-    <id>python-nmcli-1752913076</id>
-    <link href="https://aur.archlinux.org/packages/python-nmcli" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-jsonschema 4.25.0-1 any</title>
+    <updated>2025-07-22T05:16:09Z</updated>
+    <id>tag:archlinux.org,2025-07-22:/packages/extra/any/python-jsonschema/202507220516</id>
+    <link href="https://archlinux.org/packages/extra/any/python-jsonschema/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-construct 2.10.70-5 any</title>
+    <updated>2025-07-22T05:09:00Z</updated>
+    <id>tag:archlinux.org,2025-07-22:/packages/extra/any/python-construct/202507220509</id>
+    <link href="https://archlinux.org/packages/extra/any/python-construct/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: seaweedfs 3.95-1 x86_64</title>
+    <updated>2025-07-22T03:42:14Z</updated>
+    <id>tag:archlinux.org,2025-07-22:/packages/extra/x86_64/seaweedfs/202507220342</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/seaweedfs/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: agda-stdlib 2.0-1 x86_64</title>
@@ -4112,29 +4136,5 @@
     <updated>2025-07-21T21:14:14Z</updated>
     <id>tag:archlinux.org,2025-07-21:/packages/extra/x86_64/kio5-extras/202507212114</id>
     <link href="https://archlinux.org/packages/extra/x86_64/kio5-extras/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dwarffortress 52.01-1 x86_64</title>
-    <updated>2025-07-21T21:14:13Z</updated>
-    <id>tag:archlinux.org,2025-07-21:/packages/extra/x86_64/dwarffortress/202507212114</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dwarffortress/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: okularpart5 23.08.5-2 x86_64</title>
-    <updated>2025-07-21T21:06:17Z</updated>
-    <id>tag:archlinux.org,2025-07-21:/packages/extra/x86_64/okularpart5/202507212106</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/okularpart5/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: musescore 4.5.2-1 x86_64</title>
-    <updated>2025-07-21T20:57:17Z</updated>
-    <id>tag:archlinux.org,2025-07-21:/packages/extra-testing/x86_64/musescore/202507212057</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/musescore/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-curve25519 0.2.8.1-1 x86_64</title>
-    <updated>2025-07-21T20:54:55Z</updated>
-    <id>tag:archlinux.org,2025-07-21:/packages/extra/x86_64/haskell-curve25519/202507212054</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-curve25519/" rel="alternate"></link>
   </entry>
 </feed>
