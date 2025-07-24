@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-07-24T12:31:37Z</updated>
+  <updated>2025-07-24T18:21:44Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -250,6 +250,12 @@
     <link href="https://zenn.dev/mizchi/articles/dena-ai-live-coding" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Go並行プログラミング実務ガイド</title>
+    <updated>2025-07-22T06:21:50Z</updated>
+    <id>https://zenn.dev/okamyuji/books/a_practical_guide_to_concurrent_programming_in_go</id>
+    <link href="https://zenn.dev/okamyuji/books/a_practical_guide_to_concurrent_programming_in_go" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: 【Claude Code】メモリ管理と効率的な開発手法~AI を活用した次世代コーディング~</title>
     <updated>2025-07-22T05:22:43Z</updated>
     <id>https://zenn.dev/dirtyman/articles/d44968788cf94b</id>
@@ -260,12 +266,6 @@
     <updated>2025-07-22T01:37:58Z</updated>
     <id>https://zenn.dev/dinii/articles/16b3e71b580b6c</id>
     <link href="https://zenn.dev/dinii/articles/16b3e71b580b6c" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: LLM Servingを支える技術</title>
-    <updated>2025-07-21T13:39:14Z</updated>
-    <id>https://zenn.dev/kotoba_tech/articles/98feb05f24c082</id>
-    <link href="https://zenn.dev/kotoba_tech/articles/98feb05f24c082" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: Text-to-SQLについて考えていることをだらだらと書く</title>
@@ -448,6 +448,12 @@
     <link href="https://qiita.com/555hamano/items/a5025a9e07db2d7524f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: Switching Microsoft Office Users To LibreOffice Should Be Our Focus</title>
+    <updated>2025-07-24T13:01:18Z</updated>
+    <id>yt:video:hdEtq-uq5kM</id>
+    <link href="https://www.youtube.com/watch?v=hdEtq-uq5kM" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: 'seq' - print a sequence of numbers - Video Man Pages</title>
     <updated>2025-07-21T13:01:08Z</updated>
     <id>yt:video:d-3A3Y2C-Fc</id>
@@ -530,12 +536,6 @@
     <updated>2025-06-22T13:00:38Z</updated>
     <id>yt:video:KeAkWb4wgsc</id>
     <link href="https://www.youtube.com/watch?v=KeAkWb4wgsc" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: Help Vampires Are The Reason The Linux Community Is Toxic!</title>
-    <updated>2025-06-19T13:01:35Z</updated>
-    <id>yt:video:q4fWi07jGBk</id>
-    <link href="https://www.youtube.com/watch?v=q4fWi07jGBk" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: 業務利用するApple製品のセキュリティってどうなの？　Jamfがレポートを発表</title>
@@ -988,6 +988,12 @@
     <link href="https://www.youtube.com/watch?v=yeWvuiDoos8" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: GitHub、自然言語の指示だけでアプリが自動生成される「GitHub Spark」パブリックプレビュー開始</title>
+    <updated>2025-07-24T15:51:17Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8264</id>
+    <link href="https://www.publickey1.jp/blog/25/githubgithub_spark_1.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: Webブラウザ上で高速なグラフィックスレンダリングとGPGPUなどを可能にする「WebGPU」、Chromeに続いてFirefoxも正式対応</title>
     <updated>2025-07-23T15:49:48Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8263</id>
@@ -1070,12 +1076,6 @@
     <updated>2025-07-07T15:18:50Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8248</id>
     <link href="https://www.publickey1.jp/blog/25/30045000google_cloud.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: わずか3日で全世界販売本数800万本突破！ モンスターハンターワイルズにおけるTiDBの導入背景と役割［PR］</title>
-    <updated>2025-07-06T17:19:36Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8246</id>
-    <link href="https://www.publickey1.jp/blog/25/3800_tidbpr.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: 9/10～12開催「DroidKaigi 2025」チケット販売中</title>
@@ -4570,22 +4570,10 @@
     <link href="https://gihyo.jp/article/2024/07/thinking-from-the-usecase-what-generative-ai-is-001?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: オシャレスマートウオッチ「CMF Watch Pro 2」レビュー②</title>
-    <updated>2024-07-25T00:00:00Z</updated>
-    <id>urn:uuid:204979b6-8418-5aba-6a03-6704f12d27a9</id>
-    <link href="https://gihyo.jp/article/2024/07/android-weekly-topics-240725?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: Meta、フロンティアレベルのオープンソースAIモデルLlama 3.1の一般提供を開始</title>
-    <updated>2024-07-24T05:13:00Z</updated>
-    <id>urn:uuid:fb3e2d3e-9e37-ef0e-6434-5545ff2ab1ac</id>
-    <link href="https://gihyo.jp/article/2024/07/llama-3-1?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: 第823回　軽量で期待どおりに動作するMarkdownエディター、ghostwriterを使用する</title>
-    <updated>2024-07-24T00:24:00Z</updated>
-    <id>urn:uuid:61aea8d4-c8ac-3cd3-9736-670b65174d7c</id>
-    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0823?utm_source=feed" rel="alternate"></link>
+    <title>1:hatena_blog_it: 3ヶ月使ったAIペンダントの比較レビュー：8万円使って結局Plaud AI Note PinからLimitless Pendantに乗り換えた｜高木俊輔 Shunsuke Takagi</title>
+    <updated>2025-07-24T07:37:14Z</updated>
+    <id>tag:note.com,2025-07-24:/tkgshn/n/nb7f0acaa9198</id>
+    <link href="https://note.com/tkgshn/n/nb7f0acaa9198" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: こういう見た目に俺は弱い。トラックボール一体化可能なキーボード</title>
@@ -4594,10 +4582,10 @@
     <link href="https://pc.watch.impress.co.jp/docs/news/2033569.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 夜ぐっすり眠るための監視分類 - NRIネットコムBlog</title>
-    <updated>2025-07-24T00:58:43Z</updated>
-    <id>tag:tech.nri-net.com,2025-07-24:/entry/Monitoring_classification_for_a_good_nights_sleep</id>
-    <link href="https://tech.nri-net.com/entry/Monitoring_classification_for_a_good_nights_sleep" rel="alternate"></link>
+    <title>1:hatena_blog_it: カラーになった「Kindle Colorsoft」発売　39980円</title>
+    <updated>2025-07-24T13:27:06Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-07-24:/docs/news/2033472.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2033472.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 富岳の「ケーブルが麺に見えた」だけなのに。コラボそうめん登場</title>
@@ -4606,52 +4594,16 @@
     <link href="https://pc.watch.impress.co.jp/docs/news/2033656.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【Kiroだけじゃなかった！AWSがAIインフラ続々リリースして凄すぎたので緊急整理🔥】AWSがAIエージェント開発の「実験→本番」への難題を解決！AgentCoreで誰でも本格的なAIエージェントを動かせる時代に突入 - Qiita</title>
-    <updated>2025-07-22T13:19:45Z</updated>
-    <id>tag:qiita.com,2025-07-22:/akira_papa_AI/items/92fa19cbac0d2918ec8f</id>
-    <link href="https://qiita.com/akira_papa_AI/items/92fa19cbac0d2918ec8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>1:hatena_blog_it: 夜ぐっすり眠るための監視分類 - NRIネットコムBlog</title>
+    <updated>2025-07-24T00:58:43Z</updated>
+    <id>tag:tech.nri-net.com,2025-07-24:/entry/Monitoring_classification_for_a_good_nights_sleep</id>
+    <link href="https://tech.nri-net.com/entry/Monitoring_classification_for_a_good_nights_sleep" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 3ヶ月使ったAIペンダントの比較レビュー：8万円使って結局Plaud AI Note PinからLimitless Pendantに乗り換えた｜高木俊輔 Shunsuke Takagi</title>
-    <updated>2025-07-24T07:37:14Z</updated>
-    <id>tag:note.com,2025-07-24:/tkgshn/n/nb7f0acaa9198</id>
-    <link href="https://note.com/tkgshn/n/nb7f0acaa9198" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Appleの新UIに採用されるガラスのような、液体のような美しいUI「Liquid Glass」を簡単に実装できるツール -Liquid Glassifier</title>
-    <updated>2025-07-24T00:41:39Z</updated>
-    <id>tag:coliss.com,2025-07-24:/articles/build-websites/operation/work/liquid-glassifier.html</id>
-    <link href="https://coliss.com/articles/build-websites/operation/work/liquid-glassifier.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIに「突拍子もないことを言ってください」と頼んだら、面白すぎる答えが返ってきた→「こういうセンス欲しいわ」「AI君のこういう所が嫌いになれない」</title>
-    <updated>2025-07-24T01:19:23Z</updated>
-    <id>tag:togetter.com,2025-07-24:/li/2580090</id>
-    <link href="https://togetter.com/li/2580090" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: “青空文庫に特化したAIチャット”公開、文豪になりきっての回答も　「李徴が虎ではなく、ハムスターになっていたら？」と聞いてみたら……</title>
-    <updated>2025-07-23T23:04:10Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-07-23:/news/articles/2507/24/news040.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2507/24/news040.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 無料＆オンラインで学べる東京大学松尾研の「AI講座」の受講者が7万5000人突破／「LLM（大規模言語モデル）」や「AI経営」などの講座を展開</title>
-    <updated>2025-07-23T07:21:20Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-07-23:/docs/news/2033395.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2033395.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: GMOペパボで活躍中の id:antipop を訪問 | はてな卒業生訪問企画 [#16] - Hatena Developer Blog</title>
-    <updated>2025-07-24T02:07:35Z</updated>
-    <id>tag:developer.hatenastaff.com,2025-07-24:/entry/2025/07/24/110000</id>
-    <link href="https://developer.hatenastaff.com/entry/2025/07/24/110000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 東京メトロ、26年春にクレカタッチ決済の後払い乗車を全線導入</title>
-    <updated>2025-07-24T08:18:17Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-07-24:/docs/news/2033796.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2033796.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: YAMLは人間が読みやすい、書きやすいと言われてるらしいが、JSONのほうが普通..</title>
+    <updated>2025-07-24T09:28:15Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-07-24:/20250723030957</id>
+    <link href="https://anond.hatelabo.jp/20250723030957" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 親にエンディングノートを書いてもらう | blog.jxck.io</title>
@@ -4660,16 +4612,22 @@
     <link href="https://blog.jxck.io/entries/2025-07-24/ending-note-for-parent.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 最大25Wの無接点充電規格「Qi2 25W」登場</title>
-    <updated>2025-07-24T07:46:19Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-07-24:/docs/news/2033710.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2033710.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 東京メトロ、26年春にクレカタッチ決済の後払い乗車を全線導入</title>
+    <updated>2025-07-24T08:18:17Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-07-24:/docs/news/2033796.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2033796.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 新Linuxカーネル解読室落穂拾い (1) - VA Linux エンジニアブログ</title>
-    <updated>2025-07-24T01:23:17Z</updated>
-    <id>tag:www.valinux.co.jp,2025-07-24:/blog/entry/20250724</id>
-    <link href="https://www.valinux.co.jp/blog/entry/20250724" rel="alternate"></link>
+    <title>1:hatena_blog_it: Claude Code 疲れを軽減する 30+ 個のカスタムコマンド</title>
+    <updated>2025-07-24T08:25:13Z</updated>
+    <id>tag:wasabeef.jp,2025-07-24:/blog/claude-code-cookbook</id>
+    <link href="https://wasabeef.jp/blog/claude-code-cookbook" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 待望のカラー化を果たした電子書籍端末「Kindle Colorsoft」が国内発売</title>
+    <updated>2025-07-24T13:10:10Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-07-24:/docs/news/2033665.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2033665.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 社内データを横断してAIが探し物 ～「Microsoft 365 Copilot Search」の一般提供が開始／「Microsoft 365 Copilot」ライセンスの一部として、追加費用なしで利用可能</title>
@@ -4678,10 +4636,22 @@
     <link href="https://forest.watch.impress.co.jp/docs/news/2033527.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: スープは病気のときに効果があるのか？　300人以上を対象に分析　英国と豪州の研究チームが発表</title>
-    <updated>2025-07-23T23:54:19Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-07-23:/news/articles/2507/24/news028.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2507/24/news028.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 最大25Wの無接点充電規格「Qi2 25W」登場</title>
+    <updated>2025-07-24T07:46:19Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-07-24:/docs/news/2033710.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2033710.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 火元はcheero製だった──山手線のモバイルバッテリー発火事故の原因特定　同社が謝罪　23年からリコール対象品</title>
+    <updated>2025-07-24T09:18:37Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-07-24:/news/articles/2507/24/news107.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2507/24/news107.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Railsのマイグレーションに対するいらだち - osyoyu.com/blog</title>
+    <updated>2025-07-24T13:08:09Z</updated>
+    <id>tag:osyoyu.com,2025-07-24:/blog/2025/07/24/220341</id>
+    <link href="https://osyoyu.com/blog/2025/07/24/220341" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Appleが精度と効率の両方を高水準でこなす独自の視覚言語モデル「FastVLM」を発表、オンデバイスでのリアルタイムビジュアルクエリ処理に最適</title>
@@ -4690,46 +4660,70 @@
     <link href="https://gigazine.net/news/20250724-apple-fastvlm-efficient-vision-language-models/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: モバイルバッテリー、カバンの中で発煙も……「熱がこもる場所に置かない」国民生活センターが注意喚起</title>
-    <updated>2025-07-24T00:03:37Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-07-24:/news/articles/2507/24/news055.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2507/24/news055.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIを使っていい感じにE2Eテストを書けるようになるまで / Trying to Write Good E2E Tests with AI</title>
+    <updated>2025-07-23T22:56:24Z</updated>
+    <id>tag:speakerdeck.com,2025-07-23:/katawara/trying-to-write-good-e2e-tests-with-ai</id>
+    <link href="https://speakerdeck.com/katawara/trying-to-write-good-e2e-tests-with-ai" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「推論する生成AI」は実際には思考しているわけではなく、丸暗記した結果を返しているに過ぎない - 渋谷駅前で働くデータサイエンティストのブログ</title>
-    <updated>2025-07-23T09:12:14Z</updated>
-    <id>tag:tjo.hatenablog.com,2025-07-23:/entry/2025/07/23/173000</id>
-    <link href="https://tjo.hatenablog.com/entry/2025/07/23/173000" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIに「突拍子もないことを言ってください」と頼んだら、面白すぎる答えが返ってきた→「こういうセンス欲しいわ」「AI君のこういう所が嫌いになれない」</title>
+    <updated>2025-07-24T01:19:23Z</updated>
+    <id>tag:togetter.com,2025-07-24:/li/2580090</id>
+    <link href="https://togetter.com/li/2580090" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 国内クラウド事業者初！(※1)「ConoHa VPS byGMO」がMCPに対応【GMOインターネット】</title>
-    <updated>2025-07-24T01:15:46Z</updated>
-    <id>tag:prtimes.jp,2025-07-24:/main/html/rd/p/000004941.000000136.html</id>
-    <link href="https://prtimes.jp/main/html/rd/p/000004941.000000136.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 仕様書とコードの「意味的な整合性」を検証するツール『Semcheck』の利用モデル別性能評価 - Generative Agents Tech Blog</title>
+    <updated>2025-07-23T09:22:57Z</updated>
+    <id>tag:blog.generative-agents.co.jp,2025-07-23:/entry/semcheck</id>
+    <link href="https://blog.generative-agents.co.jp/entry/semcheck" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 複数のGemini CLIが同時開発する狂気 - Jujutsuが実現するAIエージェント協調の新世界</title>
-    <updated>2025-07-23T00:39:45Z</updated>
-    <id>tag:speakerdeck.com,2025-07-23:/gunta/fu-shu-nogemini-cligatong-shi-kai-fa-surukuang-qi-jujutsugashi-xian-suruaiezientoxie-diao-noxin-shi-jie</id>
-    <link href="https://speakerdeck.com/gunta/fu-shu-nogemini-cligatong-shi-kai-fa-surukuang-qi-jujutsugashi-xian-suruaiezientoxie-diao-noxin-shi-jie" rel="alternate"></link>
+    <title>1:hatena_blog_it: ソニーＧ、通信用半導体部門の売却検討＝関係筋</title>
+    <updated>2025-07-24T11:29:02Z</updated>
+    <id>tag:jp.reuters.com,2025-07-24:/economy/industry/OQASJINZIJPUVGI2LMTAXKMWGY-2025-07-24/</id>
+    <link href="https://jp.reuters.com/economy/industry/OQASJINZIJPUVGI2LMTAXKMWGY-2025-07-24/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「AIネイティブ時代のエンジニアの現在地」アンケート結果を発表！デブサミ2025夏・スポンサー出展記 - Tabelog Tech Blog</title>
-    <updated>2025-07-24T08:10:24Z</updated>
-    <id>tag:tech-blog.tabelog.com,2025-07-24:/entry/developer-summit-2025-summer-report</id>
-    <link href="https://tech-blog.tabelog.com/entry/developer-summit-2025-summer-report" rel="alternate"></link>
+    <title>1:hatena_blog_it: 筋肉の動きを読み取ってキーボード不要の入力デバイスに変える腕輪型デバイスをMetaが開発</title>
+    <updated>2025-07-24T05:06:58Z</updated>
+    <id>tag:gigazine.net,2025-07-24:/news/20250724-meta-wristband/</id>
+    <link href="https://gigazine.net/news/20250724-meta-wristband/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: “紙のような質感”うたうタブレット「NXTPAPER 11 Plus」の実力は？</title>
-    <updated>2025-07-24T04:44:56Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-07-24:/news/articles/2507/24/news076.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2507/24/news076.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: “青空文庫に特化したAIチャット”公開、文豪になりきっての回答も　「李徴が虎ではなく、ハムスターになっていたら？」と聞いてみたら……</title>
+    <updated>2025-07-23T23:04:10Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-07-23:/news/articles/2507/24/news040.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2507/24/news040.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIコーディングエージェント全社導入とセキュリティ対策</title>
-    <updated>2025-07-23T11:49:31Z</updated>
-    <id>tag:speakerdeck.com,2025-07-23:/hikaruegashira/freeeniokeruaikodeinguezientoquan-she-dao-ru-tosekiyuriteidui-ce</id>
-    <link href="https://speakerdeck.com/hikaruegashira/freeeniokeruaikodeinguezientoquan-she-dao-ru-tosekiyuriteidui-ce" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「覚醒AI」かどうかというAIのイデオロギー的偏向を審査する「AI行動計画」をアメリカ政府が発表、中国に対する技術的優位性の確立を目指す</title>
+    <updated>2025-07-24T04:45:48Z</updated>
+    <id>tag:gigazine.net,2025-07-24:/news/20250724-whitehouse-unveil-ai-action-plan/</id>
+    <link href="https://gigazine.net/news/20250724-whitehouse-unveil-ai-action-plan/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ポケッタブル高圧洗浄機のバッテリー問題で自主回収、サイン・ハウス - 家電 Watch</title>
+    <updated>2025-07-24T10:51:06Z</updated>
+    <id>tag:kaden.watch.impress.co.jp,2025-07-24:/docs/news/2033272.html</id>
+    <link href="https://kaden.watch.impress.co.jp/docs/news/2033272.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: SREチームで「AIエージェント縛り」をやってみた - メドピア開発者ブログ</title>
+    <updated>2025-07-23T05:39:53Z</updated>
+    <id>tag:tech.medpeer.co.jp,2025-07-23:/entry/2025/07/23/120000</id>
+    <link href="https://tech.medpeer.co.jp/entry/2025/07/23/120000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 新Linuxカーネル解読室落穂拾い (1) - VA Linux エンジニアブログ</title>
+    <updated>2025-07-24T01:23:17Z</updated>
+    <id>tag:www.valinux.co.jp,2025-07-24:/blog/entry/20250724</id>
+    <link href="https://www.valinux.co.jp/blog/entry/20250724" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Macのトラックパッドを｢はかり｣にするアプリが誕生。かなり正確</title>
+    <updated>2025-07-24T01:11:34Z</updated>
+    <id>tag:www.gizmodo.jp,2025-07-24:/2025/07/app-to-measure-weight-on-mac.html</id>
+    <link href="https://www.gizmodo.jp/2025/07/app-to-measure-weight-on-mac.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「GitHub Spark」のプレビューが開始、AIに説明するだけで本格的Webアプリができあがり／まずは「Copilot Pro+」ユーザーに提供</title>
@@ -4738,15 +4732,9 @@
     <link href="https://forest.watch.impress.co.jp/docs/news/2033545.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIを使っていい感じにE2Eテストを書けるようになるまで / Trying to Write Good E2E Tests with AI</title>
-    <updated>2025-07-23T22:56:24Z</updated>
-    <id>tag:speakerdeck.com,2025-07-23:/katawara/trying-to-write-good-e2e-tests-with-ai</id>
-    <link href="https://speakerdeck.com/katawara/trying-to-write-good-e2e-tests-with-ai" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 孤独を感じていた母を救った贈り物 脳の健康や財産守るAI登場 | NHK | WEB特集</title>
-    <updated>2025-07-23T02:59:43Z</updated>
-    <id>tag:www3.nhk.or.jp,2025-07-23:/news/html/20250723/k10014870771000.html</id>
-    <link href="https://www3.nhk.or.jp/news/html/20250723/k10014870771000.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: MCPで実現できる、Webサービス利用体験について</title>
+    <updated>2025-07-24T04:46:20Z</updated>
+    <id>tag:speakerdeck.com,2025-07-24:/syumai/web-service-as-mcp-server</id>
+    <link href="https://speakerdeck.com/syumai/web-service-as-mcp-server" rel="alternate"></link>
   </entry>
 </feed>
