@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-07-27T01:21:17Z</updated>
+  <updated>2025-07-27T06:21:37Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -154,6 +154,12 @@
     <link href="https://zenn.dev/neoai/articles/89202a5248f154" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Next.js初心者向けガイドライン</title>
+    <updated>2025-07-26T06:51:49Z</updated>
+    <id>https://zenn.dev/hutonman/books/aeb2a5fd6e91ae</id>
+    <link href="https://zenn.dev/hutonman/books/aeb2a5fd6e91ae" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Gemini Gemsでスタンドジェネレータを作って、YAML構造化プロンプトについてすごくゆるーく考察してみた</title>
     <updated>2025-07-26T04:42:47Z</updated>
     <id>https://zenn.dev/tcf775/articles/8d528b4466626b</id>
@@ -262,12 +268,6 @@
     <link href="https://zenn.dev/knowledgesense/articles/47afd29ecfc3bb" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 【React】フォルダ構成の考え方</title>
-    <updated>2025-07-23T08:26:19Z</updated>
-    <id>https://zenn.dev/bln/articles/986b709f4df0c1</id>
-    <link href="https://zenn.dev/bln/articles/986b709f4df0c1" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:qiita_trend: 基幹システム移行で“偶然”得た、DDDの本質体験 ― 業務ロジックだけを新規開発した話</title>
     <updated>2025-07-24T22:02:05Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/2058099</id>
@@ -346,7 +346,7 @@
     <link href="https://qiita.com/ikejiri-makoto2/items/ef7e01416056561f55d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 事業について責任放置していたら、事業が立ち行かなくなってやりがいを失った話</title>
+    <title>3:qiita_trend: 【失敗談】事業について責任放置していたら、やりがいを失った話</title>
     <updated>2025-07-26T09:50:44Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/2058802</id>
     <link href="https://qiita.com/TyNaugh/items/905cd3744ead28b8fa97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
@@ -4576,40 +4576,10 @@
     <link href="https://speakerdeck.com/hi120ki/devin-ai-security" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ペットボトルが“振るだけ”で瞬時に凍る　シャープの「アイススラリー冷蔵庫」、猛暑の現場で引き合い続々</title>
-    <updated>2025-07-26T00:05:16Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-07-26:/news/articles/2507/26/news025.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2507/26/news025.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Google Opal の概要｜npaka</title>
-    <updated>2025-07-26T01:15:13Z</updated>
-    <id>tag:note.com,2025-07-26:/npaka/n/n6baefe7dd1d5</id>
-    <link href="https://note.com/npaka/n/n6baefe7dd1d5" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: GitHub Actionsでテストカバレッジの増減を可視化することによりホーソン効果を狙う - 理系学生日記</title>
     <updated>2025-07-26T10:43:59Z</updated>
     <id>tag:kiririmode.hatenablog.jp,2025-07-26:/entry/20250125/1737761299</id>
     <link href="https://kiririmode.hatenablog.jp/entry/20250125/1737761299" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Claude Code でカスタムサブエージェントを作成する</title>
-    <updated>2025-07-26T08:56:57Z</updated>
-    <id>tag:azukiazusa.dev,2025-07-26:/blog/create-custom-sub-agent-in-claude-code/</id>
-    <link href="https://azukiazusa.dev/blog/create-custom-sub-agent-in-claude-code/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Google マップ 20 周年: 47 都道府県の人気の場所ランキングを発表</title>
-    <updated>2025-07-25T08:28:09Z</updated>
-    <id>tag:blog.google,2025-07-25:/intl/ja-jp/products/explore-get-answers/google-maps-20th-localplaces-top5/</id>
-    <link href="https://blog.google/intl/ja-jp/products/explore-get-answers/google-maps-20th-localplaces-top5/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【動画】＃石破辞めるなデモに1200人「極右が組めば最悪」「改憲拍車」…反高市氏デモの側面も</title>
-    <updated>2025-07-26T09:26:30Z</updated>
-    <id>tag:www.sankei.com,2025-07-26:/article/20250726-BR742SAEQBGRZMOA257H3GJJ4M/</id>
-    <link href="https://www.sankei.com/article/20250726-BR742SAEQBGRZMOA257H3GJJ4M/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Claude Codeのhookを書きやすくするcchookを作った - yasuhisa's blog</title>
@@ -4618,28 +4588,106 @@
     <link href="https://www.yasuhisay.info/entry/2025/07/26/142358" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「手を動かした者だけが世界を変える」ソフトウェア開発だけではない開発者人生</title>
-    <updated>2025-07-26T02:50:18Z</updated>
-    <id>tag:speakerdeck.com,2025-07-26:/onishi/shou-wodong-kasitazhe-dakegashi-jie-wobian-eru-sohutoueakai-fa-dakedehanaikai-fa-zhe-ren-sheng</id>
-    <link href="https://speakerdeck.com/onishi/shou-wodong-kasitazhe-dakegashi-jie-wobian-eru-sohutoueakai-fa-dakedehanaikai-fa-zhe-ren-sheng" rel="alternate"></link>
+    <title>1:hatena_blog_it: リーダーばかりやってきた私が気づいたこと - Qiita</title>
+    <updated>2025-07-24T05:49:45Z</updated>
+    <id>tag:qiita.com,2025-07-24:/tatsuya_1995/items/95599016e55f6e666d4e</id>
+    <link href="https://qiita.com/tatsuya_1995/items/95599016e55f6e666d4e" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Morphic — A new era of storytelling</title>
+    <updated>2024-09-05T16:59:37Z</updated>
+    <id>tag:www.morphic.com,2024-09-05:/</id>
+    <link href="https://www.morphic.com/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Introducing Opal: describe, create, and share your AI mini-apps- Google Developers Blog</title>
+    <updated>2025-07-26T18:14:52Z</updated>
+    <id>tag:developers.googleblog.com,2025-07-26:/en/introducing-opal/</id>
+    <link href="https://developers.googleblog.com/en/introducing-opal/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Google Analytics MCP Serverを利用し、AIで無料分析を開始する方法をわかりやすく解説（画像手順書付き）</title>
+    <updated>2025-07-25T15:12:54Z</updated>
+    <id>tag:www.ga4.guide,2025-07-25:/gamcp/</id>
+    <link href="https://www.ga4.guide/gamcp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OpenAIが次世代AIの「GPT-5」を2025年8月にリリースか</title>
+    <updated>2025-07-25T09:32:14Z</updated>
+    <id>tag:gigazine.net,2025-07-25:/news/20250725-openai-launch-gpt-5-august/</id>
+    <link href="https://gigazine.net/news/20250725-openai-launch-gpt-5-august/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: DuckDBでR2 Data Catalog & DuckLakeを試す(with Neon)</title>
+    <updated>2025-07-26T10:43:38Z</updated>
+    <id>tag:zenn.dev,2025-07-26:/king/scraps/1adb8dc9ee41cb</id>
+    <link href="https://zenn.dev/king/scraps/1adb8dc9ee41cb" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: MetaはテントにGPUクラスタを詰め込んでAIデータセンターの工期を短縮している</title>
+    <updated>2025-07-25T08:19:25Z</updated>
+    <id>tag:gigazine.net,2025-07-25:/news/20250725-meta-tent-data-center/</id>
+    <link href="https://gigazine.net/news/20250725-meta-tent-data-center/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Claude Codeにカスタムサブエージェント機能が登場 ―複数のサブエージェントによるタスク特化の「エージェントチーム」を作成可能に | gihyo.jp</title>
+    <updated>2025-07-25T05:59:19Z</updated>
+    <id>tag:gihyo.jp,2025-07-25:/article/2025/07/claude-code-sub-agents</id>
+    <link href="https://gihyo.jp/article/2025/07/claude-code-sub-agents" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: グーグル、Google マップのクチコミから47都道府県の人気スポットをまとめて公開</title>
+    <updated>2025-07-26T03:51:24Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2025-07-26:/docs/news/2034127.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/news/2034127.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Google Opal の概要｜npaka</title>
+    <updated>2025-07-26T01:15:13Z</updated>
+    <id>tag:note.com,2025-07-26:/npaka/n/n6baefe7dd1d5</id>
+    <link href="https://note.com/npaka/n/n6baefe7dd1d5" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 女性がデートした男性を評価するアプリにサイバー攻撃</title>
+    <updated>2025-07-26T03:06:00Z</updated>
+    <id>tag:www.afpbb.com,2025-07-26:/articles/-/3590513</id>
+    <link href="https://www.afpbb.com/articles/-/3590513" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 歯車の代わりに「ロープ」を使って駆動するロボット犬「CARA」が登場</title>
+    <updated>2025-07-26T00:52:38Z</updated>
+    <id>tag:gigazine.net,2025-07-26:/news/20250725-robot-dog-using-rope/</id>
+    <link href="https://gigazine.net/news/20250725-robot-dog-using-rope/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Claude Code でカスタムサブエージェントを作成する</title>
+    <updated>2025-07-26T08:56:57Z</updated>
+    <id>tag:azukiazusa.dev,2025-07-26:/blog/create-custom-sub-agent-in-claude-code/</id>
+    <link href="https://azukiazusa.dev/blog/create-custom-sub-agent-in-claude-code/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Google、AI要約に広告枠 米国で試験導入開始も「ゼロクリック」目指さない</title>
+    <updated>2025-07-25T13:25:00Z</updated>
+    <id>tag:www.advertimes.com,2025-07-25:/20250725/article506434/</id>
+    <link href="https://www.advertimes.com/20250725/article506434/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ペットボトルが“振るだけ”で瞬時に凍る　シャープの「アイススラリー冷蔵庫」、猛暑の現場で引き合い続々</title>
+    <updated>2025-07-26T00:05:16Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-07-26:/news/articles/2507/26/news025.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2507/26/news025.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 少人数でも回る！ DevinとPlaybookで支える運用改善</title>
+    <updated>2025-07-26T10:24:33Z</updated>
+    <id>tag:speakerdeck.com,2025-07-26:/ishikawa_pro/shao-ren-shu-demohui-ru-devintoplaybookdezhi-eruyun-yong-gai-shan</id>
+    <link href="https://speakerdeck.com/ishikawa_pro/shao-ren-shu-demohui-ru-devintoplaybookdezhi-eruyun-yong-gai-shan" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: TypeScript 上達の道</title>
     <updated>2025-07-25T16:26:08Z</updated>
     <id>tag:speakerdeck.com,2025-07-25:/ysknsid25/typescript-shang-da-nodao</id>
     <link href="https://speakerdeck.com/ysknsid25/typescript-shang-da-nodao" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 孫正義はTRON（トロン）を潰すことで日本を救っていたという話 - Qiita</title>
-    <updated>2025-07-25T13:33:11Z</updated>
-    <id>tag:qiita.com,2025-07-25:/ko1nksm/items/c4e25a489e19698a4809</id>
-    <link href="https://qiita.com/ko1nksm/items/c4e25a489e19698a4809" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 証券口座乗っ取り、対策不備ならサービス停止を　金融庁が要請へ - 日本経済新聞</title>
-    <updated>2025-07-26T08:02:13Z</updated>
-    <id>tag:www.nikkei.com,2025-07-26:/article/DGXZQOUD088RV0Y5A700C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUD088RV0Y5A700C2000000/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ニュースソースとしてのX利用率、世界的に回復傾向。Threads、Blueskyなど新興勢を圧倒【やじうまWatch】</title>
@@ -4654,75 +4702,39 @@
     <link href="https://opal.withgoogle.com/landing/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 【動画】＃石破辞めるなデモに1200人「極右が組めば最悪」「改憲拍車」…反高市氏デモの側面も</title>
+    <updated>2025-07-26T09:26:30Z</updated>
+    <id>tag:www.sankei.com,2025-07-26:/article/20250726-BR742SAEQBGRZMOA257H3GJJ4M/</id>
+    <link href="https://www.sankei.com/article/20250726-BR742SAEQBGRZMOA257H3GJJ4M/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: GitHub Spark - Dream it. See it. Ship it.</title>
     <updated>2025-07-24T14:33:27Z</updated>
     <id>tag:github.com,2025-07-24:/features/spark</id>
     <link href="https://github.com/features/spark" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ずっとAIに自慢話してる</title>
-    <updated>2025-07-26T03:09:38Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-07-26:/20250726104408</id>
-    <link href="https://anond.hatelabo.jp/20250726104408" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「手を動かした者だけが世界を変える」ソフトウェア開発だけではない開発者人生</title>
+    <updated>2025-07-26T02:50:18Z</updated>
+    <id>tag:speakerdeck.com,2025-07-26:/onishi/shou-wodong-kasitazhe-dakegashi-jie-wobian-eru-sohutoueakai-fa-dakedehanaikai-fa-zhe-ren-sheng</id>
+    <link href="https://speakerdeck.com/onishi/shou-wodong-kasitazhe-dakegashi-jie-wobian-eru-sohutoueakai-fa-dakedehanaikai-fa-zhe-ren-sheng" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Codeに専門家チームを追加！開発効率を向上させるSuperClaudeを試してみた | DevelopersIO</title>
-    <updated>2025-07-25T09:54:00Z</updated>
-    <id>tag:dev.classmethod.jp,2025-07-25:/articles/claude-code-superclaude/</id>
-    <link href="https://dev.classmethod.jp/articles/claude-code-superclaude/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Google マップ 20 周年: 47 都道府県の人気の場所ランキングを発表</title>
+    <updated>2025-07-25T08:28:09Z</updated>
+    <id>tag:blog.google,2025-07-25:/intl/ja-jp/products/explore-get-answers/google-maps-20th-localplaces-top5/</id>
+    <link href="https://blog.google/intl/ja-jp/products/explore-get-answers/google-maps-20th-localplaces-top5/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude CodeからGrafanaのMCPサーバーを使ってダッシュボードを作ってみた | DevelopersIO</title>
-    <updated>2025-07-26T00:20:13Z</updated>
-    <id>tag:dev.classmethod.jp,2025-07-26:/articles/claude-code-grafana-mcp-sample-dashboard/</id>
-    <link href="https://dev.classmethod.jp/articles/claude-code-grafana-mcp-sample-dashboard/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 孫正義はTRON（トロン）を潰すことで日本を救っていたという話 - Qiita</title>
+    <updated>2025-07-25T13:33:11Z</updated>
+    <id>tag:qiita.com,2025-07-25:/ko1nksm/items/c4e25a489e19698a4809</id>
+    <link href="https://qiita.com/ko1nksm/items/c4e25a489e19698a4809" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「全焼するぞ」…京都の芸能神社がXで大炎上　警察沙汰に発展した生成AIイラストの賛否</title>
     <updated>2025-07-25T07:27:27Z</updated>
     <id>tag:www.sankei.com,2025-07-25:/article/20250725-2UVN4HDQLNNUVMJCQBD4NV4WHU/</id>
     <link href="https://www.sankei.com/article/20250725-2UVN4HDQLNNUVMJCQBD4NV4WHU/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 農業ロボットや無線、AI等先端技術を活用した省力化稲作支援サービスの実証プロジェクトを開始 | IIJ</title>
-    <updated>2025-07-25T23:54:45Z</updated>
-    <id>tag:www.iij.ad.jp,2025-07-25:/news/pressrelease/2025/0723-2.html</id>
-    <link href="https://www.iij.ad.jp/news/pressrelease/2025/0723-2.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Unipos の Elm から React (Next.js) へのリアーキテクチャプロジェクトを振り返る</title>
-    <updated>2025-07-25T03:42:05Z</updated>
-    <id>tag:zenn.dev,2025-07-25:/unipos/articles/unipos-rearchitecture</id>
-    <link href="https://zenn.dev/unipos/articles/unipos-rearchitecture" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【初級バイブコーダー向け】なぜフロントエンドからデータベースを使ってはいけないのか｜けいすけ</title>
-    <updated>2025-07-26T01:32:36Z</updated>
-    <id>tag:note.com,2025-07-26:/konho/n/n296c82586c4c</id>
-    <link href="https://note.com/konho/n/n296c82586c4c" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Stanford CS336 Language Modeling from Scratch I 2025</title>
-    <updated>2025-07-25T17:47:25Z</updated>
-    <id>tag:www.youtube.com,2025-07-25:/playlist</id>
-    <link href="https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Vanilla JavaScript support for Tailwind Plus</title>
-    <updated>2025-07-26T02:50:45Z</updated>
-    <id>tag:tailwindcss.com,2025-07-26:/blog/vanilla-js-support-for-tailwind-plus</id>
-    <link href="https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【炎上教訓】初日で批判殺到しサービス停止 データ倫理とSNSの闇 | FFXIVTrends【新規サービス開発者へ】 - Qiita</title>
-    <updated>2025-07-25T13:28:42Z</updated>
-    <id>tag:qiita.com,2025-07-25:/Yukapero/items/b326aa28612b8bfef853</id>
-    <link href="https://qiita.com/Yukapero/items/b326aa28612b8bfef853" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Q4OSをインストールして使ってみた｜零壱テクト</title>
-    <updated>2025-07-25T23:39:27Z</updated>
-    <id>tag:note.com,2025-07-25:/01_tecto/n/n6a20f1f773b5</id>
-    <link href="https://note.com/01_tecto/n/n6a20f1f773b5" rel="alternate"></link>
   </entry>
 </feed>
