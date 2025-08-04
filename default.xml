@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-08-04T01:21:16Z</updated>
+  <updated>2025-08-04T06:29:29Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -9,18 +9,6 @@
     <name>triggerwaffle</name>
     <email>johndoe@example.com</email>
   </author>
-  <entry>
-    <title>4:orielly_books_soon: LLMのプロンプトエンジニアリング</title>
-    <updated>2025-05-16T00:00:00+09:00</updated>
-    <id>tag:www.oreilly.co.jp,2025-05-16:/books/9784814401130/</id>
-    <link href="http://www.oreilly.co.jp/books/9784814401130/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>4:orielly_books_soon: micro:bitではじめるAI工作</title>
-    <updated>2025-05-28T00:00:00+09:00</updated>
-    <id>tag:www.oreilly.co.jp,2025-05-28:/books/9784814400997/</id>
-    <link href="http://www.oreilly.co.jp/books/9784814400997/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
-  </entry>
   <entry>
     <title>4:orielly_books_soon: PythonによるWebスクレイピング 第3版</title>
     <updated>2025-06-17T00:00:00+09:00</updated>
@@ -56,12 +44,6 @@
     <updated>2025-06-03T00:00:00+09:00</updated>
     <id>tag:www.oreilly.co.jp,2025-06-03:/books/9784814401147/</id>
     <link href="http://www.oreilly.co.jp/books/9784814401147/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>4:orielly_books_soon: 開発者とアーキテクトのためのコミュニケーションガイド</title>
-    <updated>2025-05-08T00:00:00+09:00</updated>
-    <id>tag:www.oreilly.co.jp,2025-05-08:/books/9784814401055/</id>
-    <link href="http://www.oreilly.co.jp/books/9784814401055/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:orielly_books_soon: 生成AIのプロンプトエンジニアリング</title>
@@ -148,6 +130,24 @@
     <link href="https://archlinux.org/news/the-sshd-service-needs-to-be-restarted-after-upgrading-to-openssh-98p1/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Computer-useとBrowser-useとPlaywright-MCPを比較</title>
+    <updated>2025-08-03T23:30:01Z</updated>
+    <id>https://zenn.dev/headwaters/articles/7f0717b61848c3</id>
+    <link href="https://zenn.dev/headwaters/articles/7f0717b61848c3" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Claude Code × serenaでKiro風仕様書駆動開発をやるためのカスタムコンテキスト</title>
+    <updated>2025-08-03T23:25:37Z</updated>
+    <id>https://zenn.dev/sasakir/articles/ecca27ffe5e2ee</id>
+    <link href="https://zenn.dev/sasakir/articles/ecca27ffe5e2ee" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Claude Code GitHub ActionsをMac × TarteletでCIコスト無料でぶん回す</title>
+    <updated>2025-08-03T17:50:24Z</updated>
+    <id>https://zenn.dev/ruwatana/articles/2a3850f014a512</id>
+    <link href="https://zenn.dev/ruwatana/articles/2a3850f014a512" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: OSSは“使う前に”Claude Codeで脆弱性診断しよう</title>
     <updated>2025-08-03T08:35:31Z</updated>
     <id>https://zenn.dev/wisteria30/articles/f715ce47d68c6c</id>
@@ -208,12 +208,6 @@
     <link href="https://zenn.dev/ryorn/articles/a6dc96dc425669" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: Snowflake Intelligenceをはじめから丁寧に</title>
-    <updated>2025-08-02T02:23:05Z</updated>
-    <id>https://zenn.dev/finatext/articles/snowflake-intelligence-zero-to-hero</id>
-    <link href="https://zenn.dev/finatext/articles/snowflake-intelligence-zero-to-hero" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: 子育てしながら2ヶ月でリリース！AIフル活用の個人開発記録😅</title>
     <updated>2025-08-01T15:33:24Z</updated>
     <id>https://zenn.dev/nakir323/articles/2dc37608c03675</id>
@@ -244,12 +238,6 @@
     <link href="https://zenn.dev/smartshopping/articles/b3d6804e932565" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: [Claude Code]AITDDフレームワークTsumikiを使ってみた</title>
-    <updated>2025-08-01T02:06:10Z</updated>
-    <id>https://zenn.dev/uniformnext/articles/tsumiki-claude-code</id>
-    <link href="https://zenn.dev/uniformnext/articles/tsumiki-claude-code" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: Claude Codeを10倍賢くする無料ツール「Serena」の威力とトークン効率化術</title>
     <updated>2025-07-31T10:48:56Z</updated>
     <id>https://zenn.dev/sc30gsw/articles/ff81891959aaef</id>
@@ -260,12 +248,6 @@
     <updated>2025-07-31T10:36:16Z</updated>
     <id>https://zenn.dev/globis/articles/c16eaadf3d233b</id>
     <link href="https://zenn.dev/globis/articles/c16eaadf3d233b" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 🚀 Claude Code × Serena MCP：もうバージョンダウンしなくても良いのか...?</title>
-    <updated>2025-07-31T02:13:54Z</updated>
-    <id>https://zenn.dev/studio/articles/431afa748fbed1</id>
-    <link href="https://zenn.dev/studio/articles/431afa748fbed1" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: このMCPはプロジェクト全体を把握 VSCode GitHub Copilotで 「Serena MCP」を使う方法</title>
@@ -1076,6 +1058,12 @@
     <updated>2025-07-15T01:19:49Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8256</id>
     <link href="https://www.publickey1.jp/blog/25/awsaikirovs_codeai.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: Android Studio Narwhal Feature Dropの安定版が登場 ―Geminiを使ったエージェントモードが利用可能に</title>
+    <updated>2025-08-04T02:33:00Z</updated>
+    <id>urn:uuid:c53b6ef9-a0ae-6902-21f4-4fb90110bab4</id>
+    <link href="https://gihyo.jp/article/2025/08/android-studio-narwhal-feature-drop?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: SUSE アジア市場CTO Vishal Ghariwala氏に聞く、日本におけるクラウドネイティブの普及状況とSUSEの戦略</title>
@@ -4618,22 +4606,22 @@
     <link href="https://gihyo.jp/science/serial/01/pythagoras/0017?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 「10日間で学ぶ サーバーレス on AWS」講座を公開しました！ #awsserverless10days - log4ketancho</title>
+    <updated>2025-08-03T23:29:28Z</updated>
+    <id>tag:www.ketancho.net,2025-08-03:/entry/aws-serverless-10days</id>
+    <link href="https://www.ketancho.net/entry/aws-serverless-10days" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 意外とイラストレーターも見えてないところでイラスト生成AI活用してるらしい</title>
     <updated>2025-08-03T08:25:13Z</updated>
     <id>tag:anond.hatelabo.jp,2025-08-03:/20250803170529</id>
     <link href="https://anond.hatelabo.jp/20250803170529" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ［ニッポンの米］９０００トン随契米キャンセル続々　出荷遅延で売り切れず / 日本農業新聞公式ウェブサイト</title>
-    <updated>2025-08-03T05:41:24Z</updated>
-    <id>tag:www.agrinews.co.jp,2025-08-03:/news/index/323427</id>
-    <link href="https://www.agrinews.co.jp/news/index/323427" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「10日間で学ぶ サーバーレス on AWS」講座を公開しました！ #awsserverless10days - log4ketancho</title>
-    <updated>2025-08-03T23:29:28Z</updated>
-    <id>tag:www.ketancho.net,2025-08-03:/entry/aws-serverless-10days</id>
-    <link href="https://www.ketancho.net/entry/aws-serverless-10days" rel="alternate"></link>
+    <title>1:hatena_blog_it: 開いているブラウザの内容を読める MCP サーバー - ぽ靴な缶</title>
+    <updated>2025-08-04T01:09:04Z</updated>
+    <id>tag:blog.pokutuna.com,2025-08-04:/entry/pokutuna-mcp-chrome-tabs</id>
+    <link href="https://blog.pokutuna.com/entry/pokutuna-mcp-chrome-tabs" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 図書館の司書とAI司書に同じ相談したら…回答から見えた両者の違い：朝日新聞</title>
@@ -4642,22 +4630,10 @@
     <link href="https://www.asahi.com/articles/AST812RH3T81ULFA00HM.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: HTTP/1.1 Must Die</title>
-    <updated>2025-08-03T09:42:58Z</updated>
-    <id>tag:http1mustdie.com,2025-08-03:/</id>
-    <link href="https://http1mustdie.com/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 新刊『実践Apache Iceberg』の紹介と執筆の思い出 - Bering Note – formerly 流沙河鎮</title>
-    <updated>2025-08-02T07:51:25Z</updated>
-    <id>tag:bering.hatenadiary.com,2025-08-02:/entry/2025/08/01/152529</id>
-    <link href="https://bering.hatenadiary.com/entry/2025/08/01/152529" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: The Death of Agile: Why Tech Giants Are Abandoning Scrum and What They Use Instead</title>
-    <updated>2025-07-23T23:24:37Z</updated>
-    <id>tag:medium.com,2025-07-23:/@sohail_saifi/the-death-of-agile-why-tech-giants-are-abandoning-scrum-and-what-they-use-instead-f92f6e1efcb2</id>
-    <link href="https://medium.com/@sohail_saifi/the-death-of-agile-why-tech-giants-are-abandoning-scrum-and-what-they-use-instead-f92f6e1efcb2" rel="alternate"></link>
+    <title>1:hatena_blog_it: 動物系の生成AIはマジで怖いんだよ...例えば「美味しそうにブドウを食べて飛び跳ねて喜ぶ犬」の生成AI動画がバズった時、こんな悲劇が起きかねない</title>
+    <updated>2025-08-03T07:35:01Z</updated>
+    <id>tag:togetter.com,2025-08-03:/li/2584541</id>
+    <link href="https://togetter.com/li/2584541" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AWS Lambdaをローカルで実行する - コンテナイメージ作成不要のシンプルな方法 - Techtouch Developers Blog</title>
@@ -4666,70 +4642,10 @@
     <link href="https://tech.techtouch.jp/entry/lambda-local-invocation" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「AIで消える仕事、残る仕事」マイクロソフトが公表 | Gadget Gate</title>
-    <updated>2025-08-01T08:05:11Z</updated>
-    <id>tag:gadget.phileweb.com,2025-08-01:/post-106857/</id>
-    <link href="https://gadget.phileweb.com/post-106857/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: このMCPはプロジェクト全体を把握 VSCode GitHub Copilotで 「Serena MCP」を使う方法 - Qiita</title>
-    <updated>2025-08-02T23:48:05Z</updated>
-    <id>tag:qiita.com,2025-08-02:/masakinihirota/items/a2c0ef5e6f9a0aa868d1</id>
-    <link href="https://qiita.com/masakinihirota/items/a2c0ef5e6f9a0aa868d1" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 動物系の生成AIはマジで怖いんだよ...例えば「美味しそうにブドウを食べて飛び跳ねて喜ぶ犬」の生成AI動画がバズった時、こんな悲劇が起きかねない</title>
-    <updated>2025-08-03T07:35:01Z</updated>
-    <id>tag:togetter.com,2025-08-03:/li/2584541</id>
-    <link href="https://togetter.com/li/2584541" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 超上流から攻めるIT化の事例集：要件定義 | アーカイブ | IPA 独立行政法人 情報処理推進機構</title>
-    <updated>2013-08-09T09:35:24Z</updated>
-    <id>tag:www.ipa.go.jp,2013-08-09:/archive/digital/tools/ep/ep2.html</id>
-    <link href="https://www.ipa.go.jp/archive/digital/tools/ep/ep2.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【機械学習】GPUの計算誤差について</title>
-    <updated>2025-01-26T02:37:53Z</updated>
-    <id>tag:potipoti-dev.com,2025-01-26:/gpu-error/</id>
-    <link href="https://potipoti-dev.com/gpu-error/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: conreq - curlライクに使える同時リクエスト確認ツールを作った</title>
-    <updated>2025-08-03T12:26:54Z</updated>
-    <id>tag:zenn.dev,2025-08-03:/shiroemons/articles/1f5370b3bd1f9d</id>
-    <link href="https://zenn.dev/shiroemons/articles/1f5370b3bd1f9d" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AWS deleted my 10-year account and all data without warning</title>
-    <updated>2025-08-02T23:20:40Z</updated>
-    <id>tag:www.seuros.com,2025-08-02:/blog/aws-deleted-my-10-year-account-without-warning/</id>
-    <link href="https://www.seuros.com/blog/aws-deleted-my-10-year-account-without-warning/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Amazon DocumentDB Serverless is now available | Amazon Web Services</title>
-    <updated>2025-07-31T16:02:51Z</updated>
-    <id>tag:aws.amazon.com,2025-07-31:/blogs/aws/amazon-documentdb-serverless-is-now-available/</id>
-    <link href="https://aws.amazon.com/blogs/aws/amazon-documentdb-serverless-is-now-available/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 生成AIと"声"で挑むソーシャルビジネス - バイブコーディングによるLP制作と情報発信の仕組み化 - Insight Edge Tech Blog</title>
-    <updated>2025-08-04T00:33:59Z</updated>
-    <id>tag:techblog.insightedge.jp,2025-08-04:/entry/generative-ai-social-business</id>
-    <link href="https://techblog.insightedge.jp/entry/generative-ai-social-business" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 強さは鉄の100倍、軽さは鋼鉄5分の1の夢の素材　「宇宙エレベーター」実現の鍵を握る、世界に1つの量産技術 | ログミーBusiness</title>
-    <updated>2025-07-31T20:46:16Z</updated>
-    <id>tag:logmi.jp,2025-07-31:/main/startup/332062</id>
-    <link href="https://logmi.jp/main/startup/332062" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 最近よく見る配膳ネコロボット、製造している中国企業は8年連続赤字で割とやばいのでは？という話→廃業したときサポート切れるのが怖い</title>
-    <updated>2025-08-03T04:45:25Z</updated>
-    <id>tag:posfie.com,2025-08-03:/@petaritape/p/M6AZ1DV</id>
-    <link href="https://posfie.com/@petaritape/p/M6AZ1DV" rel="alternate"></link>
+    <title>1:hatena_blog_it: フリーソフト開発26年目の挑戦。IP Messenger & FastCopy作者が個人開発を本業にするまで【フォーカス】 レバテックラボ（レバテックLAB）</title>
+    <updated>2025-08-04T01:11:04Z</updated>
+    <id>tag:levtech.jp,2025-08-04:/media/article/focus/detail_706/</id>
+    <link href="https://levtech.jp/media/article/focus/detail_706/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Instagramライブ、フォロワー1000人未満は配信不可に</title>
@@ -4738,10 +4654,82 @@
     <link href="https://www.itmedia.co.jp/news/articles/2508/04/news054.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Terraform やるなら公式スタイルガイドを読もう 〜重要項目 10選〜</title>
-    <updated>2025-08-02T14:05:04Z</updated>
-    <id>tag:speakerdeck.com,2025-08-02:/hiyanger/terraform-yarunarasutairugaidowodu-mou-zhong-yao-xiang-mu-10xuan</id>
-    <link href="https://speakerdeck.com/hiyanger/terraform-yarunarasutairugaidowodu-mou-zhong-yao-xiang-mu-10xuan" rel="alternate"></link>
+    <title>1:hatena_blog_it: しかし警部、長いことLinuxを使ってるのに、未だにfindのオプションを覚えてないなんてことありますか？</title>
+    <updated>2025-08-03T22:14:17Z</updated>
+    <id>tag:togetter.com,2025-08-03:/li/2584821</id>
+    <link href="https://togetter.com/li/2584821" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: The Death of Agile: Why Tech Giants Are Abandoning Scrum and What They Use Instead</title>
+    <updated>2025-07-23T23:24:37Z</updated>
+    <id>tag:medium.com,2025-07-23:/@sohail_saifi/the-death-of-agile-why-tech-giants-are-abandoning-scrum-and-what-they-use-instead-f92f6e1efcb2</id>
+    <link href="https://medium.com/@sohail_saifi/the-death-of-agile-why-tech-giants-are-abandoning-scrum-and-what-they-use-instead-f92f6e1efcb2" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ［ニッポンの米］９０００トン随契米キャンセル続々　出荷遅延で売り切れず / 日本農業新聞公式ウェブサイト</title>
+    <updated>2025-08-03T05:41:24Z</updated>
+    <id>tag:www.agrinews.co.jp,2025-08-03:/news/index/323427</id>
+    <link href="https://www.agrinews.co.jp/news/index/323427" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 退屈なことを AI にやらせるために: 手動コーディング禁止祭の開催から見えた景色 - 弁護士ドットコム株式会社 Creators’ blog</title>
+    <updated>2025-08-03T23:56:09Z</updated>
+    <id>tag:creators.bengo4.com,2025-08-03:/entry/2025/08/04/080000</id>
+    <link href="https://creators.bengo4.com/entry/2025/08/04/080000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 新刊『実践Apache Iceberg』の紹介と執筆の思い出 - Bering Note – formerly 流沙河鎮</title>
+    <updated>2025-08-02T07:51:25Z</updated>
+    <id>tag:bering.hatenadiary.com,2025-08-02:/entry/2025/08/01/152529</id>
+    <link href="https://bering.hatenadiary.com/entry/2025/08/01/152529" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【機械学習】GPUの計算誤差について</title>
+    <updated>2025-01-26T02:37:53Z</updated>
+    <id>tag:potipoti-dev.com,2025-01-26:/gpu-error/</id>
+    <link href="https://potipoti-dev.com/gpu-error/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「AIで消える仕事、残る仕事」マイクロソフトが公表 | Gadget Gate</title>
+    <updated>2025-08-01T08:05:11Z</updated>
+    <id>tag:gadget.phileweb.com,2025-08-01:/post-106857/</id>
+    <link href="https://gadget.phileweb.com/post-106857/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: JAL最高峰クレカの公式サイトに“違和感画像”多数　「ポップコーンにストローささる」「人の足が1本多い」などXで指摘相次ぐ</title>
+    <updated>2025-08-03T13:02:46Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-08-03:/mobile/articles/2508/03/news024.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2508/03/news024.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【ミニレビュー】 パチンコなら“ソニー”、スロットは“ボーズ”。ギャンブラー流ノイキャンイヤフォンの選び方</title>
+    <updated>2025-08-04T00:42:04Z</updated>
+    <id>tag:av.watch.impress.co.jp,2025-08-04:/docs/review/minireview/2033657.html</id>
+    <link href="https://av.watch.impress.co.jp/docs/review/minireview/2033657.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: テスラ、車体前部のギガキャスト廃止　ホットスタンプ再脚光</title>
+    <updated>2025-08-04T01:46:30Z</updated>
+    <id>tag:xtech.nikkei.com,2025-08-04:/atcl/nxt/column/18/03284/073100001/</id>
+    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/03284/073100001/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Microsoft、「Windows 11 SE」を2026年10月に終了へ</title>
+    <updated>2025-08-03T22:42:01Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-08-03:/news/articles/2508/04/news048.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2508/04/news048.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 生成AIと"声"で挑むソーシャルビジネス - バイブコーディングによるLP制作と情報発信の仕組み化 - Insight Edge Tech Blog</title>
+    <updated>2025-08-04T00:33:59Z</updated>
+    <id>tag:techblog.insightedge.jp,2025-08-04:/entry/generative-ai-social-business</id>
+    <link href="https://techblog.insightedge.jp/entry/generative-ai-social-business" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ChatGPTなどに続々「学習モード」 学ぶこととAIの関係はどうなるのか【西田宗千佳のイマトミライ】</title>
+    <updated>2025-08-03T23:28:03Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-08-03:/docs/series/nishida/2036402.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/series/nishida/2036402.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ユーザーに隠れてこそこそWindowsのローカル生成AIにアクセスするアプリを洗い出す</title>
@@ -4750,39 +4738,33 @@
     <link href="https://forest.watch.impress.co.jp/docs/news/insiderpre/2034644.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Codeでローカル固有の情報をメモリで扱う方法 | DevelopersIO</title>
-    <updated>2025-07-31T12:53:13Z</updated>
-    <id>tag:dev.classmethod.jp,2025-07-31:/articles/claude-code-local-memory-usage/</id>
-    <link href="https://dev.classmethod.jp/articles/claude-code-local-memory-usage/" rel="alternate"></link>
+    <title>1:hatena_blog_it: HTTP/1.1 Must Die</title>
+    <updated>2025-08-03T09:42:58Z</updated>
+    <id>tag:http1mustdie.com,2025-08-03:/</id>
+    <link href="https://http1mustdie.com/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: The Rubik's Cube Perfect Scramble</title>
-    <updated>2025-08-02T15:32:36Z</updated>
-    <id>tag:www.solutionslookingforproblems.com,2025-08-02:/post/the-rubik-s-cube-perfect-scramble</id>
-    <link href="https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「中国製半導体が市場を奪う」米NVIDIAの輸出空白が招いた誤算、H20代替品続々投入 | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア</title>
+    <updated>2025-08-03T23:27:48Z</updated>
+    <id>tag:36kr.jp,2025-08-03:/366533/</id>
+    <link href="https://36kr.jp/366533/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 一人で没頭したいか、何でも一緒にやりたいか - hitode909の日記</title>
-    <updated>2025-08-02T23:59:16Z</updated>
-    <id>tag:blog.sushi.money,2025-08-02:/entry/2025/08/01/235900</id>
-    <link href="https://blog.sushi.money/entry/2025/08/01/235900" rel="alternate"></link>
+    <title>1:hatena_blog_it: 他サービスからの移行組必見！Gemini CLIによるObsidianのノート半自動整理術｜genkAIjokyo|ChatGPT/Claudeで論文作成と科研費申請</title>
+    <updated>2025-08-03T14:24:16Z</updated>
+    <id>tag:note.com,2025-08-03:/genkaijokyo/n/n2b476e6bf485</id>
+    <link href="https://note.com/genkaijokyo/n/n2b476e6bf485" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 世界最先端AI企業 OpenAIのデザイナーに求められる「曖昧さへの耐性」｜Naofumi Tsuchiya / Goodpatch</title>
-    <updated>2025-08-03T09:01:12Z</updated>
-    <id>tag:note.com,2025-08-03:/naofumit/n/n8e4afd8933d1</id>
-    <link href="https://note.com/naofumit/n/n8e4afd8933d1" rel="alternate"></link>
+    <title>1:hatena_blog_it: [スタパ齋藤の「スタパトロニクスMobile」] 超高速ドキュメントスキャナーで最高効率！　「ScanSnap iX2500」が良き良～きだった</title>
+    <updated>2025-08-03T15:04:30Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2025-08-03:/docs/column/stapa/2034612.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/column/stapa/2034612.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: なぜBigQuery Editionsのクエリ単位のコストは正確に計算できないのか</title>
-    <updated>2025-08-01T11:22:16Z</updated>
-    <id>tag:techblog.kazaneya.com,2025-08-01:/20250801-bigquery-editions-cost/</id>
-    <link href="https://techblog.kazaneya.com/20250801-bigquery-editions-cost/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Qwen3-235BやQwen3-30B、Qwen3 Coder Flashは長コンテキストでの性能劣化が激しいのでは - きしだのHatena</title>
-    <updated>2025-08-03T02:03:30Z</updated>
-    <id>tag:nowokay.hatenablog.com,2025-08-03:/entry/2025/08/02/161039</id>
-    <link href="https://nowokay.hatenablog.com/entry/2025/08/02/161039" rel="alternate"></link>
+    <title>1:hatena_blog_it: わずか40gのAIグラス「Halo」登場。もはや299ドルで買える脳の外部ストレージ</title>
+    <updated>2025-08-02T02:58:24Z</updated>
+    <id>tag:ascii.jp,2025-08-02:/elem/000/004/310/4310388/</id>
+    <link href="https://ascii.jp/elem/000/004/310/4310388/" rel="alternate"></link>
   </entry>
 </feed>

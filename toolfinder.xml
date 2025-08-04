@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-08-04T01:21:16Z</updated>
+  <updated>2025-08-04T06:29:29Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3310,6 +3310,18 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: netpump</title>
+    <updated>2025-08-04T06:13:38Z</updated>
+    <id>netpump-1754288018</id>
+    <link href="https://aur.archlinux.org/packages/netpump" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: pt-depiler-git</title>
+    <updated>2025-08-04T02:20:49Z</updated>
+    <id>pt-depiler-git-1754274049</id>
+    <link href="https://aur.archlinux.org/packages/pt-depiler-git" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: python-pybase64</title>
     <updated>2025-08-04T01:15:01Z</updated>
     <id>python-pybase64-1754270101</id>
@@ -3898,16 +3910,220 @@
     <link href="https://aur.archlinux.org/packages/netduke32" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: papertoy-bin</title>
-    <updated>2025-08-01T10:30:56Z</updated>
-    <id>papertoy-bin-1754044256</id>
-    <link href="https://aur.archlinux.org/packages/papertoy-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: haskell-unexceptionalio-trans 0.5.2-1 x86_64</title>
+    <updated>2025-08-04T06:29:13Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-unexceptionalio-trans/202508040629</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-unexceptionalio-trans/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: zoi</title>
-    <updated>2025-08-01T10:23:21Z</updated>
-    <id>zoi-1754043801</id>
-    <link href="https://aur.archlinux.org/packages/zoi" rel="alternate"></link>
+    <title>2:archlinux_new_packages: mivisionx 6.4.2-1 x86_64</title>
+    <updated>2025-08-04T06:23:26Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra-testing/x86_64/mivisionx/202508040623</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/mivisionx/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-opencl-sdk 6.4.2-1 any</title>
+    <updated>2025-08-04T06:21:58Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra-testing/any/rocm-opencl-sdk/202508040621</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/rocm-opencl-sdk/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-ml-sdk 6.4.2-1 any</title>
+    <updated>2025-08-04T06:21:57Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra-testing/any/rocm-ml-sdk/202508040621</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/rocm-ml-sdk/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-ml-libraries 6.4.2-1 any</title>
+    <updated>2025-08-04T06:21:57Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra-testing/any/rocm-ml-libraries/202508040621</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/rocm-ml-libraries/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-language-runtime 6.4.2-1 any</title>
+    <updated>2025-08-04T06:21:56Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra-testing/any/rocm-language-runtime/202508040621</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/rocm-language-runtime/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-hip-sdk 6.4.2-1 any</title>
+    <updated>2025-08-04T06:21:56Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra-testing/any/rocm-hip-sdk/202508040621</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/rocm-hip-sdk/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-hip-runtime 6.4.2-1 any</title>
+    <updated>2025-08-04T06:21:56Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra-testing/any/rocm-hip-runtime/202508040621</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/rocm-hip-runtime/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rocm-hip-libraries 6.4.2-1 any</title>
+    <updated>2025-08-04T06:21:55Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra-testing/any/rocm-hip-libraries/202508040621</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/rocm-hip-libraries/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: postgrest 10.0.0-398 x86_64</title>
+    <updated>2025-08-04T06:19:32Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/postgrest/202508040619</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/postgrest/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-postgresql-simple 0.6.5.1-35 x86_64</title>
+    <updated>2025-08-04T06:19:32Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-postgresql-simple/202508040619</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-postgresql-simple/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-postgresql-libpq 0.9.5.0-1 x86_64</title>
+    <updated>2025-08-04T06:19:31Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-postgresql-libpq/202508040619</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-postgresql-libpq/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-postgresql-binary 0.12.5-185 x86_64</title>
+    <updated>2025-08-04T06:19:31Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-postgresql-binary/202508040619</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-postgresql-binary/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-persistent-postgresql 2.13.5.0-28 x86_64</title>
+    <updated>2025-08-04T06:19:30Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-persistent-postgresql/202508040619</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-persistent-postgresql/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-hasql-transaction 1.0.1.1-333 x86_64</title>
+    <updated>2025-08-04T06:19:30Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-hasql-transaction/202508040619</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hasql-transaction/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-hasql-pool 0.5.2.2-313 x86_64</title>
+    <updated>2025-08-04T06:19:29Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-hasql-pool/202508040619</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hasql-pool/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-hasql-notifications 0.2.0.4-112 x86_64</title>
+    <updated>2025-08-04T06:19:29Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-hasql-notifications/202508040619</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hasql-notifications/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-hasql-implicits 0.1.0.5-230 x86_64</title>
+    <updated>2025-08-04T06:19:29Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-hasql-implicits/202508040619</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hasql-implicits/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-hasql-dynamic-statements 0.3.1.1-193 x86_64</title>
+    <updated>2025-08-04T06:19:28Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-hasql-dynamic-statements/202508040619</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hasql-dynamic-statements/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-hasql 1.5.0.5-28 x86_64</title>
+    <updated>2025-08-04T06:19:28Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-hasql/202508040619</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hasql/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-esqueleto 3.5.9.0-97 x86_64</title>
+    <updated>2025-08-04T06:19:27Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-esqueleto/202508040619</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-esqueleto/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: miopen-hip 6.4.2-1 x86_64</title>
+    <updated>2025-08-04T06:18:50Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra-testing/x86_64/miopen-hip/202508040618</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/miopen-hip/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: gnome-shell-docs 1:48.4-1 x86_64</title>
+    <updated>2025-08-04T06:06:39Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/gnome-shell-docs/202508040606</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/gnome-shell-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: gnome-shell 1:48.4-1 x86_64</title>
+    <updated>2025-08-04T06:06:39Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/gnome-shell/202508040606</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/gnome-shell/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: gnome-maps 48.6-1 x86_64</title>
+    <updated>2025-08-04T06:06:38Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/gnome-maps/202508040606</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/gnome-maps/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hledger-web 1.32.1-223 x86_64</title>
+    <updated>2025-08-04T06:01:48Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/hledger-web/202508040601</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hledger-web/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hledger-ui 1.32.1-197 x86_64</title>
+    <updated>2025-08-04T06:01:48Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/hledger-ui/202508040601</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hledger-ui/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hledger-iadd 1.3.20-142 x86_64</title>
+    <updated>2025-08-04T06:01:47Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/hledger-iadd/202508040601</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hledger-iadd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hledger 1.32.1-176 x86_64</title>
+    <updated>2025-08-04T06:01:47Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/hledger/202508040601</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hledger/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-text-ansi 0.3.0.1-1 x86_64</title>
+    <updated>2025-08-04T06:01:47Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-text-ansi/202508040601</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-text-ansi/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haskell-hledger-lib 1.32.1-138 x86_64</title>
+    <updated>2025-08-04T06:01:46Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/haskell-hledger-lib/202508040601</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hledger-lib/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: talosctl 1.10.6-1 x86_64</title>
+    <updated>2025-08-04T05:10:10Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/talosctl/202508040510</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/talosctl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: doomretro 5.7.2-1 x86_64</title>
+    <updated>2025-08-04T05:10:10Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/x86_64/doomretro/202508040510</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/doomretro/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: toot 0.49.0-1 any</title>
+    <updated>2025-08-04T05:10:09Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/any/toot/202508040510</id>
+    <link href="https://archlinux.org/packages/extra/any/toot/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lynis 3.1.5-1 any</title>
+    <updated>2025-08-04T05:10:08Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra/any/lynis/202508040510</id>
+    <link href="https://archlinux.org/packages/extra/any/lynis/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: composable-kernel 6.4.2-1 x86_64</title>
+    <updated>2025-08-04T05:06:55Z</updated>
+    <id>tag:archlinux.org,2025-08-04:/packages/extra-testing/x86_64/composable-kernel/202508040506</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/composable-kernel/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: haskell-integer-roots 1.0.3.0-1 x86_64</title>
@@ -3992,221 +4208,5 @@
     <updated>2025-08-03T21:21:13Z</updated>
     <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-refactor-plugin/202508032121</id>
     <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-refactor-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-qualify-imported-names-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:13Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-qualify-imported-names-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-qualify-imported-names-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-pragmas-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:12Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-pragmas-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-pragmas-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-plugin-api 2.0.0.0-79 x86_64</title>
-    <updated>2025-08-03T21:21:12Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-plugin-api/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-plugin-api/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-ormolu-plugin 2.0.0.0-91 x86_64</title>
-    <updated>2025-08-03T21:21:11Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-ormolu-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-ormolu-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-module-name-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:11Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-module-name-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-module-name-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-hlint-plugin 2.0.0.0-90 x86_64</title>
-    <updated>2025-08-03T21:21:11Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-hlint-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-hlint-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-graph 2.0.0.0-71 x86_64</title>
-    <updated>2025-08-03T21:21:10Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-graph/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-graph/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-gadt-plugin 2.0.0.0-89 x86_64</title>
-    <updated>2025-08-03T21:21:10Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-gadt-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-gadt-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-fourmolu-plugin 2.0.0.0-94 x86_64</title>
-    <updated>2025-08-03T21:21:09Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-fourmolu-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-fourmolu-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-floskell-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:09Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-floskell-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-floskell-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-explicit-record-fields-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:09Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-explicit-record-fields-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-explicit-record-fields-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-explicit-imports-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:08Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-explicit-imports-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-explicit-imports-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-explicit-fixity-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:08Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-explicit-fixity-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-explicit-fixity-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-eval-plugin 2.0.0.0-88 x86_64</title>
-    <updated>2025-08-03T21:21:07Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-eval-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-eval-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-code-range-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:07Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-code-range-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-code-range-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-class-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:06Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-class-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-class-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-change-type-signature-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:06Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-change-type-signature-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-change-type-signature-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-call-hierarchy-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:06Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-call-hierarchy-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-call-hierarchy-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-cabal-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:05Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-cabal-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-cabal-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-cabal-fmt-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:05Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-cabal-fmt-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-cabal-fmt-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hls-alternate-number-format-plugin 2.0.0.0-87 x86_64</title>
-    <updated>2025-08-03T21:21:04Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hls-alternate-number-format-plugin/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hls-alternate-number-format-plugin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hadrian 0.1.0.0+9.4.8-127 x86_64</title>
-    <updated>2025-08-03T21:21:04Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-hadrian/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hadrian/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-ghcide-test-utils 1.9.0.0-146 x86_64</title>
-    <updated>2025-08-03T21:21:04Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-ghcide-test-utils/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-ghcide-test-utils/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-ghcide 2.0.0.0-90 x86_64</title>
-    <updated>2025-08-03T21:21:03Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/haskell-ghcide/202508032121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-ghcide/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: tamarin-prover 1.10.0-104 x86_64</title>
-    <updated>2025-08-03T20:06:27Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/tamarin-prover/202508032006</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/tamarin-prover/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: taffybar 4.0.3-120 x86_64</title>
-    <updated>2025-08-03T20:06:26Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/taffybar/202508032006</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/taffybar/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: stack 2.9.1-202 x86_64</title>
-    <updated>2025-08-03T20:06:26Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/stack/202508032006</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/stack/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: postgrest 10.0.0-397 x86_64</title>
-    <updated>2025-08-03T20:06:25Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/postgrest/202508032006</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/postgrest/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pandoc-cli 3.1.12.1-118 x86_64</title>
-    <updated>2025-08-03T20:06:25Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/pandoc-cli/202508032006</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pandoc-cli/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mighttpd2 4.0.3-256 x86_64</title>
-    <updated>2025-08-03T20:06:25Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/mighttpd2/202508032006</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/mighttpd2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ihaskell 0.12.0.0-10 x86_64</title>
-    <updated>2025-08-03T20:06:24Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/ihaskell/202508032006</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/ihaskell/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: idris 1.3.4-343 x86_64</title>
-    <updated>2025-08-03T20:06:24Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/idris/202508032006</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/idris/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: hledger-web 1.32.1-222 x86_64</title>
-    <updated>2025-08-03T20:06:23Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/hledger-web/202508032006</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/hledger-web/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: hledger-ui 1.32.1-196 x86_64</title>
-    <updated>2025-08-03T20:06:22Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/hledger-ui/202508032006</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/hledger-ui/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: hledger-iadd 1.3.20-141 x86_64</title>
-    <updated>2025-08-03T20:06:22Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/hledger-iadd/202508032006</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/hledger-iadd/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: hindent 5.3.4-229 x86_64</title>
-    <updated>2025-08-03T20:06:22Z</updated>
-    <id>tag:archlinux.org,2025-08-03:/packages/extra/x86_64/hindent/202508032006</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/hindent/" rel="alternate"></link>
   </entry>
 </feed>
