@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-08-06T12:32:36Z</updated>
+  <updated>2025-08-06T18:22:40Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -136,10 +136,16 @@
     <link href="https://zenn.dev/drsprime/articles/3eeb7d95e954ea" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 「gpt-oss」発表内容まとめと使い方。OpenAIのオープンソースモデル</title>
+    <title>3:zenn_trend: 「gpt-oss」発表内容まとめと使い方。OpenAIのオープンウェイトモデル</title>
     <updated>2025-08-05T18:12:56Z</updated>
     <id>https://zenn.dev/n_san/articles/23171bb3dae810</id>
     <link href="https://zenn.dev/n_san/articles/23171bb3dae810" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Outlines で LLM の構造化出力を100%成功させる</title>
+    <updated>2025-08-05T16:47:31Z</updated>
+    <id>https://zenn.dev/prgckwb/articles/outlines-llm-structured-output</id>
+    <link href="https://zenn.dev/prgckwb/articles/outlines-llm-structured-output" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 5分で Claude Code のトークン効率とパフォーマンスを上げる #Serena</title>
@@ -148,10 +154,10 @@
     <link href="https://zenn.dev/hcproduce_blog/articles/42aac2f761b32d" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 【Google Cloud Next Tokyo 25】1日目参加レポート</title>
-    <updated>2025-08-05T10:44:18Z</updated>
-    <id>https://zenn.dev/yukorido/articles/3a0faf3687f1c5</id>
-    <link href="https://zenn.dev/yukorido/articles/3a0faf3687f1c5" rel="alternate"></link>
+    <title>3:zenn_trend: Next.jsの超高性価比技術スタック完全ガイド</title>
+    <updated>2025-08-05T09:58:48Z</updated>
+    <id>https://zenn.dev/gozen/articles/5fd9d7ba7fb5e8</id>
+    <link href="https://zenn.dev/gozen/articles/5fd9d7ba7fb5e8" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: ボックスモデルの要約による簡易 VRT を作ってみた - @mizchi/visc</title>
@@ -176,12 +182,6 @@
     <updated>2025-08-05T04:58:37Z</updated>
     <id>https://zenn.dev/microsoft/articles/llm-magi-system</id>
     <link href="https://zenn.dev/microsoft/articles/llm-magi-system" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: ICML 2025 参加レポート | TrustHub テックブログ</title>
-    <updated>2025-08-05T04:30:05Z</updated>
-    <id>https://zenn.dev/trusthub/articles/8fa5dfc6777038</id>
-    <link href="https://zenn.dev/trusthub/articles/8fa5dfc6777038" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Kiroについて、Spec駆動開発について、今一度簡単に振り返る</title>
@@ -970,6 +970,18 @@
     <link href="https://www.youtube.com/watch?v=yeWvuiDoos8" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: Google Cloud、自然言語からデータ分析用のPythonコードを生成し実行する「Code Interpreter」をプレビュー公開</title>
+    <updated>2025-08-06T15:47:03Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8279</id>
+    <link href="https://www.publickey1.jp/blog/25/google_cloudpythoncode_interpreter.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: Google Cloud、「Cloud Spanner」がカラムナエンジン搭載。OLTP＋OLAPを大規模分散データベースで実現</title>
+    <updated>2025-08-06T15:45:43Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8278</id>
+    <link href="https://www.publickey1.jp/blog/25/google_cloudcloud_spanneroltpolap.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: ガートナー、AIにおけるハイプサイクル2025を発表。AIエージェントやマルチモーダルAIは過剰期待、AIネイティブソフトウェアエンジニアリングやAGIは黎明期など</title>
     <updated>2025-08-05T15:27:05Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8277</id>
@@ -1046,18 +1058,6 @@
     <updated>2025-07-24T15:51:17Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8264</id>
     <link href="https://www.publickey1.jp/blog/25/githubgithub_spark_1.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Webブラウザ上で高速なグラフィックスレンダリングとGPGPUなどを可能にする「WebGPU」、Chromeに続いてFirefoxも正式対応</title>
-    <updated>2025-07-23T15:49:48Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8263</id>
-    <link href="https://www.publickey1.jp/blog/25/webgpgpuwebgpuchromefirefox.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Red Hat、ビジネスアプリ開発者向けのRHEL無料プログラム「Red Hat Enterprise Linux for Business Developers」提供開始</title>
-    <updated>2025-07-22T15:10:11Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8262</id>
-    <link href="https://www.publickey1.jp/blog/25/red_hatrhelred_hat_enterprise_linux_for_business_developers.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: OpenAI、o3-miniと同等以上のオープンモデル「gpt-oss」をリリース ——ハーモニーレスポンス形式を扱うトークナイザーやレンダラーもオープンソースで公開</title>
@@ -4558,12 +4558,6 @@
     <link href="https://gihyo.jp/article/2024/08/pycon-mini-shizuoka?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: 第57回 生成AIと真夏の夜の夢</title>
-    <updated>2024-08-15T00:17:00Z</updated>
-    <id>urn:uuid:85031b42-fd0d-29ab-7136-3dc725972cda</id>
-    <link href="https://gihyo.jp/article/2024/08/zoku-gansiki-0057?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: Sakana AI、科学論文の調査から作成、レビューまですべてAIが自動で実行するThe AI Scientistを発表</title>
     <updated>2024-08-13T06:10:00Z</updated>
     <id>urn:uuid:c4f306ba-94b2-c34d-fd60-491570b06347</id>
@@ -4588,28 +4582,10 @@
     <link href="https://gihyo.jp/article/2024/08/daily-linux-240809?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: SciPy 2024 カンファレンスレポート</title>
-    <updated>2024-08-07T03:12:00Z</updated>
-    <id>urn:uuid:94ae5ac2-cb92-63ca-c2ee-8bf87d02cc7f</id>
-    <link href="https://gihyo.jp/article/2024/08/scipy2024?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: 第825回　ローカルLLMの実行ツールであるOllamaをUbuntuで動かす</title>
     <updated>2024-08-07T00:28:00Z</updated>
     <id>urn:uuid:7360a7d1-c3c0-6db7-aeda-1b6c0f9abf75</id>
     <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0825?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: どんなに良いものにも終わりは来る ―Gentoo Linux派生プロジェクト「Funtoo」の終了を発表</title>
-    <updated>2024-08-06T07:43:00Z</updated>
-    <id>urn:uuid:5add3f5a-8556-72f0-7abc-7899c1a84f0e</id>
-    <link href="https://gihyo.jp/article/2024/08/daily-linux-240806?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: Google Workspaceアプリの生成AIアシスタントGemini for Google Workspaceが9月より順次日本語に対応</title>
-    <updated>2024-08-06T07:38:00Z</updated>
-    <id>urn:uuid:17edb3e3-daa6-29a0-1140-1a679bf341bf</id>
-    <link href="https://gihyo.jp/article/2024/08/gemini-google-workspace-jp?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: 第17回　特殊相対論から一般相対論へPythonによる幾何計算</title>
@@ -4618,64 +4594,16 @@
     <link href="https://gihyo.jp/science/serial/01/pythagoras/0017?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【特集】 俺はローカルアカウントで使いたいんだよ！Windows 11のセットアップでMicrosoftアカウントを回避する方法最新版</title>
-    <updated>2025-08-05T21:38:50Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-08-05:/docs/topic/feature/2036750.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2036750.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 最近病院で”自分の症状をAIに要約させて持参する人”が増えたんだけど正直すごく助かってる→「要約させて問診票に書いたら医療関係者じゃないかと警戒された」</title>
-    <updated>2025-08-05T22:27:31Z</updated>
-    <id>tag:togetter.com,2025-08-05:/li/2585794</id>
-    <link href="https://togetter.com/li/2585794" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: MicrosoftがAIに代替される40の職業、安泰な40の職業を発表 | XenoSpectrum</title>
-    <updated>2025-08-05T03:13:38Z</updated>
-    <id>tag:xenospectrum.com,2025-08-05:/microsoft-announces-40-jobs-that-will-be-replaced-by-ai-and-40-jobs-that-will-remain-secure/</id>
-    <link href="https://xenospectrum.com/microsoft-announces-40-jobs-that-will-be-replaced-by-ai-and-40-jobs-that-will-remain-secure/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: ニフティが「個人ホームぺージ」サービス継続の姿勢を表明。このSNS時代になぜ？　蓄積された情報資産を未来に残す――熱い思いの新プロジェクト立ち上げの背景には30年の歴史が</title>
     <updated>2025-08-06T09:08:39Z</updated>
     <id>tag:internet.watch.impress.co.jp,2025-08-06:/docs/special/2037262.html</id>
     <link href="https://internet.watch.impress.co.jp/docs/special/2037262.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OpenAI、オープンソースのAIモデル「gpt-oss」発表　性能は“o4-mini”に匹敵　軽量版含む2種類を公開</title>
-    <updated>2025-08-05T18:02:22Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-08-05:/aiplus/articles/2508/06/news061.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2508/06/news061.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIによる開発の前提知識を学ぶため「LLMのプロンプトエンジニアリング」を読んだ - $shibayu36->blog;</title>
-    <updated>2025-08-05T11:28:30Z</updated>
-    <id>tag:blog.shibayu36.org,2025-08-05:/entry/2025/08/04/173000</id>
-    <link href="https://blog.shibayu36.org/entry/2025/08/04/173000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【独占】生成AI勃興でリストラ敢行　巨額調達ダイニーが人材削減に踏み切った理由</title>
-    <updated>2025-08-06T02:58:48Z</updated>
-    <id>tag:japan.cnet.com,2025-08-06:/article/35236357/</id>
-    <link href="https://japan.cnet.com/article/35236357/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ChatGPTやGeminiで業務効率UP　人に仕事を頼むのが苦手な人ほどおすすめ #プロのゆる生成AI活用術 - りっすん by イーアイデム</title>
-    <updated>2025-08-06T01:42:41Z</updated>
-    <id>tag:www.e-aidem.com,2025-08-06:/ch/listen/entry/2025/08/06/103000</id>
-    <link href="https://www.e-aidem.com/ch/listen/entry/2025/08/06/103000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI コーディングの新たなパートナー：Gemini CLI GitHub Actions を発表 | Google Cloud 公式ブログ</title>
-    <updated>2025-08-06T02:26:47Z</updated>
-    <id>tag:cloud.google.com,2025-08-06:/blog/ja/topics/developers-practitioners/introducing-gemini-cli-github-actions</id>
-    <link href="https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-gemini-cli-github-actions?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=fy25q3-googlecloud_jp-blog-next_event-in_feed-no-brand-regional-apac&utm_content=introducing-gemini-cli-github-actions&utm_term=-" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI駆動開発ツールカオスマップ2025年上期版 - Findy Tools</title>
-    <updated>2025-08-05T23:27:14Z</updated>
-    <id>tag:findy-tools.io,2025-08-05:/articles/ai-driven-development-tool/95</id>
-    <link href="https://findy-tools.io/articles/ai-driven-development-tool/95" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【特集】 俺はローカルアカウントで使いたいんだよ！Windows 11のセットアップでMicrosoftアカウントを回避する方法最新版</title>
+    <updated>2025-08-05T21:38:50Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-08-05:/docs/topic/feature/2036750.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2036750.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: JAL最高峰クレカ“違和感画像”、なぜ事前に見抜けず掲載？　広報が経緯明かし陳謝</title>
@@ -4684,34 +4612,46 @@
     <link href="https://www.itmedia.co.jp/mobile/articles/2508/06/news057.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 現場が勝手に…ITツール「増やしまくり問題」、ガートナー流の“ド定番”の解決策</title>
-    <updated>2025-08-05T07:26:49Z</updated>
-    <id>tag:www.sbbit.jp,2025-08-05:/article/cont1/169145</id>
-    <link href="https://www.sbbit.jp/article/cont1/169145" rel="alternate"></link>
+    <title>1:hatena_blog_it: 最近病院で”自分の症状をAIに要約させて持参する人”が増えたんだけど正直すごく助かってる→「要約させて問診票に書いたら医療関係者じゃないかと警戒された」</title>
+    <updated>2025-08-05T22:27:31Z</updated>
+    <id>tag:togetter.com,2025-08-05:/li/2585794</id>
+    <link href="https://togetter.com/li/2585794" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 東大の松尾・岩澤研、「大規模言語モデル講座」の資料を無料公開　LLMの理論から実践まで体系的に解説</title>
-    <updated>2025-08-06T00:15:37Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-08-06:/aiplus/articles/2508/05/news104.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2508/05/news104.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【独占】生成AI勃興でリストラ敢行　巨額調達ダイニーが人材削減に踏み切った理由</title>
+    <updated>2025-08-06T02:58:48Z</updated>
+    <id>tag:japan.cnet.com,2025-08-06:/article/35236357/</id>
+    <link href="https://japan.cnet.com/article/35236357/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 受付機に使っていたQRコードリーダーが遅すぎたのでQRコードの発明元であるDENSOの新品10万円する製品を買ったらめちゃくちゃ爆速になった</title>
-    <updated>2025-08-06T01:46:06Z</updated>
-    <id>tag:togetter.com,2025-08-06:/li/2585833</id>
-    <link href="https://togetter.com/li/2585833" rel="alternate"></link>
+    <title>1:hatena_blog_it: AI コーディングの新たなパートナー：Gemini CLI GitHub Actions を発表 | Google Cloud 公式ブログ</title>
+    <updated>2025-08-06T02:26:47Z</updated>
+    <id>tag:cloud.google.com,2025-08-06:/blog/ja/topics/developers-practitioners/introducing-gemini-cli-github-actions</id>
+    <link href="https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-gemini-cli-github-actions?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=fy25q3-googlecloud_jp-blog-next_event-in_feed-no-brand-regional-apac&utm_content=introducing-gemini-cli-github-actions&utm_term=-" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「すでに冷風が出なくなってる…」JIS規格だと冷房が耐えられる外気温が43度となっているのでこの先の酷暑が続くとかなり心配</title>
-    <updated>2025-08-06T00:31:25Z</updated>
-    <id>tag:togetter.com,2025-08-06:/li/2585766</id>
-    <link href="https://togetter.com/li/2585766" rel="alternate"></link>
+    <title>1:hatena_blog_it: ChatGPTやGeminiで業務効率UP　人に仕事を頼むのが苦手な人ほどおすすめ #プロのゆる生成AI活用術 - りっすん by イーアイデム</title>
+    <updated>2025-08-06T01:42:41Z</updated>
+    <id>tag:www.e-aidem.com,2025-08-06:/ch/listen/entry/2025/08/06/103000</id>
+    <link href="https://www.e-aidem.com/ch/listen/entry/2025/08/06/103000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 井上純一さんが「二次創作は人間の創作的関与があるから著作権が認められるが、生成AIは人間の創作的関与が認められないため著作権が認められない」と主張して議論が起きる</title>
-    <updated>2025-08-06T01:11:12Z</updated>
-    <id>tag:togetter.com,2025-08-06:/li/2585804</id>
-    <link href="https://togetter.com/li/2585804" rel="alternate"></link>
+    <title>1:hatena_blog_it: 好きがつながるプロジェクト</title>
+    <updated>2025-08-06T10:24:47Z</updated>
+    <id>tag:csoption.nifty.com,2025-08-06:/sukigatsunagaru_pj/</id>
+    <link href="https://csoption.nifty.com/sukigatsunagaru_pj/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: プロジェクトデータをCLAUDE.md及びその参照からSerenaメモリへ移動させてみた | DevelopersIO</title>
+    <updated>2025-08-06T02:52:15Z</updated>
+    <id>tag:dev.classmethod.jp,2025-08-06:/articles/20250805-tried-moving-the-project-data-from-claude-md-and-its-references-to-serena-memory/</id>
+    <link href="https://dev.classmethod.jp/articles/20250805-tried-moving-the-project-data-from-claude-md-and-its-references-to-serena-memory/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 10社経験したエンジニアがエムスリーに「出戻り」した話 - エムスリーテックブログ</title>
+    <updated>2025-08-06T02:43:11Z</updated>
+    <id>tag:www.m3tech.blog,2025-08-06:/entry/2025/08/06/112920</id>
+    <link href="https://www.m3tech.blog/entry/2025/08/06/112920" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 活性化関数がよくわからん、という人 - Qiita</title>
@@ -4720,28 +4660,52 @@
     <link href="https://qiita.com/hokutoh/items/c21dedb50713c1cd2c6b" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: gpt-oss の使い方｜npaka</title>
-    <updated>2025-08-06T00:44:41Z</updated>
-    <id>tag:note.com,2025-08-06:/npaka/n/nf39f327c3bde</id>
-    <link href="https://note.com/npaka/n/nf39f327c3bde" rel="alternate"></link>
+    <title>1:hatena_blog_it: 東大の松尾・岩澤研、「大規模言語モデル講座」の資料を無料公開　LLMの理論から実践まで体系的に解説</title>
+    <updated>2025-08-06T00:15:37Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-08-06:/aiplus/articles/2508/05/news104.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2508/05/news104.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「Claude × Draw.io × スイムレーン」で業務フロー図のたたきを瞬時に作るプロンプト - Qiita</title>
-    <updated>2025-08-05T03:50:17Z</updated>
-    <id>tag:qiita.com,2025-08-05:/WdknWdkn/items/de2aeced1faf948ac125</id>
-    <link href="https://qiita.com/WdknWdkn/items/de2aeced1faf948ac125" rel="alternate"></link>
+    <title>1:hatena_blog_it: MicrosoftがAIに代替される40の職業、安泰な40の職業を発表 | XenoSpectrum</title>
+    <updated>2025-08-05T03:13:38Z</updated>
+    <id>tag:xenospectrum.com,2025-08-05:/microsoft-announces-40-jobs-that-will-be-replaced-by-ai-and-40-jobs-that-will-remain-secure/</id>
+    <link href="https://xenospectrum.com/microsoft-announces-40-jobs-that-will-be-replaced-by-ai-and-40-jobs-that-will-remain-secure/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【朗報】ChatGPT、なんとギャルゲーも作れてしまう</title>
-    <updated>2025-08-06T01:39:05Z</updated>
-    <id>tag:www.gadget2ch.com,2025-08-06:/archives/post-257313.html</id>
-    <link href="http://www.gadget2ch.com/archives/post-257313.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIによる開発の前提知識を学ぶため「LLMのプロンプトエンジニアリング」を読んだ - $shibayu36->blog;</title>
+    <updated>2025-08-05T11:28:30Z</updated>
+    <id>tag:blog.shibayu36.org,2025-08-05:/entry/2025/08/04/173000</id>
+    <link href="https://blog.shibayu36.org/entry/2025/08/04/173000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OpenAIの「オープンなAI（gpt-oss-120b）」はGPUサーバじゃないと動かない？→約30万円の自作PCで動かしてみた</title>
-    <updated>2025-08-06T00:43:07Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-08-06:/aiplus/articles/2508/06/news066.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2508/06/news066.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: OpenAI、オープンなAIモデル「gpt-oss」発表　性能は“o4-mini”に匹敵　軽量版含む2種類を公開</title>
+    <updated>2025-08-05T18:02:22Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-08-05:/aiplus/articles/2508/06/news061.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2508/06/news061.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIで調査した技術知識を忘れないようにObsidianに自動でまとめ直す - $shibayu36->blog;</title>
+    <updated>2025-07-30T05:20:02Z</updated>
+    <id>tag:blog.shibayu36.org,2025-07-30:/entry/2025/07/30/092458</id>
+    <link href="https://blog.shibayu36.org/entry/2025/07/30/092458" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 受付機に使っていたQRコードリーダーが遅すぎたのでQRコードの発明元であるDENSOの新品10万円する製品を買ったらめちゃくちゃ爆速になった</title>
+    <updated>2025-08-06T01:46:06Z</updated>
+    <id>tag:togetter.com,2025-08-06:/li/2585833</id>
+    <link href="https://togetter.com/li/2585833" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: DeNA、全社員の“AI活用レベル”評価へ　半期ごとに目標設定、等級別の推奨要素に</title>
+    <updated>2025-08-06T08:23:02Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-08-06:/aiplus/articles/2508/06/news099.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2508/06/news099.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 現場が勝手に…ITツール「増やしまくり問題」、ガートナー流の“ド定番”の解決策</title>
+    <updated>2025-08-05T07:26:49Z</updated>
+    <id>tag:www.sbbit.jp,2025-08-05:/article/cont1/169145</id>
+    <link href="https://www.sbbit.jp/article/cont1/169145" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「macOS Tahoe 26」で26年続いたMacのストレージアイコン「Macintosh HD」のデザインが一新される</title>
@@ -4750,22 +4714,16 @@
     <link href="https://gigazine.net/news/20250806-macos-tahoe-26-retires-old-macintosh-hd-icon/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 未来の役所ってどんなカタチ？ DXの専門家と語り合う「メタバース役所」の可能性 | Discover DNP | DNP 大日本印刷</title>
-    <updated>2025-08-06T02:00:09Z</updated>
-    <id>tag:www.dnp.co.jp,2025-08-06:/media/detail/20177128_1563.html</id>
-    <link href="https://www.dnp.co.jp/media/detail/20177128_1563.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【朗報】ChatGPT、なんとギャルゲーも作れてしまう</title>
+    <updated>2025-08-06T01:39:05Z</updated>
+    <id>tag:www.gadget2ch.com,2025-08-06:/archives/post-257313.html</id>
+    <link href="http://www.gadget2ch.com/archives/post-257313.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: TSMC 2nmプロセス技術情報が漏洩、日本の東京エレクトロンも捜査対象に | XenoSpectrum</title>
-    <updated>2025-08-05T07:44:51Z</updated>
-    <id>tag:xenospectrum.com,2025-08-05:/tsmc-2nm-process-technology-information-leaked-japans-tokyo-electron-also-under-investigation/</id>
-    <link href="https://xenospectrum.com/tsmc-2nm-process-technology-information-leaked-japans-tokyo-electron-also-under-investigation/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「検索上位だから公式と思ったのに」ESTA代行サイトのトラブル急増　高額な手数料取られる</title>
-    <updated>2025-08-06T07:30:33Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-08-06:/news/articles/2508/06/news110.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2508/06/news110.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: OpenAI、ローカルで動く「gpt-oss」。完全無料で商用利用も可</title>
+    <updated>2025-08-06T04:11:12Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-08-06:/docs/news/2037259.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2037259.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 採用担当がAI活用には“メモリファイル”が大事だと気づいた話｜mai ishikawa</title>
@@ -4774,9 +4732,33 @@
     <link href="https://note.com/imooo67/n/nc61094375acb" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OpenAI、「gpt-oss」を発表 ～ローカルで利用できるオープンウェイト推論モデル／フルスペックの「gpt-oss-120b」は「o4-mini」、PCでも動く「gpt-oss-20b」は「o3‑mini」相当</title>
-    <updated>2025-08-06T01:19:30Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-08-06:/docs/news/2037175.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2037175.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: systemdに全部賭けろ（第一部） | 点点公社</title>
+    <updated>2025-08-06T07:00:27Z</updated>
+    <id>tag:h6i.org,2025-08-06:/blog/posts/bet-all-on-systemd-1</id>
+    <link href="https://h6i.org/blog/posts/bet-all-on-systemd-1" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 井上純一さんが「二次創作は人間の創作的関与があるから著作権が認められるが、生成AIは人間の創作的関与が認められないため著作権が認められない」と主張して議論が起きる</title>
+    <updated>2025-08-06T01:11:12Z</updated>
+    <id>tag:togetter.com,2025-08-06:/li/2585804</id>
+    <link href="https://togetter.com/li/2585804" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OpenAIの「オープンなAI（gpt-oss-120b）」はGPUサーバじゃないと動かない？→約30万円の自作PCで動かしてみた</title>
+    <updated>2025-08-06T00:43:07Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-08-06:/aiplus/articles/2508/06/news066.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2508/06/news066.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AI コーディングの新たなパートナー：Gemini CLI GitHub Actions を発表 | Google Cloud 公式ブログ</title>
+    <updated>2025-08-06T01:15:46Z</updated>
+    <id>tag:cloud.google.com,2025-08-06:/blog/ja/topics/developers-practitioners/introducing-gemini-cli-github-actions</id>
+    <link href="https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-gemini-cli-github-actions" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 最新iPhoneはメモリ8GBで最新Androidスマホにはメモリ24GBのものもあるがiPhoneの方が圧倒的に売れるんだからやっぱAppleはすごい</title>
+    <updated>2025-08-05T23:14:23Z</updated>
+    <id>tag:togetter.com,2025-08-05:/li/2585788</id>
+    <link href="https://togetter.com/li/2585788" rel="alternate"></link>
   </entry>
 </feed>
