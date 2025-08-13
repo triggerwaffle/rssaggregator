@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-08-13T01:10:52Z</updated>
+  <updated>2025-08-13T06:22:40Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3382,6 +3382,30 @@
     <link href="https://terminaltrove.com/wordgrinder/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: python-svc-ttk</title>
+    <updated>2025-08-13T05:36:13Z</updated>
+    <id>python-svc-ttk-1755063373</id>
+    <link href="https://aur.archlinux.org/packages/python-svc-ttk" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: steam-update-inhibit-sleep-git</title>
+    <updated>2025-08-13T04:45:05Z</updated>
+    <id>steam-update-inhibit-sleep-git-1755060305</id>
+    <link href="https://aur.archlinux.org/packages/steam-update-inhibit-sleep-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: ptyxis-palette-darcula2</title>
+    <updated>2025-08-13T03:11:00Z</updated>
+    <id>ptyxis-palette-darcula2-1755054660</id>
+    <link href="https://aur.archlinux.org/packages/ptyxis-palette-darcula2" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: gnome-foundry-git</title>
+    <updated>2025-08-13T02:05:48Z</updated>
+    <id>gnome-foundry-git-1755050748</id>
+    <link href="https://aur.archlinux.org/packages/gnome-foundry-git" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: gnome-shell-extension-eversolo-nowplaying-git</title>
     <updated>2025-08-12T21:24:47Z</updated>
     <id>gnome-shell-extension-eversolo-nowplaying-git-1755033887</id>
@@ -3958,28 +3982,58 @@
     <link href="https://aur.archlinux.org/packages/lua52-warna" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: lua53-warna</title>
-    <updated>2025-08-10T12:52:32Z</updated>
-    <id>lua53-warna-1754830352</id>
-    <link href="https://aur.archlinux.org/packages/lua53-warna" rel="alternate"></link>
+    <title>2:archlinux_new_packages: goverlay 1.4.1-1 x86_64</title>
+    <updated>2025-08-13T06:16:16Z</updated>
+    <id>tag:archlinux.org,2025-08-13:/packages/extra-testing/x86_64/goverlay/202508130616</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/goverlay/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: obsidianctl-git</title>
-    <updated>2025-08-10T12:32:07Z</updated>
-    <id>obsidianctl-git-1754829127</id>
-    <link href="https://aur.archlinux.org/packages/obsidianctl-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: miniflux 2.2.11-1 x86_64</title>
+    <updated>2025-08-13T03:05:43Z</updated>
+    <id>tag:archlinux.org,2025-08-13:/packages/extra/x86_64/miniflux/202508130305</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/miniflux/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: android-sdk-client</title>
-    <updated>2025-08-10T12:25:55Z</updated>
-    <id>android-sdk-client-1754828755</id>
-    <link href="https://aur.archlinux.org/packages/android-sdk-client" rel="alternate"></link>
+    <title>2:archlinux_new_packages: gopls 0.20.0-2 x86_64</title>
+    <updated>2025-08-13T03:05:30Z</updated>
+    <id>tag:archlinux.org,2025-08-13:/packages/extra-testing/x86_64/gopls/202508130305</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/gopls/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-lxst</title>
-    <updated>2025-08-10T12:15:25Z</updated>
-    <id>python-lxst-1754828125</id>
-    <link href="https://aur.archlinux.org/packages/python-lxst" rel="alternate"></link>
+    <title>2:archlinux_new_packages: syncthing-relaysrv 2.0.0-1 x86_64</title>
+    <updated>2025-08-13T02:43:44Z</updated>
+    <id>tag:archlinux.org,2025-08-13:/packages/extra/x86_64/syncthing-relaysrv/202508130243</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/syncthing-relaysrv/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: syncthing-discosrv 2.0.0-1 x86_64</title>
+    <updated>2025-08-13T02:43:43Z</updated>
+    <id>tag:archlinux.org,2025-08-13:/packages/extra/x86_64/syncthing-discosrv/202508130243</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/syncthing-discosrv/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: syncthing 2.0.0-1 x86_64</title>
+    <updated>2025-08-13T02:43:43Z</updated>
+    <id>tag:archlinux.org,2025-08-13:/packages/extra/x86_64/syncthing/202508130243</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/syncthing/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: gitlab-container-registry 4.26.0-1 x86_64</title>
+    <updated>2025-08-13T02:40:27Z</updated>
+    <id>tag:archlinux.org,2025-08-13:/packages/extra/x86_64/gitlab-container-registry/202508130240</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/gitlab-container-registry/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: phpldapadmin 2.2.2-1 any</title>
+    <updated>2025-08-13T01:45:00Z</updated>
+    <id>tag:archlinux.org,2025-08-13:/packages/extra/any/phpldapadmin/202508130145</id>
+    <link href="https://archlinux.org/packages/extra/any/phpldapadmin/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: go 2:1.25.0-1 x86_64</title>
+    <updated>2025-08-13T01:36:00Z</updated>
+    <id>tag:archlinux.org,2025-08-13:/packages/extra-testing/x86_64/go/202508130136</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/go/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: amfora 1.11.0-1 x86_64</title>
@@ -4226,59 +4280,5 @@
     <updated>2025-08-12T09:20:53Z</updated>
     <id>tag:archlinux.org,2025-08-12:/packages/extra/any/python-dunamai/202508120920</id>
     <link href="https://archlinux.org/packages/extra/any/python-dunamai/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-desktop-schemas 6.0.11-1 any</title>
-    <updated>2025-08-12T09:04:22Z</updated>
-    <id>tag:archlinux.org,2025-08-12:/packages/extra/any/deepin-desktop-schemas/202508120904</id>
-    <link href="https://archlinux.org/packages/extra/any/deepin-desktop-schemas/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-appearance 1.1.47-1 x86_64</title>
-    <updated>2025-08-12T09:02:30Z</updated>
-    <id>tag:archlinux.org,2025-08-12:/packages/extra/x86_64/deepin-appearance/202508120902</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-appearance/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xmonad-extras 0.17.2-97 x86_64</title>
-    <updated>2025-08-12T08:58:20Z</updated>
-    <id>tag:archlinux.org,2025-08-12:/packages/extra/x86_64/xmonad-extras/202508120858</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/xmonad-extras/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xmonad-dbus 0.1.0.2-158 x86_64</title>
-    <updated>2025-08-12T08:58:19Z</updated>
-    <id>tag:archlinux.org,2025-08-12:/packages/extra/x86_64/xmonad-dbus/202508120858</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/xmonad-dbus/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xmobar 0.50-24 x86_64</title>
-    <updated>2025-08-12T08:58:19Z</updated>
-    <id>tag:archlinux.org,2025-08-12:/packages/extra/x86_64/xmobar/202508120858</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/xmobar/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: taffybar 4.0.3-138 x86_64</title>
-    <updated>2025-08-12T08:58:19Z</updated>
-    <id>tag:archlinux.org,2025-08-12:/packages/extra/x86_64/taffybar/202508120858</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/taffybar/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-status-notifier-item 0.3.1.0-237 x86_64</title>
-    <updated>2025-08-12T08:58:18Z</updated>
-    <id>tag:archlinux.org,2025-08-12:/packages/extra/x86_64/haskell-status-notifier-item/202508120858</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-status-notifier-item/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-gtk-sni-tray 0.1.8.1-288 x86_64</title>
-    <updated>2025-08-12T08:58:18Z</updated>
-    <id>tag:archlinux.org,2025-08-12:/packages/extra/x86_64/haskell-gtk-sni-tray/202508120858</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-gtk-sni-tray/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-fdo-notify 0.3.1-840 x86_64</title>
-    <updated>2025-08-12T08:58:17Z</updated>
-    <id>tag:archlinux.org,2025-08-12:/packages/extra/x86_64/haskell-fdo-notify/202508120858</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-fdo-notify/" rel="alternate"></link>
   </entry>
 </feed>
