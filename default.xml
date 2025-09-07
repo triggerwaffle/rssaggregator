@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-09-07T12:23:50Z</updated>
+  <updated>2025-09-07T18:16:19Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -394,7 +394,7 @@
     <link href="https://qiita.com/fkdfkdfkd/items/6a39e69c9097d1c078f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: WPFプロジェクトをMVVMにすべき理由個人的まとめ</title>
+    <title>3:qiita_trend: WPF × MVVM設計の役割分担について個人的まとめ</title>
     <updated>2025-09-06T10:23:09Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/2076779</id>
     <link href="https://qiita.com/sebayashi-tomoya/items/2daab90c890c2e30eb78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
@@ -994,6 +994,18 @@
     <link href="https://www.youtube.com/watch?v=zSRtu9EuyGQ" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: GitHub、自然言語でGitHub Actionsワークフローを記述可能にする試み。生成AIで自然言語をYaml形式にコンパイル</title>
+    <updated>2025-09-07T15:33:36Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8304</id>
+    <link href="https://www.publickey1.jp/blog/25/githubgithub_actionsaiyaml.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: Google、ネットと完全に切り離されたセキュアなオンプレミスに対応した「Gemini」正式提供を開始。Google Distributed Cloudを基盤に</title>
+    <updated>2025-09-07T15:31:00Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8303</id>
+    <link href="https://www.publickey1.jp/blog/25/googlegeminigoogle_distributed_cloud.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: アトラシアン「AI時代の業務のためのブラウザを作る」、The Browser Company買収を発表。ArcやDiaの開発元</title>
     <updated>2025-09-04T15:57:16Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8302</id>
@@ -1070,18 +1082,6 @@
     <updated>2025-08-24T15:23:02Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8289</id>
     <link href="https://www.publickey1.jp/blog/25/webbaselinejetbrains_ideschrome_devtoolscssbaseline.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Pythonに関する年次調査、仕事としてのPython経験は半数が2年以内、WebフレームワークはFastAPIが急伸で1位に。The State of Python 2025</title>
-    <updated>2025-08-20T17:35:09Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8288</id>
-    <link href="https://www.publickey1.jp/blog/25/pythonpython2webfastapi1the_state_of_python_2025.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: プロンプトからアプリを生成する「v0」がエージェント機能を備えたアプリ開発サービスに</title>
-    <updated>2025-08-19T15:45:10Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8286</id>
-    <link href="https://www.publickey1.jp/blog/25/v0.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: #02 EuroPython 2025 2日目キーノート、3日目突然のLT登壇、そしてクロージング、スプリントへ</title>
@@ -4696,16 +4696,28 @@
     <link href="https://gihyo.jp/article/2024/09/typescript-5-6?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 自分がずっと欲しかったバーチャル本棚アプリ作ったら大満足でした - karaage. [からあげ]</title>
+    <updated>2025-09-06T22:48:05Z</updated>
+    <id>tag:karaage.hatenadiary.jp,2025-09-06:/entry/2025/09/07/073000</id>
+    <link href="https://karaage.hatenadiary.jp/entry/2025/09/07/073000" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: IT企業経営者の兄が首を吊って自殺した</title>
     <updated>2025-09-07T05:07:09Z</updated>
     <id>tag:anond.hatelabo.jp,2025-09-07:/20250907140118</id>
     <link href="https://anond.hatelabo.jp/20250907140118" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 自分がずっと欲しかったバーチャル本棚アプリ作ったら大満足でした - karaage. [からあげ]</title>
-    <updated>2025-09-06T22:48:05Z</updated>
-    <id>tag:karaage.hatenadiary.jp,2025-09-06:/entry/2025/09/07/073000</id>
-    <link href="https://karaage.hatenadiary.jp/entry/2025/09/07/073000" rel="alternate"></link>
+    <title>1:hatena_blog_it: OpenAI、LLMの「幻覚」についての論文公開　「評価方法の抜本的見直し」を提言</title>
+    <updated>2025-09-07T06:04:20Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-09-07:/aiplus/articles/2509/07/news026.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2509/07/news026.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ｢LM Studio｣ではじめるローカルLLM。“ガチ無料AI”を徹底解説</title>
+    <updated>2025-09-06T23:49:16Z</updated>
+    <id>tag:www.gizmodo.jp,2025-09-06:/2025/09/how_to_use_lm_studio.html</id>
+    <link href="https://www.gizmodo.jp/2025/09/how_to_use_lm_studio.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: iPad mini 5を手書きノートとして使う｜Bigme B7を通過して｜神宮カミト</title>
@@ -4714,10 +4726,22 @@
     <link href="https://note.com/dorexxxx/n/n3b563812b5f7" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OpenAI、LLMの「幻覚」についての論文公開　「評価方法の抜本的見直し」を提言</title>
-    <updated>2025-09-07T06:04:20Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-09-07:/aiplus/articles/2509/07/news026.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2509/07/news026.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 仕様駆動開発を支える Spec Kit を試してみた</title>
+    <updated>2025-09-07T10:08:55Z</updated>
+    <id>tag:azukiazusa.dev,2025-09-07:/blog/spec-driven-development-with-spec-kit/</id>
+    <link href="https://azukiazusa.dev/blog/spec-driven-development-with-spec-kit/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: なぜ一度失敗したAIとの会話は打ち切るほうがいいのか - きしだのHatena</title>
+    <updated>2025-09-05T02:35:55Z</updated>
+    <id>tag:nowokay.hatenablog.com,2025-09-05:/entry/2025/09/05/083257</id>
+    <link href="https://nowokay.hatenablog.com/entry/2025/09/05/083257" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: セミの鳴き声 AIで種類特定する技術開発 国立環境研究所 | NHK</title>
+    <updated>2025-09-07T10:33:29Z</updated>
+    <id>tag:www3.nhk.or.jp,2025-09-07:/news/html/20250907/k10014915891000.html</id>
+    <link href="https://www3.nhk.or.jp/news/html/20250907/k10014915891000.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: テスラの「完全自動運転」はなぜ他のメーカーと違って危険なのか？</title>
@@ -4732,22 +4756,10 @@
     <link href="https://www.nichepcgamer.com/archives/taiwanese-media-reports-successful-reproduction-of-ssd-failures.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ｢LM Studio｣ではじめるローカルLLM。“ガチ無料AI”を徹底解説</title>
-    <updated>2025-09-06T23:49:16Z</updated>
-    <id>tag:www.gizmodo.jp,2025-09-06:/2025/09/how_to_use_lm_studio.html</id>
-    <link href="https://www.gizmodo.jp/2025/09/how_to_use_lm_studio.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 大「個人開発サービス」時代に僕たちはどう生きるか</title>
-    <updated>2025-09-06T09:57:46Z</updated>
-    <id>tag:speakerdeck.com,2025-09-06:/sotarok/da-ge-ren-kai-fa-sabisu-shi-dai-nipu-tatihadousheng-kiruka</id>
-    <link href="https://speakerdeck.com/sotarok/da-ge-ren-kai-fa-sabisu-shi-dai-nipu-tatihadousheng-kiruka" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: claude-code-viewer がとても便利すぎるので全Claude Code民に使って欲しい｜しょっさん</title>
-    <updated>2025-09-06T05:42:47Z</updated>
-    <id>tag:note.com,2025-09-06:/sho7650/n/nc5d59772d206</id>
-    <link href="https://note.com/sho7650/n/nc5d59772d206" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【え、そうなの!?】iPhoneはもうやめた！ 元マッキンゼーのビジネスパーソンが「Android」に乗り換えたこれだけの理由</title>
+    <updated>2025-09-07T01:32:52Z</updated>
+    <id>tag:diamond.jp,2025-09-07:/articles/-/372146</id>
+    <link href="https://diamond.jp/articles/-/372146" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 組織が大きく変わろうとするとき、自分はどうありたいかを考えている</title>
@@ -4756,70 +4768,34 @@
     <link href="https://speakerdeck.com/ohmori_yusuke/zu-zhi-gada-kikubian-waroutosurutoki-zi-fen-hadouaritaikawokao-eteiru" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: セミの鳴き声 AIで種類特定する技術開発 国立環境研究所 | NHK</title>
-    <updated>2025-09-07T10:33:29Z</updated>
-    <id>tag:www3.nhk.or.jp,2025-09-07:/news/html/20250907/k10014915891000.html</id>
-    <link href="https://www3.nhk.or.jp/news/html/20250907/k10014915891000.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 提案レベルを上げてみたら、私の『提案』が『進捗』になっていた件</title>
-    <updated>2025-09-06T03:09:03Z</updated>
-    <id>tag:speakerdeck.com,2025-09-06:/natty_natty254/ti-an-reberuwoshang-getemitara-si-no-ti-an-ga-jin-bu-ninatuteitajian</id>
-    <link href="https://speakerdeck.com/natty_natty254/ti-an-reberuwoshang-getemitara-si-no-ti-an-ga-jin-bu-ninatuteitajian" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI時代のUIはどこへ行く？</title>
-    <updated>2025-09-06T07:35:49Z</updated>
-    <id>tag:speakerdeck.com,2025-09-06:/yusukebe/aishi-dai-nouihadokohexing-ku</id>
-    <link href="https://speakerdeck.com/yusukebe/aishi-dai-nouihadokohexing-ku" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 2025 年のコーディングエージェントの現在地とエンジニアの仕事の変化について</title>
-    <updated>2025-09-06T09:58:53Z</updated>
-    <id>tag:speakerdeck.com,2025-09-06:/azukiazusa1/2025-nian-nokodeinguezientonoxian-zai-di-toenzinianoshi-shi-nobian-hua-nituite</id>
-    <link href="https://speakerdeck.com/azukiazusa1/2025-nian-nokodeinguezientonoxian-zai-di-toenzinianoshi-shi-nobian-hua-nituite" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: なぜ一度失敗したAIとの会話は打ち切るほうがいいのか - きしだのHatena</title>
-    <updated>2025-09-05T02:35:55Z</updated>
-    <id>tag:nowokay.hatenablog.com,2025-09-05:/entry/2025/09/05/083257</id>
-    <link href="https://nowokay.hatenablog.com/entry/2025/09/05/083257" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「マーク・ザッカーバーグがマーク・ザッカーバーグを訴訟」がマリリン・マンソン脱退コピペみたいなネタかと思ったらわりとガチな話…だけど面白い</title>
-    <updated>2025-09-06T21:15:53Z</updated>
-    <id>tag:togetter.com,2025-09-06:/li/2599406</id>
-    <link href="https://togetter.com/li/2599406" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: npm Trusted PublishingでOIDCを使ってトークンレスでCIからnpmパッケージを公開する</title>
     <updated>2025-09-07T09:56:00Z</updated>
     <id>tag:efcl.info,2025-09-07:/2025/09/07/npm-oidc/</id>
     <link href="https://efcl.info/2025/09/07/npm-oidc/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Rearchitecting GitHub Pages</title>
-    <updated>2025-09-07T01:09:24Z</updated>
-    <id>tag:github.blog,2025-09-07:/news-insights/rearchitecting-github-pages/</id>
-    <link href="https://github.blog/news-insights/rearchitecting-github-pages/" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIコードレビューがチームの"文脈"を読めるようになるまで 〜 レビューの暗黙知を継承する育成コマンド 〜 - エムスリーテックブログ</title>
+    <updated>2025-09-06T04:27:42Z</updated>
+    <id>tag:www.m3tech.blog,2025-09-06:/entry/2025/09/06/110000</id>
+    <link href="https://www.m3tech.blog/entry/2025/09/06/110000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【え、そうなの!?】iPhoneはもうやめた！ 元マッキンゼーのビジネスパーソンが「Android」に乗り換えたこれだけの理由</title>
-    <updated>2025-09-07T01:32:52Z</updated>
-    <id>tag:diamond.jp,2025-09-07:/articles/-/372146</id>
-    <link href="https://diamond.jp/articles/-/372146" rel="alternate"></link>
+    <title>1:hatena_blog_it: claude-code-viewer がとても便利すぎるので全Claude Code民に使って欲しい｜しょっさん</title>
+    <updated>2025-09-06T05:42:47Z</updated>
+    <id>tag:note.com,2025-09-06:/sho7650/n/nc5d59772d206</id>
+    <link href="https://note.com/sho7650/n/nc5d59772d206" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 手動テストの「面倒」を解決！Chrome DevToolsで操作を簡易的に自動化しよう！ | DevelopersIO</title>
-    <updated>2025-09-05T11:52:17Z</updated>
-    <id>tag:dev.classmethod.jp,2025-09-05:/articles/chrome-devtools-test-automation/</id>
-    <link href="https://dev.classmethod.jp/articles/chrome-devtools-test-automation/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Announcing Pg_duckdb Version 1.0 - MotherDuck Blog</title>
+    <updated>2025-09-07T10:20:15Z</updated>
+    <id>tag:motherduck.com,2025-09-07:/blog/pg-duckdb-release/</id>
+    <link href="https://motherduck.com/blog/pg-duckdb-release/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Amazon Kindle初のカラー表示対応電子ペーパー端末「Kindle Colorsoft」開封の儀＆フルカラーマンガを読んでみた</title>
-    <updated>2025-09-06T23:48:54Z</updated>
-    <id>tag:gigazine.net,2025-09-06:/news/20250906-kindle-colorsoft-photo/</id>
-    <link href="https://gigazine.net/news/20250906-kindle-colorsoft-photo/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 大「個人開発サービス」時代に僕たちはどう生きるか</title>
+    <updated>2025-09-06T09:57:46Z</updated>
+    <id>tag:speakerdeck.com,2025-09-06:/sotarok/da-ge-ren-kai-fa-sabisu-shi-dai-nipu-tatihadousheng-kiruka</id>
+    <link href="https://speakerdeck.com/sotarok/da-ge-ren-kai-fa-sabisu-shi-dai-nipu-tatihadousheng-kiruka" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: OpenAI、GPT-5による「AIメンタル不調」と「人間とAIの妄想の共同創造」の抑制に注力 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
@@ -4828,15 +4804,39 @@
     <link href="https://forbesjapan.com/articles/detail/81805" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【山田祥平のRe:config.sys】 行政手続きのオンライン申請が混み合っている</title>
-    <updated>2025-09-05T22:15:07Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-09-05:/docs/column/config/2045062.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/config/2045062.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Rearchitecting GitHub Pages</title>
+    <updated>2025-09-07T01:09:24Z</updated>
+    <id>tag:github.blog,2025-09-07:/news-insights/rearchitecting-github-pages/</id>
+    <link href="https://github.blog/news-insights/rearchitecting-github-pages/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: HTMLの品質ってなんだっけ？ “HTMLクライテリア”の設計と実践</title>
+    <updated>2025-09-06T01:53:19Z</updated>
+    <id>tag:speakerdeck.com,2025-09-06:/unachang113/htmlnopin-zhi-tutenandatuke-htmlkuraiteria-noshe-ji-toshi-jian</id>
+    <link href="https://speakerdeck.com/unachang113/htmlnopin-zhi-tutenandatuke-htmlkuraiteria-noshe-ji-toshi-jian" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Amazon Kindle初のカラー表示対応電子ペーパー端末「Kindle Colorsoft」開封の儀＆フルカラーマンガを読んでみた</title>
+    <updated>2025-09-06T23:48:54Z</updated>
+    <id>tag:gigazine.net,2025-09-06:/news/20250906-kindle-colorsoft-photo/</id>
+    <link href="https://gigazine.net/news/20250906-kindle-colorsoft-photo/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ECS on EC2 でスケールする Playwright の実行基盤を構築した - LayerX エンジニアブログ</title>
     <updated>2025-09-03T08:12:18Z</updated>
     <id>tag:tech.layerx.co.jp,2025-09-03:/entry/ecs-playwright-cluster</id>
     <link href="https://tech.layerx.co.jp/entry/ecs-playwright-cluster" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2025 年のコーディングエージェントの現在地とエンジニアの仕事の変化について</title>
+    <updated>2025-09-06T09:58:53Z</updated>
+    <id>tag:speakerdeck.com,2025-09-06:/azukiazusa1/2025-nian-nokodeinguezientonoxian-zai-di-toenzinianoshi-shi-nobian-hua-nituite</id>
+    <link href="https://speakerdeck.com/azukiazusa1/2025-nian-nokodeinguezientonoxian-zai-di-toenzinianoshi-shi-nobian-hua-nituite" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: EmbeddingGemma の概要｜npaka</title>
+    <updated>2025-09-05T00:38:03Z</updated>
+    <id>tag:note.com,2025-09-05:/npaka/n/n9b7fce21ae5a</id>
+    <link href="https://note.com/npaka/n/n9b7fce21ae5a" rel="alternate"></link>
   </entry>
 </feed>
