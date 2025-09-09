@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-09-09T12:29:20Z</updated>
+  <updated>2025-09-09T18:17:28Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -1000,6 +1000,24 @@
     <link href="https://www.youtube.com/watch?v=zSRtu9EuyGQ" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: Rails 8.1は顧客ごとにDBを分離できるマルチテナント対応に。オフライン対応、Markdownレンダリング搭載など新機能</title>
+    <updated>2025-09-09T15:51:22Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8309</id>
+    <link href="https://www.publickey1.jp/blog/25/rails_81dbmarkdown.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: Rails作者のDHH氏、独自開発したLinux OS「Omarchy」 をデモ。5分で最高の開発環境を導入。ターミナルUIとタイリングウィンドウが特徴</title>
+    <updated>2025-09-09T15:35:14Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8308</id>
+    <link href="https://www.publickey1.jp/blog/25/railsdhhlinux_osomarchy_5ui.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: JetBrains、Railsの統合開発環境「RubMine」を無料に、非商用利用であれば</title>
+    <updated>2025-09-09T15:34:03Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8307</id>
+    <link href="https://www.publickey1.jp/blog/25/jetbrainsrailsrubmine.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: OpenAIがCodex強化へ、A/Bテストベンダの「Statsig」とXcode用AIエージェントの「Alex」を相次いで買収</title>
     <updated>2025-09-08T15:46:53Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8306</id>
@@ -1070,24 +1088,6 @@
     <updated>2025-08-31T15:39:39Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8295</id>
     <link href="https://www.publickey1.jp/blog/25/aitexttoapp20259.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: AI駆動開発ツール：コーディングアシスタントツールまとめ（2025年9月版）</title>
-    <updated>2025-08-31T15:29:48Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8294</id>
-    <link href="https://www.publickey1.jp/blog/25/ai20259.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: 国内クラウド市場、2024年は9兆7000億円。5年後には約2倍の19兆2000億円規模に。IDC Japan</title>
-    <updated>2025-08-27T15:50:30Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8293</id>
-    <link href="https://www.publickey1.jp/blog/25/20249700052192000idc_japan.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: NVIDIA、分散した複数のデータセンターを束ねた巨大なAIスーパーコンピュータを実現、長距離通信に最適化したネットワーク「NVIDIA Spectrum-XGS Ethernet」発表</title>
-    <updated>2025-08-26T15:34:33Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8292</id>
-    <link href="https://www.publickey1.jp/blog/25/nvidiaainvidia_spectrum-xgs_ethernet.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: npmにサプライチェーン攻撃、Chalk、debug、ansi-stylesなど18個のnpmパッケージにマルウェアが注入</title>
@@ -4660,12 +4660,6 @@
     <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0830?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: ［1］Ruby biz Grand prix 2024の概要</title>
-    <updated>2024-09-17T23:49:00Z</updated>
-    <id>urn:uuid:01f6f36d-0961-1c0d-f658-23015579263f</id>
-    <link href="https://gihyo.jp/article/2024/09/ruby-biz-2024-01?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: iOSエンジニアの祭典「iOSDC Japan 2024」カンファレンスレポート</title>
     <updated>2024-09-17T00:06:00Z</updated>
     <id>urn:uuid:d119f18a-bdad-1488-8bcd-d5edb22cba85</id>
@@ -4708,12 +4702,6 @@
     <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0829?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Vertex AI Agent BuilderによるChat Botの作り方</title>
-    <updated>2024-09-10T23:47:00Z</updated>
-    <id>urn:uuid:a07b7d81-49c3-2016-8c9d-c026c7d63fa1</id>
-    <link href="https://gihyo.jp/article/2024/09/how-to-create-a-chatbot-using-an-ai-agent?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: VS CodeのGitHub Copilot、GPT-4oベースとなりより長いチャットが可能に</title>
     <updated>2024-09-10T08:00:00Z</updated>
     <id>urn:uuid:6f65a4a8-6d41-0462-7297-8da3a04b386d</id>
@@ -4738,10 +4726,10 @@
     <link href="https://mond.how/ja/topics/8t9i33a9lt6rh87/t9tua01k8j5m39h" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: モンベルから、約2,500L浄水できる携帯用フィルター。ペットボトルにも接続可</title>
-    <updated>2025-09-08T13:46:53Z</updated>
-    <id>tag:www.gizmodo.jp,2025-09-08:/2025/09/mont-bell-water-filter.html</id>
-    <link href="https://www.gizmodo.jp/2025/09/mont-bell-water-filter.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 反AIやっていたら心が壊れて人生終わった</title>
+    <updated>2025-09-09T11:18:13Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-09-09:/20250909201045</id>
+    <link href="https://anond.hatelabo.jp/20250909201045" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 店員の7割、レジでイヤフォンしたままの客に「ストレス感じる」</title>
@@ -4750,40 +4738,16 @@
     <link href="https://www.itmedia.co.jp/news/articles/2509/09/news078.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: プライベートIPアドレスに「192.168.x.x」が使われるようになった理由とは？</title>
-    <updated>2025-09-08T22:12:54Z</updated>
-    <id>tag:gigazine.net,2025-09-08:/news/20250909-private-ip-address-192-168/</id>
-    <link href="https://gigazine.net/news/20250909-private-ip-address-192-168/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 脆弱性情報、勝手に開示しないで　経産省などがクギを刺す　FeliCaの事例念頭か</title>
     <updated>2025-09-09T07:51:19Z</updated>
     <id>tag:www.itmedia.co.jp,2025-09-09:/news/articles/2509/09/news110.html</id>
     <link href="https://www.itmedia.co.jp/news/articles/2509/09/news110.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: イーロン・マスクがTwitter買収直後、「三カ所サーバーがあるなら一つ無くせ」と決めて、反対したエンジニアはクビに、サーバーは自分でケーブルを切断して捨てた話→エンジニアにとって初見殺し経営者過ぎる…</title>
-    <updated>2025-09-08T12:21:37Z</updated>
-    <id>tag:posfie.com,2025-09-08:/@petaritape/p/X1spD1R</id>
-    <link href="https://posfie.com/@petaritape/p/X1spD1R" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 次世代JS標準時刻API Temporal を3年先行利用して得た知見を共有します！ - Mirrativ Tech Blog</title>
-    <updated>2025-09-09T01:55:32Z</updated>
-    <id>tag:tech.mirrativ.stream,2025-09-09:/entry/2025/09/09/105000</id>
-    <link href="https://tech.mirrativ.stream/entry/2025/09/09/105000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 反AIやっていたら心が壊れて人生終わった</title>
-    <updated>2025-09-09T11:18:13Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-09-09:/20250909201045</id>
-    <link href="https://anond.hatelabo.jp/20250909201045" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ブックオフが隆盛を極めたとき個人の古書店が潰れていき、メルカリやアマゾンでも買えるようになったが、欲しい古書の流通が無くなってる</title>
-    <updated>2025-09-09T04:36:41Z</updated>
-    <id>tag:togetter.com,2025-09-09:/li/2600385</id>
-    <link href="https://togetter.com/li/2600385" rel="alternate"></link>
+    <title>1:hatena_blog_it: iPhoneと「APN構成プロファイル」の迷宮 | IIJ Engineers Blog</title>
+    <updated>2025-09-09T08:40:23Z</updated>
+    <id>tag:eng-blog.iij.ad.jp,2025-09-09:/archives/32616</id>
+    <link href="https://eng-blog.iij.ad.jp/archives/32616" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 国内における脆弱性関連情報を取り扱う全ての皆様へ – 情報セキュリティ早期警戒パートナーシップガイドラインに則した対応に関するお願い – （METI/経済産業省）</title>
@@ -4792,28 +4756,46 @@
     <link href="https://www.meti.go.jp/policy/netsecurity/vul_request.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: npm debug and chalk packages compromised</title>
-    <updated>2025-09-08T18:38:12Z</updated>
-    <id>tag:www.aikido.dev,2025-09-08:/blog/npm-debug-and-chalk-packages-compromised</id>
-    <link href="https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised" rel="alternate"></link>
+    <title>1:hatena_blog_it: ブックオフが隆盛を極めたとき個人の古書店が潰れていき、メルカリやアマゾンでも買えるようになったが、欲しい古書の流通が無くなってる</title>
+    <updated>2025-09-09T04:36:41Z</updated>
+    <id>tag:togetter.com,2025-09-09:/li/2600385</id>
+    <link href="https://togetter.com/li/2600385" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Google検索の「AIモード」、いよいよ日本でも開始</title>
-    <updated>2025-09-08T17:52:05Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-09-08:/docs/news/2045505.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2045505.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: モンベルから、約2,500L浄水できる携帯用フィルター。ペットボトルにも接続可</title>
+    <updated>2025-09-08T13:46:53Z</updated>
+    <id>tag:www.gizmodo.jp,2025-09-08:/2025/09/mont-bell-water-filter.html</id>
+    <link href="https://www.gizmodo.jp/2025/09/mont-bell-water-filter.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: クラスタに3ノード必要な理由 - Qiita</title>
-    <updated>2016-11-30T17:36:23Z</updated>
-    <id>tag:qiita.com,2016-11-30:/ntoreg/items/ec6f1eca87ba5c5c0399</id>
-    <link href="https://qiita.com/ntoreg/items/ec6f1eca87ba5c5c0399" rel="alternate"></link>
+    <title>1:hatena_blog_it: Oktaから内製IdPへの認証基盤移行（第1回） | BLOG - DeNA Engineering</title>
+    <updated>2025-09-09T02:29:33Z</updated>
+    <id>tag:engineering.dena.com,2025-09-09:/blog/2025/09/idp-migration-part1/</id>
+    <link href="https://engineering.dena.com/blog/2025/09/idp-migration-part1/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 『AIが平気で嘘をつく「ハルシネーション」』……「なぜAIがハルシネーションをするのか」をOpenAIが明らかにした論文を発表</title>
-    <updated>2025-09-08T23:23:50Z</updated>
-    <id>tag:posfie.com,2025-09-08:/@Count_Down_000/p/SAmlCz0</id>
-    <link href="https://posfie.com/@Count_Down_000/p/SAmlCz0" rel="alternate"></link>
+    <title>1:hatena_blog_it: プライベートIPアドレスに「192.168.x.x」が使われるようになった理由とは？</title>
+    <updated>2025-09-08T22:12:54Z</updated>
+    <id>tag:gigazine.net,2025-09-08:/news/20250909-private-ip-address-192-168/</id>
+    <link href="https://gigazine.net/news/20250909-private-ip-address-192-168/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 次世代JS標準時刻API Temporal を3年先行利用して得た知見を共有します！ - Mirrativ Tech Blog</title>
+    <updated>2025-09-09T01:55:32Z</updated>
+    <id>tag:tech.mirrativ.stream,2025-09-09:/entry/2025/09/09/105000</id>
+    <link href="https://tech.mirrativ.stream/entry/2025/09/09/105000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: npmにサプライチェーン攻撃、Chalk、debug、ansi-stylesなど18個のnpmパッケージにマルウェアが注入 | gihyo.jp</title>
+    <updated>2025-09-09T08:09:05Z</updated>
+    <id>tag:gihyo.jp,2025-09-09:/article/2025/09/npm-supply-chain-attack</id>
+    <link href="https://gihyo.jp/article/2025/09/npm-supply-chain-attack" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 腕とテニスラケットが“一体化”――とあるアニメに注目集まる　「作画崩壊」はAIのせい？</title>
+    <updated>2025-09-09T06:54:55Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-09-09:/aiplus/articles/2509/09/news099.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2509/09/news099.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 情報セキュリティ早期警戒パートナーシップガイドラインに則した対応に関するお願い | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
@@ -4822,22 +4804,34 @@
     <link href="https://www.ipa.go.jp/security/renkei/rk20250909.html" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 『AIが平気で嘘をつく「ハルシネーション」』……「なぜAIがハルシネーションをするのか」をOpenAIが明らかにした論文を発表</title>
+    <updated>2025-09-08T23:23:50Z</updated>
+    <id>tag:posfie.com,2025-09-08:/@Count_Down_000/p/SAmlCz0</id>
+    <link href="https://posfie.com/@Count_Down_000/p/SAmlCz0" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: ANAとFF15の開発者が協力して立ち上げた「バーチャル旅行プラットフォーム」が倒産し負債総額は40億円らしいが、一時期はやっていたメタバースやARやNFTで成功することの難しさがわかる</title>
     <updated>2025-09-09T06:32:36Z</updated>
     <id>tag:togetter.com,2025-09-09:/li/2600435</id>
     <link href="https://togetter.com/li/2600435" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 腕とテニスラケットが“一体化”――とあるアニメが注目　「作画崩壊」はAIのせい？</title>
-    <updated>2025-09-09T06:54:55Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-09-09:/aiplus/articles/2509/09/news099.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2509/09/news099.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: npm debug and chalk packages compromised</title>
+    <updated>2025-09-08T18:38:12Z</updated>
+    <id>tag:www.aikido.dev,2025-09-08:/blog/npm-debug-and-chalk-packages-compromised</id>
+    <link href="https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: npmにサプライチェーン攻撃、Chalk、debug、ansi-stylesなど18個のnpmパッケージにマルウェアが注入 | gihyo.jp</title>
-    <updated>2025-09-09T08:09:05Z</updated>
-    <id>tag:gihyo.jp,2025-09-09:/article/2025/09/npm-supply-chain-attack</id>
-    <link href="https://gihyo.jp/article/2025/09/npm-supply-chain-attack" rel="alternate"></link>
+    <title>1:hatena_blog_it: npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ</title>
+    <updated>2025-09-09T14:40:20Z</updated>
+    <id>tag:zenn.dev,2025-09-09:/azu/articles/ad168118524135</id>
+    <link href="https://zenn.dev/azu/articles/ad168118524135" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: JavaScript/TypeScript実力強化書 | 技術評論社</title>
+    <updated>2025-09-09T06:36:51Z</updated>
+    <id>tag:gihyo.jp,2025-09-09:/book/2025/978-4-297-15194-2</id>
+    <link href="https://gihyo.jp/book/2025/978-4-297-15194-2" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: セブン、ロボット導入で省人化　人は「セブンカフェ ベーカリー」に注力</title>
@@ -4852,10 +4846,10 @@
     <link href="https://www.itmedia.co.jp/news/articles/2509/09/news077.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: JavaScriptビルドツール徹底ガイド──歴史と進化、LINEヤフーの技術選定 - Findy Tools</title>
-    <updated>2025-09-09T01:13:23Z</updated>
-    <id>tag:findy-tools.io,2025-09-09:/articles/lycorp-frontend-build-tools/105</id>
-    <link href="https://findy-tools.io/articles/lycorp-frontend-build-tools/105" rel="alternate"></link>
+    <title>1:hatena_blog_it: 脆弱性情報はガイドラインに即した取り扱いを。経産省が声明</title>
+    <updated>2025-09-09T09:17:42Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-09-09:/docs/news/2045994.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2045994.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 燃費改善で帆走商船を作る→潮の時間が知りたい→潮の時間を図れるコンピューターで効率化を図る→不可能と思われてた「船の定時運行」を達成して、帆が無くても燃費効果がでちゃった</title>
@@ -4864,34 +4858,22 @@
     <link href="https://posfie.com/@petaritape/p/rz8hoyk" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 国内における脆弱性関連情報を取り扱う全ての皆様へ– 情報セキュリティ早期警戒パートナーシップガイドラインに則した対応に関するお願い –</title>
-    <updated>2025-09-09T06:36:08Z</updated>
-    <id>tag:www.jpcert.or.jp,2025-09-09:/press/2025/PR20250909_notice1.html</id>
-    <link href="https://www.jpcert.or.jp/press/2025/PR20250909_notice1.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: JavaScriptビルドツール徹底ガイド──歴史と進化、LINEヤフーの技術選定 - Findy Tools</title>
+    <updated>2025-09-09T01:13:23Z</updated>
+    <id>tag:findy-tools.io,2025-09-09:/articles/lycorp-frontend-build-tools/105</id>
+    <link href="https://findy-tools.io/articles/lycorp-frontend-build-tools/105" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: iPhoneと「APN構成プロファイル」の迷宮 | IIJ Engineers Blog</title>
-    <updated>2025-09-09T08:40:23Z</updated>
-    <id>tag:eng-blog.iij.ad.jp,2025-09-09:/archives/32616</id>
-    <link href="https://eng-blog.iij.ad.jp/archives/32616" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: この携帯番号、誰？　iPhoneの背面タップで一発検索する裏ワザ！（スマホライフPLUS） - Yahoo!ニュース</title>
-    <updated>2025-04-21T09:56:49Z</updated>
-    <id>tag:news.yahoo.co.jp,2025-04-21:/articles/1ead5ffd668690b1299db3ae5d30a58ca35a4438</id>
-    <link href="https://news.yahoo.co.jp/articles/1ead5ffd668690b1299db3ae5d30a58ca35a4438" rel="alternate"></link>
+    <title>1:hatena_blog_it: ヒトはAIを恐れるのに、なぜその進化を止められないのか。テクノロジーが倫理を置き去りにした日 | レバテックラボ（レバテックLAB）</title>
+    <updated>2025-09-09T08:07:12Z</updated>
+    <id>tag:levtech.jp,2025-09-09:/media/article/interview/detail_722/</id>
+    <link href="https://levtech.jp/media/article/interview/detail_722/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: チャットでSQL生成！データ活用チャットボットを社内公開したら結構いい感じだった - Nealle Developer's Blog</title>
     <updated>2025-09-09T08:45:18Z</updated>
     <id>tag:nealle-dev.hatenablog.com,2025-09-09:/entry/2025/09/09/174459</id>
     <link href="https://nealle-dev.hatenablog.com/entry/2025/09/09/174459" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: JavaScript/TypeScript実力強化書 | 技術評論社</title>
-    <updated>2025-09-09T06:36:51Z</updated>
-    <id>tag:gihyo.jp,2025-09-09:/book/2025/978-4-297-15194-2</id>
-    <link href="https://gihyo.jp/book/2025/978-4-297-15194-2" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 意外と簡単！？フロントエンドでパスキー認証を実現する WebAuthn</title>
