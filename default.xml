@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-09-09T01:03:43Z</updated>
+  <updated>2025-09-09T06:21:02Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -1088,6 +1088,18 @@
     <updated>2025-08-26T15:34:33Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8292</id>
     <link href="https://www.publickey1.jp/blog/25/nvidiaainvidia_spectrum-xgs_ethernet.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: NotebookLM、レポート作成に「ブログ投稿形式」などをAIが提案する機能が登場、フラッシュカードやテストなど学習支援機能も拡充</title>
+    <updated>2025-09-09T03:07:00Z</updated>
+    <id>urn:uuid:4de064f4-b508-32b8-1653-69bfd7b0b88d</id>
+    <link href="https://gihyo.jp/article/2025/09/notebooklm-2509-update?utm_source=feed" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: 初公開から7年、Openwall傘下のセキュリティモジュール「Linux Kernel Runtime Guard 1.0.0」がリリース ―既存のカーネルに後から適用、幅広いカーネル / ディストリビューションに対応</title>
+    <updated>2025-09-09T00:03:00Z</updated>
+    <id>urn:uuid:53f92d8d-1b79-d724-1b41-f1b3cd52f5d8</id>
+    <link href="https://gihyo.jp/article/2025/09/daily-linux-250909?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Google、検索におけるAIモードで「日本語」対応を発表</title>
@@ -4714,16 +4726,28 @@
     <link href="https://gihyo.jp/article/2024/09/typescript-5-6?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: モンベルから、約2,500L浄水できる携帯用フィルター。ペットボトルにも接続可</title>
+    <updated>2025-09-08T13:46:53Z</updated>
+    <id>tag:www.gizmodo.jp,2025-09-08:/2025/09/mont-bell-water-filter.html</id>
+    <link href="https://www.gizmodo.jp/2025/09/mont-bell-water-filter.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 初めて質問させていただきます。 パスキーの仕組みについてわからないことがあります。 巷で解説されているパスキー認証の仕組みサイトを読むと、 ①サーバーからデバイスにチャレンジが送られる ②デバイスが秘密鍵でチャレンジに署名をして送り返す ③サーバーが署名を公開鍵で復号してチャレンジと同じか検証する というような事が書かれています。 そしてその仕組みは「公開鍵暗号方式」が使われていると書かれています。 けれども、基本情報技術者の教科書を読むと、公開鍵暗号方式は ①受信者の公開鍵で暗号化し ②受信者の秘密鍵で</title>
+    <updated>2025-09-08T04:47:08Z</updated>
+    <id>tag:mond.how,2025-09-08:/ja/topics/8t9i33a9lt6rh87/t9tua01k8j5m39h</id>
+    <link href="https://mond.how/ja/topics/8t9i33a9lt6rh87/t9tua01k8j5m39h" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: イーロン・マスクがTwitter買収直後、「三カ所サーバーがあるなら一つ無くせ」と決めて、反対したエンジニアはクビに、サーバーは自分でケーブルを切断して捨てた話→エンジニアにとって初見殺し経営者過ぎる…</title>
     <updated>2025-09-08T12:21:37Z</updated>
     <id>tag:posfie.com,2025-09-08:/@petaritape/p/X1spD1R</id>
     <link href="https://posfie.com/@petaritape/p/X1spD1R" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: モンベルから、約2,500L浄水できる携帯用フィルター。ペットボトルにも接続可</title>
-    <updated>2025-09-08T13:46:53Z</updated>
-    <id>tag:www.gizmodo.jp,2025-09-08:/2025/09/mont-bell-water-filter.html</id>
-    <link href="https://www.gizmodo.jp/2025/09/mont-bell-water-filter.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: プライベートIPアドレスに「192.168.x.x」が使われるようになった理由とは？</title>
+    <updated>2025-09-08T22:12:54Z</updated>
+    <id>tag:gigazine.net,2025-09-08:/news/20250909-private-ip-address-192-168/</id>
+    <link href="https://gigazine.net/news/20250909-private-ip-address-192-168/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: クラスタに3ノード必要な理由 - Qiita</title>
@@ -4738,40 +4762,16 @@
     <link href="https://pc.watch.impress.co.jp/docs/news/2045505.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「そのぐらい書いておけよ」──“作り方はQRコードから”のインスタント焼きそばに賛否　製造元の意図は</title>
-    <updated>2025-09-08T06:57:14Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-09-08:/news/articles/2509/08/news095.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2509/08/news095.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AGENTS.md の概要｜npaka</title>
-    <updated>2025-09-08T03:19:40Z</updated>
-    <id>tag:note.com,2025-09-08:/npaka/n/nd1258df2853c</id>
-    <link href="https://note.com/npaka/n/nd1258df2853c" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: OpenAIがAI認定資格を発表、「ChatGPT」内で勉強から取得まで完結</title>
-    <updated>2025-09-08T03:12:27Z</updated>
-    <id>tag:japan.cnet.com,2025-09-08:/article/35237683/</id>
-    <link href="https://japan.cnet.com/article/35237683/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 声優・山村響さんの声、無許可でAIモデル化　AivisSpeech「Anneli」問題が波紋</title>
-    <updated>2025-09-08T04:24:48Z</updated>
-    <id>tag:ascii.jp,2025-09-08:/elem/000/004/318/4318182/</id>
-    <link href="https://ascii.jp/elem/000/004/318/4318182/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: npm debug and chalk packages compromised</title>
     <updated>2025-09-08T18:38:12Z</updated>
     <id>tag:www.aikido.dev,2025-09-08:/blog/npm-debug-and-chalk-packages-compromised</id>
     <link href="https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: SESで150万件のメールを送るまで</title>
-    <updated>2025-09-08T06:11:44Z</updated>
-    <id>tag:ses150-luv1p38.gamma.site,2025-09-08:/</id>
-    <link href="https://ses150-luv1p38.gamma.site/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 次世代JS標準時刻API Temporal を3年先行利用して得た知見を共有します！ - Mirrativ Tech Blog</title>
+    <updated>2025-09-09T01:55:32Z</updated>
+    <id>tag:tech.mirrativ.stream,2025-09-09:/entry/2025/09/09/105000</id>
+    <link href="https://tech.mirrativ.stream/entry/2025/09/09/105000" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Google 検索における「AI モード」を日本語で提供開始</title>
@@ -4780,34 +4780,28 @@
     <link href="https://blog.google/intl/ja-jp/products/explore-get-answers/ai-mode-search/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: プライベートIPアドレスに「192.168.x.x」が使われるようになった理由とは？</title>
-    <updated>2025-09-08T22:12:54Z</updated>
-    <id>tag:gigazine.net,2025-09-08:/news/20250909-private-ip-address-192-168/</id>
-    <link href="https://gigazine.net/news/20250909-private-ip-address-192-168/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 『AIが平気で嘘をつく「ハルシネーション」』……「なぜAIがハルシネーションをするのか」をOpenAIが明らかにした論文を発表</title>
+    <updated>2025-09-08T23:23:50Z</updated>
+    <id>tag:posfie.com,2025-09-08:/@Count_Down_000/p/SAmlCz0</id>
+    <link href="https://posfie.com/@Count_Down_000/p/SAmlCz0" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「なぜAIは嘘をつくのか？」OpenAIが論文を公開</title>
-    <updated>2025-09-08T11:12:52Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-09-08:/docs/news/2045655.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2045655.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: この携帯番号、誰？　iPhoneの背面タップで一発検索する裏ワザ！（スマホライフPLUS） - Yahoo!ニュース</title>
+    <updated>2025-04-21T09:56:49Z</updated>
+    <id>tag:news.yahoo.co.jp,2025-04-21:/articles/1ead5ffd668690b1299db3ae5d30a58ca35a4438</id>
+    <link href="https://news.yahoo.co.jp/articles/1ead5ffd668690b1299db3ae5d30a58ca35a4438" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 品質は、電気羊の夢を見るか？— デカルトの四規則で始める「自動テスト導入前」の品質保証—</title>
-    <updated>2025-09-08T01:35:52Z</updated>
-    <id>tag:speakerdeck.com,2025-09-08:/tkd_yuki/pin-zhi-ha-dian-qi-yang-nomeng-wojian-ruka-dekarutonosi-gui-ze-deshi-meru-zi-dong-tesutodao-ru-qian-nopin-zhi-bao-zheng</id>
-    <link href="https://speakerdeck.com/tkd_yuki/pin-zhi-ha-dian-qi-yang-nomeng-wojian-ruka-dekarutonosi-gui-ze-deshi-meru-zi-dong-tesutodao-ru-qian-nopin-zhi-bao-zheng" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【西川和久の不定期コラム】 AMD公式にない謎の「Ryzen 7 8745HS」を搭載した7万円台のミニPCをチェックしてみた</title>
+    <updated>2025-09-08T23:19:47Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-09-08:/docs/column/nishikawa/2045456.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/nishikawa/2045456.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Temporal Knowledge Graphで作る！時間変化するナレッジを扱うAI Agentの世界 - LayerX エンジニアブログ</title>
-    <updated>2025-09-08T09:31:25Z</updated>
-    <id>tag:tech.layerx.co.jp,2025-09-08:/entry/tkg-agent</id>
-    <link href="https://tech.layerx.co.jp/entry/tkg-agent" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Google検索「AIモード」がついに日本語対応。急浮上する「品質」と「広告」問題 | Business Insider Japan</title>
-    <updated>2025-09-08T16:25:38Z</updated>
-    <id>tag:www.businessinsider.jp,2025-09-08:/article/2509-google-ai-mode-in-japan/</id>
-    <link href="https://www.businessinsider.jp/article/2509-google-ai-mode-in-japan/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Windows 11「秘密の呪文」5選、毎日のストレスをスキっと解消、タイパ向上にも効く</title>
+    <updated>2025-09-08T01:05:00Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2025-09-08:/ait/articles/2509/08/news015.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2509/08/news015.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: グーグル「AIモード」検索、日本でスタート　「検索は知性になる」</title>
@@ -4816,40 +4810,10 @@
     <link href="https://www.watch.impress.co.jp/docs/news/2045506.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 富士通、LLMの軽量化技術を発表　1ビット量子化でも約9割の精度を維持　3倍に高速化も</title>
-    <updated>2025-09-08T10:38:40Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-09-08:/aiplus/articles/2509/08/news113.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2509/08/news113.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: GoogleがついにGeminiの利用制限の詳細を明らかに、無料ユーザーはどこまでGeminiを使えるのか？</title>
-    <updated>2025-09-08T04:17:43Z</updated>
-    <id>tag:gigazine.net,2025-09-08:/news/20250908-google-gemini-usage-limits/</id>
-    <link href="https://gigazine.net/news/20250908-google-gemini-usage-limits/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: タイミーにAnalyticsEngineeringがもたらしたインパクトと未来のロードマップ</title>
-    <updated>2025-09-08T06:18:48Z</updated>
-    <id>tag:speakerdeck.com,2025-09-08:/okodoon/taiminianalyticsengineeringgamotarasitainpakutotowei-lai-norodomatupu</id>
-    <link href="https://speakerdeck.com/okodoon/taiminianalyticsengineeringgamotarasitainpakutotowei-lai-norodomatupu" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Google検索「AIモード」、9日に日本語など5言語対応　画像連携も - 日本経済新聞</title>
-    <updated>2025-09-08T19:32:45Z</updated>
-    <id>tag:www.nikkei.com,2025-09-08:/article/DGXZQOUC055K20V00C25A9000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC055K20V00C25A9000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「Microsoft Teams」にSQLっぽい検索コマンド、「Slack」「Zoom」っぽいショートカットも／「イマーシブ イベント」「Microsoft Places」にも注目したい2025年8月アップデート</title>
-    <updated>2025-09-08T09:05:24Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-09-08:/docs/news/2045346.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2045346.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「LINE」、アプリのリニューアル発表</title>
-    <updated>2025-09-08T03:48:22Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2025-09-08:/docs/news/2045462.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2045462.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: AGENTS.md の概要｜npaka</title>
+    <updated>2025-09-08T03:19:40Z</updated>
+    <id>tag:note.com,2025-09-08:/npaka/n/nd1258df2853c</id>
+    <link href="https://note.com/npaka/n/nd1258df2853c" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【エンジニアの日常】エンジニアの人生を変えたイベント Part2 - Findy Tech Blog</title>
@@ -4858,9 +4822,75 @@
     <link href="https://tech.findy.co.jp/entry/2025/09/09/090000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: EMとパラドキシカル・リーダーシップ - yigarashiのブログ</title>
-    <updated>2025-09-08T04:20:37Z</updated>
-    <id>tag:yigarashi.hatenablog.com,2025-09-08:/entry/2025/09/08/000000</id>
-    <link href="https://yigarashi.hatenablog.com/entry/2025/09/08/000000" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIが気分に合わせてアートを生成--SwitchBot、新型E-Inkフレームを発表</title>
+    <updated>2025-09-08T08:36:31Z</updated>
+    <id>tag:japan.cnet.com,2025-09-08:/article/35237693/</id>
+    <link href="https://japan.cnet.com/article/35237693/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Google検索「AIモード」、9日に日本語など5言語対応　画像連携も - 日本経済新聞</title>
+    <updated>2025-09-08T19:32:45Z</updated>
+    <id>tag:www.nikkei.com,2025-09-08:/article/DGXZQOUC055K20V00C25A9000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC055K20V00C25A9000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 300台のサーバ情報をクラウド上で自動管理！ハイブリッド環境でのOS EOL情報を可視化してみた - MonotaRO Tech Blog</title>
+    <updated>2025-09-09T00:31:16Z</updated>
+    <id>tag:tech-blog.monotaro.com,2025-09-09:/entry/2025/09/09/090000</id>
+    <link href="https://tech-blog.monotaro.com/entry/2025/09/09/090000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Nova Launcher、事実上の開発終了：創設者退社でオープンソース化の約束も白紙に | XenoSpectrum</title>
+    <updated>2025-09-08T05:54:02Z</updated>
+    <id>tag:xenospectrum.com,2025-09-08:/nova-launcher-development-ends-founder-leaves-branch/</id>
+    <link href="https://xenospectrum.com/nova-launcher-development-ends-founder-leaves-branch/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 20年続いたGoogle検索が変わる。日本語版「AIモード」で“考える検索”へ | テクノエッジ TechnoEdge</title>
+    <updated>2025-09-08T17:00:35Z</updated>
+    <id>tag:www.techno-edge.net,2025-09-08:/article/2025/09/09/4575.html</id>
+    <link href="https://www.techno-edge.net/article/2025/09/09/4575.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 声優・山村響さんの声、無許可でAIモデル化　AivisSpeech「Anneli」問題が波紋</title>
+    <updated>2025-09-08T04:24:48Z</updated>
+    <id>tag:ascii.jp,2025-09-08:/elem/000/004/318/4318182/</id>
+    <link href="https://ascii.jp/elem/000/004/318/4318182/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「パスキー」はオンライン認証の完成形か　口座乗っ取り問題で注目 - 日本経済新聞</title>
+    <updated>2025-09-08T23:01:02Z</updated>
+    <id>tag:www.nikkei.com,2025-09-08:/article/DGXZQOUC153EQ0V10C25A8000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC153EQ0V10C25A8000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「なぜAIは嘘をつくのか？」OpenAIが論文を公開</title>
+    <updated>2025-09-08T11:12:52Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-09-08:/docs/news/2045655.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2045655.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub Desktop を模したマルウェアダウンロードの誘導に関する注意喚起 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ</title>
+    <updated>2025-09-08T11:39:55Z</updated>
+    <id>tag:gmo-cybersecurity.com,2025-09-08:/blog/phantom-commit-injection/</id>
+    <link href="https://gmo-cybersecurity.com/blog/phantom-commit-injection/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: iOSDC Japan 2025 特別企画 「AI時代、iOSアプリエンジニアがこれから生き残るには」</title>
+    <updated>2025-09-08T23:01:07Z</updated>
+    <id>tag:techblog.lycorp.co.jp,2025-09-08:/ja/20250908a</id>
+    <link href="https://techblog.lycorp.co.jp/ja/20250908a" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OpenAIがAI認定資格を発表、「ChatGPT」内で勉強から取得まで完結</title>
+    <updated>2025-09-08T03:12:27Z</updated>
+    <id>tag:japan.cnet.com,2025-09-08:/article/35237683/</id>
+    <link href="https://japan.cnet.com/article/35237683/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 今週のはてなブックマーク数ランキング（2025年9月第1週） - はてなブックマーク開発ブログ</title>
+    <updated>2025-09-09T03:00:40Z</updated>
+    <id>tag:bookmark.hatenastaff.com,2025-09-09:/entry/2025/09/09/120011</id>
+    <link href="https://bookmark.hatenastaff.com/entry/2025/09/09/120011" rel="alternate"></link>
   </entry>
 </feed>
