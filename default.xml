@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-09-11T12:26:32Z</updated>
+  <updated>2025-09-11T18:16:25Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -148,6 +148,12 @@
     <link href="https://archlinux.org/news/providing-a-license-for-package-sources/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: マテリアルズインフォマティクス（MI）入門：Pythonによる物性予測から逆問題設計まで</title>
+    <updated>2025-09-11T02:46:32Z</updated>
+    <id>https://zenn.dev/labcode/books/fda58a9b4ee9ef</id>
+    <link href="https://zenn.dev/labcode/books/fda58a9b4ee9ef" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: レッドオーシャンに一石を投じるつもりで変なSNSを10ヶ月以上運営してかなり病んだ話</title>
     <updated>2025-09-10T22:59:35Z</updated>
     <id>https://zenn.dev/arusyukuhai/articles/35e19da2741524</id>
@@ -260,12 +266,6 @@
     <updated>2025-09-08T23:00:05Z</updated>
     <id>https://zenn.dev/knowledgesense/articles/2895f9adc8d802</id>
     <link href="https://zenn.dev/knowledgesense/articles/2895f9adc8d802" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 余計なuseMemoを1つ消したらtscが135秒高速化した話</title>
-    <updated>2025-09-08T08:44:49Z</updated>
-    <id>https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall</id>
-    <link href="https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: Vibe Coding から、Drive Coding (欲動のコーディング)へ</title>
@@ -448,6 +448,12 @@
     <link href="https://qiita.com/yoshimi-yzrh/items/ab20a06a6be9e9ac9bbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: 'sed' - filter and transform text - Video Man Pages</title>
+    <updated>2025-09-11T13:00:27Z</updated>
+    <id>yt:video:D7aDAXWi5SM</id>
+    <link href="https://www.youtube.com/watch?v=D7aDAXWi5SM" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: Doom Emacs And Creating A Literate Config</title>
     <updated>2025-09-08T13:01:13Z</updated>
     <id>yt:video:eFRzRsWTXPk</id>
@@ -530,12 +536,6 @@
     <updated>2025-08-09T13:01:03Z</updated>
     <id>yt:video:Tl6xOw6Au88</id>
     <link href="https://www.youtube.com/watch?v=Tl6xOw6Au88" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: 'which' - prints the path of executables - Video Man Pages</title>
-    <updated>2025-08-08T13:01:48Z</updated>
-    <id>yt:video:rF3ymTBeZ_k</id>
-    <link href="https://www.youtube.com/watch?v=rF3ymTBeZ_k" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: PR: 「AIネイティブ時代」に企業はどう備えるべきか？　AWSが31セッションで明かす“実践知”に学ぶ、重要ワークロードをマイグレーション／モダナイゼーションする方法</title>
@@ -4678,18 +4678,6 @@
     <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0830?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: iOSエンジニアの祭典「iOSDC Japan 2024」カンファレンスレポート</title>
-    <updated>2024-09-17T00:06:00Z</updated>
-    <id>urn:uuid:d119f18a-bdad-1488-8bcd-d5edb22cba85</id>
-    <link href="https://gihyo.jp/article/2024/09/iosdc-japan-2024-report?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: Blenderで複数のカメラを設定してみよう</title>
-    <updated>2024-09-17T00:05:00Z</updated>
-    <id>urn:uuid:fce6465f-8622-6478-c614-49f7561d3d70</id>
-    <link href="https://gihyo.jp/article/2024/09/blender-basics-36?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: 第229回　MySQL Shellを使ってリストアしてみる</title>
     <updated>2024-09-16T23:52:00Z</updated>
     <id>urn:uuid:cd523021-4f65-0b91-68ae-3f6b5e587015</id>
@@ -4708,34 +4696,10 @@
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202409/13?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: 第829回　systemd-nspawn+pbuliderでパッケージのビルド環境を整え、別PCからビルドする</title>
-    <updated>2024-09-11T01:04:00Z</updated>
-    <id>urn:uuid:73e5a990-360a-0741-3a5c-fe0f645e6536</id>
-    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0829?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: ある日起きたら、片耳の聴力を失った話</title>
     <updated>2025-09-10T14:37:59Z</updated>
     <id>tag:anond.hatelabo.jp,2025-09-10:/20250910233513</id>
     <link href="https://anond.hatelabo.jp/20250910233513" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 現代的なLinuxコマンドを活用して、WSL環境をもっと快適にしてみよう</title>
-    <updated>2025-09-09T06:51:31Z</updated>
-    <id>tag:thinkit.co.jp,2025-09-09:/article/38481</id>
-    <link href="https://thinkit.co.jp/article/38481" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: じいちゃんの使ってた『iPhone5S』ちゅう電話機はそれはそれは美しくてな…「ジョブズが最後に関わったモデル」「このサイズで出して欲しい」</title>
-    <updated>2025-09-10T23:29:20Z</updated>
-    <id>tag:togetter.com,2025-09-10:/li/2601123</id>
-    <link href="https://togetter.com/li/2601123" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: バイトでサーバーの設置とかやってるんだが、 「私技術のことわからないん..</title>
-    <updated>2025-09-11T00:58:07Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-09-11:/20250911095747</id>
-    <link href="https://anond.hatelabo.jp/20250911095747" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 2秒以内に商業レベルの高品質音楽を生成できる音楽生成AI「Stable Audio 2.5」</title>
@@ -4744,52 +4708,28 @@
     <link href="https://gigazine.net/news/20250911-stable-audio/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 現代的なLinuxコマンドを活用して、WSL環境をもっと快適にしてみよう</title>
+    <updated>2025-09-09T06:51:31Z</updated>
+    <id>tag:thinkit.co.jp,2025-09-09:/article/38481</id>
+    <link href="https://thinkit.co.jp/article/38481" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 自分のWebサイトをスケルトン仕様にする - Lambdaカクテル</title>
     <updated>2025-09-11T03:18:30Z</updated>
     <id>tag:blog.3qe.us,2025-09-11:/entry/2025/09/11/114156</id>
     <link href="https://blog.3qe.us/entry/2025/09/11/114156" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 情報セキュリティ白書2025 | 書籍・刊行物 | IPA 独立行政法人 情報処理推進機構</title>
-    <updated>2025-09-10T03:32:09Z</updated>
-    <id>tag:www.ipa.go.jp,2025-09-10:/publish/wp-security/2025.html</id>
-    <link href="https://www.ipa.go.jp/publish/wp-security/2025.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: バイトでサーバーの設置とかやってるんだが（現地OAサービス）、 「私技術..</title>
+    <updated>2025-09-11T00:58:07Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-09-11:/20250911095747</id>
+    <link href="https://anond.hatelabo.jp/20250911095747" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: キヤノン、コンデジ「IXY650」マイナーチェンジは中高生のため!? コンデジの意外な需要</title>
-    <updated>2025-09-11T00:18:51Z</updated>
-    <id>tag:av.watch.impress.co.jp,2025-09-11:/docs/topic/2046002.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/topic/2046002.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: テスラのドアに危険性、手動の開け方わからず死亡例も－米当局も認識</title>
-    <updated>2025-09-10T17:56:50Z</updated>
-    <id>tag:www.bloomberg.co.jp,2025-09-10:/news/articles/2025-09-10/T2D8WCGP493O00</id>
-    <link href="https://www.bloomberg.co.jp/news/articles/2025-09-10/T2D8WCGP493O00" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: iPhone17に機種変更するなら、物理SIM→eSIM変更が必要。でも難しくありません！ | ライフハッカー・ジャパン</title>
-    <updated>2025-09-10T13:31:50Z</updated>
-    <id>tag:www.lifehacker.jp,2025-09-10:/article/2509-apple-iphone17-esim/</id>
-    <link href="https://www.lifehacker.jp/article/2509-apple-iphone17-esim/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: この1ページでわかる｜AIエージェント超入門｜ベイジの図書館</title>
-    <updated>2025-09-10T03:12:40Z</updated>
-    <id>tag:baigie.me,2025-09-10:/officialblog/2025/09/10/ai_argent/</id>
-    <link href="https://baigie.me/officialblog/2025/09/10/ai_argent/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 30年使い込んでも、まだまだ楽しい名ソフト　なぜ人々は「FileMaker」を愛する？ (1/3)</title>
-    <updated>2025-09-10T08:21:43Z</updated>
-    <id>tag:ascii.jp,2025-09-10:/elem/000/004/318/4318784/</id>
-    <link href="https://ascii.jp/elem/000/004/318/4318784/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 10代は「ChatGPTで検索」が4割、Yahoo! JAPAN上回る――検索の生成AI利用、実態は？　CA調査</title>
-    <updated>2025-09-11T04:47:51Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-09-11:/aiplus/articles/2509/11/news077.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2509/11/news077.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: じいちゃんの使ってた『iPhone5S』ちゅう電話機はそれはそれは美しくてな…「ジョブズが最後に関わったモデル」「このサイズで出して欲しい」</title>
+    <updated>2025-09-10T23:29:20Z</updated>
+    <id>tag:togetter.com,2025-09-10:/li/2601123</id>
+    <link href="https://togetter.com/li/2601123" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Apple 2025年秋の新製品発表会で見えた“デザイン会社”としての復活</title>
@@ -4798,34 +4738,34 @@
     <link href="https://www.itmedia.co.jp/pcuser/articles/2509/11/news070.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 仕様を変えて速くする —— パフォーマンス改善とAIによる“先回り”検証 - カミナシ エンジニアブログ</title>
-    <updated>2025-09-10T23:05:07Z</updated>
-    <id>tag:kaminashi-developer.hatenablog.jp,2025-09-10:/entry/2025/09/11/faster-with-ai-spec-change</id>
-    <link href="https://kaminashi-developer.hatenablog.jp/entry/2025/09/11/faster-with-ai-spec-change" rel="alternate"></link>
+    <title>1:hatena_blog_it: なぜLambdaから直接他のLambdaを呼び出すのはアンチパターンなのか - Qiita</title>
+    <updated>2025-09-11T08:55:17Z</updated>
+    <id>tag:qiita.com,2025-09-11:/ry-harada/items/fc1587f3f52ee6e87ef7</id>
+    <link href="https://qiita.com/ry-harada/items/fc1587f3f52ee6e87ef7" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AI学習目的のスクレイピングに対して利用条件や利用料金を通知する仕組み「RSL」が開発される、すでにYahoo・Reddit・オライリーなどが採用を表明</title>
-    <updated>2025-09-11T03:49:33Z</updated>
-    <id>tag:gigazine.net,2025-09-11:/news/20250911-ai-rsl-really-simple-licensing/</id>
-    <link href="https://gigazine.net/news/20250911-ai-rsl-really-simple-licensing/" rel="alternate"></link>
+    <title>1:hatena_blog_it: この1ページでわかる｜AIエージェント超入門｜ベイジの図書館</title>
+    <updated>2025-09-10T03:12:40Z</updated>
+    <id>tag:baigie.me,2025-09-10:/officialblog/2025/09/10/ai_argent/</id>
+    <link href="https://baigie.me/officialblog/2025/09/10/ai_argent/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Excel、Excel VBA をGitで管理する - Qiita</title>
-    <updated>2025-09-10T10:34:47Z</updated>
-    <id>tag:qiita.com,2025-09-10:/Kodak_tmo/items/04de2f6cfee17bb1119e</id>
-    <link href="https://qiita.com/Kodak_tmo/items/04de2f6cfee17bb1119e" rel="alternate"></link>
+    <title>1:hatena_blog_it: 10代は「ChatGPTで検索」が4割、Yahoo! JAPAN上回る――検索の生成AI利用、実態は？　CA調査</title>
+    <updated>2025-09-11T04:47:51Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-09-11:/aiplus/articles/2509/11/news077.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2509/11/news077.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 全国初、多くの自治体が採用する共同利用方式での実証実験を茅ヶ崎市で開始</title>
-    <updated>2025-09-11T00:02:36Z</updated>
-    <id>tag:prtimes.jp,2025-09-11:/main/html/rd/p/000000239.000072698.html</id>
-    <link href="https://prtimes.jp/main/html/rd/p/000000239.000072698.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 転職の有休消化中に何していいかわからない</title>
+    <updated>2025-09-11T11:24:16Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-09-11:/20250911172154</id>
+    <link href="https://anond.hatelabo.jp/20250911172154" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: レガシーシステムからの脱却 〜段階的リリースで挑むシステム刷新〜 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
-    <updated>2025-09-11T06:15:08Z</updated>
-    <id>tag:tech-blog.rakus.co.jp,2025-09-11:/entry/20250911/legacy-to-modern</id>
-    <link href="https://tech-blog.rakus.co.jp/entry/20250911/legacy-to-modern" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIと私たちの学習の変化を考える - Claude Codeの学習モードを例に</title>
+    <updated>2025-09-11T13:05:48Z</updated>
+    <id>tag:speakerdeck.com,2025-09-11:/azukiazusa1/aitosi-tatinoxue-xi-nobian-hua-wokao-eru-claude-codenoxue-xi-modowoli-ni</id>
+    <link href="https://speakerdeck.com/azukiazusa1/aitosi-tatinoxue-xi-nobian-hua-wokao-eru-claude-codenoxue-xi-modowoli-ni" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: MCPサーバーの公式オープンカタログ「MCPレジストリ」がプレビュー公開 ―信頼できるMCPサーバーの発見と独自のサブレジストリ展開が容易に | gihyo.jp</title>
@@ -4834,22 +4774,16 @@
     <link href="https://gihyo.jp/article/2025/09/mcp-registry-preview" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: エンジニア主導のUI/UX改善：Vibe Codingによる試作アプリ量産で意思決定を高速化した話 - Tabelog Tech Blog</title>
-    <updated>2025-09-11T05:09:59Z</updated>
-    <id>tag:tech-blog.tabelog.com,2025-09-11:/entry/engineer-led-vibe-coding-for-faster-uiux-decision-making</id>
-    <link href="https://tech-blog.tabelog.com/entry/engineer-led-vibe-coding-for-faster-uiux-decision-making" rel="alternate"></link>
+    <title>1:hatena_blog_it: 『三国志』で誰と誰が同い年？ 一目でわかる「Google スプレッドシート」が超力作／画像だけど戦国武将バージョンもあるよ【やじうまの杜】</title>
+    <updated>2025-09-11T07:21:42Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-09-11:/docs/serial/yajiuma/2046544.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2046544.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ByteDanceが画像生成AI「Seedream 4.0」をリリース、4K解像度の画像を生成可能＆画像編集機能も備えてGoogleやOpenAIを一部テストで上回る</title>
-    <updated>2025-09-11T04:48:48Z</updated>
-    <id>tag:gigazine.net,2025-09-11:/news/20250911-seedream-4-bytedance-image-edit-generate/</id>
-    <link href="https://gigazine.net/news/20250911-seedream-4-bytedance-image-edit-generate/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 電子ペーパーディスプレイが液晶ディスプレイの領域に到達、Modosが75Hzのリフレッシュレートを備えたオープンソースの電子ペーパーを発表</title>
-    <updated>2025-09-10T11:19:48Z</updated>
-    <id>tag:gigazine.net,2025-09-10:/news/20250910-modos-75hz-paper-monitor/</id>
-    <link href="https://gigazine.net/news/20250910-modos-75hz-paper-monitor/" rel="alternate"></link>
+    <title>1:hatena_blog_it: キヤノン、コンデジ「IXY650」マイナーチェンジは中高生のため!? コンデジの意外な需要</title>
+    <updated>2025-09-11T00:18:51Z</updated>
+    <id>tag:av.watch.impress.co.jp,2025-09-11:/docs/topic/2046002.html</id>
+    <link href="https://av.watch.impress.co.jp/docs/topic/2046002.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: なぜもっと早く使わなかったのか...データベース系MCPでデータ分析が楽しい！ - Qiita</title>
@@ -4858,22 +4792,46 @@
     <link href="https://qiita.com/ssc-yshikeda/items/67113394e8deffcf4531" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub CopilotのAIモデル、どれを選べばよいのか？　公式ブログが解説</title>
-    <updated>2025-09-10T23:50:55Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2025-09-10:/ait/articles/2509/11/news009.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2509/11/news009.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: レガシーシステムからの脱却 〜段階的リリースで挑むシステム刷新〜 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+    <updated>2025-09-11T06:15:08Z</updated>
+    <id>tag:tech-blog.rakus.co.jp,2025-09-11:/entry/20250911/legacy-to-modern</id>
+    <link href="https://tech-blog.rakus.co.jp/entry/20250911/legacy-to-modern" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 『三国志』で誰と誰が同い年？ 一目でわかる「Google スプレッドシート」が超力作／画像だけど戦国武将バージョンもあるよ【やじうまの杜】</title>
-    <updated>2025-09-11T07:21:42Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-09-11:/docs/serial/yajiuma/2046544.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2046544.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 人工衛星のファームウェアをRustで書く理由</title>
+    <updated>2025-09-11T06:53:25Z</updated>
+    <id>tag:speakerdeck.com,2025-09-11:/koba789/why-rust-for-satellite</id>
+    <link href="https://speakerdeck.com/koba789/why-rust-for-satellite" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 技術に疎くてもわかるXのアルゴリズム解説：公開コードから読み解く仕組みとフォロワー増加戦略 | ベイジの日報</title>
-    <updated>2025-09-11T01:15:22Z</updated>
-    <id>tag:baigie.me,2025-09-11:/nippo/2025/09/11/x_algo/</id>
-    <link href="https://baigie.me/nippo/2025/09/11/x_algo/" rel="alternate"></link>
+    <title>1:hatena_blog_it: AI学習目的のスクレイピングに対して利用条件や利用料金を通知する仕組み「RSL」が開発される、すでにYahoo・Reddit・オライリーなどが採用を表明</title>
+    <updated>2025-09-11T03:49:33Z</updated>
+    <id>tag:gigazine.net,2025-09-11:/news/20250911-ai-rsl-really-simple-licensing/</id>
+    <link href="https://gigazine.net/news/20250911-ai-rsl-really-simple-licensing/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: エンジニア主導のUI/UX改善：Vibe Codingによる試作アプリ量産で意思決定を高速化した話 - Tabelog Tech Blog</title>
+    <updated>2025-09-11T05:09:59Z</updated>
+    <id>tag:tech-blog.tabelog.com,2025-09-11:/entry/engineer-led-vibe-coding-for-faster-uiux-decision-making</id>
+    <link href="https://tech-blog.tabelog.com/entry/engineer-led-vibe-coding-for-faster-uiux-decision-making" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: “雷ゴロゴロ”にメーカー注意喚起　「一番の対策はコンセントを抜く、です！」</title>
+    <updated>2025-09-11T07:48:07Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-09-11:/news/articles/2509/11/news102.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2509/11/news102.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 情報セキュリティ白書2025 | 書籍・刊行物 | IPA 独立行政法人 情報処理推進機構</title>
+    <updated>2025-09-10T03:32:09Z</updated>
+    <id>tag:www.ipa.go.jp,2025-09-10:/publish/wp-security/2025.html</id>
+    <link href="https://www.ipa.go.jp/publish/wp-security/2025.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: テスラのドアに危険性、手動の開け方わからず死亡例も－米当局も認識</title>
+    <updated>2025-09-10T17:56:50Z</updated>
+    <id>tag:www.bloomberg.co.jp,2025-09-10:/news/articles/2025-09-10/T2D8WCGP493O00</id>
+    <link href="https://www.bloomberg.co.jp/news/articles/2025-09-10/T2D8WCGP493O00" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 防衛装備庁、レールガン（電磁砲）の洋上射撃に成功　火砲と比べた利点と課題は？</title>
@@ -4882,9 +4840,39 @@
     <link href="https://japan.cnet.com/article/35237834/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: リスクと踊るためのアジャイル開発 - Repro Tech Blog</title>
-    <updated>2025-09-10T22:42:13Z</updated>
-    <id>tag:tech.repro.io,2025-09-10:/entry/2025/09/11/072618</id>
-    <link href="https://tech.repro.io/entry/2025/09/11/072618" rel="alternate"></link>
+    <title>1:hatena_blog_it: GitHub CopilotのAIモデル、どれを選べばよいのか？　公式ブログが解説</title>
+    <updated>2025-09-10T23:50:55Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2025-09-10:/ait/articles/2509/11/news009.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2509/11/news009.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ByteDanceが画像生成AI「Seedream 4.0」をリリース、4K解像度の画像を生成可能＆画像編集機能も備えてGoogleやOpenAIを一部テストで上回る</title>
+    <updated>2025-09-11T04:48:48Z</updated>
+    <id>tag:gigazine.net,2025-09-11:/news/20250911-seedream-4-bytedance-image-edit-generate/</id>
+    <link href="https://gigazine.net/news/20250911-seedream-4-bytedance-image-edit-generate/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 30年使い込んでも、まだまだ楽しい名ソフト　なぜ人々は「FileMaker」を愛する？ (1/3)</title>
+    <updated>2025-09-10T08:21:43Z</updated>
+    <id>tag:ascii.jp,2025-09-10:/elem/000/004/318/4318784/</id>
+    <link href="https://ascii.jp/elem/000/004/318/4318784/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 街中のバッテリー、アプリ介さず貸し出します──「スマホ充電切れでは借りられないため」と充レン</title>
+    <updated>2025-09-11T06:35:59Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-09-11:/mobile/articles/2509/11/news089.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2509/11/news089.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Excel、Excel VBA をGitで管理する - Qiita</title>
+    <updated>2025-09-10T10:34:47Z</updated>
+    <id>tag:qiita.com,2025-09-10:/Kodak_tmo/items/04de2f6cfee17bb1119e</id>
+    <link href="https://qiita.com/Kodak_tmo/items/04de2f6cfee17bb1119e" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AWSで働いてる弟が「サポートに質問して自己解決した場合でもちゃんとcloseして欲しい。中の人はcloseされるまで必死に泥臭い検証を続けてる」と嘆いてた→サポー トに限らず連絡はちゃんとして欲しい…</title>
+    <updated>2025-09-11T02:51:19Z</updated>
+    <id>tag:posfie.com,2025-09-11:/@petaritape/p/BNZBcuc</id>
+    <link href="https://posfie.com/@petaritape/p/BNZBcuc" rel="alternate"></link>
   </entry>
 </feed>
