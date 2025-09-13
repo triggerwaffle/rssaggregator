@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-09-13T12:23:37Z</updated>
+  <updated>2025-09-13T18:15:58Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -148,6 +148,12 @@
     <link href="https://archlinux.org/news/providing-a-license-for-package-sources/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: nano-bananaでモバイルアプリUIモックアップを作る</title>
+    <updated>2025-09-13T03:02:29Z</updated>
+    <id>https://zenn.dev/oikon/articles/nanobanana-mobile-mock</id>
+    <link href="https://zenn.dev/oikon/articles/nanobanana-mobile-mock" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: dora-rs: これがAI時代のロボティクスミドルウェアだ！</title>
     <updated>2025-09-12T12:08:47Z</updated>
     <id>https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b</id>
@@ -202,16 +208,16 @@
     <link href="https://zenn.dev/teamlab_fe/articles/270cf15431490b" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: VS Code と Docker で始める！シンプルな Java 開発入門</title>
+    <updated>2025-09-11T10:27:28Z</updated>
+    <id>https://zenn.dev/hiro345/articles/20250910_vscode_java</id>
+    <link href="https://zenn.dev/hiro345/articles/20250910_vscode_java" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: レガシーC#開発者がDevinと向き合った現実</title>
     <updated>2025-09-11T06:06:49Z</updated>
     <id>https://zenn.dev/nexta_/articles/c17665d97e28a0</id>
     <link href="https://zenn.dev/nexta_/articles/c17665d97e28a0" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: LLMの期待外れをプロンプトの継続改善で克服する</title>
-    <updated>2025-09-11T05:34:48Z</updated>
-    <id>https://zenn.dev/ivry/articles/6505ddd51427d7</id>
-    <link href="https://zenn.dev/ivry/articles/6505ddd51427d7" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: TypeScriptの型推論でCLIバリデーションをなくせた話</title>
@@ -260,12 +266,6 @@
     <updated>2025-09-09T10:28:06Z</updated>
     <id>https://zenn.dev/mixi/articles/4b77baf024d8fc</id>
     <link href="https://zenn.dev/mixi/articles/4b77baf024d8fc" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 「ドメイン駆動設計をはじめよう」を3回読んで学んだ事をまとめる</title>
-    <updated>2025-09-09T10:23:54Z</updated>
-    <id>https://zenn.dev/fendo181/articles/6ed5dfc71898da</id>
-    <link href="https://zenn.dev/fendo181/articles/6ed5dfc71898da" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: なぜもっと早く使わなかったのか...データベース系MCPでデータ分析が楽しい！</title>
@@ -4690,34 +4690,28 @@
     <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0830?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: 第229回　MySQL Shellを使ってリストアしてみる</title>
-    <updated>2024-09-16T23:52:00Z</updated>
-    <id>urn:uuid:cd523021-4f65-0b91-68ae-3f6b5e587015</id>
-    <link href="https://gihyo.jp/article/2024/09/mysql-rcn0229?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: OpenAI、応答前により時間をかけて思考する推論モデル「OpenAI o1」を発表 ～数学や科学、コーディングなどの複雑な推論で専門家に匹敵するパフォーマンスを達成</title>
-    <updated>2024-09-13T02:04:00Z</updated>
-    <id>urn:uuid:8d72e394-32a3-f958-a1ee-c446dad51b4b</id>
-    <link href="https://gihyo.jp/article/2024/09/openai-o1-release?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: Ubuntu 24.10（oracular）の開発 / パーミッションプロンプトとBeta前のFull Rebuildと壁紙</title>
-    <updated>2024-09-13T01:22:00Z</updated>
-    <id>urn:uuid:9db7f489-1bcb-80e3-659b-2e7e183a05f5</id>
-    <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202409/13?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 新しいiPhoneを買った客が「データ移行に金がかかるなら自分でやる」って言うのでガイドブックを渡したら「元のiPhoneのデータ全部消えた！」と怒鳴り込んできた</title>
-    <updated>2025-09-12T21:07:00Z</updated>
-    <id>tag:togetter.com,2025-09-12:/li/2601971</id>
-    <link href="https://togetter.com/li/2601971" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: AI嫌いの私を唸らせた「NotebookLM」2つの活用術 | ライフハッカー・ジャパン</title>
     <updated>2025-09-12T11:55:57Z</updated>
     <id>tag:www.lifehacker.jp,2025-09-12:/article/2509-googles-notebooklm-introduces-quizzes-flashcards-tools/</id>
     <link href="https://www.lifehacker.jp/article/2509-googles-notebooklm-introduces-quizzes-flashcards-tools/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー</title>
+    <updated>2025-09-12T14:49:11Z</updated>
+    <id>tag:www.gizmodo.jp,2025-09-12:/2025/09/iphoneair-battery.html</id>
+    <link href="https://www.gizmodo.jp/2025/09/iphoneair-battery.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Webフロントエンド設計ガイドラインを公開しました | フューチャー技術ブログ</title>
+    <updated>2025-09-11T11:46:20Z</updated>
+    <id>tag:future-architect.github.io,2025-09-11:/articles/20250911a/</id>
+    <link href="https://future-architect.github.io/articles/20250911a/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ヨドバシAkibaがオープン20周年、イベントやセールを開催</title>
+    <updated>2025-09-13T00:33:04Z</updated>
+    <id>tag:akiba-pc.watch.impress.co.jp,2025-09-13:/docs/news/news/2047107.html</id>
+    <link href="https://akiba-pc.watch.impress.co.jp/docs/news/news/2047107.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: スマホの両手操作は中高年しぐさなのか問題 - 関内関外日記</title>
@@ -4732,58 +4726,46 @@
     <link href="https://speakerdeck.com/applism118/quan-yuan-purodakutomaneziya-woshi-xian-suru-cursorniyorushi-yang-jian-tao-nozi-dong-yun-zhuan" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: iPhone Airの恐ろしさは｢首から上が本体｣なところ。それ以外ほぼバッテリー</title>
-    <updated>2025-09-12T14:49:11Z</updated>
-    <id>tag:www.gizmodo.jp,2025-09-12:/2025/09/iphoneair-battery.html</id>
-    <link href="https://www.gizmodo.jp/2025/09/iphoneair-battery.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 新しいiPhoneを買った客が「データ移行に金がかかるなら自分でやる」って言うのでガイドブックを渡したら「元のiPhoneのデータ全部消えた！」と怒鳴り込んできた</title>
+    <updated>2025-09-12T21:07:00Z</updated>
+    <id>tag:togetter.com,2025-09-12:/li/2601971</id>
+    <link href="https://togetter.com/li/2601971" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Googleの画像生成AI「Nano-banana」をめちゃくちゃ活用できるプロンプトとサンプル画像実例まとめ</title>
-    <updated>2025-09-12T06:37:49Z</updated>
-    <id>tag:gigazine.net,2025-09-12:/news/20250912-nano-banana-prompt-example-matome/</id>
-    <link href="https://gigazine.net/news/20250912-nano-banana-prompt-example-matome/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Windows10延長サポートESUの登録方法。有料で3,500円払うか、それとも無料で使うか | ニッチなPCゲーマーの環境構築Z</title>
+    <updated>2025-09-13T09:48:04Z</updated>
+    <id>tag:www.nichepcgamer.com,2025-09-13:/archives/how-to-register-for-windows10-esu.html</id>
+    <link href="https://www.nichepcgamer.com/archives/how-to-register-for-windows10-esu.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Webフロントエンド設計ガイドラインを公開しました | フューチャー技術ブログ</title>
-    <updated>2025-09-11T11:46:20Z</updated>
-    <id>tag:future-architect.github.io,2025-09-11:/articles/20250911a/</id>
-    <link href="https://future-architect.github.io/articles/20250911a/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 元OpenAIの研究者ら、AIの応答が毎回違う理由をついに解明 | XenoSpectrum</title>
+    <updated>2025-09-12T06:45:18Z</updated>
+    <id>tag:xenospectrum.com,2025-09-12:/thinking-machines-lab-llm-nondeterminism-batch-invariance/</id>
+    <link href="https://xenospectrum.com/thinking-machines-lab-llm-nondeterminism-batch-invariance/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 遊舎工房が「TOKYO KEYBOARD EXPO」をやる理由</title>
-    <updated>2025-09-12T16:18:19Z</updated>
-    <id>tag:shop.yushakobo.jp,2025-09-12:/blogs/staff-blog/tkx25</id>
-    <link href="https://shop.yushakobo.jp/blogs/staff-blog/tkx25" rel="alternate"></link>
+    <title>1:hatena_blog_it: Webフロントエンド設計ガイドライン | フューチャー株式会社</title>
+    <updated>2025-06-17T23:53:52Z</updated>
+    <id>tag:future-architect.github.io,2025-06-17:/arch-guidelines/documents/forWebFrontend/web_frontend_guidelines.html</id>
+    <link href="https://future-architect.github.io/arch-guidelines/documents/forWebFrontend/web_frontend_guidelines.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「Aurora DSQLはサーバーレスアーキテクチャの常識を変えるのか」というタイトルでDevelopersIO 2025 Osakaに登壇しました #devio2025 | DevelopersIO</title>
-    <updated>2025-09-12T17:32:33Z</updated>
-    <id>tag:dev.classmethod.jp,2025-09-12:/articles/devio2025-osaka-aurora-dsql/</id>
-    <link href="https://dev.classmethod.jp/articles/devio2025-osaka-aurora-dsql/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 积至公司与MESA实验室：防火长城史上最大规模文件外泄分析</title>
+    <updated>2025-09-13T11:08:10Z</updated>
+    <id>tag:gfw.report,2025-09-13:/blog/geedge_and_mesa_leak/zh/</id>
+    <link href="https://gfw.report/blog/geedge_and_mesa_leak/zh/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: マイクロソフトも週3出社に--なぜフルリモートでは駄目なのか　「データは明確」と同社</title>
-    <updated>2025-09-12T08:25:24Z</updated>
-    <id>tag:japan.cnet.com,2025-09-12:/article/35237947/</id>
-    <link href="https://japan.cnet.com/article/35237947/" rel="alternate"></link>
+    <title>1:hatena_blog_it: はてなブックマークでホッテントリに入る方法、また、古い記事がホッテントリに入る方法について - orangestar2</title>
+    <updated>2025-09-13T05:07:01Z</updated>
+    <id>tag:orangestar2.hatenadiary.com,2025-09-13:/entry/2025/09/13/140021</id>
+    <link href="https://orangestar2.hatenadiary.com/entry/2025/09/13/140021" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Intel、5年前のCPUを「新製品」として発売の謎。Core i5-110はなぜ市場に困惑を広げるのか？ | XenoSpectrum</title>
-    <updated>2025-09-13T04:38:57Z</updated>
-    <id>tag:xenospectrum.com,2025-09-13:/intel-core-i5-110-comet-lake-resurrection-2025-analysis/</id>
-    <link href="https://xenospectrum.com/intel-core-i5-110-comet-lake-resurrection-2025-analysis/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ヨドバシAkibaがオープン20周年、イベントやセールを開催</title>
-    <updated>2025-09-13T00:33:04Z</updated>
-    <id>tag:akiba-pc.watch.impress.co.jp,2025-09-13:/docs/news/news/2047107.html</id>
-    <link href="https://akiba-pc.watch.impress.co.jp/docs/news/news/2047107.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: nano-bananaでモバイルアプリUIモックアップを作る</title>
-    <updated>2025-09-13T05:20:55Z</updated>
-    <id>tag:zenn.dev,2025-09-13:/oikon/articles/nanobanana-mobile-mock</id>
-    <link href="https://zenn.dev/oikon/articles/nanobanana-mobile-mock" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【まとめページ】パワポ作成の上手い人はスライドの引き出しが多い｜パワポ研</title>
+    <updated>2025-09-11T06:08:54Z</updated>
+    <id>tag:note.com,2025-09-11:/powerpoint_jp/n/n935391c7ed08</id>
+    <link href="https://note.com/powerpoint_jp/n/n935391c7ed08" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【無料】Nano Bananaとは？3Dフィギュアの作り方や注意点を徹底解説【2025年最新】</title>
@@ -4798,46 +4780,22 @@
     <link href="https://gigazine.net/news/20250913-tim-cook-iphone-air-battery-life/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: Intel、5年前のCPUを「新製品」として発売の謎。Core i5-110はなぜ市場に困惑を広げるのか？ | XenoSpectrum</title>
+    <updated>2025-09-13T04:38:57Z</updated>
+    <id>tag:xenospectrum.com,2025-09-13:/intel-core-i5-110-comet-lake-resurrection-2025-analysis/</id>
+    <link href="https://xenospectrum.com/intel-core-i5-110-comet-lake-resurrection-2025-analysis/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 「MCPはAPIではない」――Dockerが解説するAIエージェント開発のベストプラクティスとは</title>
     <updated>2025-09-12T13:32:31Z</updated>
     <id>tag:atmarkit.itmedia.co.jp,2025-09-12:/ait/articles/2509/12/news032.html</id>
     <link href="https://atmarkit.itmedia.co.jp/ait/articles/2509/12/news032.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 技術カンファレンスのプロポーザル採択のときに僕が考えていること - 時計を壊せ</title>
-    <updated>2025-09-13T04:02:20Z</updated>
-    <id>tag:techblog.karupas.org,2025-09-13:/entry/2025/09/13/125825</id>
-    <link href="https://techblog.karupas.org/entry/2025/09/13/125825" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: iPhone 17の「メモリシールド」がスパイウェア戦争を終結させる？Appleの最強防壁「MIE」とは何か？ | XenoSpectrum</title>
-    <updated>2025-09-12T07:09:00Z</updated>
-    <id>tag:xenospectrum.com,2025-09-12:/iphone-17-memory-integrity-enforcement-mie-spyware/</id>
-    <link href="https://xenospectrum.com/iphone-17-memory-integrity-enforcement-mie-spyware/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 元OpenAIの研究者ら、AIの応答が一定ではない理由をついに解明 | XenoSpectrum</title>
-    <updated>2025-09-12T06:45:18Z</updated>
-    <id>tag:xenospectrum.com,2025-09-12:/thinking-machines-lab-llm-nondeterminism-batch-invariance/</id>
-    <link href="https://xenospectrum.com/thinking-machines-lab-llm-nondeterminism-batch-invariance/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: MicrosoftとOpenAIが提携関係の見直しへ、非営利団体OpenAI Incは引き続き非営利団体であり続けることも表明</title>
-    <updated>2025-09-12T02:34:16Z</updated>
-    <id>tag:gigazine.net,2025-09-12:/news/20250912-microsoft-openai-revise-partnership/</id>
-    <link href="https://gigazine.net/news/20250912-microsoft-openai-revise-partnership/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: The second wave of MCP: Building for LLMs, not developers - Vercel</title>
-    <updated>2025-09-12T14:15:39Z</updated>
-    <id>tag:vercel.com,2025-09-12:/blog/the-second-wave-of-mcp-building-for-llms-not-developers</id>
-    <link href="https://vercel.com/blog/the-second-wave-of-mcp-building-for-llms-not-developers" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ServerlessHorrors | Home</title>
-    <updated>2024-02-28T14:25:58Z</updated>
-    <id>tag:serverlesshorrors.com,2024-02-28:/</id>
-    <link href="https://serverlesshorrors.com/" rel="alternate"></link>
+    <title>1:hatena_blog_it: iPhone Air、もはやUSB-C端子はつかわない説</title>
+    <updated>2025-09-13T13:20:14Z</updated>
+    <id>tag:www.gizmodo.jp,2025-09-13:/2025/09/iphone-air-usb-c.html</id>
+    <link href="https://www.gizmodo.jp/2025/09/iphone-air-usb-c.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: レノボの小型PC「ThinkCentre neo 50q Tiny Snapdragon」を試す　ArmアーキテクチャのデスクトップPCはアリ？</title>
@@ -4846,10 +4804,28 @@
     <link href="https://www.itmedia.co.jp/pcuser/articles/2509/12/news094.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「iPhone 17／Air」が“eSIMのみ”に変更された理由　ソフトウェアでeSIM利用を促進、キャリア側の対応も進む</title>
-    <updated>2025-09-13T01:42:24Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-09-13:/mobile/articles/2509/13/news026.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2509/13/news026.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: あれれ、Windows 10ユーザーが増えてる？ もしやWindows 11から出戻り…</title>
+    <updated>2025-09-12T19:52:24Z</updated>
+    <id>tag:www.gizmodo.jp,2025-09-12:/2025/09/windows-10-users-are-on-the-rise.html</id>
+    <link href="https://www.gizmodo.jp/2025/09/windows-10-users-are-on-the-rise.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 遊舎工房が「TOKYO KEYBOARD EXPO」をやる理由</title>
+    <updated>2025-09-12T16:18:19Z</updated>
+    <id>tag:shop.yushakobo.jp,2025-09-12:/blogs/staff-blog/tkx25</id>
+    <link href="https://shop.yushakobo.jp/blogs/staff-blog/tkx25" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub - plutov/oq: Terminal OpenAPI Spec viewer</title>
+    <updated>2025-09-12T16:01:03Z</updated>
+    <id>tag:github.com,2025-09-12:/plutov/oq</id>
+    <link href="https://github.com/plutov/oq" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 自然言語で CI/CD パイプラインを定義する Agentic Workflows</title>
+    <updated>2025-09-13T06:54:14Z</updated>
+    <id>tag:azukiazusa.dev,2025-09-13:/blog/natural-language-ci-cd-with-agentic-workflows/</id>
+    <link href="https://azukiazusa.dev/blog/natural-language-ci-cd-with-agentic-workflows/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「AIがIDEを手に入れた」Serena MCPの“魔法の仕組み”を解説！｜ブーストコンサルティング株式会社</title>
@@ -4858,27 +4834,27 @@
     <link href="https://note.com/boostconsulting/n/n39d193157be9" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: “生成AIのせい”で新卒雇用は減るが代替できない経験を持つ熟練者は安泰、新しいブラックホールを見つけるGoogle開発AIなど生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
-    <updated>2025-09-12T01:30:28Z</updated>
-    <id>tag:www.techno-edge.net,2025-09-12:/article/2025/09/12/4587.html</id>
-    <link href="https://www.techno-edge.net/article/2025/09/12/4587.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「iPhone 17／Air」が“eSIMのみ”に変更された理由　ソフトウェアでeSIM利用を促進、キャリア側の対応も進む</title>
+    <updated>2025-09-13T01:42:24Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-09-13:/mobile/articles/2509/13/news026.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2509/13/news026.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub - afshinea/stanford-cme-295-transformers-large-language-models: VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models</title>
-    <updated>2025-04-04T07:49:53Z</updated>
-    <id>tag:github.com,2025-04-04:/afshinea/stanford-cme-295-transformers-large-language-models</id>
-    <link href="https://github.com/afshinea/stanford-cme-295-transformers-large-language-models" rel="alternate"></link>
+    <title>1:hatena_blog_it: コロンブスの卵的な発想で低コスト化を実現した「スマートメディア（5V）」（容量0.5MB/2MB/4MB・1996年頃～）：ロストメモリーズ File002（再掲） | テクノエッジ TechnoEdge</title>
+    <updated>2025-09-12T03:16:46Z</updated>
+    <id>tag:www.techno-edge.net,2025-09-12:/article/2025/09/12/4588.html</id>
+    <link href="https://www.techno-edge.net/article/2025/09/12/4588.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: iPhone miniを求める人の謎</title>
-    <updated>2025-09-12T05:18:51Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-09-12:/20250912141742</id>
-    <link href="https://anond.hatelabo.jp/20250912141742" rel="alternate"></link>
+    <title>1:hatena_blog_it: ServerlessHorrors | Home</title>
+    <updated>2024-02-28T14:25:58Z</updated>
+    <id>tag:serverlesshorrors.com,2024-02-28:/</id>
+    <link href="https://serverlesshorrors.com/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Behind The Scenes of Bun Install | Bun Blog</title>
-    <updated>2025-09-11T16:02:13Z</updated>
-    <id>tag:bun.com,2025-09-11:/blog/behind-the-scenes-of-bun-install</id>
-    <link href="https://bun.com/blog/behind-the-scenes-of-bun-install" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「Aurora DSQLはサーバーレスアーキテクチャの常識を変えるのか」というタイトルでDevelopersIO 2025 Osakaに登壇しました #devio2025 | DevelopersIO</title>
+    <updated>2025-09-12T17:32:33Z</updated>
+    <id>tag:dev.classmethod.jp,2025-09-12:/articles/devio2025-osaka-aurora-dsql/</id>
+    <link href="https://dev.classmethod.jp/articles/devio2025-osaka-aurora-dsql/" rel="alternate"></link>
   </entry>
 </feed>
