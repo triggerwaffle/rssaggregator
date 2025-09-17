@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-09-17T12:27:49Z</updated>
+  <updated>2025-09-17T18:19:04Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -214,7 +214,7 @@
     <link href="https://zenn.dev/knowledgework/articles/4b1cd0689149bd" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: キーボードが一枚も売れなかった</title>
+    <title>3:zenn_trend: 【追記あり】キーボードが一枚も売れなかった</title>
     <updated>2025-09-16T02:52:49Z</updated>
     <id>https://zenn.dev/cheena_gb/articles/e051f46c30d498</id>
     <link href="https://zenn.dev/cheena_gb/articles/e051f46c30d498" rel="alternate"></link>
@@ -448,6 +448,12 @@
     <link href="https://qiita.com/ssc-karasawa/items/9868a213790d2531cc3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: Don't Switch From Windows To Linux...Switch To Mac Instead?!</title>
+    <updated>2025-09-17T13:01:12Z</updated>
+    <id>yt:video:WlVUlgwl4EY</id>
+    <link href="https://www.youtube.com/watch?v=WlVUlgwl4EY" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: A XeroLinux Live Stream</title>
     <updated>2025-09-15T04:51:00Z</updated>
     <id>yt:video:SX62BkAkGZQ</id>
@@ -530,12 +536,6 @@
     <updated>2025-08-14T05:00:47Z</updated>
     <id>yt:video:maaRs2wtcd4</id>
     <link href="https://www.youtube.com/watch?v=maaRs2wtcd4" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: Install Whatever You Want With Fedora Everything</title>
-    <updated>2025-08-11T13:01:22Z</updated>
-    <id>yt:video:gpqbNINbRSg</id>
-    <link href="https://www.youtube.com/watch?v=gpqbNINbRSg" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: PR: 「AIネイティブ時代」に企業はどう備えるべきか？　AWSが31セッションで明かす“実践知”に学ぶ、重要ワークロードをマイグレーション／モダナイゼーションする方法</title>
@@ -1000,6 +1000,18 @@
     <link href="https://www.youtube.com/watch?v=Bo90wWSJQTc" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: GitHub、総合的なMCPサーバのレジストリを目論む「GitHub MCP Registry」公開</title>
+    <updated>2025-09-17T15:06:18Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8319</id>
+    <link href="https://www.publickey1.jp/blog/25/githubmcpgithub_mcp_registry.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: Pulumiが自然言語の指示でクラウドのプロビジョニングからインフラ管理まで自動実行してくれるAIエージェント「Pulumi Neo」発表</title>
+    <updated>2025-09-17T15:05:15Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8318</id>
+    <link href="https://www.publickey1.jp/blog/25/pulumiaipulumi_neo.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: 「Java 25」正式リリース、2年振りのLTS版。事前キャッシュによる高速起動、JITの即時ネイティブコード生成など新機能</title>
     <updated>2025-09-16T15:46:22Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8317</id>
@@ -1076,18 +1088,6 @@
     <updated>2025-09-07T15:31:00Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8303</id>
     <link href="https://www.publickey1.jp/blog/25/googlegeminigoogle_distributed_cloud.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: アトラシアン「AI時代の業務のためのブラウザを作る」、The Browser Company買収を発表。ArcやDiaの開発元</title>
-    <updated>2025-09-04T15:57:16Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8302</id>
-    <link href="https://www.publickey1.jp/blog/25/aithe_browser_companyarcdia.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: JavaScriptランタイムのBunがユニバーサルなデータベースクライアントに。Bun.SQL命令ででMySQL/PosgrerSQL/SQLiteをサポート</title>
-    <updated>2025-09-04T15:54:06Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8301</id>
-    <link href="https://www.publickey1.jp/blog/25/javascriptbunbunsqlmysqlposgrersqlsqlite.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Google、Agent Payments Protocol (AP2)を発表 ——AIエージェント決済を支えるオープンプロトコル</title>
@@ -4708,12 +4708,6 @@
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202409/20?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: BlurHashでプレースホルダに彩りを</title>
-    <updated>2024-09-19T23:53:00Z</updated>
-    <id>urn:uuid:76ada6b7-da9d-59cd-aac1-6c18ca922593</id>
-    <link href="https://gihyo.jp/article/2024/09/misskey-16?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: おもしろ継手の河合継手を作ってみよう！</title>
     <updated>2024-09-19T23:53:00Z</updated>
     <id>urn:uuid:f0668621-57b7-5487-0f5c-2010ae1cbaa9</id>
@@ -4724,12 +4718,6 @@
     <updated>2024-09-19T00:15:00Z</updated>
     <id>urn:uuid:a47281ed-004c-b2d7-6afb-6ea2188522be</id>
     <link href="https://gihyo.jp/article/2024/09/daily-linux-240919?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: 待ちましたよ！デスクトップウィンドウ機能のテストが開始</title>
-    <updated>2024-09-18T23:59:00Z</updated>
-    <id>urn:uuid:a55c33dc-46f4-0ea6-9d7e-1edb3214ef94</id>
-    <link href="https://gihyo.jp/article/2024/09/android-weekly-topics-240919?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Java 23リリース――今回もProject Amberなどから12のJEPsがアップデート</title>
@@ -4750,22 +4738,22 @@
     <link href="https://internet.watch.impress.co.jp/docs/column/horisage_qa/2041682.html" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: ワコム、3万円台の14型液タブ「Wacom One 14」</title>
+    <updated>2025-09-17T03:44:58Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-09-17:/docs/news/2047893.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2047893.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 衝撃的？「箇条書きがわかりづらい」という人もいるらしい→「わかりやすい箇条書き」は意外と難しい＆読む側に理解力が求められる、という話も</title>
     <updated>2025-09-17T03:53:03Z</updated>
     <id>tag:togetter.com,2025-09-17:/li/2603875</id>
     <link href="https://togetter.com/li/2603875" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: LPI-Japan、無償のLinux学習用教材「Linuxシステム管理標準教科書」最新版を公開</title>
-    <updated>2025-09-16T06:36:44Z</updated>
-    <id>tag:japan.zdnet.com,2025-09-16:/article/35238032/</id>
-    <link href="https://japan.zdnet.com/article/35238032/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ワコム、3万円台の14型液タブ「Wacom One 14」</title>
-    <updated>2025-09-17T03:44:58Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-09-17:/docs/news/2047893.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2047893.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 現行の「NHK ニュース・防災」アプリは9月末で終了、「NHK ONE」登場に伴う変更点</title>
+    <updated>2025-09-17T06:45:42Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2025-09-17:/docs/news/2048002.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/news/2048002.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: チャットGPTに「タツノオトシゴの絵文字を見せて」と聞くと暴走する | カラパイア</title>
@@ -4774,10 +4762,16 @@
     <link href="https://karapaia.com/archives/551426.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Google、AIエージェント決済の新オープンプロトコル「AP2」　PayPalなど60社以上が支持</title>
-    <updated>2025-09-17T01:26:39Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-09-17:/news/articles/2509/17/news059.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2509/17/news059.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 我が子のコスプレのために全力を出すお父さんの技術と愛が凄い「本気が過ぎる」「本当に禰󠄀豆子がでてきそう」</title>
+    <updated>2025-09-17T09:30:42Z</updated>
+    <id>tag:togetter.com,2025-09-17:/li/2603983</id>
+    <link href="https://togetter.com/li/2603983" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: LPI-Japan、無償のLinux学習用教材「Linuxシステム管理標準教科書」最新版を公開</title>
+    <updated>2025-09-16T06:36:44Z</updated>
+    <id>tag:japan.zdnet.com,2025-09-16:/article/35238032/</id>
+    <link href="https://japan.zdnet.com/article/35238032/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Visa「クリック決済」日本でもスタートへ　カード番号入力不要で決済</title>
@@ -4792,94 +4786,10 @@
     <link href="https://www.itmedia.co.jp/news/articles/2509/17/news100.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 2025年度 新卒エンジニア研修レポート - ドワンゴ教育サービス開発者ブログ</title>
-    <updated>2025-09-17T02:23:03Z</updated>
-    <id>tag:blog.nnn.dev,2025-09-17:/entry/2025/09/17/110000</id>
-    <link href="https://blog.nnn.dev/entry/2025/09/17/110000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「最低15年のアップデート保証を」Windows 10サポート期間終了を前に、欧州の団体がベンダー規制を呼び掛け【やじうまWatch】</title>
-    <updated>2025-09-17T01:40:27Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2025-09-17:/docs/yajiuma/2047806.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2047806.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Googleが「MapFan」運営元に出資　開発協業も</title>
-    <updated>2025-09-17T05:50:23Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-09-17:/news/articles/2509/17/news087.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2509/17/news087.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 現行の「NHK ニュース・防災」アプリは9月末で終了、「NHK ONE」登場に伴う変更点</title>
-    <updated>2025-09-17T06:45:42Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2025-09-17:/docs/news/2048002.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2048002.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: YouTubeが視聴回数の減少について「広告ブロッカーが視聴回数の正確性に影響を与える可能性がある」と指摘</title>
-    <updated>2025-09-17T07:54:13Z</updated>
-    <id>tag:gigazine.net,2025-09-17:/news/20250917-youtube-view-counts-ad-blocker/</id>
-    <link href="https://gigazine.net/news/20250917-youtube-view-counts-ad-blocker/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Windows向けにGoogleアプリが登場、まずはテストで</title>
-    <updated>2025-09-17T04:49:47Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2025-09-17:/docs/news/2047905.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2047905.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 我が子のコスプレのために全力を出すお父さんの技術と愛が凄い「本気が過ぎる」「本当に禰󠄀豆子がでてきそう」</title>
-    <updated>2025-09-17T09:30:42Z</updated>
-    <id>tag:togetter.com,2025-09-17:/li/2603983</id>
-    <link href="https://togetter.com/li/2603983" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 丸亀製麺、店長の年収最大2000万円　AI測定の従業員満足度も加味 - 日本経済新聞</title>
-    <updated>2025-09-17T04:09:17Z</updated>
-    <id>tag:www.nikkei.com,2025-09-17:/article/DGXZQOUC114C40R10C25A9000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC114C40R10C25A9000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ロボット会社になるテスラ　日本の「暗黙知」争奪戦が始まる - 日本経済新聞</title>
-    <updated>2025-09-17T02:02:21Z</updated>
-    <id>tag:www.nikkei.com,2025-09-17:/article/DGXZQOCD150U80V10C25A9000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOCD150U80V10C25A9000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「MapFan」のジオテクノロジーズがグーグルと資本業務提携</title>
-    <updated>2025-09-17T02:56:02Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2025-09-17:/docs/news/2047883.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2047883.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: TikTok 米国事業の売却先は “IT大手オラクル含む企業連合か” | NHK</title>
-    <updated>2025-09-17T01:42:15Z</updated>
-    <id>tag:www3.nhk.or.jp,2025-09-17:/news/html/20250917/k10014924731000.html</id>
-    <link href="https://www3.nhk.or.jp/news/html/20250917/k10014924731000.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: MCP Registry</title>
-    <updated>2025-09-16T18:37:20Z</updated>
-    <id>tag:github.com,2025-09-16:/mcp</id>
-    <link href="https://github.com/mcp" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ENEOSカーシェア、サービス終了</title>
-    <updated>2025-09-17T07:10:30Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-09-17:/docs/news/2047997.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2047997.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: esa公式のMCPサーバーを公開しました - ReleaseNotes/2025/09/17</title>
-    <updated>2025-09-17T02:15:26Z</updated>
-    <id>tag:docs.esa.io,2025-09-17:/posts/561</id>
-    <link href="https://docs.esa.io/posts/561" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 組立説明書のイラストを頼んだら「Gemini」が期待を軽々越えてきた話｜山下義弘／ドケットストアの人</title>
-    <updated>2025-09-17T04:50:32Z</updated>
-    <id>tag:note.com,2025-09-17:/tyari/n/na997001eed32</id>
-    <link href="https://note.com/tyari/n/na997001eed32" rel="alternate"></link>
+    <title>1:hatena_blog_it: Google、AIエージェント決済の新オープンプロトコル「AP2」　PayPalなど60社以上が支持</title>
+    <updated>2025-09-17T01:26:39Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-09-17:/news/articles/2509/17/news059.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2509/17/news059.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AIセーフティ評価のための評価ツールをOSSとして公開 - AISI Japan</title>
@@ -4888,15 +4798,93 @@
     <link href="https://aisi.go.jp/output/output_information/250912/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIの安全性を評価するツール、IPAなどが無料公開　「有害情報の出力制御」など10観点でAIの出力採点</title>
-    <updated>2025-09-16T06:21:52Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-09-16:/aiplus/articles/2509/16/news081.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2509/16/news081.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 組立説明書のイラストを頼んだら「Gemini」が期待を軽々越えてきた話｜山下義弘／ドケットストアの人</title>
+    <updated>2025-09-17T04:50:32Z</updated>
+    <id>tag:note.com,2025-09-17:/tyari/n/na997001eed32</id>
+    <link href="https://note.com/tyari/n/na997001eed32" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 命名の重要性とベストプラクティス | 『AI時代のきれいなプログラムの教科書』より - Qiita</title>
-    <updated>2025-09-17T01:20:22Z</updated>
-    <id>tag:qiita.com,2025-09-17:/Fujiwo/items/741f7de1255b1e9aefc2</id>
-    <link href="https://qiita.com/Fujiwo/items/741f7de1255b1e9aefc2" rel="alternate"></link>
+    <title>1:hatena_blog_it: iPhone 17シリーズのための、SIMカード → eSIM変換方法</title>
+    <updated>2025-09-17T09:13:06Z</updated>
+    <id>tag:www.gizmodo.jp,2025-09-17:/2025/09/how-to-switch-from-a-sim-card-to-an-esim.html</id>
+    <link href="https://www.gizmodo.jp/2025/09/how-to-switch-from-a-sim-card-to-an-esim.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「最低15年のアップデート保証を」Windows 10サポート期間終了を前に、欧州の団体がベンダー規制を呼び掛け【やじうまWatch】</title>
+    <updated>2025-09-17T01:40:27Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2025-09-17:/docs/yajiuma/2047806.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2047806.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【ミニレビュー】 カラーマンガ読める「Kindle Colorsoft」で感じた“色”の力。湧き上がる“過去の銘機”への想い</title>
+    <updated>2025-09-17T02:02:24Z</updated>
+    <id>tag:av.watch.impress.co.jp,2025-09-17:/docs/review/minireview/2047217.html</id>
+    <link href="https://av.watch.impress.co.jp/docs/review/minireview/2047217.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Windows向けにGoogleアプリが登場、まずはテストで</title>
+    <updated>2025-09-17T04:49:47Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2025-09-17:/docs/news/2047905.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/news/2047905.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Googleが「MapFan」運営元に出資　開発協業も</title>
+    <updated>2025-09-17T05:50:23Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-09-17:/news/articles/2509/17/news087.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2509/17/news087.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: builderscon 2025 開催中止のお知らせ - builderscon::blog</title>
+    <updated>2025-09-17T14:31:28Z</updated>
+    <id>tag:blog.builderscon.io,2025-09-17:/entry/builderscon-2025-cancel</id>
+    <link href="https://blog.builderscon.io/entry/builderscon-2025-cancel" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: MCP Registry</title>
+    <updated>2025-09-16T18:37:20Z</updated>
+    <id>tag:github.com,2025-09-16:/mcp</id>
+    <link href="https://github.com/mcp" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: YouTubeが視聴回数の減少について「広告ブロッカーが視聴回数の正確性に影響を与える可能性がある」と指摘</title>
+    <updated>2025-09-17T07:54:13Z</updated>
+    <id>tag:gigazine.net,2025-09-17:/news/20250917-youtube-view-counts-ad-blocker/</id>
+    <link href="https://gigazine.net/news/20250917-youtube-view-counts-ad-blocker/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2025年度 新卒エンジニア研修レポート - ドワンゴ教育サービス開発者ブログ</title>
+    <updated>2025-09-17T02:23:03Z</updated>
+    <id>tag:blog.nnn.dev,2025-09-17:/entry/2025/09/17/110000</id>
+    <link href="https://blog.nnn.dev/entry/2025/09/17/110000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Self-propagating supply chain attack hits 187 npm packages</title>
+    <updated>2025-09-17T10:54:16Z</updated>
+    <id>tag:www.bleepingcomputer.com,2025-09-17:/news/security/self-propagating-supply-chain-attack-hits-187-npm-packages/</id>
+    <link href="https://www.bleepingcomputer.com/news/security/self-propagating-supply-chain-attack-hits-187-npm-packages/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 丸亀製麺、店長の年収最大2000万円　AI測定の従業員満足度も加味 - 日本経済新聞</title>
+    <updated>2025-09-17T04:09:17Z</updated>
+    <id>tag:www.nikkei.com,2025-09-17:/article/DGXZQOUC114C40R10C25A9000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC114C40R10C25A9000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ENEOSカーシェア、サービス終了</title>
+    <updated>2025-09-17T07:10:30Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-09-17:/docs/news/2047997.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2047997.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ロボット会社になるテスラ　日本の「暗黙知」争奪戦が始まる - 日本経済新聞</title>
+    <updated>2025-09-17T02:02:21Z</updated>
+    <id>tag:www.nikkei.com,2025-09-17:/article/DGXZQOCD150U80V10C25A9000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOCD150U80V10C25A9000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 不確実な Coding Agent とのアンドパッドのフロントエンドエンジニアたちの向き合い方 | ANDPAD_Engineers</title>
+    <updated>2025-09-17T01:51:17Z</updated>
+    <id>tag:www.wantedly.com,2025-09-17:/companies/andpad/post_articles/1005583</id>
+    <link href="https://www.wantedly.com/companies/andpad/post_articles/1005583" rel="alternate"></link>
   </entry>
 </feed>
