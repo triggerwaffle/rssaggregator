@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-09-23T01:02:06Z</updated>
+  <updated>2025-09-23T06:20:48Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3562,6 +3562,24 @@
     <link href="https://terminaltrove.com/feed/textual-astview/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: xc-git</title>
+    <updated>2025-09-23T01:59:39Z</updated>
+    <id>xc-git-1758592779</id>
+    <link href="https://aur.archlinux.org/packages/xc-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: xc-bin</title>
+    <updated>2025-09-23T01:59:32Z</updated>
+    <id>xc-bin-1758592772</id>
+    <link href="https://aur.archlinux.org/packages/xc-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: xc</title>
+    <updated>2025-09-23T01:59:24Z</updated>
+    <id>xc-1758592764</id>
+    <link href="https://aur.archlinux.org/packages/xc" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: gozen-bin</title>
     <updated>2025-09-22T23:56:54Z</updated>
     <id>gozen-bin-1758585414</id>
@@ -4144,22 +4162,64 @@
     <link href="https://aur.archlinux.org/packages/easyeffects-jtrv-presets-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: zig-mach-bin</title>
-    <updated>2025-09-19T12:24:25Z</updated>
-    <id>zig-mach-bin-1758284665</id>
-    <link href="https://aur.archlinux.org/packages/zig-mach-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: fastfetch 2.53.0-1 x86_64</title>
+    <updated>2025-09-23T05:57:57Z</updated>
+    <id>tag:archlinux.org,2025-09-23:/packages/extra-testing/x86_64/fastfetch/202509230557</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/fastfetch/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: ffcuesplitter</title>
-    <updated>2025-09-19T11:34:19Z</updated>
-    <id>ffcuesplitter-1758281659</id>
-    <link href="https://aur.archlinux.org/packages/ffcuesplitter" rel="alternate"></link>
+    <title>2:archlinux_new_packages: uv 0.8.20-1 x86_64</title>
+    <updated>2025-09-23T02:25:16Z</updated>
+    <id>tag:archlinux.org,2025-09-23:/packages/extra/x86_64/uv/202509230225</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/uv/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: waybar-niri-taskbar</title>
-    <updated>2025-09-19T11:16:39Z</updated>
-    <id>waybar-niri-taskbar-1758280599</id>
-    <link href="https://aur.archlinux.org/packages/waybar-niri-taskbar" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-uv-build 0.8.20-1 x86_64</title>
+    <updated>2025-09-23T02:25:15Z</updated>
+    <id>tag:archlinux.org,2025-09-23:/packages/extra/x86_64/python-uv-build/202509230225</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-uv-build/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-uv 0.8.20-1 x86_64</title>
+    <updated>2025-09-23T02:25:15Z</updated>
+    <id>tag:archlinux.org,2025-09-23:/packages/extra/x86_64/python-uv/202509230225</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-uv/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: deno 2.5.1-1 x86_64</title>
+    <updated>2025-09-23T02:22:40Z</updated>
+    <id>tag:archlinux.org,2025-09-23:/packages/extra/x86_64/deno/202509230222</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/deno/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: serie 0.5.1-1 x86_64</title>
+    <updated>2025-09-23T02:07:43Z</updated>
+    <id>tag:archlinux.org,2025-09-23:/packages/extra/x86_64/serie/202509230207</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/serie/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: retry 1.0.6-1 x86_64</title>
+    <updated>2025-09-23T02:05:00Z</updated>
+    <id>tag:archlinux.org,2025-09-23:/packages/extra-testing/x86_64/retry/202509230205</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/retry/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: totem 43.2-3 x86_64</title>
+    <updated>2025-09-23T01:47:14Z</updated>
+    <id>tag:archlinux.org,2025-09-23:/packages/extra/x86_64/totem/202509230147</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/totem/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: gnome-shell-extension-dash-to-panel 70-2 any</title>
+    <updated>2025-09-23T01:41:28Z</updated>
+    <id>tag:archlinux.org,2025-09-23:/packages/extra/any/gnome-shell-extension-dash-to-panel/202509230141</id>
+    <link href="https://archlinux.org/packages/extra/any/gnome-shell-extension-dash-to-panel/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: apostrophe 3.3-1 any</title>
+    <updated>2025-09-23T01:11:13Z</updated>
+    <id>tag:archlinux.org,2025-09-23:/packages/extra/any/apostrophe/202509230111</id>
+    <link href="https://archlinux.org/packages/extra/any/apostrophe/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: glycin-gtk4 2.0.0-4 x86_64</title>
@@ -4400,65 +4460,5 @@
     <updated>2025-09-22T22:04:59Z</updated>
     <id>tag:archlinux.org,2025-09-22:/packages/extra/x86_64/gnome-flashback/202509222204</id>
     <link href="https://archlinux.org/packages/extra/x86_64/gnome-flashback/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: immich-go 1:0.28.0-1 x86_64</title>
-    <updated>2025-09-22T21:52:43Z</updated>
-    <id>tag:archlinux.org,2025-09-22:/packages/extra/x86_64/immich-go/202509222152</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/immich-go/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-fakeredis 2.31.3-1 any</title>
-    <updated>2025-09-22T21:45:57Z</updated>
-    <id>tag:archlinux.org,2025-09-22:/packages/extra/any/python-fakeredis/202509222145</id>
-    <link href="https://archlinux.org/packages/extra/any/python-fakeredis/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: hyprland 0.51.1-1 x86_64</title>
-    <updated>2025-09-22T21:44:52Z</updated>
-    <id>tag:archlinux.org,2025-09-22:/packages/extra/x86_64/hyprland/202509222144</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/hyprland/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xrt 202520.2.20.151-1 x86_64</title>
-    <updated>2025-09-22T21:29:31Z</updated>
-    <id>tag:archlinux.org,2025-09-22:/packages/extra-testing/x86_64/xrt/202509222129</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/xrt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-cvxpy 1.7.3-1 x86_64</title>
-    <updated>2025-09-22T21:06:41Z</updated>
-    <id>tag:archlinux.org,2025-09-22:/packages/extra/x86_64/python-cvxpy/202509222106</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/python-cvxpy/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pacmanlogviewer 1.5.1-3 x86_64</title>
-    <updated>2025-09-22T21:03:40Z</updated>
-    <id>tag:archlinux.org,2025-09-22:/packages/extra/x86_64/pacmanlogviewer/202509222103</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/pacmanlogviewer/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: spice-vdagent 0.22.1-5 x86_64</title>
-    <updated>2025-09-22T20:53:01Z</updated>
-    <id>tag:archlinux.org,2025-09-22:/packages/extra/x86_64/spice-vdagent/202509222053</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/spice-vdagent/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-uproot-docs 5.6.6-1 any</title>
-    <updated>2025-09-22T20:50:45Z</updated>
-    <id>tag:archlinux.org,2025-09-22:/packages/extra/any/python-uproot-docs/202509222050</id>
-    <link href="https://archlinux.org/packages/extra/any/python-uproot-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-uproot 5.6.6-1 any</title>
-    <updated>2025-09-22T20:50:44Z</updated>
-    <id>tag:archlinux.org,2025-09-22:/packages/extra/any/python-uproot/202509222050</id>
-    <link href="https://archlinux.org/packages/extra/any/python-uproot/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: opendht 1:3.5.4-1 x86_64</title>
-    <updated>2025-09-22T20:28:28Z</updated>
-    <id>tag:archlinux.org,2025-09-22:/packages/extra/x86_64/opendht/202509222028</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/opendht/" rel="alternate"></link>
   </entry>
 </feed>
