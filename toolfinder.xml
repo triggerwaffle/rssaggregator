@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-09-24T01:02:47Z</updated>
+  <updated>2025-09-24T06:20:25Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3598,6 +3598,18 @@
     <link href="https://terminaltrove.com/feed/lazydocker/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: otf-xcharter-math</title>
+    <updated>2025-09-24T03:48:25Z</updated>
+    <id>otf-xcharter-math-1758685705</id>
+    <link href="https://aur.archlinux.org/packages/otf-xcharter-math" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: ccr-plus-bin</title>
+    <updated>2025-09-24T02:50:03Z</updated>
+    <id>ccr-plus-bin-1758682203</id>
+    <link href="https://aur.archlinux.org/packages/ccr-plus-bin" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: doltgresql-bin</title>
     <updated>2025-09-24T00:22:54Z</updated>
     <id>doltgresql-bin-1758673374</id>
@@ -4186,16 +4198,34 @@
     <link href="https://aur.archlinux.org/packages/hyper8-bin" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: minizign</title>
-    <updated>2025-09-20T09:44:23Z</updated>
-    <id>minizign-1758361463</id>
-    <link href="https://aur.archlinux.org/packages/minizign" rel="alternate"></link>
+    <title>2:archlinux_new_packages: prettyping 1:1.1.0-1 any</title>
+    <updated>2025-09-24T05:28:19Z</updated>
+    <id>tag:archlinux.org,2025-09-24:/packages/extra/any/prettyping/202509240528</id>
+    <link href="https://archlinux.org/packages/extra/any/prettyping/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: hyper8-cli</title>
-    <updated>2025-09-20T09:04:12Z</updated>
-    <id>hyper8-cli-1758359052</id>
-    <link href="https://aur.archlinux.org/packages/hyper8-cli" rel="alternate"></link>
+    <title>2:archlinux_new_packages: opensnitch 1.7.2-1 x86_64</title>
+    <updated>2025-09-24T03:40:23Z</updated>
+    <id>tag:archlinux.org,2025-09-24:/packages/extra/x86_64/opensnitch/202509240340</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/opensnitch/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: dart-sass 1.93.2-1 x86_64</title>
+    <updated>2025-09-24T03:40:22Z</updated>
+    <id>tag:archlinux.org,2025-09-24:/packages/extra/x86_64/dart-sass/202509240340</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/dart-sass/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ruby-chef-utils 19.1.79-1 any</title>
+    <updated>2025-09-24T03:40:21Z</updated>
+    <id>tag:archlinux.org,2025-09-24:/packages/extra/any/ruby-chef-utils/202509240340</id>
+    <link href="https://archlinux.org/packages/extra/any/ruby-chef-utils/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: git-crypt 0.8.0-1 x86_64</title>
+    <updated>2025-09-24T02:47:56Z</updated>
+    <id>tag:archlinux.org,2025-09-24:/packages/extra/x86_64/git-crypt/202509240247</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/git-crypt/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: libwpe-docs 1.16.3-1 x86_64</title>
@@ -4466,35 +4496,5 @@
     <updated>2025-09-23T21:23:34Z</updated>
     <id>tag:archlinux.org,2025-09-23:/packages/extra-testing/x86_64/thunderbird-i18n-ko/202509232123</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-ko/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-kk 143.0.1-1 x86_64</title>
-    <updated>2025-09-23T21:23:34Z</updated>
-    <id>tag:archlinux.org,2025-09-23:/packages/extra-testing/x86_64/thunderbird-i18n-kk/202509232123</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-kk/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-kab 143.0.1-1 x86_64</title>
-    <updated>2025-09-23T21:23:33Z</updated>
-    <id>tag:archlinux.org,2025-09-23:/packages/extra-testing/x86_64/thunderbird-i18n-kab/202509232123</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-kab/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-ka 143.0.1-1 x86_64</title>
-    <updated>2025-09-23T21:23:33Z</updated>
-    <id>tag:archlinux.org,2025-09-23:/packages/extra-testing/x86_64/thunderbird-i18n-ka/202509232123</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-ka/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-ja 143.0.1-1 x86_64</title>
-    <updated>2025-09-23T21:23:32Z</updated>
-    <id>tag:archlinux.org,2025-09-23:/packages/extra-testing/x86_64/thunderbird-i18n-ja/202509232123</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-ja/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thunderbird-i18n-it 143.0.1-1 x86_64</title>
-    <updated>2025-09-23T21:23:32Z</updated>
-    <id>tag:archlinux.org,2025-09-23:/packages/extra-testing/x86_64/thunderbird-i18n-it/202509232123</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/thunderbird-i18n-it/" rel="alternate"></link>
   </entry>
 </feed>

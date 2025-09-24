@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-09-24T01:02:47Z</updated>
+  <updated>2025-09-24T06:20:25Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -544,6 +544,12 @@
     <link href="https://www.youtube.com/watch?v=P8BWIl4dVo4" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:atmarkit_security: 経産省のサプライチェーン対策評価制度に対応　PwC Japanが簡易評価サービスを開始</title>
+    <updated>2025-09-24T04:50:00Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2025-09-24:/ait/articles/2509/24/news054.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2509/24/news054.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:atmarkit_security: その不正ログイン対策は抜けるのか？　「突破されない」認証設計の10原則</title>
     <updated>2025-09-23T20:00:00Z</updated>
     <id>tag:atmarkit.itmedia.co.jp,2025-09-23:/ait/articles/2509/24/news006.html</id>
@@ -716,12 +722,6 @@
     <updated>2025-08-27T12:00:00Z</updated>
     <id>tag:atmarkit.itmedia.co.jp,2025-08-27:/ait/articles/2508/27/news116.html</id>
     <link href="https://atmarkit.itmedia.co.jp/ait/articles/2508/27/news116.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:atmarkit_security: 約4割のSaaSがAIを利用　データ利用のルールが不明確なケースも　アシュアード調査</title>
-    <updated>2025-08-27T09:55:00Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2025-08-27:/ait/articles/2508/27/news101.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2508/27/news101.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_linux: 上がり続けるOSS採用率、その理由は？　「2025 State of Open Source Report」で明らかに</title>
@@ -1082,6 +1082,18 @@
     <updated>2025-09-09T15:35:14Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8308</id>
     <link href="https://www.publickey1.jp/blog/25/railsdhhlinux_osomarchy_5ui.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: Chrome DevTools MCPサーバー、コーディングエージェント向けに公開プレビュー開始</title>
+    <updated>2025-09-24T01:49:00Z</updated>
+    <id>urn:uuid:3ccd7f43-95dd-6b28-6283-8bde43fe7a6c</id>
+    <link href="https://gihyo.jp/article/2025/09/chrome-devtools-mcp-server?utm_source=feed" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: 第880回　GPUに画像の文字を解析させる、あるいはPyTorch入門</title>
+    <updated>2025-09-24T00:05:00Z</updated>
+    <id>urn:uuid:bda5d979-7019-9590-d2e4-1c23f8763724</id>
+    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0880?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Fedora、Forgejoベースのホスティング/コラボレーションプラットフォーム「Fedora Forge」をソフトローンチ</title>
@@ -4762,10 +4774,16 @@
     <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0831?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 大規模メンテナンスを振り返る 〜「やってよかった」準備集 - エムスリーテックブログ</title>
-    <updated>2025-09-23T16:00:03Z</updated>
-    <id>tag:www.m3tech.blog,2025-09-23:/entry/2025/09/23/150000</id>
-    <link href="https://www.m3tech.blog/entry/2025/09/23/150000" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「頭はいい上司」が組織を壊す話</title>
+    <updated>2025-09-23T23:30:45Z</updated>
+    <id>tag:blog.tinect.jp,2025-09-23:/</id>
+    <link href="https://blog.tinect.jp/?p=90220" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: これは場外ホームラン!!　日産の次世代プロパイロットが自動運転の「レベル議論」のナナメ上を越えてきた件!!! - 自動車情報誌「ベストカー」</title>
+    <updated>2025-09-23T23:15:48Z</updated>
+    <id>tag:bestcarweb.jp,2025-09-23:/newcar/1327945</id>
+    <link href="https://bestcarweb.jp/newcar/1327945" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Chrome DevTools (MCP) for your AI agent  |  Blog  |  Chrome for Developers</title>
@@ -4780,34 +4798,112 @@
     <link href="https://internet.watch.impress.co.jp/docs/column/chizu3/2049032.html" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: GPT-5-Codex Prompting Guide | OpenAI Cookbook</title>
+    <updated>2025-09-23T21:16:48Z</updated>
+    <id>tag:cookbook.openai.com,2025-09-23:/examples/gpt-5-codex_prompting_guide</id>
+    <link href="https://cookbook.openai.com/examples/gpt-5-codex_prompting_guide" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: LLMへの指示が得意な人は脳の働きが違う──「プロンプト力」がfMRI研究で初めて科学的に確認される | Ledge.ai</title>
+    <updated>2025-09-23T21:57:58Z</updated>
+    <id>tag:ledge.ai,2025-09-23:/articles/llm_prompting_brain_fmri_study</id>
+    <link href="https://ledge.ai/articles/llm_prompting_brain_fmri_study" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 非実在キャラの「合意」とは？ Blueskyの新しいコミュニティガイドラインがいろいろと波紋【やじうまWatch】</title>
+    <updated>2025-09-24T03:02:46Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2025-09-24:/docs/yajiuma/2049363.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2049363.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 大規模メンテナンスを振り返る 〜「やってよかった」準備集 - エムスリーテックブログ</title>
+    <updated>2025-09-23T16:00:03Z</updated>
+    <id>tag:www.m3tech.blog,2025-09-23:/entry/2025/09/23/150000</id>
+    <link href="https://www.m3tech.blog/entry/2025/09/23/150000" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 実務で役立つ ログの教科書 基礎知識から収集方法・分析手法・トラブルシューティング・パフォーマンス最適化・機械学習での活用まで | 翔泳社</title>
     <updated>2025-09-23T04:05:12Z</updated>
     <id>tag:www.shoeisha.co.jp,2025-09-23:/book/detail/9784798192123</id>
     <link href="https://www.shoeisha.co.jp/book/detail/9784798192123" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: そのJavaScript、V8が泣いてます。V8の気持ちを理解して書くパフォーマンス最適化</title>
-    <updated>2025-09-22T12:55:37Z</updated>
-    <id>tag:speakerdeck.com,2025-09-22:/riyaamemiya/sonojavascript-v8gaqi-itemasu-v8noqi-chi-tiwoli-jie-siteshu-kupahuomansuzui-shi-hua</id>
-    <link href="https://speakerdeck.com/riyaamemiya/sonojavascript-v8gaqi-itemasu-v8noqi-chi-tiwoli-jie-siteshu-kupahuomansuzui-shi-hua" rel="alternate"></link>
+    <title>1:hatena_blog_it: あのさあファーストブクマ</title>
+    <updated>2025-09-24T03:42:55Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-09-24:/20250924122708</id>
+    <link href="https://anond.hatelabo.jp/20250924122708" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: これは場外ホームラン!!　日産の次世代プロパイロットが自動運転の「レベル議論」のナナメ上を越えてきた件!!! - 自動車情報誌「ベストカー」</title>
-    <updated>2025-09-23T23:15:48Z</updated>
-    <id>tag:bestcarweb.jp,2025-09-23:/newcar/1327945</id>
-    <link href="https://bestcarweb.jp/newcar/1327945" rel="alternate"></link>
+    <title>1:hatena_blog_it: スマホでもPCでもタスクをこなすAIネイティブな開発環境を作ろう！ - tacomsテックブログ</title>
+    <updated>2025-09-24T03:20:04Z</updated>
+    <id>tag:tacoms-inc.hatenablog.com,2025-09-24:/entry/2025/09/24/121821</id>
+    <link href="https://tacoms-inc.hatenablog.com/entry/2025/09/24/121821" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ｢まるでぼったくり｣無事故なのに6万5000円…レンタカー会社が"見えない傷"に修理代を請求し始めたワケ 海外メディアが報じた｢AIカメラ｣の功罪</title>
-    <updated>2025-09-23T00:43:22Z</updated>
-    <id>tag:president.jp,2025-09-23:/articles/-/102619</id>
-    <link href="https://president.jp/articles/-/102619" rel="alternate"></link>
+    <title>1:hatena_blog_it: dGPU搭載ミニPC ACEMAGIC TANK 03レビュー。型落ちかと思いきや、とんでもない化け物だった - すまほん!!</title>
+    <updated>2025-09-24T03:28:29Z</updated>
+    <id>tag:smhn.info,2025-09-24:/202509-acemagic-tank-03-review</id>
+    <link href="https://smhn.info/202509-acemagic-tank-03-review" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「頭はいい上司」が組織を壊す話</title>
-    <updated>2025-09-23T23:30:45Z</updated>
-    <id>tag:blog.tinect.jp,2025-09-23:/</id>
-    <link href="https://blog.tinect.jp/?p=90220" rel="alternate"></link>
+    <title>1:hatena_blog_it: TSMC、半導体チップに水を流し冷却　「CoWoS」採用にらむ</title>
+    <updated>2025-09-24T00:29:32Z</updated>
+    <id>tag:xtech.nikkei.com,2025-09-24:/atcl/nxt/column/18/03322/091100005/</id>
+    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/03322/091100005/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: JR東日本、横浜線E233系で自動運転　運転士は「出発ボタン」を押すだけ　数十cm精度で駅に</title>
+    <updated>2025-09-23T11:30:09Z</updated>
+    <id>tag:japan.cnet.com,2025-09-23:/article/35238277/</id>
+    <link href="https://japan.cnet.com/article/35238277/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: カスタマージャーニーとは？ジャーニーマップの作り方から、成果を出すための運用法まで解説 - オウンドメディア戦略ラボ by はてな</title>
+    <updated>2025-09-24T02:00:07Z</updated>
+    <id>tag:www.hatena.ne.jp,2025-09-24:/ownedmedia/article/customer-journey-guide</id>
+    <link href="https://www.hatena.ne.jp/ownedmedia/article/customer-journey-guide" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ハッカーと画家という技術書向けの書籍を読んだ</title>
+    <updated>2025-09-23T13:02:17Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-09-23:/20250923220146</id>
+    <link href="https://anond.hatelabo.jp/20250923220146" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: [みんなのケータイ]「交通系ICこそ最強」から「クレカタッチ乗車が侮れない」へ変節するに至った、2つの個人的体験</title>
+    <updated>2025-09-23T15:48:36Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2025-09-23:/docs/column/minna/2049027.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/2049027.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: StrandsAgents＋AgentCore Memory で私好みのエージェントを実現する - Taste of Tech Topics</title>
+    <updated>2025-09-24T04:26:38Z</updated>
+    <id>tag:acro-engineer.hatenablog.com,2025-09-24:/entry/2025/09/24/120000</id>
+    <link href="https://acro-engineer.hatenablog.com/entry/2025/09/24/120000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 新しいWindows版「Outlook」アプリに切り替えて！　Microsoftが猛アピール／プラットフォーム間でのデザイン・操作・機能統一、クラウド連携などに利あり【やじうまの杜】</title>
+    <updated>2025-09-22T08:42:04Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-09-22:/docs/serial/yajiuma/2049107.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2049107.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: macOS 26.0 Tahoeでは、自動入力の不具合によりターミナルやGhostty、Zed、VS CodeなどのアプリでCPU使用率が上昇しスクロールや入力遅延が発生する不具合があるので注意を。</title>
+    <updated>2025-09-23T22:17:01Z</updated>
+    <id>tag:applech2.com,2025-09-23:/archives/20250923-macos-26-tahoe-laggy-bug.html</id>
+    <link href="https://applech2.com/archives/20250923-macos-26-tahoe-laggy-bug.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: PM「顧客から要望が来たのですが、工数見積ってください」エンジニア「見積る前に顧客が本当に何をしたいか確認したいです」PM「顧客折衝は私の仕事です」エンジニア「は？」</title>
+    <updated>2025-09-23T06:48:34Z</updated>
+    <id>tag:posfie.com,2025-09-23:/@kalofollow/p/o6uYiqY</id>
+    <link href="https://posfie.com/@kalofollow/p/o6uYiqY" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 自分は理解するのがとても遅いです。自分が何時間も理解しようとしてわからなかった問題を友達は見た瞬間に理解したり、AIに聞いても理解できなかったり。頭の作りが凡人以下の僕が周りの人より秀でたエンジニアになることは可能なのでしょうか？特に、新しい技術がすぐに出てくるこの業界でやっていけるのかとても不安です。時間をかけても理解できないことに向き合う時間が無駄感じている一方で、それが僕には必要であることはわかっているのですが、、、 | mond</title>
+    <updated>2025-09-22T19:58:28Z</updated>
+    <id>tag:mond.how,2025-09-22:/ja/topics/1wrh7vzc31q7kyb/61f2ini5w50264y</id>
+    <link href="https://mond.how/ja/topics/1wrh7vzc31q7kyb/61f2ini5w50264y" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 新しいApple 銀座が東京に誕生、9月26日（金）にオープン</title>
@@ -4816,16 +4912,10 @@
     <link href="https://www.apple.com/jp/newsroom/2025/09/the-all-new-apple-ginza-opens-this-friday-september-26-in-tokyo/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Our plan for a more secure npm supply chain</title>
-    <updated>2025-09-23T08:55:18Z</updated>
-    <id>tag:github.blog,2025-09-23:/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/</id>
-    <link href="https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ヘルプデスク回答のレビュー観点18項目を瞬時にチェック！CRE向けレビューAIをDifyで構築してみた - 弁護士ドットコム株式会社 Creators’ blog</title>
-    <updated>2025-09-21T23:51:22Z</updated>
-    <id>tag:creators.bengo4.com,2025-09-21:/entry/2025/09/22/080000</id>
-    <link href="https://creators.bengo4.com/entry/2025/09/22/080000" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIエージェントらは独自経済圏を自然に作り始める。Googleが描く到来不可避の”AIエージェント経済”の未来（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+    <updated>2025-09-24T00:52:28Z</updated>
+    <id>tag:www.techno-edge.net,2025-09-24:/article/2025/09/24/4608.html</id>
+    <link href="https://www.techno-edge.net/article/2025/09/24/4608.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 未上場「ヘクトコーン」1兆ドル突破　世界6社、AIにマネー集中 - 日本経済新聞</title>
@@ -4834,75 +4924,9 @@
     <link href="https://www.nikkei.com/article/DGXZQOGN2843I0Y5A820C2000000/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIの将来に暗雲、膨らむ支出に8000億ドルの収入不足－ベイン試算</title>
-    <updated>2025-09-23T18:10:20Z</updated>
-    <id>tag:www.bloomberg.co.jp,2025-09-23:/news/articles/2025-09-23/T311TWGP493D00</id>
-    <link href="https://www.bloomberg.co.jp/news/articles/2025-09-23/T311TWGP493D00" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: はじめてWeb開発をする人のためのチュートリアル (Visual Studio Codeの設定方法を含む) - Qiita</title>
-    <updated>2025-09-21T09:43:51Z</updated>
-    <id>tag:qiita.com,2025-09-21:/Todev89/items/46f6b2efa4d462e50bb5</id>
-    <link href="https://qiita.com/Todev89/items/46f6b2efa4d462e50bb5" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AWS、Azure、GC、OCIという4大クラウドの特徴とマルチクラウド環境のセキュリティリスク</title>
-    <updated>2025-09-22T22:48:11Z</updated>
-    <id>tag:codezine.jp,2025-09-22:/article/detail/22230</id>
-    <link href="https://codezine.jp/article/detail/22230" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ブラウザストレージを活用した、複数アプリをまたぐ永続化とリアクティブな同期</title>
-    <updated>2025-09-22T18:44:11Z</updated>
-    <id>tag:speakerdeck.com,2025-09-22:/teppei0717/burauzasutoreziwohuo-yong-sita-fu-shu-apuriwomataguyong-sok-hua-toriakuteibunatong-qi</id>
-    <link href="https://speakerdeck.com/teppei0717/burauzasutoreziwohuo-yong-sita-fu-shu-apuriwomataguyong-sok-hua-toriakuteibunatong-qi" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Data Vaultを3年以上運用して得た学び - yasuhisa's blog</title>
-    <updated>2025-09-23T07:24:51Z</updated>
-    <id>tag:www.yasuhisay.info,2025-09-23:/entry/2025/09/23/160848</id>
-    <link href="https://www.yasuhisay.info/entry/2025/09/23/160848" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Vibe codingによって生成されたコードの品質を担保するためにUltraciteを使ってみた</title>
-    <updated>2025-08-10T14:04:23Z</updated>
-    <id>tag:zenn.dev,2025-08-10:/bita/articles/df3e289155005d</id>
-    <link href="https://zenn.dev/bita/articles/df3e289155005d" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: E資格合格までの軌跡【半年間耐えた先に見えたもの】 - Qiita</title>
-    <updated>2025-09-23T03:35:12Z</updated>
-    <id>tag:qiita.com,2025-09-23:/m_mato/items/f0aceab32ab9e24b9fe4</id>
-    <link href="https://qiita.com/m_mato/items/f0aceab32ab9e24b9fe4" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: YAML ファイルで AI エージェントを構築する cagent</title>
-    <updated>2025-09-23T13:06:12Z</updated>
-    <id>tag:azukiazusa.dev,2025-09-23:/blog/yaml-file-defined-ai-agent-cagent/</id>
-    <link href="https://azukiazusa.dev/blog/yaml-file-defined-ai-agent-cagent/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI時代のプロダクトマネージャーにエンジニアリングは必要？｜すてぃお</title>
-    <updated>2025-09-23T00:34:13Z</updated>
-    <id>tag:note.com,2025-09-23:/suthio/n/n89f393fd73c2</id>
-    <link href="https://note.com/suthio/n/n89f393fd73c2" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 手首が痛くなりにくい新形状のマウスが開発される</title>
-    <updated>2025-09-23T11:53:47Z</updated>
-    <id>tag:gigazine.net,2025-09-23:/news/20250923-mouse-wrist/</id>
-    <link href="https://gigazine.net/news/20250923-mouse-wrist/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「顔をぐるぐるする加工は反対に回せば戻せる」というので例の渦巻き着物女性の渦を解こうとしてみるも全然元に戻らない…御本人が対策済みと明かす</title>
-    <updated>2025-09-23T07:39:57Z</updated>
-    <id>tag:togetter.com,2025-09-23:/li/2606480</id>
-    <link href="https://togetter.com/li/2606480" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: スクラムガイドに載っていないスクラムのはじめかた - チームでスクラムをはじめるときに知っておきたい勘所を集めてみました！ - / How to start Scrum that is not written in the Scrum Guide 2nd</title>
-    <updated>2025-09-17T15:29:31Z</updated>
-    <id>tag:speakerdeck.com,2025-09-17:/takaking22/how-to-start-scrum-that-is-not-written-in-the-scrum-guide-2nd</id>
-    <link href="https://speakerdeck.com/takaking22/how-to-start-scrum-that-is-not-written-in-the-scrum-guide-2nd" rel="alternate"></link>
+    <title>1:hatena_blog_it: AI明細仕訳機能におけるCodeAgentを用いたデータセット作成 - LayerX エンジニアブログ</title>
+    <updated>2025-09-23T16:10:03Z</updated>
+    <id>tag:tech.layerx.co.jp,2025-09-23:/entry/2025/09/23/081316</id>
+    <link href="https://tech.layerx.co.jp/entry/2025/09/23/081316" rel="alternate"></link>
   </entry>
 </feed>
