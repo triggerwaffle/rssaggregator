@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-09-28T12:24:31Z</updated>
+  <updated>2025-09-28T18:16:41Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -1000,6 +1000,18 @@
     <link href="https://www.youtube.com/watch?v=Bo90wWSJQTc" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: PostgreSQL 18正式リリース。非同期I/Oによる最大3倍の性能向上、UUID v7対応など</title>
+    <updated>2025-09-28T15:40:00Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8328</id>
+    <link href="https://www.publickey1.jp/blog/25/postgresql_18io3uuid_v7.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: GitHub Copilot CLIがパブリックプレビューとして公開。Linux、macOS、Windowsに対応。GitHub MCPサーバも同梱</title>
+    <updated>2025-09-28T15:38:30Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8327</id>
+    <link href="https://www.publickey1.jp/blog/25/github_copilot_clilinuxmacoswindowsgithub_mcp.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: GraalVMは今後Javaとは独立してバージョンアップへ。Java以外のPythonやJavaScriptに注力する方針を発表</title>
     <updated>2025-09-24T15:38:44Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8326</id>
@@ -1076,18 +1088,6 @@
     <updated>2025-09-15T15:34:00Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8314</id>
     <link href="https://www.publickey1.jp/blog/25/vs_codeaiagentsmdai20258.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Apache Software Foundationがロゴを刷新。今後は「ASF」が同団体のブランドに</title>
-    <updated>2025-09-15T15:24:31Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8313</id>
-    <link href="https://www.publickey1.jp/blog/25/apache_software_foundationasf.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Google Cloud、Rust言語に対応した「Rust SDK for Google Cloud」正式リリース</title>
-    <updated>2025-09-10T15:59:11Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8310</id>
-    <link href="https://www.publickey1.jp/blog/25/google_cloudrustrust_sdk_for_google_cloud.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: GitHub、プルリクエストの新しいFiles changedページで未変更行へのコメントを可能に</title>
@@ -4780,34 +4780,16 @@
     <link href="https://gihyo.jp/article/2024/09/monthly-python-2409?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Sidekiq その前に：Webアプリケーションにおける非同期ジョブ設計原則</title>
-    <updated>2025-09-27T02:40:29Z</updated>
-    <id>tag:speakerdeck.com,2025-09-27:/morihirok/sidekiq-sonoqian-ni-webapurikesiyonniokerufei-tong-qi-ziyobushe-ji-yuan-ze</id>
-    <link href="https://speakerdeck.com/morihirok/sidekiq-sonoqian-ni-webapurikesiyonniokerufei-tong-qi-ziyobushe-ji-yuan-ze" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「SNSには根本的な機能不全がある」オードリー・タン氏が語る参政党躍進の裏側とデジタル民主主義の可能性（文春オンライン） - Yahoo!ニュース</title>
+    <updated>2025-09-28T04:40:35Z</updated>
+    <id>tag:news.yahoo.co.jp,2025-09-28:/articles/dd032cbf5ad749ee0897600a99559ae11f76a3de</id>
+    <link href="https://news.yahoo.co.jp/articles/dd032cbf5ad749ee0897600a99559ae11f76a3de" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 広告ブロッカー標準搭載のChromiumベースブラウザ「Helium」を使ってみた</title>
-    <updated>2025-09-28T02:59:12Z</updated>
-    <id>tag:gigazine.net,2025-09-28:/news/20250927-helium-ad-blocking/</id>
-    <link href="https://gigazine.net/news/20250927-helium-ad-blocking/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 一緒にゲームやりながら駄弁れるAI、そろそろできないかな</title>
-    <updated>2025-09-27T23:26:39Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-09-27:/20250928015621</id>
-    <link href="https://anond.hatelabo.jp/20250928015621" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【究極】まじん式プロンプトv3｜まじん</title>
-    <updated>2025-09-27T16:51:04Z</updated>
-    <id>tag:note.com,2025-09-27:/majin_108/n/n11fc2f2190e9</id>
-    <link href="https://note.com/majin_108/n/n11fc2f2190e9" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: シリコン量子コンピュータ、ついに「製造の壁」を突破：半導体工場の標準技術で99%超の精度を実現、量産が加速へ | XenoSpectrum</title>
-    <updated>2025-09-27T05:44:18Z</updated>
-    <id>tag:xenospectrum.com,2025-09-27:/industry-compatible-silicon-spin-qubit-unit-cells-exceeding-99-fidelity/</id>
-    <link href="https://xenospectrum.com/industry-compatible-silicon-spin-qubit-unit-cells-exceeding-99-fidelity/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 無料でここまで……グーグル翻訳の「新機能」が“英会話教室超え？”AI語学学習の衝撃</title>
+    <updated>2025-09-28T02:11:54Z</updated>
+    <id>tag:www.sbbit.jp,2025-09-28:/article/cont1/172052</id>
+    <link href="https://www.sbbit.jp/article/cont1/172052" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 日本のミステリー小説はぜひこのシステムを導入して標準装備としてほしい、という熱い要望「これめっちゃ便利」</title>
@@ -4822,28 +4804,22 @@
     <link href="https://gihyo.jp/article/2025/09/github-pull-request-support-unchanged-lines-comment" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「技術負債にならない・間違えない」 権限管理の設計と実装</title>
-    <updated>2025-09-27T10:12:51Z</updated>
-    <id>tag:speakerdeck.com,2025-09-27:/naro143/ji-shu-fu-zhai-ninaranaijian-wei-enai-quan-xian-guan-li-noshe-ji-toshi-zhuang</id>
-    <link href="https://speakerdeck.com/naro143/ji-shu-fu-zhai-ninaranaijian-wei-enai-quan-xian-guan-li-noshe-ji-toshi-zhuang" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【朗報】グーグルがPC用の新OS。AndroidとChromeOSを統合、2026年に投入へ - すまほん!!</title>
+    <updated>2025-09-28T08:39:16Z</updated>
+    <id>tag:smhn.info,2025-09-28:/202509-chromeos-android-pc-os</id>
+    <link href="https://smhn.info/202509-chromeos-android-pc-os" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「SNSには根本的な機能不全がある」オードリー・タン氏が語る参政党躍進の裏側とデジタル民主主義の可能性（文春オンライン） - Yahoo!ニュース</title>
-    <updated>2025-09-28T04:40:35Z</updated>
-    <id>tag:news.yahoo.co.jp,2025-09-28:/articles/dd032cbf5ad749ee0897600a99559ae11f76a3de</id>
-    <link href="https://news.yahoo.co.jp/articles/dd032cbf5ad749ee0897600a99559ae11f76a3de" rel="alternate"></link>
+    <title>1:hatena_blog_it: Sidekiq その前に：Webアプリケーションにおける非同期ジョブ設計原則</title>
+    <updated>2025-09-27T02:40:29Z</updated>
+    <id>tag:speakerdeck.com,2025-09-27:/morihirok/sidekiq-sonoqian-ni-webapurikesiyonniokerufei-tong-qi-ziyobushe-ji-yuan-ze</id>
+    <link href="https://speakerdeck.com/morihirok/sidekiq-sonoqian-ni-webapurikesiyonniokerufei-tong-qi-ziyobushe-ji-yuan-ze" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: YouTubeに月額780円の「Premium Lite」登場--1080円の既存プランと何が違う？</title>
-    <updated>2025-09-26T22:37:54Z</updated>
-    <id>tag:japan.cnet.com,2025-09-26:/article/35238499/</id>
-    <link href="https://japan.cnet.com/article/35238499/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ChatGPTを最強の「勉強仲間」にする5つの活用術 | ライフハッカー・ジャパン</title>
-    <updated>2025-09-27T09:33:51Z</updated>
-    <id>tag:www.lifehacker.jp,2025-09-27:/article/2509the-best-ways-to-study-but-not-cheat-using-ai-tools/</id>
-    <link href="https://www.lifehacker.jp/article/2509the-best-ways-to-study-but-not-cheat-using-ai-tools/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 広告ブロッカー標準搭載のChromiumベースブラウザ「Helium」を使ってみた</title>
+    <updated>2025-09-28T02:59:12Z</updated>
+    <id>tag:gigazine.net,2025-09-28:/news/20250927-helium-ad-blocking/</id>
+    <link href="https://gigazine.net/news/20250927-helium-ad-blocking/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【書評】 実践LLMアプリケーション開発 ―プロトタイプを脱却し、実用的な実装に迫るための包括的な手引き｜s-miyawaki</title>
@@ -4852,22 +4828,34 @@
     <link href="https://note.com/catshun_/n/n66701e7563ee" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: コードを読む、コードを書くの最初の一歩目 ― 目の前の「知らない」と向き合って成長する - そーだいなるらくがき帳</title>
-    <updated>2025-09-27T08:55:01Z</updated>
-    <id>tag:soudai.hatenablog.com,2025-09-27:/entry/2025/09/27/165806</id>
-    <link href="https://soudai.hatenablog.com/entry/2025/09/27/165806" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Goのビルドシステムの変遷 / The history of Go's build system</title>
     <updated>2025-09-28T05:37:28Z</updated>
     <id>tag:speakerdeck.com,2025-09-28:/ymotongpoo/the-history-of-gos-build-system</id>
     <link href="https://speakerdeck.com/ymotongpoo/the-history-of-gos-build-system" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: プロジェクトマネジメントの基本をまとめてみた - Qiita</title>
-    <updated>2025-09-26T08:32:37Z</updated>
-    <id>tag:qiita.com,2025-09-26:/Nao52/items/2fb33660df8b48bf6751</id>
-    <link href="https://qiita.com/Nao52/items/2fb33660df8b48bf6751" rel="alternate"></link>
+    <title>1:hatena_blog_it: 一緒にゲームやりながら駄弁れるAI、そろそろできないかな</title>
+    <updated>2025-09-27T23:26:39Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-09-27:/20250928015621</id>
+    <link href="https://anond.hatelabo.jp/20250928015621" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: シリコン量子コンピュータ、ついに「製造の壁」を突破：半導体工場の標準技術で99%超の精度を実現、量産が加速へ | XenoSpectrum</title>
+    <updated>2025-09-27T05:44:18Z</updated>
+    <id>tag:xenospectrum.com,2025-09-27:/industry-compatible-silicon-spin-qubit-unit-cells-exceeding-99-fidelity/</id>
+    <link href="https://xenospectrum.com/industry-compatible-silicon-spin-qubit-unit-cells-exceeding-99-fidelity/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【究極】まじん式プロンプトv3｜まじん</title>
+    <updated>2025-09-27T16:51:04Z</updated>
+    <id>tag:note.com,2025-09-27:/majin_108/n/n11fc2f2190e9</id>
+    <link href="https://note.com/majin_108/n/n11fc2f2190e9" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 静的型付け関数型プログラミング言語を使わない10の理由</title>
+    <updated>2025-09-28T01:36:32Z</updated>
+    <id>tag:matarillo.github.io,2025-09-28:/fsharp_for_fun_and_profit-ja/posts/ten-reasons-not-to-use-a-functional-programming-language.html</id>
+    <link href="https://matarillo.github.io/fsharp_for_fun_and_profit-ja/posts/ten-reasons-not-to-use-a-functional-programming-language.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 入社1年目からPMとして活躍する組織の育て方 - Qiita</title>
@@ -4876,22 +4864,10 @@
     <link href="https://qiita.com/toshiaki_miyake/items/45a4775433cdbdbb7a37" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: iPhoneの充電上限を計2年間80％に設定した結果　バッテリー寿命を伸ばす効果があるのか確認 - こぼねみ</title>
-    <updated>2025-09-26T00:15:44Z</updated>
-    <id>tag:www.kobonemi.com,2025-09-26:/entry/2025/09/26/iPhone-charge-limit-test</id>
-    <link href="https://www.kobonemi.com/entry/2025/09/26/iPhone-charge-limit-test" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 《オードリー・タンが見た参政党の躍進》SNS政治では極論を回避できない。日本の「氏神」のようなAIが必要だ | オードリー・タン | 文藝春秋PLUS</title>
-    <updated>2025-09-27T09:22:35Z</updated>
-    <id>tag:bunshun.jp,2025-09-27:/bungeishunju/articles/h10761</id>
-    <link href="https://bunshun.jp/bungeishunju/articles/h10761" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 家庭のテレビ受信機から経由して証券口座を乗っ取る事件が発生「FireTVみたいなIoT機器はリスクがある」</title>
-    <updated>2025-09-27T11:00:24Z</updated>
-    <id>tag:togetter.com,2025-09-27:/li/2608151</id>
-    <link href="https://togetter.com/li/2608151" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【超入門】AI時代の知的生産フロー完全ガイド：ChatGPT、NotebookLM、Obsidian×Cursorを最強の武器にする方法｜Shin</title>
+    <updated>2025-09-27T07:42:21Z</updated>
+    <id>tag:note.com,2025-09-27:/iam_shin/n/n647fc9a3440b</id>
+    <link href="https://note.com/iam_shin/n/n647fc9a3440b" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: gpt-oss Reinforcement Learning | Unsloth Documentation</title>
@@ -4900,22 +4876,10 @@
     <link href="https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【超入門】AI時代の知的生産フロー完全ガイド：ChatGPT、NotebookLM、Obsidian×Cursorを最強の武器にする方法｜Shin</title>
-    <updated>2025-09-27T07:42:21Z</updated>
-    <id>tag:note.com,2025-09-27:/iam_shin/n/n647fc9a3440b</id>
-    <link href="https://note.com/iam_shin/n/n647fc9a3440b" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 商用版の Qt が高いと思った時に考えること - Qiita</title>
-    <updated>2025-09-27T22:16:38Z</updated>
-    <id>tag:qiita.com,2025-09-27:/task_jp/items/d30a1af4fca7781a1251</id>
-    <link href="https://qiita.com/task_jp/items/d30a1af4fca7781a1251" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 全てGoで作るP2P対戦ゲーム入門</title>
-    <updated>2025-09-27T09:55:04Z</updated>
-    <id>tag:speakerdeck.com,2025-09-27:/ponyo877/quan-tegodezuo-rup2pdui-zhan-gemuru-men</id>
-    <link href="https://speakerdeck.com/ponyo877/quan-tegodezuo-rup2pdui-zhan-gemuru-men" rel="alternate"></link>
+    <title>1:hatena_blog_it: YouTubeに月額780円の「Premium Lite」登場--1080円の既存プランと何が違う？</title>
+    <updated>2025-09-26T22:37:54Z</updated>
+    <id>tag:japan.cnet.com,2025-09-26:/article/35238499/</id>
+    <link href="https://japan.cnet.com/article/35238499/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: リーダーの仕事は頑張ることでも､頑張らせることでもない…ニトリの管理職に受け継がれる"究極のマインド" トヨタ式｢もっといいものをラクに早く｣</title>
@@ -4924,21 +4888,63 @@
     <link href="https://president.jp/articles/-/102772" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: [アップデート] Amazon CloudWatchがリソースのタグを用いてメトリクスモニタリングができるようになり、リソースの追加や変更に自動的に適応する動的なCloudWatchアラームを設定可能になりました | DevelopersIO</title>
-    <updated>2025-09-27T10:09:23Z</updated>
-    <id>tag:dev.classmethod.jp,2025-09-27:/articles/aws-cloudwatch-tags-observability/</id>
-    <link href="https://dev.classmethod.jp/articles/aws-cloudwatch-tags-observability/" rel="alternate"></link>
+    <title>1:hatena_blog_it: PostgreSQL 18リリース！非同期I/Oの導入により最大3倍の速度向上を実現、ほか改善点多数</title>
+    <updated>2025-09-27T07:33:18Z</updated>
+    <id>tag:techfeed.io,2025-09-27:/entries/68d5bafe6dc4595f7fb9f330</id>
+    <link href="https://techfeed.io/entries/68d5bafe6dc4595f7fb9f330" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AI専用のプログラミング言語は現れない - きしだのHatena</title>
-    <updated>2025-09-25T02:54:25Z</updated>
-    <id>tag:nowokay.hatenablog.com,2025-09-25:/entry/2025/09/25/114550</id>
-    <link href="https://nowokay.hatenablog.com/entry/2025/09/25/114550" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「ヘタうま」と「AI」。｜小田島等</title>
+    <updated>2025-09-24T22:40:25Z</updated>
+    <id>tag:note.com,2025-09-24:/hitoshi_odajima/n/n3e22e3e48f35</id>
+    <link href="https://note.com/hitoshi_odajima/n/n3e22e3e48f35" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【Codex CLI対応】仕様駆動開発ツール「Spec Driven Codex」を公開しました！要件定義→設計→実装まで完全自動化 - Qiita</title>
-    <updated>2025-09-28T01:57:32Z</updated>
-    <id>tag:qiita.com,2025-09-28:/tomada/items/781d6eb5b79e5873d9ab</id>
-    <link href="https://qiita.com/tomada/items/781d6eb5b79e5873d9ab" rel="alternate"></link>
+    <title>1:hatena_blog_it: 『iPhone17を繁華街や待ち合わせで使えない携帯会社』明らかに、auやドコモ、ソフトバンク、楽天モバイルの5G回線を比べてみた | Buzzap！</title>
+    <updated>2025-09-27T22:45:16Z</updated>
+    <id>tag:buzzap.jp,2025-09-27:/news/20250927-iphone17-docomo-au-softbank-rakuten-mobile-5g-shinjuku-downtown/</id>
+    <link href="https://buzzap.jp/news/20250927-iphone17-docomo-au-softbank-rakuten-mobile-5g-shinjuku-downtown/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: iPhoneの充電上限を計2年間80％に設定した結果　バッテリー寿命を伸ばす効果があるのか確認 - こぼねみ</title>
+    <updated>2025-09-26T00:15:44Z</updated>
+    <id>tag:www.kobonemi.com,2025-09-26:/entry/2025/09/26/iPhone-charge-limit-test</id>
+    <link href="https://www.kobonemi.com/entry/2025/09/26/iPhone-charge-limit-test" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ChatGPTの“沼”へ、ようこそ──『プロンプトを作るプロンプト』お渡しします。｜タカジロー</title>
+    <updated>2025-09-28T12:00:20Z</updated>
+    <id>tag:note.com,2025-09-28:/takajiro0912/n/nec71cb0f3e2e</id>
+    <link href="https://note.com/takajiro0912/n/nec71cb0f3e2e" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 《オードリー・タンが見た参政党の躍進》SNS政治では極論を回避できない。日本の「氏神」のようなAIが必要だ | オードリー・タン | 文藝春秋PLUS</title>
+    <updated>2025-09-27T09:22:35Z</updated>
+    <id>tag:bunshun.jp,2025-09-27:/bungeishunju/articles/h10761</id>
+    <link href="https://bunshun.jp/bungeishunju/articles/h10761" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Go Conference 2025: Goで体感するMultipath TCP ― Go 1.24 時代の MPTCP Listener を理解する</title>
+    <updated>2025-09-28T03:46:36Z</updated>
+    <id>tag:speakerdeck.com,2025-09-28:/takehaya/go-conference-2025-godeti-gan-surumultipath-tcp-go-1-dot-24-shi-dai-no-mptcp-listener-woli-jie-suru</id>
+    <link href="https://speakerdeck.com/takehaya/go-conference-2025-godeti-gan-surumultipath-tcp-go-1-dot-24-shi-dai-no-mptcp-listener-woli-jie-suru" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【山田祥平のRe:config.sys】 日本をAI・ロボティクス大国に</title>
+    <updated>2025-09-27T01:37:30Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-09-27:/docs/column/config/2050547.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/config/2050547.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 商用版の Qt が高いと思った時に考えること - Qiita</title>
+    <updated>2025-09-27T22:16:38Z</updated>
+    <id>tag:qiita.com,2025-09-27:/task_jp/items/d30a1af4fca7781a1251</id>
+    <link href="https://qiita.com/task_jp/items/d30a1af4fca7781a1251" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Go で WebAssembly を利用した 実用的なプラグインシステムの構築方法</title>
+    <updated>2025-09-27T07:03:48Z</updated>
+    <id>tag:speakerdeck.com,2025-09-27:/goccy/go-de-webassembly-woli-yong-sita-shi-yong-de-napuraguinsisutemunogou-zhu-fang-fa</id>
+    <link href="https://speakerdeck.com/goccy/go-de-webassembly-woli-yong-sita-shi-yong-de-napuraguinsisutemunogou-zhu-fang-fa" rel="alternate"></link>
   </entry>
 </feed>
