@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-09-28T01:09:43Z</updated>
+  <updated>2025-09-28T06:18:44Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -160,10 +160,28 @@
     <link href="https://archlinux.org/news/providing-a-license-for-package-sources/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 多要素認証を設定したら先着販売に乗り遅れた話 ― メール認証の可用性の落とし穴</title>
+    <updated>2025-09-27T16:46:14Z</updated>
+    <id>https://zenn.dev/banuyu/articles/1b5408860e3697</id>
+    <link href="https://zenn.dev/banuyu/articles/1b5408860e3697" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: コーディングエージェントのauto-compactの仕組みを読み解く - タスク引継ぎの再現性を高める方法</title>
     <updated>2025-09-27T14:27:04Z</updated>
     <id>https://zenn.dev/gotalab/articles/4b74e6810db959</id>
     <link href="https://zenn.dev/gotalab/articles/4b74e6810db959" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Chrome DevTools MCPを試してみた：Gemini CLIからGoogle Cloudをブラウザから操作する</title>
+    <updated>2025-09-27T11:31:07Z</updated>
+    <id>https://zenn.dev/chishiro_shiro/articles/4dd51a9d3a2e6e</id>
+    <link href="https://zenn.dev/chishiro_shiro/articles/4dd51a9d3a2e6e" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 文系バイブコーダーからR&Dエンジニアになるまでにやったこと</title>
+    <updated>2025-09-27T09:34:48Z</updated>
+    <id>https://zenn.dev/yasuna/articles/79fc2626ed8b7c</id>
+    <link href="https://zenn.dev/yasuna/articles/79fc2626ed8b7c" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 現地速報！ Kaigi on Rails 2025 Day2</title>
@@ -200,12 +218,6 @@
     <updated>2025-09-27T03:27:34Z</updated>
     <id>https://zenn.dev/roswell/articles/d636c7f4f6df41</id>
     <link href="https://zenn.dev/roswell/articles/d636c7f4f6df41" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: CSS大解剖 15日目: 「方向」</title>
-    <updated>2025-09-26T22:00:01Z</updated>
-    <id>https://zenn.dev/qnighy/articles/a5dfab433d6a88</id>
-    <link href="https://zenn.dev/qnighy/articles/a5dfab433d6a88" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Temporal APIの現在地（2025年9月時点）</title>
@@ -266,18 +278,6 @@
     <updated>2025-09-24T10:37:43Z</updated>
     <id>https://zenn.dev/karintou/articles/zenn-cli-wysiwyg</id>
     <link href="https://zenn.dev/karintou/articles/zenn-cli-wysiwyg" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 今さら聞けないDDDとEvent Sourcingにおける集約</title>
-    <updated>2025-09-24T00:00:05Z</updated>
-    <id>https://zenn.dev/dress_code/articles/dda0ca62219d92</id>
-    <link href="https://zenn.dev/dress_code/articles/dda0ca62219d92" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: GPUの単精度 sin / cos 関数の誤差を引数 32bit 全探索で調べた</title>
-    <updated>2025-09-23T22:54:46Z</updated>
-    <id>https://zenn.dev/toropippi/articles/d8def1c994e0a9</id>
-    <link href="https://zenn.dev/toropippi/articles/d8def1c994e0a9" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: AIと『対話しない』対話法、モノローグ法</title>
@@ -461,7 +461,7 @@
   </entry>
   <entry>
     <title>3:distrotube_youtube: Chat With Patrons (Sep 27, 2025)</title>
-    <updated>2025-09-25T12:59:53Z</updated>
+    <updated>2025-09-28T05:03:14Z</updated>
     <id>yt:video:S7LfVaEELTY</id>
     <link href="https://www.youtube.com/watch?v=S7LfVaEELTY" rel="alternate"></link>
   </entry>
@@ -4780,40 +4780,16 @@
     <link href="https://gihyo.jp/article/2024/09/monthly-python-2409?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「技術負債にならない・間違えない」 権限管理の設計と実装</title>
-    <updated>2025-09-27T10:12:51Z</updated>
-    <id>tag:speakerdeck.com,2025-09-27:/naro143/ji-shu-fu-zhai-ninaranaijian-wei-enai-quan-xian-guan-li-noshe-ji-toshi-zhuang</id>
-    <link href="https://speakerdeck.com/naro143/ji-shu-fu-zhai-ninaranaijian-wei-enai-quan-xian-guan-li-noshe-ji-toshi-zhuang" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: コードを読む、コードを書くの最初の一歩目 ― 目の前の「知らない」と向き合って成長する - そーだいなるらくがき帳</title>
-    <updated>2025-09-27T08:55:01Z</updated>
-    <id>tag:soudai.hatenablog.com,2025-09-27:/entry/2025/09/27/165806</id>
-    <link href="https://soudai.hatenablog.com/entry/2025/09/27/165806" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Sidekiq その前に：Webアプリケーションにおける非同期ジョブ設計原則</title>
     <updated>2025-09-27T02:40:29Z</updated>
     <id>tag:speakerdeck.com,2025-09-27:/morihirok/sidekiq-sonoqian-ni-webapurikesiyonniokerufei-tong-qi-ziyobushe-ji-yuan-ze</id>
     <link href="https://speakerdeck.com/morihirok/sidekiq-sonoqian-ni-webapurikesiyonniokerufei-tong-qi-ziyobushe-ji-yuan-ze" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: C#サーバーをなぜLinuxで動かすのか - tech.guitarrapc.cóm</title>
-    <updated>2025-09-27T09:08:10Z</updated>
-    <id>tag:tech.guitarrapc.com,2025-09-27:/entry/2025/09/27/173000</id>
-    <link href="https://tech.guitarrapc.com/entry/2025/09/27/173000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「ファイブスター物語」に出てくる、縫い目が無い凄い服を作りたいと言った生徒さんがいたが、地球の技術力とあなたの予算では難しいと答えた</title>
-    <updated>2025-09-27T11:04:10Z</updated>
-    <id>tag:togetter.com,2025-09-27:/li/2608194</id>
-    <link href="https://togetter.com/li/2608194" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 家庭のテレビ受信機から経由して証券口座を乗っ取る事件が発生「FireTVみたいなIoT機器はリスクがある」</title>
-    <updated>2025-09-27T11:00:24Z</updated>
-    <id>tag:togetter.com,2025-09-27:/li/2608151</id>
-    <link href="https://togetter.com/li/2608151" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「技術負債にならない・間違えない」 権限管理の設計と実装</title>
+    <updated>2025-09-27T10:12:51Z</updated>
+    <id>tag:speakerdeck.com,2025-09-27:/naro143/ji-shu-fu-zhai-ninaranaijian-wei-enai-quan-xian-guan-li-noshe-ji-toshi-zhuang</id>
+    <link href="https://speakerdeck.com/naro143/ji-shu-fu-zhai-ninaranaijian-wei-enai-quan-xian-guan-li-noshe-ji-toshi-zhuang" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【究極】まじん式プロンプトv3｜まじん</title>
@@ -4822,16 +4798,28 @@
     <link href="https://note.com/majin_108/n/n11fc2f2190e9" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 一緒にゲームやりながら駄弁れるAI、そろそろできないかな</title>
+    <updated>2025-09-27T23:26:39Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-09-27:/20250928015621</id>
+    <link href="https://anond.hatelabo.jp/20250928015621" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 広告ブロッカー標準搭載のChromiumベースブラウザ「Helium」を使ってみた</title>
+    <updated>2025-09-28T02:59:12Z</updated>
+    <id>tag:gigazine.net,2025-09-28:/news/20250927-helium-ad-blocking/</id>
+    <link href="https://gigazine.net/news/20250927-helium-ad-blocking/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: シリコン量子コンピュータ、ついに「製造の壁」を突破：半導体工場の標準技術で99%超の精度を実現、量産が加速へ | XenoSpectrum</title>
     <updated>2025-09-27T05:44:18Z</updated>
     <id>tag:xenospectrum.com,2025-09-27:/industry-compatible-silicon-spin-qubit-unit-cells-exceeding-99-fidelity/</id>
     <link href="https://xenospectrum.com/industry-compatible-silicon-spin-qubit-unit-cells-exceeding-99-fidelity/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Chrome DevTools MCP で AI エージェントのフロントエンド開発をサポートする</title>
-    <updated>2025-09-27T05:05:31Z</updated>
-    <id>tag:azukiazusa.dev,2025-09-27:/blog/chrome-devtools-mcp/</id>
-    <link href="https://azukiazusa.dev/blog/chrome-devtools-mcp/" rel="alternate"></link>
+    <title>1:hatena_blog_it: コードを読む、コードを書くの最初の一歩目 ― 目の前の「知らない」と向き合って成長する - そーだいなるらくがき帳</title>
+    <updated>2025-09-27T08:55:01Z</updated>
+    <id>tag:soudai.hatenablog.com,2025-09-27:/entry/2025/09/27/165806</id>
+    <link href="https://soudai.hatenablog.com/entry/2025/09/27/165806" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: YouTubeに月額780円の「Premium Lite」登場--1080円の既存プランと何が違う？</title>
@@ -4840,28 +4828,10 @@
     <link href="https://japan.cnet.com/article/35238499/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「解像度」込みで、requests代替を選ぶとするなら #こまPy｜Atsushi Shibata</title>
-    <updated>2025-09-27T10:10:44Z</updated>
-    <id>tag:note.com,2025-09-27:/shibats/n/n60eac564dbc3</id>
-    <link href="https://note.com/shibats/n/n60eac564dbc3" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 勤怠管理システムをDDDで作り直して9年。その選択は正しかった？ - RAKUS Developers Blog | ラクス エンジニアブログ</title>
-    <updated>2025-09-26T05:41:15Z</updated>
-    <id>tag:tech-blog.rakus.co.jp,2025-09-26:/entry/20250926/ddd-practice</id>
-    <link href="https://tech-blog.rakus.co.jp/entry/20250926/ddd-practice" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: プロジェクトマネジメントの基本をまとめてみた - Qiita</title>
-    <updated>2025-09-26T08:32:37Z</updated>
-    <id>tag:qiita.com,2025-09-26:/Nao52/items/2fb33660df8b48bf6751</id>
-    <link href="https://qiita.com/Nao52/items/2fb33660df8b48bf6751" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 作曲AIが新時代に突入。SunoがMIDI出力とマルチトラック編集（DAW）に対応、Tuneeは6曲同時生成で一般公開（CloseBox） | テクノエッジ TechnoEdge</title>
-    <updated>2025-09-26T04:00:12Z</updated>
-    <id>tag:www.techno-edge.net,2025-09-26:/article/2025/09/26/4614.html</id>
-    <link href="https://www.techno-edge.net/article/2025/09/26/4614.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 家庭のテレビ受信機から経由して証券口座を乗っ取る事件が発生「FireTVみたいなIoT機器はリスクがある」</title>
+    <updated>2025-09-27T11:00:24Z</updated>
+    <id>tag:togetter.com,2025-09-27:/li/2608151</id>
+    <link href="https://togetter.com/li/2608151" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ChatGPTを最強の「勉強仲間」にする5つの活用術 | ライフハッカー・ジャパン</title>
@@ -4870,34 +4840,52 @@
     <link href="https://www.lifehacker.jp/article/2509the-best-ways-to-study-but-not-cheat-using-ai-tools/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 今改めてServiceクラスについて考える 〜あるRails開発者の10年〜</title>
-    <updated>2025-09-26T15:16:15Z</updated>
-    <id>tag:speakerdeck.com,2025-09-26:/joker1007/jin-gai-meteservicekurasunituitekao-eru-arurailskai-fa-zhe-no10nian</id>
-    <link href="https://speakerdeck.com/joker1007/jin-gai-meteservicekurasunituitekao-eru-arurailskai-fa-zhe-no10nian" rel="alternate"></link>
+    <title>1:hatena_blog_it: プロジェクトマネジメントの基本をまとめてみた - Qiita</title>
+    <updated>2025-09-26T08:32:37Z</updated>
+    <id>tag:qiita.com,2025-09-26:/Nao52/items/2fb33660df8b48bf6751</id>
+    <link href="https://qiita.com/Nao52/items/2fb33660df8b48bf6751" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「ディスク容量が不足しています」「またゲーム消すの？」ゲーマーが集う東京ゲームショーでこのSSDの広告出せるSAMSUNG強い</title>
-    <updated>2025-09-27T12:01:36Z</updated>
-    <id>tag:togetter.com,2025-09-27:/li/2608210</id>
-    <link href="https://togetter.com/li/2608210" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「解像度」込みで、requests代替を選ぶとするなら #こまPy｜Atsushi Shibata</title>
+    <updated>2025-09-27T10:10:44Z</updated>
+    <id>tag:note.com,2025-09-27:/shibats/n/n60eac564dbc3</id>
+    <link href="https://note.com/shibats/n/n60eac564dbc3" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ローカルLLMを使ってRAGシステムを組み最新の論文を追いやすくする試み</title>
-    <updated>2025-09-25T02:55:26Z</updated>
-    <id>tag:zenn.dev,2025-09-25:/qsrh/articles/016292f8c37428</id>
-    <link href="https://zenn.dev/qsrh/articles/016292f8c37428" rel="alternate"></link>
+    <title>1:hatena_blog_it: C#サーバーをなぜLinuxで動かすのか - tech.guitarrapc.cóm</title>
+    <updated>2025-09-27T09:08:10Z</updated>
+    <id>tag:tech.guitarrapc.com,2025-09-27:/entry/2025/09/27/173000</id>
+    <link href="https://tech.guitarrapc.com/entry/2025/09/27/173000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 2重リクエスト完全攻略HANDBOOK / Double Request Handbook</title>
-    <updated>2025-09-27T01:42:33Z</updated>
-    <id>tag:speakerdeck.com,2025-09-27:/shoheimitani/double-request-handbook</id>
-    <link href="https://speakerdeck.com/shoheimitani/double-request-handbook" rel="alternate"></link>
+    <title>1:hatena_blog_it: rails g authenticationから学ぶRails8.0時代の認証</title>
+    <updated>2025-09-27T10:14:48Z</updated>
+    <id>tag:speakerdeck.com,2025-09-27:/willnet/rails-g-authenticationkaraxue-hurails8-dot-0shi-dai-noren-zheng</id>
+    <link href="https://speakerdeck.com/willnet/rails-g-authenticationkaraxue-hurails8-dot-0shi-dai-noren-zheng" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIインフラを考える</title>
-    <updated>2025-09-26T03:18:03Z</updated>
-    <id>tag:speakerdeck.com,2025-09-26:/markunet/aiinhurawokao-eru</id>
-    <link href="https://speakerdeck.com/markunet/aiinhurawokao-eru" rel="alternate"></link>
+    <title>1:hatena_blog_it: Sakana AI、ハイパフォーマンスなAIアルゴリズム探索フレームワーク「ShinkaEvolve」をオープンソースとして公開 | gihyo.jp</title>
+    <updated>2025-09-27T09:54:00Z</updated>
+    <id>tag:gihyo.jp,2025-09-27:/article/2025/09/shinka-evolve</id>
+    <link href="https://gihyo.jp/article/2025/09/shinka-evolve" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「ファイブスター物語」に出てくる、縫い目が無い凄い服を作りたいと言った生徒さんがいたが、地球の技術力とあなたの予算では難しいと答えた</title>
+    <updated>2025-09-27T11:04:10Z</updated>
+    <id>tag:togetter.com,2025-09-27:/li/2608194</id>
+    <link href="https://togetter.com/li/2608194" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 全てGoで作るP2P対戦ゲーム入門</title>
+    <updated>2025-09-27T09:55:04Z</updated>
+    <id>tag:speakerdeck.com,2025-09-27:/ponyo877/quan-tegodezuo-rup2pdui-zhan-gemuru-men</id>
+    <link href="https://speakerdeck.com/ponyo877/quan-tegodezuo-rup2pdui-zhan-gemuru-men" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: [アップデート] Amazon CloudWatchがリソースのタグを用いてメトリクスモニタリングができるようになり、リソースの追加や変更に自動的に適応する動的なCloudWatchアラームを設定可能になりました | DevelopersIO</title>
+    <updated>2025-09-27T10:09:23Z</updated>
+    <id>tag:dev.classmethod.jp,2025-09-27:/articles/aws-cloudwatch-tags-observability/</id>
+    <link href="https://dev.classmethod.jp/articles/aws-cloudwatch-tags-observability/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: NVIDIAが音声から3Dアバターの顔アニメーションを生成する「Audio2Face」をオープンソース化、音声にぴったり合うリップシンクを実現</title>
@@ -4906,39 +4894,45 @@
     <link href="https://gigazine.net/news/20250926-nvidia-audio2face-open-sources/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: トランプ氏、マイクロソフトにバイデン政権元高官の解雇を要求</title>
-    <updated>2025-09-27T06:45:38Z</updated>
-    <id>tag:www.afpbb.com,2025-09-27:/articles/-/3600423</id>
-    <link href="https://www.afpbb.com/articles/-/3600423" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Pull request "Files changed" public preview now supports commenting on unchanged lines - GitHub Changelog</title>
     <updated>2025-09-26T09:51:06Z</updated>
     <id>tag:github.blog,2025-09-26:/changelog/2025-09-25-pull-request-files-changed-public-preview-now-supports-commenting-on-unchanged-lines/</id>
     <link href="https://github.blog/changelog/2025-09-25-pull-request-files-changed-public-preview-now-supports-commenting-on-unchanged-lines/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Railsアプリケーション開発者のためのブックガイド</title>
-    <updated>2025-09-27T05:02:18Z</updated>
-    <id>tag:speakerdeck.com,2025-09-27:/takahashim/a-guide-to-japanese-books-for-rails-application-developers</id>
-    <link href="https://speakerdeck.com/takahashim/a-guide-to-japanese-books-for-rails-application-developers" rel="alternate"></link>
+    <title>1:hatena_blog_it: Chrome DevTools MCP で AI エージェントのフロントエンド開発をサポートする</title>
+    <updated>2025-09-27T05:05:31Z</updated>
+    <id>tag:azukiazusa.dev,2025-09-27:/blog/chrome-devtools-mcp/</id>
+    <link href="https://azukiazusa.dev/blog/chrome-devtools-mcp/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: コラム：ＡＩ投資バブル、「3つのジレンマ」で膨らむ一方</title>
-    <updated>2025-09-27T02:26:23Z</updated>
-    <id>tag:jp.reuters.com,2025-09-27:/opinion/forex-forum/D3XFR6N4JJN6LJSQAZGGNZVJJ4-2025-09-26/</id>
-    <link href="https://jp.reuters.com/opinion/forex-forum/D3XFR6N4JJN6LJSQAZGGNZVJJ4-2025-09-26/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 勤怠管理システムをDDDで作り直して9年。その選択は正しかった？ - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+    <updated>2025-09-26T05:41:15Z</updated>
+    <id>tag:tech-blog.rakus.co.jp,2025-09-26:/entry/20250926/ddd-practice</id>
+    <link href="https://tech-blog.rakus.co.jp/entry/20250926/ddd-practice" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIと『対話しない』対話法、モノローグ法 - Qiita</title>
-    <updated>2025-09-26T09:07:43Z</updated>
-    <id>tag:qiita.com,2025-09-26:/makotosaekit/items/2e5c7d3b4504aeccf456</id>
-    <link href="https://qiita.com/makotosaekit/items/2e5c7d3b4504aeccf456" rel="alternate"></link>
+    <title>1:hatena_blog_it: ローカルLLMを使ってRAGシステムを組み最新の論文を追いやすくする試み</title>
+    <updated>2025-09-25T02:55:26Z</updated>
+    <id>tag:zenn.dev,2025-09-25:/qsrh/articles/016292f8c37428</id>
+    <link href="https://zenn.dev/qsrh/articles/016292f8c37428" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: "複雑なデータ処理 × 静的サイト" を両立させる、楽をするRails運用 / A low-effort Rails workflow that combines “Complex Data Processing × Static Sites”</title>
-    <updated>2025-09-27T07:20:07Z</updated>
-    <id>tag:speakerdeck.com,2025-09-27:/hogelog/a-low-effort-rails-workflow-that-combines-complex-data-processing-x-static-sites</id>
-    <link href="https://speakerdeck.com/hogelog/a-low-effort-rails-workflow-that-combines-complex-data-processing-x-static-sites" rel="alternate"></link>
+    <title>1:hatena_blog_it: トランプ氏、マイクロソフトにバイデン政権元高官の解雇を要求</title>
+    <updated>2025-09-27T06:45:38Z</updated>
+    <id>tag:www.afpbb.com,2025-09-27:/articles/-/3600423</id>
+    <link href="https://www.afpbb.com/articles/-/3600423" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 作曲AIが新時代に突入。SunoがMIDI出力とマルチトラック編集（DAW）に対応、Tuneeは6曲同時生成で一般公開（CloseBox） | テクノエッジ TechnoEdge</title>
+    <updated>2025-09-26T04:00:12Z</updated>
+    <id>tag:www.techno-edge.net,2025-09-26:/article/2025/09/26/4614.html</id>
+    <link href="https://www.techno-edge.net/article/2025/09/26/4614.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2重リクエスト完全攻略HANDBOOK / Double Request Handbook</title>
+    <updated>2025-09-27T01:42:33Z</updated>
+    <id>tag:speakerdeck.com,2025-09-27:/shoheimitani/double-request-handbook</id>
+    <link href="https://speakerdeck.com/shoheimitani/double-request-handbook" rel="alternate"></link>
   </entry>
 </feed>
