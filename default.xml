@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-10-01T12:29:45Z</updated>
+  <updated>2025-10-01T18:19:29Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -976,6 +976,18 @@
     <link href="https://www.youtube.com/watch?v=tS8xEP-A128" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: 外部リンクへの接続などを高速化する「dns-prefetch」、安定して使えるWeb標準「Baseline」に</title>
+    <updated>2025-10-01T16:01:34Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8332</id>
+    <link href="https://www.publickey1.jp/blog/25/dns-prefetchwebbaseline.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: マイクロソフト、ワンクリックで本番環境に対応したKubernetesクラスタを簡単にデプロイ、「Azure Kubernetes Service Automatic」正式リリース</title>
+    <updated>2025-10-01T15:57:29Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8331</id>
+    <link href="https://www.publickey1.jp/blog/25/kubernetesazure_kubernetes_service_automatic.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: Googleドライブに新機能、AIによるランサムウェア検出と復元機能を統合、Windows/macOS版で</title>
     <updated>2025-09-30T15:31:16Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8330</id>
@@ -1052,18 +1064,6 @@
     <updated>2025-09-17T15:05:15Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8318</id>
     <link href="https://www.publickey1.jp/blog/25/pulumiaipulumi_neo.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: 「Java 25」正式リリース、2年振りのLTS版。事前キャッシュによる高速起動、JITの即時ネイティブコード生成など新機能</title>
-    <updated>2025-09-16T15:46:22Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8317</id>
-    <link href="https://www.publickey1.jp/blog/25/java_252ltsjit.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: オラクル、5年で44兆円のデータセンター超大型投資をOpenAIと合意。株価急騰でエリソン氏が初めて世界一の大富豪に</title>
-    <updated>2025-09-16T15:44:58Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8316</id>
-    <link href="https://www.publickey1.jp/blog/25/544openai.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: OpenAI、動画生成モデル「Sora 2」とソーシャルアプリ「Sora」を発表</title>
@@ -4726,12 +4726,6 @@
     <link href="https://gihyo.jp/article/2024/10/llama3.1-swallow?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: CPaaSのAI機能を使って電話受付業務を作成しよう［後編］</title>
-    <updated>2024-10-07T23:53:00Z</updated>
-    <id>urn:uuid:ff1ee404-f874-ace1-9bbd-ce6d971ddfdc</id>
-    <link href="https://gihyo.jp/article/2024/09/cpaas-03-2?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: FlutterKaigi 2024、11/21、22に開催、チケット販売開始</title>
     <updated>2024-10-07T02:40:00Z</updated>
     <id>urn:uuid:7eef70fe-a836-4c84-c478-4c005a88dddc</id>
@@ -4792,22 +4786,10 @@
     <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0832?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: なぜ移民が必要か？労働力の不足について詳細</title>
-    <updated>2025-09-30T16:49:16Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-09-30:/20251001014423</id>
-    <link href="https://anond.hatelabo.jp/20251001014423" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: ぶっちゃけ日本のIT技術者のレベルが元々低いだけだよね</title>
     <updated>2025-10-01T05:25:29Z</updated>
     <id>tag:anond.hatelabo.jp,2025-10-01:/20251001142227</id>
     <link href="https://anond.hatelabo.jp/20251001142227" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 未だにAIを「統計的に次の単語を予測しているに過ぎない」って言ってる人いる</title>
-    <updated>2025-09-30T13:55:48Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-09-30:/20250930225212</id>
-    <link href="https://anond.hatelabo.jp/20250930225212" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AIの仕組みについて漠然と理解している人のために</title>
@@ -4816,34 +4798,16 @@
     <link href="https://anond.hatelabo.jp/20251001152931" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 男性が“女性の胸”に魅了されるのはなぜ？　欧州の研究者らが調査　「隠れているものほど欲望をかき立てる……？」</title>
-    <updated>2025-09-30T23:37:07Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-09-30:/news/articles/2510/01/news027.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2510/01/news027.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 未だにAIを「統計的に次の単語を予測しているに過ぎない」って言ってる人いる</title>
+    <updated>2025-09-30T13:55:48Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-09-30:/20250930225212</id>
+    <link href="https://anond.hatelabo.jp/20250930225212" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OpenAI、生成AI動画だけのSNS「Sora」発表--文章から自身の映像、短編アニメなど生成</title>
-    <updated>2025-09-30T23:46:34Z</updated>
-    <id>tag:japan.cnet.com,2025-09-30:/article/35238621/</id>
-    <link href="https://japan.cnet.com/article/35238621/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: NHK ONE　認証コードが届かない不具合について | お知らせ</title>
-    <updated>2025-09-30T18:16:52Z</updated>
-    <id>tag:www.web.nhk,2025-09-30:/notification/sv0hosbnr6a6</id>
-    <link href="https://www.web.nhk/notification/sv0hosbnr6a6" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「長距離無線LAN」は日本国内でも活躍していた。いったいどんな場所で使われているのか？　バッファローに聞いた ～黒部ダムにも導入事例</title>
-    <updated>2025-09-30T22:08:09Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2025-09-30:/docs/special/2051258.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/special/2051258.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【特集】 なんだこの椅子は！包み込まれるメッシュとあり得ない軽さ。高級チェアに「Steelcase」という選択肢を見つけた</title>
-    <updated>2025-09-30T21:56:11Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-09-30:/docs/topic/feature/2047374.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2047374.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: なぜ移民が必要か？労働力の不足について詳細</title>
+    <updated>2025-09-30T16:49:16Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-09-30:/20251001014423</id>
+    <link href="https://anond.hatelabo.jp/20251001014423" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Cursor Learn</title>
@@ -4852,52 +4816,22 @@
     <link href="https://cursor.com/learn" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Vue にまつわる3つのよくある誤解と、私がVueを選ぶ4つの理由</title>
-    <updated>2025-09-30T10:19:58Z</updated>
-    <id>tag:speakerdeck.com,2025-09-30:/ytr0903/vue-nimatuwaru3tunoyokuaruwu-jie-to-si-gavuewoxuan-bu4tunoli-you</id>
-    <link href="https://speakerdeck.com/ytr0903/vue-nimatuwaru3tunoyokuaruwu-jie-to-si-gavuewoxuan-bu4tunoli-you" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【特集】 なんだこの椅子は！包み込まれるメッシュとあり得ない軽さ。高級チェアに「Steelcase」という選択肢を見つけた</title>
+    <updated>2025-09-30T21:56:11Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-09-30:/docs/topic/feature/2047374.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2047374.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「Cursor」によるAIを用いたプログラミングについて学べる講座「Cursor Learn」を無料公開</title>
-    <updated>2025-09-30T10:54:07Z</updated>
-    <id>tag:codezine.jp,2025-09-30:/news/detail/22319</id>
-    <link href="https://codezine.jp/news/detail/22319" rel="alternate"></link>
+    <title>1:hatena_blog_it: システムを作る人がまず理解すべきシステム思考の基礎 - じゃあ、おうちで学べる</title>
+    <updated>2025-10-01T13:45:16Z</updated>
+    <id>tag:syu-m-5151.hatenablog.com,2025-10-01:/entry/2025/10/01/203633</id>
+    <link href="https://syu-m-5151.hatenablog.com/entry/2025/10/01/203633" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「NHK ONE」早々のトラブルにSNSでは「やっぱり」　“移行期間なし”に疑問の声</title>
-    <updated>2025-10-01T06:33:14Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-10-01:/news/articles/2510/01/news102.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2510/01/news102.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「コペルニクス的転回」を果たしたダイヤル式キーボード。Googleが発表、自作用設計図も公開</title>
-    <updated>2025-10-01T06:42:28Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-10-01:/docs/news/2051500.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2051500.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 子供3人「完璧に」育て切った最高の母であり妻だと自認する女性が「私ってもしかして全員から嫌われてる？」って気づきかけるアガサ・クリスティのミステリは、教育本より先に読むべき→「これは心が弱ってる時に読んではいけない」</title>
-    <updated>2025-09-30T10:34:47Z</updated>
-    <id>tag:posfie.com,2025-09-30:/@mumimushunyu/p/aQWQK1I</id>
-    <link href="https://posfie.com/@mumimushunyu/p/aQWQK1I" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: t-wadaさんに聞く！『SQLアンチパターン第2版』 全27章まとめて紹介 - Findy Media</title>
-    <updated>2025-09-30T23:32:24Z</updated>
-    <id>tag:findy-code.io,2025-09-30:/media/articles/event-sql-antipatterns-250728</id>
-    <link href="https://findy-code.io/media/articles/event-sql-antipatterns-250728" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Wikipediaに代わる「Grokipedia」マスク氏企業が開発中　「Wikipediaは左翼的」という声に返信</title>
-    <updated>2025-10-01T01:52:29Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-10-01:/news/articles/2510/01/news068.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2510/01/news068.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: これぞ「描くために生まれた」高性能タブレット。スナドラ8s Gen 3に14型OLED搭載機がワコムから</title>
-    <updated>2025-10-01T02:44:43Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-10-01:/docs/news/2051342.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2051342.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: OpenAI、生成AI動画だけのSNS「Sora」発表--文章から自身の映像、短編アニメなど生成</title>
+    <updated>2025-09-30T23:46:34Z</updated>
+    <id>tag:japan.cnet.com,2025-09-30:/article/35238621/</id>
+    <link href="https://japan.cnet.com/article/35238621/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: エアコンのFUJITSUは終了、「GENERAL」に - 家電 Watch</title>
@@ -4906,28 +4840,52 @@
     <link href="https://kaden.watch.impress.co.jp/docs/news/2051622.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 圧倒的コスパの高性能AI「Grok 4 Fast」が登場　Webなら“無制限・無料”で利用可能</title>
-    <updated>2025-10-01T04:00:23Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2025-10-01:/ait/articles/2510/01/news012.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2510/01/news012.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 男性が“女性の胸”に魅了されるのはなぜ？　欧州の研究者らが調査　「隠れているものほど欲望をかき立てる……？」</title>
+    <updated>2025-09-30T23:37:07Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-09-30:/news/articles/2510/01/news027.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2510/01/news027.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: オゾン層、2066年までに完全復旧する見込み</title>
-    <updated>2025-09-30T14:28:11Z</updated>
-    <id>tag:www.gizmodo.jp,2025-09-30:/2025/09/ozone-layer-full-recovery-3.html</id>
-    <link href="https://www.gizmodo.jp/2025/09/ozone-layer-full-recovery-3.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: t-wadaさんに聞く！『SQLアンチパターン第2版』 全27章まとめて紹介 - Findy Media</title>
+    <updated>2025-09-30T23:32:24Z</updated>
+    <id>tag:findy-code.io,2025-09-30:/media/articles/event-sql-antipatterns-250728</id>
+    <link href="https://findy-code.io/media/articles/event-sql-antipatterns-250728" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 日本郵便、レターパックの郵便追跡「到着」表示廃止</title>
-    <updated>2025-10-01T06:12:56Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-10-01:/docs/news/2051576.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2051576.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「長距離無線LAN」は日本国内でも活躍していた。いったいどんな場所で使われているのか？　バッファローに聞いた ～黒部ダムにも導入事例</title>
+    <updated>2025-09-30T22:08:09Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2025-09-30:/docs/special/2051258.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/special/2051258.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Googleの“謎キーボード”に秋の新作　黒電話のように回して入力する「Gboardダイヤルバージョン」</title>
-    <updated>2025-10-01T02:56:58Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-10-01:/news/articles/2510/01/news072.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2510/01/news072.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「コペルニクス的転回」を果たしたダイヤル式キーボード。Googleが発表、自作用設計図も公開</title>
+    <updated>2025-10-01T06:42:28Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-10-01:/docs/news/2051500.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2051500.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「NHK ONE」早々のトラブルにSNSでは「やっぱり」　“移行期間なし”に疑問の声</title>
+    <updated>2025-10-01T06:33:14Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-10-01:/news/articles/2510/01/news102.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2510/01/news102.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 命名設計の基本 - Qiita</title>
+    <updated>2025-10-01T09:08:10Z</updated>
+    <id>tag:qiita.com,2025-10-01:/y_hori/items/4c43e620f50bf1527b3e</id>
+    <link href="https://qiita.com/y_hori/items/4c43e620f50bf1527b3e" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: JR東日本の全ての指定席券売機が、「自由席」「指定席」というボタンを廃止し「きっぷを買う」のボタンを設置するUIに変更</title>
+    <updated>2025-10-01T13:22:41Z</updated>
+    <id>tag:togetter.com,2025-10-01:/li/2610053</id>
+    <link href="https://togetter.com/li/2610053" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【解説】ecspressoはなぜ必要？Terraformと併用するECSデプロイ戦略 - Qiita</title>
+    <updated>2025-10-01T10:37:02Z</updated>
+    <id>tag:qiita.com,2025-10-01:/N700A/items/99a802307e0184d48e32</id>
+    <link href="https://qiita.com/N700A/items/99a802307e0184d48e32" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「極論コンテンツ」との付き合い方について考えたこと</title>
@@ -4936,16 +4894,40 @@
     <link href="https://blog.tinect.jp/?p=90251" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: これぞ「描くために生まれた」高性能タブレット。スナドラ8s Gen 3に14型OLED搭載機がワコムから</title>
+    <updated>2025-10-01T02:44:43Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-10-01:/docs/news/2051342.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2051342.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 日本郵便、レターパックの郵便追跡「到着」表示廃止</title>
+    <updated>2025-10-01T06:12:56Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-10-01:/docs/news/2051576.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2051576.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: NHK ONE　認証コードが届かない不具合について | お知らせ</title>
+    <updated>2025-09-30T18:16:52Z</updated>
+    <id>tag:www.web.nhk,2025-09-30:/notification/sv0hosbnr6a6</id>
+    <link href="https://www.web.nhk/notification/sv0hosbnr6a6" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 圧倒的コスパの高性能AI「Grok 4 Fast」が登場　Webなら“無制限・無料”で利用可能</title>
+    <updated>2025-10-01T04:00:23Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2025-10-01:/ait/articles/2510/01/news012.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2510/01/news012.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIが生成した女優「ティリー・ノーウッド」がデビュー　ハリウッド関係者は強く反発</title>
+    <updated>2025-10-01T03:27:52Z</updated>
+    <id>tag:kai-you.net,2025-10-01:/article/93510</id>
+    <link href="https://kai-you.net/article/93510" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: セキュアブート署名切れに備えた「Rufus 4.10」が公開 ～無料のブータブルUSB作成ツール／ダークモードにも対応</title>
     <updated>2025-10-01T02:50:48Z</updated>
     <id>tag:forest.watch.impress.co.jp,2025-10-01:/docs/news/2050662.html</id>
     <link href="https://forest.watch.impress.co.jp/docs/news/2050662.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Nani - スーパーAI翻訳アプリ AIが高速・正確に解説付きで翻訳</title>
-    <updated>2025-10-01T03:05:02Z</updated>
-    <id>tag:nani.now,2025-10-01:/ja</id>
-    <link href="https://nani.now/ja" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: GmailでのPOPとGmailifyのサポートが2026年1月で終了、サードパーティー製POPメールを受信する機能が廃止に</title>
@@ -4954,15 +4936,33 @@
     <link href="https://gigazine.net/news/20251001-gmail-gmailify-pop-support-end/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 「Cursor」によるAIを用いたプログラミングについて学べる講座「Cursor Learn」を無料公開</title>
+    <updated>2025-09-30T10:54:07Z</updated>
+    <id>tag:codezine.jp,2025-09-30:/news/detail/22319</id>
+    <link href="https://codezine.jp/news/detail/22319" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Vue にまつわる3つのよくある誤解と、私がVueを選ぶ4つの理由</title>
+    <updated>2025-09-30T10:19:58Z</updated>
+    <id>tag:speakerdeck.com,2025-09-30:/ytr0903/vue-nimatuwaru3tunoyokuaruwu-jie-to-si-gavuewoxuan-bu4tunoli-you</id>
+    <link href="https://speakerdeck.com/ytr0903/vue-nimatuwaru3tunoyokuaruwu-jie-to-si-gavuewoxuan-bu4tunoli-you" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: イーロン・マスク氏、Wikipedia対抗「Grokipedia」開発へ</title>
     <updated>2025-10-01T01:50:55Z</updated>
     <id>tag:ascii.jp,2025-10-01:/elem/000/004/323/4323638/</id>
     <link href="https://ascii.jp/elem/000/004/323/4323638/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIが生成した女優「ティリー・ノーウッド」がデビュー　ハリウッド関係者は強く反発</title>
-    <updated>2025-10-01T03:27:52Z</updated>
-    <id>tag:kai-you.net,2025-10-01:/article/93510</id>
-    <link href="https://kai-you.net/article/93510" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「Google Chrome 141」が安定版に ～括弧の描画問題がようやく解決／「サイト分離」よりきめ細かいセキュリティ機能「オリジン分離」も段階的に展開</title>
+    <updated>2025-10-01T08:57:42Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-10-01:/docs/news/2051411.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2051411.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Googleの“謎キーボード”に秋の新作　黒電話のように回して入力する「Gboardダイヤルバージョン」</title>
+    <updated>2025-10-01T02:56:58Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-10-01:/news/articles/2510/01/news072.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2510/01/news072.html" rel="alternate"></link>
   </entry>
 </feed>
