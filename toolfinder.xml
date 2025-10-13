@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-10-13T01:07:49Z</updated>
+  <updated>2025-10-13T06:22:28Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3670,6 +3670,12 @@
     <link href="https://terminaltrove.com/feed/hexyl/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: r-finetune</title>
+    <updated>2025-10-13T02:58:50Z</updated>
+    <id>r-finetune-1760324330</id>
+    <link href="https://aur.archlinux.org/packages/r-finetune" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: moonlight-hook</title>
     <updated>2025-10-13T00:32:53Z</updated>
     <id>moonlight-hook-1760315573</id>
@@ -4264,10 +4270,46 @@
     <link href="https://aur.archlinux.org/packages/flutter-gtk-3.32.5" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: flutter-gtk-3.32.4</title>
-    <updated>2025-10-11T15:48:15Z</updated>
-    <id>flutter-gtk-3.32.4-1760197695</id>
-    <link href="https://aur.archlinux.org/packages/flutter-gtk-3.32.4" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-bcc 0.35.0-2 x86_64</title>
+    <updated>2025-10-13T06:12:12Z</updated>
+    <id>tag:archlinux.org,2025-10-13:/packages/extra-testing/x86_64/python-bcc/202510130612</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/python-bcc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: bcc-tools 0.35.0-2 x86_64</title>
+    <updated>2025-10-13T06:12:11Z</updated>
+    <id>tag:archlinux.org,2025-10-13:/packages/extra-testing/x86_64/bcc-tools/202510130612</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/bcc-tools/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: bcc 0.35.0-2 x86_64</title>
+    <updated>2025-10-13T06:12:11Z</updated>
+    <id>tag:archlinux.org,2025-10-13:/packages/extra-testing/x86_64/bcc/202510130612</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/bcc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: bcc-examples 0.35.0-2 x86_64</title>
+    <updated>2025-10-13T06:12:10Z</updated>
+    <id>tag:archlinux.org,2025-10-13:/packages/extra-testing/x86_64/bcc-examples/202510130612</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/bcc-examples/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: grub 2:2.12.r418.g6b5c671d-1 x86_64</title>
+    <updated>2025-10-13T05:12:30Z</updated>
+    <id>tag:archlinux.org,2025-10-13:/packages/core-testing/x86_64/grub/202510130512</id>
+    <link href="https://archlinux.org/packages/core-testing/x86_64/grub/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: imagemagick 7.1.2.6-1 x86_64</title>
+    <updated>2025-10-13T01:53:09Z</updated>
+    <id>tag:archlinux.org,2025-10-13:/packages/extra/x86_64/imagemagick/202510130153</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/imagemagick/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: errands 46.2.9-1 any</title>
+    <updated>2025-10-13T01:21:24Z</updated>
+    <id>tag:archlinux.org,2025-10-13:/packages/extra/any/errands/202510130121</id>
+    <link href="https://archlinux.org/packages/extra/any/errands/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: rofi-calc 2.5.0-1 x86_64</title>
@@ -4526,47 +4568,5 @@
     <updated>2025-10-12T16:34:38Z</updated>
     <id>tag:archlinux.org,2025-10-12:/packages/extra/x86_64/kwidgetsaddons/202510121634</id>
     <link href="https://archlinux.org/packages/extra/x86_64/kwidgetsaddons/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: kwallet 6.19.0-1 x86_64</title>
-    <updated>2025-10-12T16:34:38Z</updated>
-    <id>tag:archlinux.org,2025-10-12:/packages/extra/x86_64/kwallet/202510121634</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/kwallet/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: kuserfeedback 6.19.0-1 x86_64</title>
-    <updated>2025-10-12T16:34:37Z</updated>
-    <id>tag:archlinux.org,2025-10-12:/packages/extra/x86_64/kuserfeedback/202510121634</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/kuserfeedback/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: kunitconversion 6.19.0-1 x86_64</title>
-    <updated>2025-10-12T16:34:36Z</updated>
-    <id>tag:archlinux.org,2025-10-12:/packages/extra/x86_64/kunitconversion/202510121634</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/kunitconversion/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ktextwidgets 6.19.0-1 x86_64</title>
-    <updated>2025-10-12T16:34:36Z</updated>
-    <id>tag:archlinux.org,2025-10-12:/packages/extra/x86_64/ktextwidgets/202510121634</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/ktextwidgets/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ktexttemplate 6.19.0-1 x86_64</title>
-    <updated>2025-10-12T16:34:35Z</updated>
-    <id>tag:archlinux.org,2025-10-12:/packages/extra/x86_64/ktexttemplate/202510121634</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/ktexttemplate/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ktexteditor 6.19.0-1 x86_64</title>
-    <updated>2025-10-12T16:34:35Z</updated>
-    <id>tag:archlinux.org,2025-10-12:/packages/extra/x86_64/ktexteditor/202510121634</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/ktexteditor/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ksvg 6.19.0-1 x86_64</title>
-    <updated>2025-10-12T16:34:34Z</updated>
-    <id>tag:archlinux.org,2025-10-12:/packages/extra/x86_64/ksvg/202510121634</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/ksvg/" rel="alternate"></link>
   </entry>
 </feed>

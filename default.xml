@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-10-13T01:07:49Z</updated>
+  <updated>2025-10-13T06:22:28Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -142,16 +142,34 @@
     <link href="https://archlinux.org/news/providing-a-license-for-package-sources/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: necordとbullmqで、ジョブキューCLI併用Discord botの構築</title>
-    <updated>2025-10-12T15:58:02Z</updated>
-    <id>https://zenn.dev/andhisan/articles/02d50c7e2340d7</id>
-    <link href="https://zenn.dev/andhisan/articles/02d50c7e2340d7" rel="alternate"></link>
+    <title>3:zenn_trend: Anthropicが公開しているClaude Codeのベストプラクティスを初心者向けに解説</title>
+    <updated>2025-10-13T02:42:53Z</updated>
+    <id>https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide</id>
+    <link href="https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_guide" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: M5Stack CoreS3 の カメラ映像を Bluetooth LE で送信する</title>
+    <updated>2025-10-13T00:25:45Z</updated>
+    <id>https://zenn.dev/edom18/articles/jpeg-send-ble</id>
+    <link href="https://zenn.dev/edom18/articles/jpeg-send-ble" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 未経験から2年働いたエンジニアの本紹介</title>
     <updated>2025-10-12T13:30:01Z</updated>
     <id>https://zenn.dev/enkazu/articles/347f2bf59cb903</id>
     <link href="https://zenn.dev/enkazu/articles/347f2bf59cb903" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Remix 3 発表まとめ - React を捨て、Web標準で新しい世界へ</title>
+    <updated>2025-10-12T12:03:26Z</updated>
+    <id>https://zenn.dev/coji/articles/remix3-introduction</id>
+    <link href="https://zenn.dev/coji/articles/remix3-introduction" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 大規模計算時代におけるパラメータ推定自動化の歴史</title>
+    <updated>2025-10-12T10:41:01Z</updated>
+    <id>https://zenn.dev/cybernetics/articles/083cb782b4099c</id>
+    <link href="https://zenn.dev/cybernetics/articles/083cb782b4099c" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Error Boundary/Suspenseはどこに置く？ テスト・Storybook・UXのためのReactコンポーネント設計</title>
@@ -166,16 +184,16 @@
     <link href="https://zenn.dev/uji/articles/how-tinygo-tiny" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: Microsoft Agent Framework (C#) を見てみよう その7 チェックポイントの永続化</title>
-    <updated>2025-10-12T05:03:15Z</updated>
-    <id>https://zenn.dev/microsoft/articles/agent-framework-007</id>
-    <link href="https://zenn.dev/microsoft/articles/agent-framework-007" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: LLMのコーディングエージェントを効率よく使うために</title>
+    <title>3:zenn_trend: LLMのコーディングエージェント(主にCodex)を効率よく使うために</title>
     <updated>2025-10-12T04:48:29Z</updated>
     <id>https://zenn.dev/takeshy/articles/ffe23204d1d326</id>
     <link href="https://zenn.dev/takeshy/articles/ffe23204d1d326" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Figma MCPを使った静的Webサイト作成の自動化を検証する</title>
+    <updated>2025-10-12T04:06:57Z</updated>
+    <id>https://zenn.dev/shinya/articles/d6b0a6ee2df607</id>
+    <link href="https://zenn.dev/shinya/articles/d6b0a6ee2df607" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: ROS 2のパッケージを公開してみた</title>
@@ -226,12 +244,6 @@
     <link href="https://zenn.dev/poporo/articles/20251011_1_start_ddd_and_clean_architecture_rust" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: テキスト変換方式によるマルチモーダルRAGを構築してみた</title>
-    <updated>2025-10-11T00:53:38Z</updated>
-    <id>https://zenn.dev/timelab/articles/35ed5187137796</id>
-    <link href="https://zenn.dev/timelab/articles/35ed5187137796" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: 1時間でCodexとLINE Bot(WIP)</title>
     <updated>2025-10-10T09:07:57Z</updated>
     <id>https://zenn.dev/n0bisuke/books/codex-linebot</id>
@@ -248,18 +260,6 @@
     <updated>2025-10-10T08:00:01Z</updated>
     <id>https://zenn.dev/nstock/articles/5409e32a0c78c3</id>
     <link href="https://zenn.dev/nstock/articles/5409e32a0c78c3" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Androidの通知音の設定を自動化したかっただけなのに、OSのバグとか見つけた話</title>
-    <updated>2025-10-10T00:42:51Z</updated>
-    <id>https://zenn.dev/fairydevices/articles/67e2a780995fef</id>
-    <link href="https://zenn.dev/fairydevices/articles/67e2a780995fef" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 我々はCodexとどう向き合うべきなのか</title>
-    <updated>2025-10-09T22:00:06Z</updated>
-    <id>https://zenn.dev/aki_think/articles/5fb93a15a6257a</id>
-    <link href="https://zenn.dev/aki_think/articles/5fb93a15a6257a" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: 「散歩は最高のデバッグ時間」──エンジニアの集中力・作業効率・睡眠が劇的に改善する理由</title>
@@ -322,7 +322,7 @@
     <link href="https://qiita.com/umekikazuya/items/6d92fb70bf3c709ceb52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 【コンテキストエンジニアリングシリーズ】コーディングエージェントのメモリ設計 - 長期記憶システムの実装</title>
+    <title>3:qiita_trend: 【コンテキストエンジニアリングシリーズ】2)コーディングエージェントのメモリ設計 - 長期記憶システムの実装</title>
     <updated>2025-10-12T07:12:03Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/2091592</id>
     <link href="https://qiita.com/nogataka/items/3c40975a7271b8e8cf90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
@@ -4810,34 +4810,28 @@
     <link href="https://gihyo.jp/article/2024/10/yamagoya2024?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 読解力を分解してちゃんと文章を読む。 - じゃあ、おうちで学べる</title>
-    <updated>2025-10-12T00:30:32Z</updated>
-    <id>tag:syu-m-5151.hatenablog.com,2025-10-12:/entry/2025/10/12/081300</id>
-    <link href="https://syu-m-5151.hatenablog.com/entry/2025/10/12/081300" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「初めてのパターンだ…」ネットで輸入商品を買ったら、“開封動画撮影をお願いします”との注意書きがあった→「良いシステム」「台湾では普通にあった」</title>
-    <updated>2025-10-12T13:11:46Z</updated>
-    <id>tag:togetter.com,2025-10-12:/li/2614680</id>
-    <link href="https://togetter.com/li/2614680" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Remix 3 発表まとめ - React を捨て、Web標準で新しい世界へ</title>
-    <updated>2025-10-12T12:41:22Z</updated>
-    <id>tag:zenn.dev,2025-10-12:/coji/articles/remix3-introduction</id>
-    <link href="https://zenn.dev/coji/articles/remix3-introduction" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 【保存版】OpenAIのエンジニアが語る開発を１０倍速にするCodeXの使い方大全：バイブコーディングで設計→実装→レビューまで自動化｜チャエン | 重要AIニュースを毎日発信⚡️</title>
     <updated>2025-10-12T13:24:57Z</updated>
     <id>tag:note.com,2025-10-12:/chaen_channel/n/n68e6ae9df467</id>
     <link href="https://note.com/chaen_channel/n/n68e6ae9df467" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: アヒルの人形に話しかけて問題の解決を図る「ラバーダック・デバッグ」はなぜ有効なのか？</title>
-    <updated>2025-10-12T06:18:27Z</updated>
-    <id>tag:gigazine.net,2025-10-12:/news/20251012-rubber-duck-debug/</id>
-    <link href="https://gigazine.net/news/20251012-rubber-duck-debug/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 4年越しに「REALFORCE R4」が登場。マウス機能や近接センサーを新たに搭載</title>
+    <updated>2025-10-13T02:05:20Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-10-13:/docs/news/2054334.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2054334.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「Pocket」代替ツール6選--より進化したお薦めの「後で読む」アプリを紹介</title>
+    <updated>2025-10-13T00:45:37Z</updated>
+    <id>tag:japan.zdnet.com,2025-10-13:/article/35239092/</id>
+    <link href="https://japan.zdnet.com/article/35239092/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Pythonではじめるオープンデータ分析 経済統計の取得から、データハンドリング・可視化・分析まで</title>
+    <updated>2025-10-12T05:36:01Z</updated>
+    <id>tag:www.kspub.co.jp,2025-10-12:/book/detail/5412251.html</id>
+    <link href="https://www.kspub.co.jp/book/detail/5412251.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 壁にコンセントがなかった大正時代、人々はどうやって家電を使っていたのか--その答えは</title>
@@ -4846,58 +4840,16 @@
     <link href="https://japan.cnet.com/article/35239127/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIが職を奪う｢常識｣疑え、勝者は若手－敗者は経験豊富なベテラン幹部</title>
-    <updated>2025-10-12T03:38:28Z</updated>
-    <id>tag:www.bloomberg.co.jp,2025-10-12:/news/articles/2025-10-11/T3SLEFGOT0JK00</id>
-    <link href="https://www.bloomberg.co.jp/news/articles/2025-10-11/T3SLEFGOT0JK00" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 認知負荷を下げるテキストコミュニケーション - ジンジャー研究室</title>
-    <updated>2025-10-09T02:43:27Z</updated>
-    <id>tag:jinjor-labo.hatenablog.com,2025-10-09:/entry/2025/10/09/042519</id>
-    <link href="https://jinjor-labo.hatenablog.com/entry/2025/10/09/042519" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Soraの透かしは、もはや信じられない | ライフハッカー・ジャパン</title>
-    <updated>2025-10-12T09:07:00Z</updated>
-    <id>tag:www.lifehacker.jp,2025-10-12:/article/2510those-ai-videos-might-actually-be-real/</id>
-    <link href="https://www.lifehacker.jp/article/2510those-ai-videos-might-actually-be-real/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: コンテナ化されたアプリケーション用の Amazon ECS マネージドインスタンスの発表 | Amazon Web Services</title>
     <updated>2025-10-11T13:28:37Z</updated>
     <id>tag:aws.amazon.com,2025-10-11:/jp/blogs/news/announcing-amazon-ecs-managed-instances-for-containerized-applications/</id>
     <link href="https://aws.amazon.com/jp/blogs/news/announcing-amazon-ecs-managed-instances-for-containerized-applications/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHubでサプライチェーン攻撃を防ぐ設定 - Plan 9とGo言語のブログ</title>
-    <updated>2025-10-12T12:06:33Z</updated>
-    <id>tag:blog.lufia.org,2025-10-12:/entry/2025/10/12/172307</id>
-    <link href="https://blog.lufia.org/entry/2025/10/12/172307" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【格安プラン比較】povo2.0と楽天モバイル『帰宅ラッシュ時に使えないデータ使い放題』判明、5G通信品質を徹底検証してみた | Buzzap！</title>
-    <updated>2025-10-11T14:55:27Z</updated>
-    <id>tag:buzzap.jp,2025-10-11:/news/20251011-povo2_0-rakuten-mobile-5g-network-comparison-2025/</id>
-    <link href="https://buzzap.jp/news/20251011-povo2_0-rakuten-mobile-5g-network-comparison-2025/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「PCの物理破壊を業者に依頼したのに、オンラインへの接続を検知」企業が遭遇したトラブルに色々考えさせられる</title>
-    <updated>2025-10-12T08:30:29Z</updated>
-    <id>tag:togetter.com,2025-10-12:/li/2614615</id>
-    <link href="https://togetter.com/li/2614615" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: OpenTelemetryの計装ライブラリ比較 for database/sql - Cybozu Inside Out | サイボウズエンジニアのブログ</title>
-    <updated>2025-10-12T06:11:22Z</updated>
-    <id>tag:blog.cybozu.io,2025-10-12:/entry/2025/10/06/170000</id>
-    <link href="https://blog.cybozu.io/entry/2025/10/06/170000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Windows 11 Ver.25H2での変更点、新機能を整理する (1/2)</title>
-    <updated>2025-10-12T01:08:00Z</updated>
-    <id>tag:ascii.jp,2025-10-12:/elem/000/004/326/4326575/</id>
-    <link href="https://ascii.jp/elem/000/004/326/4326575/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「初めてのパターンだ…」ネットで輸入商品を買ったら、“開封動画撮影をお願いします”との注意書きがあった→「良いシステム」「台湾では普通にあった」</title>
+    <updated>2025-10-12T13:11:46Z</updated>
+    <id>tag:togetter.com,2025-10-12:/li/2614680</id>
+    <link href="https://togetter.com/li/2614680" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 大規模サーバーレスAPIの堅牢性・信頼性設計 〜AWSのベストプラクティスから始まる現実的制約との向き合い方〜</title>
@@ -4906,16 +4858,22 @@
     <link href="https://speakerdeck.com/maimyyym/large-scale-reliable-serverless-api-aws-practices" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 2025年10月7日付けで発表されたAWSサービス終了・新規利用停止まとめ | DevelopersIO</title>
-    <updated>2025-10-09T21:04:03Z</updated>
-    <id>tag:dev.classmethod.jp,2025-10-09:/articles/aws-service-lifecycle-summary-20251007/</id>
-    <link href="https://dev.classmethod.jp/articles/aws-service-lifecycle-summary-20251007/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 読解力を分解してちゃんと文章を読む。 - じゃあ、おうちで学べる</title>
+    <updated>2025-10-12T00:30:32Z</updated>
+    <id>tag:syu-m-5151.hatenablog.com,2025-10-12:/entry/2025/10/12/081300</id>
+    <link href="https://syu-m-5151.hatenablog.com/entry/2025/10/12/081300" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Playwright Agents によるテストの自動生成を試してみた</title>
-    <updated>2025-10-12T06:17:12Z</updated>
-    <id>tag:azukiazusa.dev,2025-10-12:/blog/playwright-agents/</id>
-    <link href="https://azukiazusa.dev/blog/playwright-agents/" rel="alternate"></link>
+    <title>1:hatena_blog_it: アヒルの人形に話しかけて問題の解決を図る「ラバーダック・デバッグ」はなぜ有効なのか？</title>
+    <updated>2025-10-12T06:18:27Z</updated>
+    <id>tag:gigazine.net,2025-10-12:/news/20251012-rubber-duck-debug/</id>
+    <link href="https://gigazine.net/news/20251012-rubber-duck-debug/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIが職を奪う｢常識｣疑え、勝者は若手－敗者は経験豊富なベテラン幹部</title>
+    <updated>2025-10-12T03:38:28Z</updated>
+    <id>tag:www.bloomberg.co.jp,2025-10-12:/news/articles/2025-10-11/T3SLEFGOT0JK00</id>
+    <link href="https://www.bloomberg.co.jp/news/articles/2025-10-11/T3SLEFGOT0JK00" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Huawei、LLMの精度を保持したまま最大70%メモリ削減できる新手法を発表──コンシューマーGPUでの高精度生成AI実行も視野に | Ledge.ai</title>
@@ -4924,10 +4882,70 @@
     <link href="https://ledge.ai/articles/huawei_sinq_quantization_llm" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: OpenTelemetryの計装ライブラリ比較 for database/sql - Cybozu Inside Out | サイボウズエンジニアのブログ</title>
+    <updated>2025-10-12T06:11:22Z</updated>
+    <id>tag:blog.cybozu.io,2025-10-12:/entry/2025/10/06/170000</id>
+    <link href="https://blog.cybozu.io/entry/2025/10/06/170000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHubでサプライチェーン攻撃を防ぐ設定 - Plan 9とGo言語のブログ</title>
+    <updated>2025-10-12T12:06:33Z</updated>
+    <id>tag:blog.lufia.org,2025-10-12:/entry/2025/10/12/172307</id>
+    <link href="https://blog.lufia.org/entry/2025/10/12/172307" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Soraの透かしは、もはや信じられない | ライフハッカー・ジャパン</title>
+    <updated>2025-10-12T09:07:00Z</updated>
+    <id>tag:www.lifehacker.jp,2025-10-12:/article/2510those-ai-videos-might-actually-be-real/</id>
+    <link href="https://www.lifehacker.jp/article/2510those-ai-videos-might-actually-be-real/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: React Conf 2025</title>
+    <updated>2025-10-13T03:07:57Z</updated>
+    <id>tag:blog.re-taro.dev,2025-10-13:/p/01K72ECG97DYRTNSG7CB6KB6J9</id>
+    <link href="https://blog.re-taro.dev/p/01K72ECG97DYRTNSG7CB6KB6J9" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「俺の話を聞けー」なAltを卒業する。代替テキストは「情報」の羅列ではなく「機能」の伝達である｜Katsutoshi Tsuji</title>
+    <updated>2025-10-13T04:34:35Z</updated>
+    <id>tag:note.com,2025-10-13:/debugon/n/ne7045920b2f9</id>
+    <link href="https://note.com/debugon/n/ne7045920b2f9" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: スマートグラスで女子大学生を盗撮した人が逮捕される</title>
+    <updated>2025-10-12T12:48:39Z</updated>
+    <id>tag:www.gizmodo.jp,2025-10-12:/2025/10/buckle-up-the-smart-glasses-backlash-is-coming.html</id>
+    <link href="https://www.gizmodo.jp/2025/10/buckle-up-the-smart-glasses-backlash-is-coming.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 夫が仕事を辞めたいと言う［追記］</title>
+    <updated>2025-10-11T23:02:24Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-10-11:/20190802134854</id>
+    <link href="https://anond.hatelabo.jp/20190802134854" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Windows 11 Ver.25H2での変更点、新機能を整理する (1/2)</title>
+    <updated>2025-10-12T01:08:00Z</updated>
+    <id>tag:ascii.jp,2025-10-12:/elem/000/004/326/4326575/</id>
+    <link href="https://ascii.jp/elem/000/004/326/4326575/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 認知負荷を下げるテキストコミュニケーション - ジンジャー研究室</title>
+    <updated>2025-10-09T02:43:27Z</updated>
+    <id>tag:jinjor-labo.hatenablog.com,2025-10-09:/entry/2025/10/09/042519</id>
+    <link href="https://jinjor-labo.hatenablog.com/entry/2025/10/09/042519" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: FigmaとGoogleが提携、Gemini AIを統合してデザインワークフローを革新</title>
     <updated>2025-10-12T02:23:18Z</updated>
     <id>tag:www.unprinted.design,2025-10-12:/news/figma-google-gemini-partnership/</id>
     <link href="https://www.unprinted.design/news/figma-google-gemini-partnership/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 2025年10月7日付けで発表されたAWSサービス終了・新規利用停止まとめ | DevelopersIO</title>
+    <updated>2025-10-09T21:04:03Z</updated>
+    <id>tag:dev.classmethod.jp,2025-10-09:/articles/aws-service-lifecycle-summary-20251007/</id>
+    <link href="https://dev.classmethod.jp/articles/aws-service-lifecycle-summary-20251007/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ビジネスインテリジェンスの再解釈 : Amazon QuickSight から Amazon Quick Suite への進化 | Amazon Web Services</title>
@@ -4936,34 +4954,10 @@
     <link href="https://aws.amazon.com/jp/blogs/news/reimagine-business-intelligence-amazon-quicksight-evolves-to-amazon-quick-suite/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub - acsandmann/rift: a tiling window manager for macos</title>
-    <updated>2025-10-12T04:23:13Z</updated>
-    <id>tag:github.com,2025-10-12:/acsandmann/rift</id>
-    <link href="https://github.com/acsandmann/rift" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 東大が２学部新設の構想、ＡＩや宇宙開発の起業目指す人材育成狙う…卓越大認定の助成金で</title>
-    <updated>2025-10-11T22:49:14Z</updated>
-    <id>tag:www.yomiuri.co.jp,2025-10-11:/kyoiku/kyoiku/news/20251012-OYT1T50000/</id>
-    <link href="https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20251012-OYT1T50000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIで毎月1500万円を稼ぐ──プログラミングを学ばず実践する「4つの方法」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-    <updated>2025-10-10T08:01:43Z</updated>
-    <id>tag:forbesjapan.com,2025-10-10:/articles/detail/83155</id>
-    <link href="https://forbesjapan.com/articles/detail/83155" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: [アップデート] Service Quotas にクォータが最大使用率に近づいた時に通知を送信できる「自動管理設定」機能が追加されました | DevelopersIO</title>
-    <updated>2025-10-11T11:45:39Z</updated>
-    <id>tag:dev.classmethod.jp,2025-10-11:/articles/automatic-quota-management-service-quotas/</id>
-    <link href="https://dev.classmethod.jp/articles/automatic-quota-management-service-quotas/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 外国人の農地取得最多１７５ヘクタール　個人、法人共に中国が最多　２４年 / 日本農業新聞公式ウェブサイト</title>
-    <updated>2025-10-12T01:43:25Z</updated>
-    <id>tag:www.agrinews.co.jp,2025-10-12:/news/index/332356</id>
-    <link href="https://www.agrinews.co.jp/news/index/332356" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【格安プラン比較】povo2.0と楽天モバイル『帰宅ラッシュ時に使えないデータ使い放題』判明、5G通信品質を徹底検証してみた | Buzzap！</title>
+    <updated>2025-10-11T14:55:27Z</updated>
+    <id>tag:buzzap.jp,2025-10-11:/news/20251011-povo2_0-rakuten-mobile-5g-network-comparison-2025/</id>
+    <link href="https://buzzap.jp/news/20251011-povo2_0-rakuten-mobile-5g-network-comparison-2025/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ChatGPT および API統合 のためのMCPサーバ構築｜npaka</title>
