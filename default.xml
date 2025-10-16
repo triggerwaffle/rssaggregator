@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-10-16T01:04:12Z</updated>
+  <updated>2025-10-16T06:21:23Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -142,6 +142,24 @@
     <link href="https://archlinux.org/news/providing-a-license-for-package-sources/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: TypeScriptにResult型を導入するための妥協点はどこか？</title>
+    <updated>2025-10-15T07:08:55Z</updated>
+    <id>https://zenn.dev/praha/articles/2eb151a891be16</id>
+    <link href="https://zenn.dev/praha/articles/2eb151a891be16" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: propsを1つ増やしただけなのにレスポンスサイズが5倍に増えてしまった</title>
+    <updated>2025-10-15T00:53:07Z</updated>
+    <id>https://zenn.dev/chot/articles/e0e2203d12bff8</id>
+    <link href="https://zenn.dev/chot/articles/e0e2203d12bff8" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 実サービスへの搭載に向けたLLM AgentとMeta Agentの研究開発</title>
+    <updated>2025-10-14T23:33:34Z</updated>
+    <id>https://zenn.dev/elyza/articles/4c78076139a733</id>
+    <link href="https://zenn.dev/elyza/articles/4c78076139a733" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: ごめん、カーソル移動を効率的にするヘルシェイク矢野.vimのこと考えてた</title>
     <updated>2025-10-14T22:11:19Z</updated>
     <id>https://zenn.dev/takets/articles/vim-plugin-hellshake-yano</id>
@@ -154,16 +172,22 @@
     <link href="https://zenn.dev/yayo1/articles/4fb4dd2a6c4654" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: ハッカソンはいいぞ！ー Revenuecat主催のハッカソンに参加してみて</title>
-    <updated>2025-10-14T14:05:15Z</updated>
-    <id>https://zenn.dev/kontaco/articles/0415ba73e8099c</id>
-    <link href="https://zenn.dev/kontaco/articles/0415ba73e8099c" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: 大阪万博内部 API 解説</title>
     <updated>2025-10-14T09:38:31Z</updated>
     <id>https://zenn.dev/nakasyou/articles/osakaexpo-api</id>
     <link href="https://zenn.dev/nakasyou/articles/osakaexpo-api" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Claude Codeチームの事例から考える、AI時代のon distributionな技術選定</title>
+    <updated>2025-10-14T08:30:06Z</updated>
+    <id>https://zenn.dev/r_kaga/articles/c84a6af89e3020</id>
+    <link href="https://zenn.dev/r_kaga/articles/c84a6af89e3020" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: AIに技術記事を書かせる：9回の反復で到達した「完璧すぎる」という逆説</title>
+    <updated>2025-10-14T08:03:19Z</updated>
+    <id>https://zenn.dev/uhyo/articles/ai-writes-tech-articles-202510</id>
+    <link href="https://zenn.dev/uhyo/articles/ai-writes-tech-articles-202510" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Nani翻訳の技術的な話</title>
@@ -172,16 +196,16 @@
     <link href="https://zenn.dev/catnose99/articles/nani-translate" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 世界でもっともiOS26を再現したCSSライブラリをリリース！</title>
+    <updated>2025-10-14T05:12:00Z</updated>
+    <id>https://zenn.dev/rdlabo/articles/1cac6284b08db2</id>
+    <link href="https://zenn.dev/rdlabo/articles/1cac6284b08db2" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: RAGでドキュメントの更新に強くする手法</title>
     <updated>2025-10-14T01:00:33Z</updated>
     <id>https://zenn.dev/knowledgesense/articles/8b96daf7ca2474</id>
     <link href="https://zenn.dev/knowledgesense/articles/8b96daf7ca2474" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 【Unity】フキダシUIを作ろう、それもテキストに応じて伸びるやつな【ハンズオン, LayoutGroup, LayoutElement】</title>
-    <updated>2025-10-13T22:07:05Z</updated>
-    <id>https://zenn.dev/gameshitai/articles/0b35fe99012c6a</id>
-    <link href="https://zenn.dev/gameshitai/articles/0b35fe99012c6a" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Vibe Codingで25万ダウンロード超のOSSを開発できた。できたが… ── AIの役割 vs 人間の役割ではなく「協働」で考える</title>
@@ -190,19 +214,13 @@
     <link href="https://zenn.dev/team_zenn/articles/claudecode-ai-coding-vs-human-engineer" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: AWS Lambda(Ruby)の起動が遅い…ボトルネックを特定するまでの道のり</title>
-    <updated>2025-10-13T21:00:01Z</updated>
-    <id>https://zenn.dev/fusic/articles/aws-lambda-ruby-function-performance</id>
-    <link href="https://zenn.dev/fusic/articles/aws-lambda-ruby-function-performance" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: Next.js App Routerで破綻しない設計──本番で使えるアーキテクチャ実践ガイド</title>
     <updated>2025-10-13T15:32:56Z</updated>
     <id>https://zenn.dev/yukionishi/articles/cd79e39ea6c172</id>
     <link href="https://zenn.dev/yukionishi/articles/cd79e39ea6c172" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: yomitokuで作る無料の日本語OCR Webアプリ【Flask + TypeScript】</title>
+    <title>3:zenn_trend: yomitokuで作る日本語OCR Webアプリ【Flask + TypeScript】</title>
     <updated>2025-10-13T14:45:46Z</updated>
     <id>https://zenn.dev/lecto/articles/b345c7f3920ae9</id>
     <link href="https://zenn.dev/lecto/articles/b345c7f3920ae9" rel="alternate"></link>
@@ -212,12 +230,6 @@
     <updated>2025-10-13T14:28:18Z</updated>
     <id>https://zenn.dev/pppp303/articles/claude-ops-mcp-memory</id>
     <link href="https://zenn.dev/pppp303/articles/claude-ops-mcp-memory" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Unity: 2D で大量の草を生やす</title>
-    <updated>2025-10-13T14:24:18Z</updated>
-    <id>https://zenn.dev/ruccho/articles/258b59603547d0</id>
-    <link href="https://zenn.dev/ruccho/articles/258b59603547d0" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 知ってるかい？Codexならスマホでタスク完結できる世界線を。</title>
@@ -230,12 +242,6 @@
     <updated>2025-10-13T10:00:01Z</updated>
     <id>https://zenn.dev/mj2mkt/articles/2025-10-12-dont-add-columns-at-random</id>
     <link href="https://zenn.dev/mj2mkt/articles/2025-10-12-dont-add-columns-at-random" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Snowflake 自律化サービスがもたらすデータエンジニアの新時代</title>
-    <updated>2025-10-13T09:54:38Z</updated>
-    <id>https://zenn.dev/dataheroes/articles/d6da9fb50e0b1e</id>
-    <link href="https://zenn.dev/dataheroes/articles/d6da9fb50e0b1e" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 【React】「とりあえず切り出す」をやめる - カスタムフック設計で大事なこと</title>
@@ -254,12 +260,6 @@
     <updated>2025-10-12T06:00:05Z</updated>
     <id>https://zenn.dev/uji/articles/how-tinygo-tiny</id>
     <link href="https://zenn.dev/uji/articles/how-tinygo-tiny" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: モダンフロントエンドはJSON APIが鬱陶しいので、無くしていきたい</title>
-    <updated>2025-10-12T00:44:01Z</updated>
-    <id>https://zenn.dev/naofumik/articles/0714f7237a493c</id>
-    <link href="https://zenn.dev/naofumik/articles/0714f7237a493c" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: 【2025年最新版】0からReactを勉強するならこのロードマップに従え！</title>
@@ -1070,6 +1070,12 @@
     <updated>2025-10-02T15:51:37Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8333</id>
     <link href="https://www.publickey1.jp/blog/25/weblinuxnodeswebwebassemblybrowserpod.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: Rust製高速コードエディタ「Zed」がWindowsに対応</title>
+    <updated>2025-10-16T02:10:00Z</updated>
+    <id>urn:uuid:4d598ee9-be0f-f2de-c773-6c262ac12dc4</id>
+    <link href="https://gihyo.jp/article/2025/10/zed-for-windows?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Pixel Watch 2/3向けにWear OS 6が配信開始</title>
@@ -4834,22 +4840,10 @@
     <link href="https://gihyo.jp/article/2024/10/daily-linux-241016?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 人工知能基本計画 - 科学技術・イノベーション - 内閣府</title>
-    <updated>2025-10-15T12:53:17Z</updated>
-    <id>tag:www8.cao.go.jp,2025-10-15:/cstp/ai/ai_plan/ai_plan.html</id>
-    <link href="https://www8.cao.go.jp/cstp/ai/ai_plan/ai_plan.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「ドングリの豊作凶作は関係なくクマは増えてます」「新世代熊は人間が怖くないからクマ避けの鈴が効かない」クマスプレー取扱店が被害が増加すると考える理由</title>
-    <updated>2025-10-15T08:10:48Z</updated>
-    <id>tag:togetter.com,2025-10-15:/li/2616034</id>
-    <link href="https://togetter.com/li/2616034" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Apple、M5チップを搭載した新しい14インチMacBook Proを発表</title>
-    <updated>2025-10-15T13:17:05Z</updated>
-    <id>tag:www.apple.com,2025-10-15:/jp/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/</id>
-    <link href="https://www.apple.com/jp/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/" rel="alternate"></link>
+    <title>2:gihyo_site: 第18回　日常から離れる楽しさ：一般相対論をExcelで</title>
+    <updated>2006-10-10T01:14:00Z</updated>
+    <id>urn:uuid:b8ce386d-83a7-e604-bb2c-07552dc18bd4</id>
+    <link href="https://gihyo.jp/science/serial/01/pythagoras/0018?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 分割キーボード「Cornix」レビュー、すべてにおいて文句なし｜けんすう</title>
@@ -4858,10 +4852,40 @@
     <link href="https://kensuu.com/n/n353cc0959e04" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: “内臓脂肪”が多いと脳の老化が加速──各部位の脂肪と脳への影響を調査　海外チームが発表</title>
+    <updated>2025-10-15T23:13:39Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-10-15:/news/articles/2510/16/news022.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2510/16/news022.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「ドングリの豊作凶作は関係なくクマは増えてます」「新世代熊は人間が怖くないからクマ避けの鈴が効かない」クマスプレー取扱店が被害が増加すると考える理由</title>
+    <updated>2025-10-15T08:10:48Z</updated>
+    <id>tag:togetter.com,2025-10-15:/li/2616034</id>
+    <link href="https://togetter.com/li/2616034" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 人工知能基本計画 - 科学技術・イノベーション - 内閣府</title>
+    <updated>2025-10-15T12:53:17Z</updated>
+    <id>tag:www8.cao.go.jp,2025-10-15:/cstp/ai/ai_plan/ai_plan.html</id>
+    <link href="https://www8.cao.go.jp/cstp/ai/ai_plan/ai_plan.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Apple、M5チップを搭載した新しい14インチMacBook Proを発表</title>
+    <updated>2025-10-15T13:17:05Z</updated>
+    <id>tag:www.apple.com,2025-10-15:/jp/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/</id>
+    <link href="https://www.apple.com/jp/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 「Windows 10」を1年延命できるESU、個人向けを「Microsoft Store」からも購入可能に／価格は3,500円（税込み）</title>
     <updated>2025-10-15T23:02:48Z</updated>
     <id>tag:forest.watch.impress.co.jp,2025-10-15:/docs/news/2055307.html</id>
     <link href="https://forest.watch.impress.co.jp/docs/news/2055307.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OpenAI、NVIDIAと200兆円「循環投資」　ITバブル型錬金術に危うさ - 日本経済新聞</title>
+    <updated>2025-10-15T21:16:11Z</updated>
+    <id>tag:www.nikkei.com,2025-10-15:/article/DGXZQOGN090FV0Z01C25A0000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN090FV0Z01C25A0000000/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AIエージェントを支える技術: コンテキストエンジニアリングの現在地 - Algomatic Tech Blog</title>
@@ -4882,58 +4906,10 @@
     <link href="https://pc.watch.impress.co.jp/docs/news/2055186.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「NHK受信料」のせいで、NHK ONEは解約しづらい？　”簡単にやめられない”仕組み解説</title>
-    <updated>2025-10-15T08:14:20Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-10-15:/mobile/articles/2510/15/news114.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2510/15/news114.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: OpenAI、NVIDIAと200兆円「循環投資」　ITバブル型錬金術に危うさ - 日本経済新聞</title>
-    <updated>2025-10-15T21:16:11Z</updated>
-    <id>tag:www.nikkei.com,2025-10-15:/article/DGXZQOGN090FV0Z01C25A0000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN090FV0Z01C25A0000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: M5チップ搭載で進化「Apple Vision Pro」。新バンドでフィット感向上</title>
-    <updated>2025-10-15T13:49:24Z</updated>
-    <id>tag:av.watch.impress.co.jp,2025-10-15:/docs/news/2055282.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/news/2055282.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 文章力を分解してちゃんと文章を書く。 - じゃあ、おうちで学べる</title>
-    <updated>2025-10-14T07:15:41Z</updated>
-    <id>tag:syu-m-5151.hatenablog.com,2025-10-14:/entry/2025/10/14/133602</id>
-    <link href="https://syu-m-5151.hatenablog.com/entry/2025/10/14/133602" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: アップル、M5チップ搭載の「MacBook Pro」 24.8万円から</title>
-    <updated>2025-10-15T13:35:33Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-10-15:/docs/news/2055279.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2055279.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: データ分析基盤ツールカオスマップ 2025年下期版 - Findy Tools</title>
     <updated>2025-10-16T00:35:01Z</updated>
     <id>tag:findy-tools.io,2025-10-16:/articles/datainfra-chaosmap/153</id>
     <link href="https://findy-tools.io/articles/datainfra-chaosmap/153" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: PostgreSQL 18の新機能「B-treeインデックスのスキップスキャン」 | フューチャー技術ブログ</title>
-    <updated>2025-10-15T00:39:46Z</updated>
-    <id>tag:future-architect.github.io,2025-10-15:/articles/20251014a/</id>
-    <link href="https://future-architect.github.io/articles/20251014a/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIに技術記事を書かせる：9回の反復で到達した「完璧すぎる」という逆説</title>
-    <updated>2025-10-15T02:00:50Z</updated>
-    <id>tag:zenn.dev,2025-10-15:/uhyo/articles/ai-writes-tech-articles-202510</id>
-    <link href="https://zenn.dev/uhyo/articles/ai-writes-tech-articles-202510" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 第883回　Minisforum AI X1 PROでLLMを高速に動作させる | gihyo.jp</title>
-    <updated>2025-10-15T12:42:33Z</updated>
-    <id>tag:gihyo.jp,2025-10-15:/admin/serial/01/ubuntu-recipe/0883</id>
-    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0883" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ALL CODE BASE ARE BELONG TO STUDY</title>
@@ -4942,69 +4918,99 @@
     <link href="https://speakerdeck.com/uzulla/all-code-base-are-belong-to-study" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: propsを1つ増やしただけなのにレスポンスサイズが5倍に増えてしまった</title>
-    <updated>2025-10-15T23:58:24Z</updated>
-    <id>tag:zenn.dev,2025-10-15:/chot/articles/e0e2203d12bff8</id>
-    <link href="https://zenn.dev/chot/articles/e0e2203d12bff8" rel="alternate"></link>
+    <title>1:hatena_blog_it: 東大、“独立したキー”を自在に配置できる新キーボード開発　キー単位で気軽に再配列</title>
+    <updated>2025-10-15T23:14:03Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-10-15:/news/articles/2510/16/news023.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2510/16/news023.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: iPhone 17を3週間使ってみたけど、やっぱりiPhone SEは手放せなかった</title>
-    <updated>2025-10-15T12:06:50Z</updated>
-    <id>tag:www.gizmodo.jp,2025-10-15:/2025/10/iphone17_iphonese_review.html</id>
-    <link href="https://www.gizmodo.jp/2025/10/iphone17_iphonese_review.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: ［W3Cテックリードに聞く(前編)］ W3Cとは？Web標準ってどうやって作られているの？ - Cybozu Inside Out | サイボウズエンジニアのブログ</title>
+    <updated>2025-10-16T03:00:21Z</updated>
+    <id>tag:blog.cybozu.io,2025-10-16:/entry/w3c-interview-part1</id>
+    <link href="https://blog.cybozu.io/entry/w3c-interview-part1" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【笠原一輝のユビキタス情報局】 気軽に遊べて時間が溶けていく……。Ryzen Z2 A搭載ゲーミングPC「ROG Xbox Ally」を試す</title>
-    <updated>2025-10-15T13:21:07Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-10-15:/docs/column/ubiq/2054901.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/ubiq/2054901.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: IT業界の劣等感との付き合い方</title>
+    <updated>2025-10-15T23:28:50Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-10-15:/20251016082708</id>
+    <link href="https://anond.hatelabo.jp/20251016082708" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「NVIDIAの世界最小スパコン」ことDGX Sparkを実際に使ってみた海外レビューまとめ</title>
-    <updated>2025-10-15T10:54:31Z</updated>
-    <id>tag:gigazine.net,2025-10-15:/news/20251015-nvidia-dgx-spark/</id>
-    <link href="https://gigazine.net/news/20251015-nvidia-dgx-spark/" rel="alternate"></link>
+    <title>1:hatena_blog_it: WSUSはもう使えなくなる！？次期WAN更改で検討すべきネットワークのポイント-エンタープライズIT [COLUMNS]</title>
+    <updated>2025-10-16T03:15:04Z</updated>
+    <id>tag:ent.iij.ad.jp,2025-10-16:/articles/9794/</id>
+    <link href="https://ent.iij.ad.jp/articles/9794/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 自民党、記者会見の全文書き起こしをXで公開　「徹底した一次情報を」</title>
-    <updated>2025-10-15T07:12:45Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-10-15:/news/articles/2510/15/news104.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2510/15/news104.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: ドメインを解き、事業を動かす。ニーリーQAの野望 - Nealle Developer's Blog</title>
+    <updated>2025-10-16T01:10:52Z</updated>
+    <id>tag:nealle-dev.hatenablog.com,2025-10-16:/entry/2025/10/16/101037</id>
+    <link href="https://nealle-dev.hatenablog.com/entry/2025/10/16/101037" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 実サービスへの搭載に向けたLLM AgentとMeta Agentの研究開発</title>
-    <updated>2025-10-15T03:00:12Z</updated>
-    <id>tag:zenn.dev,2025-10-15:/elyza/articles/4c78076139a733</id>
-    <link href="https://zenn.dev/elyza/articles/4c78076139a733" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「アウトカム思考」の布教活動から始める。「やみくもな機能リリース最優先」から脱却する方法 | レバテックラボ（レバテックLAB）</title>
+    <updated>2025-10-16T01:31:53Z</updated>
+    <id>tag:levtech.jp,2025-10-16:/media/article/column/detail_738/</id>
+    <link href="https://levtech.jp/media/article/column/detail_738/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ChatGPT、成人向けコンテンツを12月に解禁へ</title>
-    <updated>2025-10-14T21:57:51Z</updated>
-    <id>tag:japan.cnet.com,2025-10-14:/article/35239194/</id>
-    <link href="https://japan.cnet.com/article/35239194/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 文章力を分解してちゃんと文章を書く。 - じゃあ、おうちで学べる</title>
+    <updated>2025-10-14T07:15:41Z</updated>
+    <id>tag:syu-m-5151.hatenablog.com,2025-10-14:/entry/2025/10/14/133602</id>
+    <link href="https://syu-m-5151.hatenablog.com/entry/2025/10/14/133602" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 日立、IOWNを活用した「Borderless Data Share」を展示　長距離間でも完全同期が可能に</title>
-    <updated>2025-10-15T09:14:34Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2025-10-15:/docs/news/2055189.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2055189.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 第883回　Minisforum AI X1 PROでLLMを高速に動作させる | gihyo.jp</title>
+    <updated>2025-10-15T12:42:33Z</updated>
+    <id>tag:gihyo.jp,2025-10-15:/admin/serial/01/ubuntu-recipe/0883</id>
+    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0883" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【Excel】もうVLOOKUPには戻れない？　新定番「XLOOKUP」関数の使い方</title>
-    <updated>2025-10-15T06:07:12Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2025-10-15:/ait/articles/2510/15/news017.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2510/15/news017.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 権利者「そもそも許可していません」　2つ存在したSwitch版「ブライ上巻」の一方が販売終了に　</title>
+    <updated>2025-10-16T04:37:19Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-10-16:/news/articles/2510/16/news094.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2510/16/news094.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: アップル、M5チップ搭載の有機EL新「iPad Pro」。120Hzの外部ディスプレイ使用可能に</title>
-    <updated>2025-10-15T14:12:23Z</updated>
-    <id>tag:av.watch.impress.co.jp,2025-10-15:/docs/news/2055287.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/news/2055287.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「NHK受信料」のせいで、NHK ONEは解約しづらい？　”簡単にやめられない”仕組み解説</title>
+    <updated>2025-10-15T08:14:20Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-10-15:/mobile/articles/2510/15/news114.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2510/15/news114.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Slackは「エージェンティックOS」になる　再設計で大型アップデート</title>
-    <updated>2025-10-15T03:04:20Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-10-15:/docs/news/2054970.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2054970.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: ZOZOマッチアプリのアーキテクチャと技術構成 - ZOZO TECH BLOG</title>
+    <updated>2025-10-16T02:01:54Z</updated>
+    <id>tag:techblog.zozo.com,2025-10-16:/entry/zozomatch-app-overview</id>
+    <link href="https://techblog.zozo.com/entry/zozomatch-app-overview" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: アサヒを襲ったランサムウェア集団“麒麟”（Qilin）とは？　世界中で被害多発、カルテル結成でさらに勢力拡大も</title>
+    <updated>2025-10-15T23:38:29Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-10-15:/news/articles/2510/16/news016.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2510/16/news016.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Windows10のサポートが終わるからと、会社パソコンの回収指示に従わないで、個人のMSアカウントでOneDriveを有効化し、アプデ延長申請したアンポンタンのせいで休日出勤が確定する。何してんだよマジで→「わぁ…」</title>
+    <updated>2025-10-15T13:42:09Z</updated>
+    <id>tag:posfie.com,2025-10-15:/@petaritape/p/q4B6gQS</id>
+    <link href="https://posfie.com/@petaritape/p/q4B6gQS" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: プロパガンダ的なアカウントが一目瞭然？ Xがプロフィールに新項目を追加するテスト中【やじうまWatch】</title>
+    <updated>2025-10-16T02:41:15Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2025-10-16:/docs/yajiuma/2055350.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2055350.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AWS Application Load Balancer launches URL and Host Header Rewrite - AWS</title>
+    <updated>2025-10-15T22:21:46Z</updated>
+    <id>tag:aws.amazon.com,2025-10-15:/about-aws/whats-new/2025/10/application-load-balancer-url-header-rewrite/</id>
+    <link href="https://aws.amazon.com/about-aws/whats-new/2025/10/application-load-balancer-url-header-rewrite/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: [アップデート] Application Load Balancer のリスナールールでトランスフォームを構成し、ターゲットにルーティングする前にホストヘッダーや URL パスを書き換えれるようになりました | DevelopersIO</title>
+    <updated>2025-10-16T02:50:39Z</updated>
+    <id>tag:dev.classmethod.jp,2025-10-16:/articles/application-load-balancer-url-header-rewrite/</id>
+    <link href="https://dev.classmethod.jp/articles/application-load-balancer-url-header-rewrite/" rel="alternate"></link>
   </entry>
 </feed>
