@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-10-17T01:03:54Z</updated>
+  <updated>2025-10-17T06:20:35Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3706,6 +3706,12 @@
     <link href="https://terminaltrove.com/feed/jqp/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: cuda-boost-bypass</title>
+    <updated>2025-10-17T02:06:23Z</updated>
+    <id>cuda-boost-bypass-1760666783</id>
+    <link href="https://aur.archlinux.org/packages/cuda-boost-bypass" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: kirill-bin</title>
     <updated>2025-10-16T23:28:50Z</updated>
     <id>kirill-bin-1760657330</id>
@@ -4300,10 +4306,16 @@
     <link href="https://aur.archlinux.org/packages/mesa-rk35xx-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: hyprsessionmanager-git</title>
-    <updated>2025-10-14T23:07:18Z</updated>
-    <id>hyprsessionmanager-git-1760483238</id>
-    <link href="https://aur.archlinux.org/packages/hyprsessionmanager-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-tifffile 2025.10.16-1 any</title>
+    <updated>2025-10-17T05:45:25Z</updated>
+    <id>tag:archlinux.org,2025-10-17:/packages/extra/any/python-tifffile/202510170545</id>
+    <link href="https://archlinux.org/packages/extra/any/python-tifffile/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-torchcodec 0.8.0-1 x86_64</title>
+    <updated>2025-10-17T05:42:41Z</updated>
+    <id>tag:archlinux.org,2025-10-17:/packages/extra/x86_64/python-torchcodec/202510170542</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/python-torchcodec/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: matrix-authentication-service 1.4.1-1 x86_64</title>
@@ -4592,17 +4604,5 @@
     <updated>2025-10-16T18:05:41Z</updated>
     <id>tag:archlinux.org,2025-10-16:/packages/extra-testing/x86_64/hopenpgp-tools/202510161805</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/hopenpgp-tools/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: hoogle 5.0.18.4-252 x86_64</title>
-    <updated>2025-10-16T18:05:40Z</updated>
-    <id>tag:archlinux.org,2025-10-16:/packages/extra-testing/x86_64/hoogle/202510161805</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/hoogle/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: hlint 3.6-3 x86_64</title>
-    <updated>2025-10-16T18:05:40Z</updated>
-    <id>tag:archlinux.org,2025-10-16:/packages/extra-testing/x86_64/hlint/202510161805</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/hlint/" rel="alternate"></link>
   </entry>
 </feed>
