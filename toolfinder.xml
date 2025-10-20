@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-10-20T01:09:31Z</updated>
+  <updated>2025-10-20T06:21:53Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3706,6 +3706,30 @@
     <link href="https://terminaltrove.com/feed/jqp/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: trilium-next-git</title>
+    <updated>2025-10-20T06:14:41Z</updated>
+    <id>trilium-next-git-1760940881</id>
+    <link href="https://aur.archlinux.org/packages/trilium-next-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: qt6-base-hifps</title>
+    <updated>2025-10-20T04:35:52Z</updated>
+    <id>qt6-base-hifps-1760934952</id>
+    <link href="https://aur.archlinux.org/packages/qt6-base-hifps" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: qt6-xcb-private-headers-hifps</title>
+    <updated>2025-10-20T04:35:52Z</updated>
+    <id>qt6-xcb-private-headers-hifps-1760934952</id>
+    <link href="https://aur.archlinux.org/packages/qt6-xcb-private-headers-hifps" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: cshell</title>
+    <updated>2025-10-20T03:29:52Z</updated>
+    <id>cshell-1760930992</id>
+    <link href="https://aur.archlinux.org/packages/cshell" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: obs-plugin-aitum-multistream-git-hexsec</title>
     <updated>2025-10-20T00:48:46Z</updated>
     <id>obs-plugin-aitum-multistream-git-hexsec-1760921326</id>
@@ -4282,28 +4306,46 @@
     <link href="https://aur.archlinux.org/packages/auditorium-minimal" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: auditorium</title>
-    <updated>2025-10-17T15:16:24Z</updated>
-    <id>auditorium-1760714184</id>
-    <link href="https://aur.archlinux.org/packages/auditorium" rel="alternate"></link>
+    <title>2:archlinux_new_packages: bleachbit 5.0.2-1 any</title>
+    <updated>2025-10-20T05:56:34Z</updated>
+    <id>tag:archlinux.org,2025-10-20:/packages/extra/any/bleachbit/202510200556</id>
+    <link href="https://archlinux.org/packages/extra/any/bleachbit/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-albumentationsx</title>
-    <updated>2025-10-17T14:18:47Z</updated>
-    <id>python-albumentationsx-1760710727</id>
-    <link href="https://aur.archlinux.org/packages/python-albumentationsx" rel="alternate"></link>
+    <title>2:archlinux_new_packages: caligula 0.4.10-1 x86_64</title>
+    <updated>2025-10-20T05:55:06Z</updated>
+    <id>tag:archlinux.org,2025-10-20:/packages/extra/x86_64/caligula/202510200555</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/caligula/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: codeclip</title>
-    <updated>2025-10-17T14:08:24Z</updated>
-    <id>codeclip-1760710104</id>
-    <link href="https://aur.archlinux.org/packages/codeclip" rel="alternate"></link>
+    <title>2:archlinux_new_packages: cargo-expand 1.0.118-1 x86_64</title>
+    <updated>2025-10-20T05:47:55Z</updated>
+    <id>tag:archlinux.org,2025-10-20:/packages/extra/x86_64/cargo-expand/202510200547</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/cargo-expand/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: ladybird-nightly-bin</title>
-    <updated>2025-10-17T13:02:26Z</updated>
-    <id>ladybird-nightly-bin-1760706146</id>
-    <link href="https://aur.archlinux.org/packages/ladybird-nightly-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: chezmoi 2.66.1-1 x86_64</title>
+    <updated>2025-10-20T05:32:26Z</updated>
+    <id>tag:archlinux.org,2025-10-20:/packages/extra/x86_64/chezmoi/202510200532</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/chezmoi/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: librsvg-docs 2:2.61.2-1 x86_64</title>
+    <updated>2025-10-20T02:27:40Z</updated>
+    <id>tag:archlinux.org,2025-10-20:/packages/extra-testing/x86_64/librsvg-docs/202510200227</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/librsvg-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: librsvg 2:2.61.2-1 x86_64</title>
+    <updated>2025-10-20T02:27:40Z</updated>
+    <id>tag:archlinux.org,2025-10-20:/packages/extra-testing/x86_64/librsvg/202510200227</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/librsvg/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-librsvg 2:2.61.2-1 x86_64</title>
+    <updated>2025-10-20T02:27:38Z</updated>
+    <id>tag:archlinux.org,2025-10-20:/packages/multilib-testing/x86_64/lib32-librsvg/202510200227</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-librsvg/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: gotosocial 0.20.1-1 x86_64</title>
@@ -4562,47 +4604,5 @@
     <updated>2025-10-19T20:40:11Z</updated>
     <id>tag:archlinux.org,2025-10-19:/packages/extra-testing/x86_64/vhba-module/202510192040</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/vhba-module/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: tp_smapi 0.45-31 x86_64</title>
-    <updated>2025-10-19T20:40:10Z</updated>
-    <id>tag:archlinux.org,2025-10-19:/packages/extra-testing/x86_64/tp_smapi/202510192040</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/tp_smapi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nvidia-open 580.95.05-6 x86_64</title>
-    <updated>2025-10-19T20:40:09Z</updated>
-    <id>tag:archlinux.org,2025-10-19:/packages/extra-testing/x86_64/nvidia-open/202510192040</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/nvidia-open/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nvidia 580.95.05-6 x86_64</title>
-    <updated>2025-10-19T20:40:09Z</updated>
-    <id>tag:archlinux.org,2025-10-19:/packages/extra-testing/x86_64/nvidia/202510192040</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/nvidia/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: netfilter-fullconenat r73.0cf3b48-479 x86_64</title>
-    <updated>2025-10-19T20:40:08Z</updated>
-    <id>tag:archlinux.org,2025-10-19:/packages/extra-testing/x86_64/netfilter-fullconenat/202510192040</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/netfilter-fullconenat/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux-zen-headers 6.17.4.zen2-1 x86_64</title>
-    <updated>2025-10-19T20:40:05Z</updated>
-    <id>tag:archlinux.org,2025-10-19:/packages/extra-testing/x86_64/linux-zen-headers/202510192040</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/linux-zen-headers/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux-headers 6.17.4.arch2-1 x86_64</title>
-    <updated>2025-10-19T20:40:03Z</updated>
-    <id>tag:archlinux.org,2025-10-19:/packages/core-testing/x86_64/linux-headers/202510192040</id>
-    <link href="https://archlinux.org/packages/core-testing/x86_64/linux-headers/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux-zen-docs 6.17.4.zen2-1 x86_64</title>
-    <updated>2025-10-19T20:39:58Z</updated>
-    <id>tag:archlinux.org,2025-10-19:/packages/extra-testing/x86_64/linux-zen-docs/202510192039</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/linux-zen-docs/" rel="alternate"></link>
   </entry>
 </feed>
