@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-10-21T01:06:21Z</updated>
+  <updated>2025-10-21T06:21:19Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3706,6 +3706,18 @@
     <link href="https://terminaltrove.com/feed/jqp/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: unibarrage-bin</title>
+    <updated>2025-10-21T06:16:12Z</updated>
+    <id>unibarrage-bin-1761027372</id>
+    <link href="https://aur.archlinux.org/packages/unibarrage-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: spectacle-no-purpose</title>
+    <updated>2025-10-21T04:00:17Z</updated>
+    <id>spectacle-no-purpose-1761019217</id>
+    <link href="https://aur.archlinux.org/packages/spectacle-no-purpose" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: libfprint-06cb-00e9</title>
     <updated>2025-10-21T00:09:08Z</updated>
     <id>libfprint-06cb-00e9-1761005348</id>
@@ -4294,16 +4306,52 @@
     <link href="https://aur.archlinux.org/packages/cudnn9.10-cuda12.9" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: tokenize</title>
-    <updated>2025-10-18T10:05:54Z</updated>
-    <id>tokenize-1760781954</id>
-    <link href="https://aur.archlinux.org/packages/tokenize" rel="alternate"></link>
+    <title>2:archlinux_new_packages: ducker 0.5.3-1 x86_64</title>
+    <updated>2025-10-21T06:15:41Z</updated>
+    <id>tag:archlinux.org,2025-10-21:/packages/extra/x86_64/ducker/202510210615</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/ducker/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: cuda-12.9</title>
-    <updated>2025-10-18T10:00:44Z</updated>
-    <id>cuda-12.9-1760781644</id>
-    <link href="https://aur.archlinux.org/packages/cuda-12.9" rel="alternate"></link>
+    <title>2:archlinux_new_packages: bluetui 0.7-1 x86_64</title>
+    <updated>2025-10-21T06:15:40Z</updated>
+    <id>tag:archlinux.org,2025-10-21:/packages/extra/x86_64/bluetui/202510210615</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/bluetui/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: pacman-mirrorlist 20251021-1 any</title>
+    <updated>2025-10-21T05:29:22Z</updated>
+    <id>tag:archlinux.org,2025-10-21:/packages/core-testing/any/pacman-mirrorlist/202510210529</id>
+    <link href="https://archlinux.org/packages/core-testing/any/pacman-mirrorlist/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: praat 6.4.46-1 x86_64</title>
+    <updated>2025-10-21T03:54:18Z</updated>
+    <id>tag:archlinux.org,2025-10-21:/packages/extra/x86_64/praat/202510210354</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/praat/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pylint 4.0.2-1 any</title>
+    <updated>2025-10-21T03:54:04Z</updated>
+    <id>tag:archlinux.org,2025-10-21:/packages/extra-testing/any/python-pylint/202510210354</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-pylint/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lxpanel 0.11.1-3 x86_64</title>
+    <updated>2025-10-21T02:57:25Z</updated>
+    <id>tag:archlinux.org,2025-10-21:/packages/extra/x86_64/lxpanel/202510210257</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/lxpanel/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: pcmanfm 1.4.0-2 x86_64</title>
+    <updated>2025-10-21T02:55:21Z</updated>
+    <id>tag:archlinux.org,2025-10-21:/packages/extra/x86_64/pcmanfm/202510210255</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/pcmanfm/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lxlauncher 0.2.8-2 x86_64</title>
+    <updated>2025-10-21T01:11:07Z</updated>
+    <id>tag:archlinux.org,2025-10-21:/packages/extra/x86_64/lxlauncher/202510210111</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/lxlauncher/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: lxde-common 0.99.3-2 any</title>
@@ -4556,53 +4604,5 @@
     <updated>2025-10-20T21:16:59Z</updated>
     <id>tag:archlinux.org,2025-10-20:/packages/extra-testing/x86_64/erlang-eunit/202510202116</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-eunit/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: erlang-et 28.1.1-1 x86_64</title>
-    <updated>2025-10-20T21:16:59Z</updated>
-    <id>tag:archlinux.org,2025-10-20:/packages/extra-testing/x86_64/erlang-et/202510202116</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-et/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: erlang-erl_interface 28.1.1-1 x86_64</title>
-    <updated>2025-10-20T21:16:58Z</updated>
-    <id>tag:archlinux.org,2025-10-20:/packages/extra-testing/x86_64/erlang-erl_interface/202510202116</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-erl_interface/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: erlang-eldap 28.1.1-1 x86_64</title>
-    <updated>2025-10-20T21:16:58Z</updated>
-    <id>tag:archlinux.org,2025-10-20:/packages/extra-testing/x86_64/erlang-eldap/202510202116</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-eldap/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: erlang-edoc 28.1.1-1 x86_64</title>
-    <updated>2025-10-20T21:16:57Z</updated>
-    <id>tag:archlinux.org,2025-10-20:/packages/extra-testing/x86_64/erlang-edoc/202510202116</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-edoc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: erlang-diameter 28.1.1-1 x86_64</title>
-    <updated>2025-10-20T21:16:57Z</updated>
-    <id>tag:archlinux.org,2025-10-20:/packages/extra-testing/x86_64/erlang-diameter/202510202116</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-diameter/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: erlang-dialyzer 28.1.1-1 x86_64</title>
-    <updated>2025-10-20T21:16:56Z</updated>
-    <id>tag:archlinux.org,2025-10-20:/packages/extra-testing/x86_64/erlang-dialyzer/202510202116</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-dialyzer/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: erlang-debugger 28.1.1-1 x86_64</title>
-    <updated>2025-10-20T21:16:56Z</updated>
-    <id>tag:archlinux.org,2025-10-20:/packages/extra-testing/x86_64/erlang-debugger/202510202116</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-debugger/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: erlang-core 28.1.1-1 x86_64</title>
-    <updated>2025-10-20T21:16:55Z</updated>
-    <id>tag:archlinux.org,2025-10-20:/packages/extra-testing/x86_64/erlang-core/202510202116</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/erlang-core/" rel="alternate"></link>
   </entry>
 </feed>
