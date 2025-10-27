@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-10-27T01:11:40Z</updated>
+  <updated>2025-10-27T06:23:44Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3742,6 +3742,36 @@
     <link href="https://terminaltrove.com/feed/bottom/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: ratyper</title>
+    <updated>2025-10-27T05:31:29Z</updated>
+    <id>ratyper-1761543089</id>
+    <link href="https://aur.archlinux.org/packages/ratyper" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: tocry-bin</title>
+    <updated>2025-10-27T05:03:10Z</updated>
+    <id>tocry-bin-1761541390</id>
+    <link href="https://aur.archlinux.org/packages/tocry-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: waynewolf</title>
+    <updated>2025-10-27T04:46:59Z</updated>
+    <id>waynewolf-1761540419</id>
+    <link href="https://aur.archlinux.org/packages/waynewolf" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: grafito-bin</title>
+    <updated>2025-10-27T04:27:02Z</updated>
+    <id>grafito-bin-1761539222</id>
+    <link href="https://aur.archlinux.org/packages/grafito-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: warp-cli</title>
+    <updated>2025-10-27T03:31:37Z</updated>
+    <id>warp-cli-1761535897</id>
+    <link href="https://aur.archlinux.org/packages/warp-cli" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: x86_64-kuznix-elf-gcc</title>
     <updated>2025-10-26T07:40:16Z</updated>
     <id>x86_64-kuznix-elf-gcc-1761464416</id>
@@ -4312,333 +4342,303 @@
     <link href="https://aur.archlinux.org/packages/ue4localizationstool-zenity" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: securepasswd_mgmt</title>
-    <updated>2025-10-23T21:11:42Z</updated>
-    <id>securepasswd_mgmt-1761253902</id>
-    <link href="https://aur.archlinux.org/packages/securepasswd_mgmt" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: imv-rs-bin</title>
-    <updated>2025-10-23T21:09:14Z</updated>
-    <id>imv-rs-bin-1761253754</id>
-    <link href="https://aur.archlinux.org/packages/imv-rs-bin" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: xpanel-desktop-bin</title>
-    <updated>2025-10-23T21:07:15Z</updated>
-    <id>xpanel-desktop-bin-1761253635</id>
-    <link href="https://aur.archlinux.org/packages/xpanel-desktop-bin" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: archconv</title>
-    <updated>2025-10-23T20:52:22Z</updated>
-    <id>archconv-1761252742</id>
-    <link href="https://aur.archlinux.org/packages/archconv" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:aur_new_packages: navit</title>
-    <updated>2025-10-23T20:49:07Z</updated>
-    <id>navit-1761252547</id>
-    <link href="https://aur.archlinux.org/packages/navit" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: parcellite 1.2.5-3 x86_64</title>
-    <updated>2025-10-26T23:43:43Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/parcellite/202510262343</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/parcellite/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: inadyn 2.13.0-1 x86_64</title>
-    <updated>2025-10-26T23:12:17Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/inadyn/202510262312</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/inadyn/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: apt-docs 3.1.11-1 x86_64</title>
-    <updated>2025-10-26T22:25:16Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/apt-docs/202510262225</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/apt-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: apt 3.1.11-1 x86_64</title>
-    <updated>2025-10-26T22:25:15Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/apt/202510262225</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/apt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: fzf 0.66.1-1 x86_64</title>
-    <updated>2025-10-26T22:22:10Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/fzf/202510262222</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/fzf/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ruby-sys-uname 1.4.1-1 any</title>
-    <updated>2025-10-26T21:49:16Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/any/ruby-sys-uname/202510262149</id>
-    <link href="https://archlinux.org/packages/extra/any/ruby-sys-uname/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mise 2025.10.18-1 x86_64</title>
-    <updated>2025-10-26T21:42:30Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/mise/202510262142</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/mise/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: usage 2.5.1-1 x86_64</title>
-    <updated>2025-10-26T21:39:14Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/usage/202510262139</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/usage/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ruby-rspec 3.13.2-1 any</title>
-    <updated>2025-10-26T21:35:55Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/any/ruby-rspec/202510262135</id>
-    <link href="https://archlinux.org/packages/extra/any/ruby-rspec/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ruby-io-stream 0.11.0-1 any</title>
-    <updated>2025-10-26T21:34:15Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/any/ruby-io-stream/202510262134</id>
-    <link href="https://archlinux.org/packages/extra/any/ruby-io-stream/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ruby-rspec-core 3.13.6-1 any</title>
-    <updated>2025-10-26T21:31:54Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/any/ruby-rspec-core/202510262131</id>
-    <link href="https://archlinux.org/packages/extra/any/ruby-rspec-core/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefoxpwa 2.17.2-1 x86_64</title>
-    <updated>2025-10-26T21:23:15Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/firefoxpwa/202510262123</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/firefoxpwa/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vcspull 1.41.0-1 any</title>
-    <updated>2025-10-26T21:23:14Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/any/vcspull/202510262123</id>
-    <link href="https://archlinux.org/packages/extra/any/vcspull/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: limine 10.2.0-1 x86_64</title>
-    <updated>2025-10-26T21:21:45Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/limine/202510262121</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/limine/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-libvcs 0.36.0-1 any</title>
-    <updated>2025-10-26T21:21:44Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/any/python-libvcs/202510262121</id>
-    <link href="https://archlinux.org/packages/extra/any/python-libvcs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-gp-libs 0.0.14-1 any</title>
-    <updated>2025-10-26T21:12:18Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/any/python-gp-libs/202510262112</id>
-    <link href="https://archlinux.org/packages/extra/any/python-gp-libs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: fcitx5 5.1.16-1 x86_64</title>
-    <updated>2025-10-26T20:00:31Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/fcitx5/202510262000</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/fcitx5/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nodejs-lts-jod 22.21.0-2 x86_64</title>
-    <updated>2025-10-26T19:00:49Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/nodejs-lts-jod/202510261900</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nodejs-lts-jod/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nodejs-lts-iron 20.19.5-2 x86_64</title>
-    <updated>2025-10-26T19:00:48Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/nodejs-lts-iron/202510261900</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nodejs-lts-iron/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: tombi 0.6.39-1 x86_64</title>
-    <updated>2025-10-26T18:30:02Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/tombi/202510261830</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/tombi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: ufmt 2.8.0-2 any</title>
-    <updated>2025-10-26T18:30:01Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/any/ufmt/202510261830</id>
-    <link href="https://archlinux.org/packages/extra/any/ufmt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: firefox-tree-style-tab 4.2.7-1 any</title>
-    <updated>2025-10-26T18:30:00Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/any/firefox-tree-style-tab/202510261830</id>
-    <link href="https://archlinux.org/packages/extra/any/firefox-tree-style-tab/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libinput 1.29.2-1 x86_64</title>
-    <updated>2025-10-26T17:42:00Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/libinput/202510261742</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libinput/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libevdev 1.13.5-1 x86_64</title>
-    <updated>2025-10-26T17:41:59Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/libevdev/202510261741</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libevdev/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: virtualbox-host-modules-lts 7.2.4-2 x86_64</title>
-    <updated>2025-10-26T17:40:38Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/virtualbox-host-modules-lts/202510261740</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/virtualbox-host-modules-lts/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: tp_smapi-lts 0.44-129 x86_64</title>
-    <updated>2025-10-26T17:40:37Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/tp_smapi-lts/202510261740</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/tp_smapi-lts/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: r8168-lts 8.055.00-47 x86_64</title>
-    <updated>2025-10-26T17:40:37Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/r8168-lts/202510261740</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/r8168-lts/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nvidia-open-lts 580.95.05-5 x86_64</title>
-    <updated>2025-10-26T17:40:37Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/nvidia-open-lts/202510261740</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nvidia-open-lts/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: nvidia-lts 1:580.95.05-5 x86_64</title>
-    <updated>2025-10-26T17:40:36Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/nvidia-lts/202510261740</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/nvidia-lts/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: acpi_call-lts 1.2.2-289 x86_64</title>
-    <updated>2025-10-26T17:40:36Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/acpi_call-lts/202510261740</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/acpi_call-lts/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux-lts-headers 6.12.55-1 x86_64</title>
-    <updated>2025-10-26T17:40:24Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/core/x86_64/linux-lts-headers/202510261740</id>
-    <link href="https://archlinux.org/packages/core/x86_64/linux-lts-headers/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux-lts-docs 6.12.55-1 x86_64</title>
-    <updated>2025-10-26T17:40:22Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/core/x86_64/linux-lts-docs/202510261740</id>
-    <link href="https://archlinux.org/packages/core/x86_64/linux-lts-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: linux-lts 6.12.55-1 x86_64</title>
-    <updated>2025-10-26T17:40:21Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/core/x86_64/linux-lts/202510261740</id>
-    <link href="https://archlinux.org/packages/core/x86_64/linux-lts/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: television 0.13.7-1 x86_64</title>
-    <updated>2025-10-26T17:31:32Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/television/202510261731</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/television/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: regect 0.2.6-1 x86_64</title>
-    <updated>2025-10-26T17:31:32Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/regect/202510261731</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/regect/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: cargo-binstall 1.15.9-1 x86_64</title>
-    <updated>2025-10-26T17:16:42Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/x86_64/cargo-binstall/202510261716</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/cargo-binstall/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: filebin 4.1.0-1 any</title>
-    <updated>2025-10-26T17:03:47Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/any/filebin/202510261703</id>
-    <link href="https://archlinux.org/packages/extra/any/filebin/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-calculator 6.5.25-1 x86_64</title>
-    <updated>2025-10-26T16:52:08Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/deepin-calculator/202510261652</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/deepin-calculator/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-boot-maker 6.0.10-1 x86_64</title>
-    <updated>2025-10-26T16:42:23Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/deepin-boot-maker/202510261642</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/deepin-boot-maker/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: python-dotenv 1.2.1-1 any</title>
-    <updated>2025-10-26T15:20:20Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra/any/python-dotenv/202510261520</id>
-    <link href="https://archlinux.org/packages/extra/any/python-dotenv/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: syd 3.41.2-1 x86_64</title>
-    <updated>2025-10-26T15:07:51Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/syd/202510261507</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/syd/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:archlinux_new_packages: tgt 1.0.96-3 x86_64</title>
-    <updated>2025-10-26T14:53:06Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/tgt/202510261453</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/tgt/" rel="alternate"></link>
+    <updated>2025-10-27T05:14:50Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/tgt/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/tgt/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: slurm-llnl 25.05.4.1-3 x86_64</title>
-    <updated>2025-10-26T14:53:05Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/slurm-llnl/202510261453</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/slurm-llnl/" rel="alternate"></link>
+    <updated>2025-10-27T05:14:49Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/slurm-llnl/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/slurm-llnl/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: rdma-core 60.0-1 x86_64</title>
-    <updated>2025-10-26T14:53:05Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/rdma-core/202510261453</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/rdma-core/" rel="alternate"></link>
+    <updated>2025-10-27T05:14:49Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/rdma-core/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rdma-core/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: qperf 0.4.11-6 x86_64</title>
-    <updated>2025-10-26T14:53:04Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/qperf/202510261453</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/qperf/" rel="alternate"></link>
+    <updated>2025-10-27T05:14:48Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qperf/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qperf/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: qemu-vmsr-helper 10.1.2-2 x86_64</title>
-    <updated>2025-10-26T14:53:04Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/qemu-vmsr-helper/202510261453</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/qemu-vmsr-helper/" rel="alternate"></link>
+    <updated>2025-10-27T05:14:48Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-vmsr-helper/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-vmsr-helper/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: qemu-vhost-user-gpu 10.1.2-2 x86_64</title>
-    <updated>2025-10-26T14:53:03Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/qemu-vhost-user-gpu/202510261453</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/qemu-vhost-user-gpu/" rel="alternate"></link>
+    <updated>2025-10-27T05:14:48Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-vhost-user-gpu/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-vhost-user-gpu/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: qemu-user-static-binfmt 10.1.2-2 x86_64</title>
-    <updated>2025-10-26T14:53:03Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/qemu-user-static-binfmt/202510261453</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/qemu-user-static-binfmt/" rel="alternate"></link>
+    <updated>2025-10-27T05:14:47Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-user-static-binfmt/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-user-static-binfmt/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: qemu-user-static 10.1.2-2 x86_64</title>
-    <updated>2025-10-26T14:53:02Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/qemu-user-static/202510261453</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/qemu-user-static/" rel="alternate"></link>
+    <updated>2025-10-27T05:14:47Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-user-static/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-user-static/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: qemu-user-binfmt 10.1.2-2 x86_64</title>
-    <updated>2025-10-26T14:53:02Z</updated>
-    <id>tag:archlinux.org,2025-10-26:/packages/extra-testing/x86_64/qemu-user-binfmt/202510261453</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/qemu-user-binfmt/" rel="alternate"></link>
+    <updated>2025-10-27T05:14:46Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-user-binfmt/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-user-binfmt/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-user 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:46Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-user/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-user/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-ui-spice-core 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:46Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-ui-spice-core/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-ui-spice-core/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-ui-spice-app 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:45Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-ui-spice-app/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-ui-spice-app/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-ui-sdl 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:45Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-ui-sdl/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-ui-sdl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-ui-opengl 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:44Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-ui-opengl/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-ui-opengl/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-ui-gtk 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:44Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-ui-gtk/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-ui-gtk/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-ui-egl-headless 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:44Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-ui-egl-headless/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-ui-egl-headless/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-ui-dbus 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:43Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-ui-dbus/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-ui-dbus/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-ui-curses 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:43Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-ui-curses/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-ui-curses/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-tools 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:42Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-tools/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-tools/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-tests 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:42Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-tests/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-tests/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-xtensa 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:42Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-xtensa/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-xtensa/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-x86-firmware 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:41Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-x86-firmware/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-x86-firmware/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-x86 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:41Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-x86/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-x86/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-tricore 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:40Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-tricore/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-tricore/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-sparc-firmware 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:40Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-sparc-firmware/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-sparc-firmware/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-sparc 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:40Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-sparc/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-sparc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-sh4 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:39Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-sh4/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-sh4/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-s390x-firmware 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:39Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-s390x-firmware/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-s390x-firmware/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-s390x 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:38Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-s390x/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-s390x/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-rx 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:38Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-rx/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-rx/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-riscv-firmware 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:38Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-riscv-firmware/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-riscv-firmware/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-riscv 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:37Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-riscv/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-riscv/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-ppc-firmware 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:37Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-ppc-firmware/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-ppc-firmware/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-ppc 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:36Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-ppc/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-ppc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-or1k 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:36Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-or1k/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-or1k/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-mips 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:36Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-mips/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-mips/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-microblaze-firmware 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:35Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-microblaze-firmware/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-microblaze-firmware/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-microblaze 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:35Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-microblaze/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-microblaze/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-m68k 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:34Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-m68k/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-m68k/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-loongarch64 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:34Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-loongarch64/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-loongarch64/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-hppa-firmware 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:34Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-hppa-firmware/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-hppa-firmware/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-hppa 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:33Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-hppa/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-hppa/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-avr 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:33Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-avr/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-avr/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-arm-firmware 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:33Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-arm-firmware/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-arm-firmware/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-arm 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:32Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-arm/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-arm/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-alpha-firmware 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:32Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-alpha-firmware/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-alpha-firmware/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-alpha 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:31Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-alpha/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-alpha/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-system-aarch64 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:31Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-system-aarch64/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-system-aarch64/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-pr-helper 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:31Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-pr-helper/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-pr-helper/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qemu-img 10.1.2-2 x86_64</title>
+    <updated>2025-10-27T05:14:30Z</updated>
+    <id>tag:archlinux.org,2025-10-27:/packages/extra/x86_64/qemu-img/202510270514</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qemu-img/" rel="alternate"></link>
   </entry>
 </feed>
