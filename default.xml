@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-10-28T12:28:50Z</updated>
+  <updated>2025-10-28T18:21:33Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -994,6 +994,24 @@
     <link href="https://www.youtube.com/watch?v=Mxu95cJqZI0" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: ［速報］GitHub Copilot Coding AgentがSlackとの連携機能を搭載</title>
+    <updated>2025-10-28T16:42:37Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8361</id>
+    <link href="https://www.publickey1.jp/blog/25/github_copilot_coding_agentslack.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: ［速報］GitHub、新機能「Mission control」を発表。得意分野が異なるAIエージェントをタスクに割り当てるなど、「Agent HQ」構想に対応</title>
+    <updated>2025-10-28T16:03:17Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8360</id>
+    <link href="https://www.publickey1.jp/blog/25/githubmission_controlaiagent_hq.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: ［速報］GitHub、AIエージェントを統べる「Agent HQ」構想を発表。ClaudeやCodex、Devinなど他社AIエージェントも利用可能に</title>
+    <updated>2025-10-28T16:02:26Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8359</id>
+    <link href="https://www.publickey1.jp/blog/25/githubaiagent_hqgithubclaudecodexdevinai.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: さくらインターネット、さくらのクラウド向けに24時間365日対応の有償サポートを提供開始</title>
     <updated>2025-10-27T15:01:19Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8358</id>
@@ -1064,24 +1082,6 @@
     <updated>2025-10-14T13:37:23Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8345</id>
     <link href="https://www.publickey1.jp/blog/25/python_314jit.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: テスト自動化フレームワーク「Playwright」にAIエージェント機能。自動的にテスト計画とテストコードの生成、テストコードのデバッグなど</title>
-    <updated>2025-10-13T15:42:38Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8346</id>
-    <link href="https://www.publickey1.jp/blog/25/playwrightai.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Google、「Gemini Enterprise」発表。OfficeやSalesforce、SAP、Jiraなど業務アプリとの連携、コーディング支援、エージェント開発まで包括的に提供</title>
-    <updated>2025-10-09T15:04:58Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8344</id>
-    <link href="https://www.publickey1.jp/blog/25/googlegemini_enterpriseofficesalesforcesapjira.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: 「Diaブラウザ」正式版に、誰でもダウンロード可能。AI時代の業務のためのブラウザを目指す</title>
-    <updated>2025-10-08T15:05:27Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8341</id>
-    <link href="https://www.publickey1.jp/blog/25/diaai.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: 「SciPyDataJapan 2026」2026年1月24日に開催 —科学技術とデータの未来をつなぐカンファレンスが再び</title>
@@ -4882,16 +4882,40 @@
     <link href="https://gihyo.jp/article/2024/10/daily-linux-241029?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Blenderでパーティクルとコリジョンの設定をしてみよう</title>
-    <updated>2024-10-28T02:00:00Z</updated>
-    <id>urn:uuid:c59cf9cf-df2c-1d67-7fdf-bcac3452a4a1</id>
-    <link href="https://gihyo.jp/article/2024/10/blender-basics-39?utm_source=feed" rel="alternate"></link>
+    <title>1:hatena_blog_it: 京王バス、完全キャッシュレス化　27年度以降に現金終了</title>
+    <updated>2025-10-28T08:44:46Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-10-28:/docs/news/2058686.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2058686.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: VSCodeが重い！メモリ使用量を1/3にする設定まとめ - Qiita</title>
+    <updated>2025-10-28T09:52:13Z</updated>
+    <id>tag:qiita.com,2025-10-28:/nolanlover0527/items/071277263f8851012e6b</id>
+    <link href="https://qiita.com/nolanlover0527/items/071277263f8851012e6b" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: “イーロン・マスク版Wikipedia”初期版公開　特徴はAIファクトチェック　「すでにWikipediaより優秀」</title>
+    <updated>2025-10-28T03:33:57Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-10-28:/news/articles/2510/28/news077.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2510/28/news077.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ClaudeCodeを使ったら手作りAWSが3日でTerraform化できた話 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+    <updated>2025-10-28T04:40:28Z</updated>
+    <id>tag:tech-blog.rakus.co.jp,2025-10-28:/entry/20251028/ai-terraforming</id>
+    <link href="https://tech-blog.rakus.co.jp/entry/20251028/ai-terraforming" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: トランプ大統領が乗ったビーストの後ろに居たこのアンテナまみれの車が目の前を通過した途端にイヤホンのBluetoothが強制切断されてスマホも圏外になった</title>
     <updated>2025-10-28T00:45:39Z</updated>
     <id>tag:togetter.com,2025-10-28:/li/2621186</id>
     <link href="https://togetter.com/li/2621186" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: できれば知らずに済ませたかったAurora DSQL非互換集 - ArkEdge Space Blog</title>
+    <updated>2025-10-28T07:57:32Z</updated>
+    <id>tag:blog.arkedge.space,2025-10-28:/entry/2025/10/28/164744</id>
+    <link href="https://blog.arkedge.space/entry/2025/10/28/164744" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: X、11月10日までの2要素認証（2FA）再登録をユーザーに要請　「Twitterドメイン廃止のため」</title>
@@ -4906,16 +4930,10 @@
     <link href="https://buzzap.jp/news/20251027-hitabt-m30a-12800yen-low-price-mini-pc/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: “イーロン・マスク版Wikipedia”初期版公開　特徴はAIファクトチェック　「すでにWikipediaより優秀」</title>
-    <updated>2025-10-28T03:33:57Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-10-28:/news/articles/2510/28/news077.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2510/28/news077.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【西川和久の不定期コラム】 動画生成AIが2年前から驚異的な進化を遂げたので、ハロウィンっぽいMVをぜ～んぶAIで作ってみた</title>
-    <updated>2025-10-27T23:03:07Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-10-27:/docs/column/nishikawa/2058082.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/nishikawa/2058082.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 車に乗ってたら同乗者が目視人力でQRコードを読みとり始め、答え合わせしたら正解しててドン引きした「人かどうかも怪しいな」</title>
+    <updated>2025-10-28T05:16:56Z</updated>
+    <id>tag:togetter.com,2025-10-28:/li/2621269</id>
+    <link href="https://togetter.com/li/2621269" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 国内初の円建てステーブルコイン「JPYC」発行開始　次世代の“通貨”目指す</title>
@@ -4924,28 +4942,16 @@
     <link href="https://www.watch.impress.co.jp/docs/news/2058390.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 京王バス、完全キャッシュレス化　27年度以降に現金終了</title>
-    <updated>2025-10-28T08:44:46Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-10-28:/docs/news/2058686.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2058686.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: AuroraMySQL 負荷試験報告 〜結局のところスキーマ分離のDB設計ってどうなの？〜 その１ - MNTSQ Techブログ</title>
+    <updated>2025-10-28T09:05:19Z</updated>
+    <id>tag:tech.mntsq.co.jp,2025-10-28:/entry/2025/10/28/130041</id>
+    <link href="https://tech.mntsq.co.jp/entry/2025/10/28/130041" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ClaudeCodeを使ったら手作りAWSが3日でTerraform化できた話 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
-    <updated>2025-10-28T04:40:28Z</updated>
-    <id>tag:tech-blog.rakus.co.jp,2025-10-28:/entry/20251028/ai-terraforming</id>
-    <link href="https://tech-blog.rakus.co.jp/entry/20251028/ai-terraforming" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 車に乗ってたら同乗者が目視人力でQRコードを読みとり始め、答え合わせしたら正解しててドン引きした「人かどうかも怪しいな」</title>
-    <updated>2025-10-28T05:16:56Z</updated>
-    <id>tag:togetter.com,2025-10-28:/li/2621269</id>
-    <link href="https://togetter.com/li/2621269" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: これは知っておくと便利なテクニック！ CSSだけでスクリーンの幅と高さ、さらには要素の幅と高さの値を取得する方法</title>
-    <updated>2025-10-28T00:48:54Z</updated>
-    <id>tag:coliss.com,2025-10-28:/articles/build-websites/operation/css/get-the-screen-width-and-height-using-css.html</id>
-    <link href="https://coliss.com/articles/build-websites/operation/css/get-the-screen-width-and-height-using-css.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: あらゆるPCをリモートコントロールできる次世代オープンソースKVM「JetKVM」</title>
+    <updated>2025-10-28T12:33:11Z</updated>
+    <id>tag:gigazine.net,2025-10-28:/news/20251028-jetkvm/</id>
+    <link href="https://gigazine.net/news/20251028-jetkvm/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: WordとExcel、手順書を作るのに適しているのはどっち？修正でレイアウト崩れが起こる、印刷時にズレるなどそれぞれの弱点や強みが挙げられる</title>
@@ -4954,16 +4960,22 @@
     <link href="https://togetter.com/li/2620972" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: サイゼリヤのセルフオーダー、プログラミング初心者のアプリみたいだけど大丈夫そう…？→いや異常な要件定義の精度でUXの本質を理解している</title>
-    <updated>2025-10-27T11:35:10Z</updated>
-    <id>tag:togetter.com,2025-10-27:/li/2621035</id>
-    <link href="https://togetter.com/li/2621035" rel="alternate"></link>
+    <title>1:hatena_blog_it: RFC 9457 - Problem Details for HTTP APIs 日本語訳</title>
+    <updated>2023-11-17T06:45:35Z</updated>
+    <id>tag:tex2e.github.io,2023-11-17:/rfc-translater/html/rfc9457.html</id>
+    <link href="https://tex2e.github.io/rfc-translater/html/rfc9457.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: できれば知らずに済ませたかったAurora DSQL非互換集 - ArkEdge Space Blog</title>
-    <updated>2025-10-28T07:57:32Z</updated>
-    <id>tag:blog.arkedge.space,2025-10-28:/entry/2025/10/28/164744</id>
-    <link href="https://blog.arkedge.space/entry/2025/10/28/164744" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【西川和久の不定期コラム】 動画生成AIが2年前から驚異的な進化を遂げたので、ハロウィンっぽいMVをぜ～んぶAIで作ってみた</title>
+    <updated>2025-10-27T23:03:07Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-10-27:/docs/column/nishikawa/2058082.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/nishikawa/2058082.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 自己評価力を武器とする 増補改訂版 | ドクセル</title>
+    <updated>2025-10-28T12:46:26Z</updated>
+    <id>tag:www.docswell.com,2025-10-28:/s/Songmu/ZN9347-self-evaluation-skills-v2</id>
+    <link href="https://www.docswell.com/s/Songmu/ZN9347-self-evaluation-skills-v2" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Xが「2要素認証で使うセキュリティキーを11月10日までに再登録しないとアカウントがロックされる」と呼びかける、Twitterドメイン廃止のため</title>
@@ -4972,34 +4984,10 @@
     <link href="https://gigazine.net/news/20251028-x-hardware-2fa-passkey-twitter-domain/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: イーロン・マスクがWikipediaより優秀と豪語する百科事典サイト「Grokipedia」が一般公開される、Wikipediaから丸ごとコピーした記事も多数</title>
-    <updated>2025-10-28T03:35:12Z</updated>
-    <id>tag:gigazine.net,2025-10-28:/news/20251028-grokipedia-xai/</id>
-    <link href="https://gigazine.net/news/20251028-grokipedia-xai/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 雑誌の“自炊”ヘビーユーザーから見たPFU「ScanSnap iX2500」の隠れた改良点</title>
     <updated>2025-10-28T02:27:30Z</updated>
     <id>tag:www.itmedia.co.jp,2025-10-28:/news/articles/2510/28/news071.html</id>
     <link href="https://www.itmedia.co.jp/news/articles/2510/28/news071.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: シニアエンジニアに捧ぐ「50代からIT転職」のリアル　SES「案件採用」と、スタートアップバブル崩壊後の市場感</title>
-    <updated>2025-10-28T01:43:36Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-10-28:/news/articles/2510/28/news010.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2510/28/news010.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AuroraMySQL 負荷試験報告 〜結局のところスキーマ分離のDB設計ってどうなの？〜 その１ - MNTSQ Techブログ</title>
-    <updated>2025-10-28T09:05:19Z</updated>
-    <id>tag:tech.mntsq.co.jp,2025-10-28:/entry/2025/10/28/130041</id>
-    <link href="https://tech.mntsq.co.jp/entry/2025/10/28/130041" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 小学生に人気の「ぷっくりシール」が高価なため、安いシールに100均のレジン液を盛って交換しているらしい…レジンの扱いについてもっと注意喚起が必要</title>
-    <updated>2025-10-28T03:19:23Z</updated>
-    <id>tag:togetter.com,2025-10-28:/li/2621208</id>
-    <link href="https://togetter.com/li/2621208" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Claude Sonnetのわずか8％の価格で2倍高速なAIモデル「MiniMax M2」がオープンソース化＆有料APIが期間限定無料で利用可能に</title>
@@ -5008,51 +4996,57 @@
     <link href="https://gigazine.net/news/20251028-minimax-m2-open-sourcing/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ZOZOマッチにおけるモデル開発の不確実性との向き合い方 - ZOZO TECH BLOG</title>
-    <updated>2025-10-28T02:01:56Z</updated>
-    <id>tag:techblog.zozo.com,2025-10-28:/entry/zozomatch-algorithm-management</id>
-    <link href="https://techblog.zozo.com/entry/zozomatch-algorithm-management" rel="alternate"></link>
+    <title>1:hatena_blog_it: イーロン・マスクがWikipediaより優秀と豪語する百科事典サイト「Grokipedia」が一般公開される、Wikipediaから丸ごとコピーした記事も多数</title>
+    <updated>2025-10-28T03:35:12Z</updated>
+    <id>tag:gigazine.net,2025-10-28:/news/20251028-grokipedia-xai/</id>
+    <link href="https://gigazine.net/news/20251028-grokipedia-xai/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: X、セキュリティキー利用者は11月10日までに再登録を</title>
-    <updated>2025-10-28T05:54:48Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-10-28:/docs/news/2058545.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2058545.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: これは知っておくと便利なテクニック！ CSSだけでスクリーンの幅と高さ、さらには要素の幅と高さの値を取得する方法</title>
+    <updated>2025-10-28T00:48:54Z</updated>
+    <id>tag:coliss.com,2025-10-28:/articles/build-websites/operation/css/get-the-screen-width-and-height-using-css.html</id>
+    <link href="https://coliss.com/articles/build-websites/operation/css/get-the-screen-width-and-height-using-css.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Google AI Studio のバイブコーディング機能の概要｜npaka</title>
-    <updated>2025-10-27T02:59:08Z</updated>
-    <id>tag:note.com,2025-10-27:/npaka/n/n9c5ebcc5a897</id>
-    <link href="https://note.com/npaka/n/n9c5ebcc5a897" rel="alternate"></link>
+    <title>1:hatena_blog_it: RFC 9457: Problem Details for HTTP APIs</title>
+    <updated>2023-08-01T06:38:51Z</updated>
+    <id>tag:www.rfc-editor.org,2023-08-01:/rfc/rfc9457.html</id>
+    <link href="https://www.rfc-editor.org/rfc/rfc9457.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: IT技術者として何歳まで働く？ 40代と60代の意見差／年率66％で急成長の「DAP」市場／フリーランス新法施行1年で改善実感の声、ほか (1/3)</title>
-    <updated>2025-10-27T01:15:35Z</updated>
-    <id>tag:ascii.jp,2025-10-27:/elem/000/004/336/4336851/</id>
-    <link href="https://ascii.jp/elem/000/004/336/4336851/" rel="alternate"></link>
+    <title>1:hatena_blog_it: React Server Components: Do They Really Improve Performance?</title>
+    <updated>2025-10-23T04:49:22Z</updated>
+    <id>tag:www.developerway.com,2025-10-23:/posts/react-server-components-performance</id>
+    <link href="https://www.developerway.com/posts/react-server-components-performance" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: VoiceCAPTCHA技術と国際標準C2PAの二重防壁</title>
+    <updated>2025-10-28T09:26:38Z</updated>
+    <id>tag:prtimes.jp,2025-10-28:/main/html/rd/p/000000013.000160611.html</id>
+    <link href="https://prtimes.jp/main/html/rd/p/000000013.000160611.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【PMBOK準拠】実務で使える！Cursor or CodexではじめるAI駆動PM（プロジェクトマネージメント）スターターKitも無料公開！｜MAKE A CHANGE, inc</title>
+    <updated>2025-10-28T10:21:59Z</updated>
+    <id>tag:note.com,2025-10-28:/make_a_change/n/na2d8a9fd4ac1</id>
+    <link href="https://note.com/make_a_change/n/na2d8a9fd4ac1" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: シニアエンジニアに捧ぐ「50代からIT転職」のリアル　SES「案件採用」と、スタートアップバブル崩壊後の市場感</title>
+    <updated>2025-10-28T01:43:36Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-10-28:/news/articles/2510/28/news010.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2510/28/news010.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: VPN装置の脆弱性を突かれランサム被害に遭った関通、社長が語る侵害からの脱出劇</title>
+    <updated>2025-10-28T02:25:17Z</updated>
+    <id>tag:xtech.nikkei.com,2025-10-28:/atcl/nxt/column/18/01156/102000074/</id>
+    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/01156/102000074/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: データ検証ライブラリPydanticの紹介 | gihyo.jp</title>
     <updated>2025-10-28T02:11:53Z</updated>
     <id>tag:gihyo.jp,2025-10-28:/article/2025/10/monthly-python-2510</id>
     <link href="https://gihyo.jp/article/2025/10/monthly-python-2510" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「NTT 〇〇」の社長全員・258人にインシデント対応研修を実施、その中身とは【Security Days Fall 2025】</title>
-    <updated>2025-10-27T22:47:16Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2025-10-27:/docs/event/2058337.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/event/2058337.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 200stackをリリースしました | 200stack</title>
-    <updated>2025-10-28T00:21:33Z</updated>
-    <id>tag:www.200stack.com,2025-10-28:/news/9d4jq92l70/</id>
-    <link href="https://www.200stack.com/news/9d4jq92l70/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: テスラ、150兆円報酬否決なら「イーロン・マスク氏辞めるかも」　株主に警告 - 日本経済新聞</title>
-    <updated>2025-10-27T16:41:45Z</updated>
-    <id>tag:www.nikkei.com,2025-10-27:/article/DGXZQOGN27ACA0X21C25A0000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN27ACA0X21C25A0000000/" rel="alternate"></link>
   </entry>
 </feed>
