@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-11-04T01:07:00Z</updated>
+  <updated>2025-11-04T06:21:54Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3778,6 +3778,12 @@
     <link href="https://terminaltrove.com/feed/cgdb/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: mpich-fint64</title>
+    <updated>2025-11-04T03:01:30Z</updated>
+    <id>mpich-fint64-1762225290</id>
+    <link href="https://aur.archlinux.org/packages/mpich-fint64" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: typstwriter-git</title>
     <updated>2025-11-04T00:42:45Z</updated>
     <id>typstwriter-git-1762216965</id>
@@ -4372,10 +4378,16 @@
     <link href="https://aur.archlinux.org/packages/arrpc-bun" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: gitnr-bin</title>
-    <updated>2025-11-01T03:56:21Z</updated>
-    <id>gitnr-bin-1761969381</id>
-    <link href="https://aur.archlinux.org/packages/gitnr-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: dolt 1:1.76.4-1 x86_64</title>
+    <updated>2025-11-04T06:14:00Z</updated>
+    <id>tag:archlinux.org,2025-11-04:/packages/extra/x86_64/dolt/202511040614</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/dolt/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ibus-typing-booster 2.28.2-1 any</title>
+    <updated>2025-11-04T05:11:24Z</updated>
+    <id>tag:archlinux.org,2025-11-04:/packages/extra/any/ibus-typing-booster/202511040511</id>
+    <link href="https://archlinux.org/packages/extra/any/ibus-typing-booster/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: quickshell 0.2.1-2 x86_64</title>
@@ -4664,17 +4676,5 @@
     <updated>2025-11-03T23:56:26Z</updated>
     <id>tag:archlinux.org,2025-11-03:/packages/extra-testing/x86_64/vlc-plugin-theora/202511032356</id>
     <link href="https://archlinux.org/packages/extra-testing/x86_64/vlc-plugin-theora/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vlc-plugin-tag 3.0.21-31 x86_64</title>
-    <updated>2025-11-03T23:56:25Z</updated>
-    <id>tag:archlinux.org,2025-11-03:/packages/extra-testing/x86_64/vlc-plugin-tag/202511032356</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/vlc-plugin-tag/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: vlc-plugin-svg 3.0.21-31 x86_64</title>
-    <updated>2025-11-03T23:56:25Z</updated>
-    <id>tag:archlinux.org,2025-11-03:/packages/extra-testing/x86_64/vlc-plugin-svg/202511032356</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/vlc-plugin-svg/" rel="alternate"></link>
   </entry>
 </feed>
