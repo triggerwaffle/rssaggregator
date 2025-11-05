@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-11-05T01:08:47Z</updated>
+  <updated>2025-11-05T06:21:59Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3820,6 +3820,24 @@
     <link href="https://terminaltrove.com/feed/noping/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: chroma-ls</title>
+    <updated>2025-11-05T05:44:21Z</updated>
+    <id>chroma-ls-1762321461</id>
+    <link href="https://aur.archlinux.org/packages/chroma-ls" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: python-coincurve-git</title>
+    <updated>2025-11-05T05:39:32Z</updated>
+    <id>python-coincurve-git-1762321172</id>
+    <link href="https://aur.archlinux.org/packages/python-coincurve-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: vlsm-interfacing-bin</title>
+    <updated>2025-11-05T01:25:41Z</updated>
+    <id>vlsm-interfacing-bin-1762305941</id>
+    <link href="https://aur.archlinux.org/packages/vlsm-interfacing-bin" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: nextai-translator-bin</title>
     <updated>2025-11-05T01:03:41Z</updated>
     <id>nextai-translator-bin-1762304621</id>
@@ -4402,22 +4420,34 @@
     <link href="https://aur.archlinux.org/packages/fronius-bridge" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: libcppbor-git</title>
-    <updated>2025-11-02T20:23:47Z</updated>
-    <id>libcppbor-git-1762115027</id>
-    <link href="https://aur.archlinux.org/packages/libcppbor-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: glycin-gtk4 2.0.5-1 x86_64</title>
+    <updated>2025-11-05T03:22:46Z</updated>
+    <id>tag:archlinux.org,2025-11-05:/packages/extra/x86_64/glycin-gtk4/202511050322</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/glycin-gtk4/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: sunsetr</title>
-    <updated>2025-11-02T19:25:53Z</updated>
-    <id>sunsetr-1762111553</id>
-    <link href="https://aur.archlinux.org/packages/sunsetr" rel="alternate"></link>
+    <title>2:archlinux_new_packages: glycin 2.0.5-1 x86_64</title>
+    <updated>2025-11-05T03:22:45Z</updated>
+    <id>tag:archlinux.org,2025-11-05:/packages/extra/x86_64/glycin/202511050322</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/glycin/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: kontainer</title>
-    <updated>2025-11-02T18:12:04Z</updated>
-    <id>kontainer-1762107124</id>
-    <link href="https://aur.archlinux.org/packages/kontainer" rel="alternate"></link>
+    <title>2:archlinux_new_packages: ghex-docs 48.3-1 x86_64</title>
+    <updated>2025-11-05T03:22:45Z</updated>
+    <id>tag:archlinux.org,2025-11-05:/packages/extra/x86_64/ghex-docs/202511050322</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/ghex-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ghex 48.3-1 x86_64</title>
+    <updated>2025-11-05T03:22:44Z</updated>
+    <id>tag:archlinux.org,2025-11-05:/packages/extra/x86_64/ghex/202511050322</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/ghex/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: unison 2.53.8-1 x86_64</title>
+    <updated>2025-11-05T01:23:33Z</updated>
+    <id>tag:archlinux.org,2025-11-05:/packages/extra/x86_64/unison/202511050123</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/unison/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: plymouth 24.004.60-14 x86_64</title>
@@ -4688,35 +4718,5 @@
     <updated>2025-11-04T23:11:44Z</updated>
     <id>tag:archlinux.org,2025-11-04:/packages/extra/x86_64/haskell-hpack/202511042311</id>
     <link href="https://archlinux.org/packages/extra/x86_64/haskell-hpack/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hoauth2 2.14.0-4 x86_64</title>
-    <updated>2025-11-04T23:11:44Z</updated>
-    <id>tag:archlinux.org,2025-11-04:/packages/extra/x86_64/haskell-hoauth2/202511042311</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hoauth2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-hakyll 4.16.4.0-5 x86_64</title>
-    <updated>2025-11-04T23:11:43Z</updated>
-    <id>tag:archlinux.org,2025-11-04:/packages/extra/x86_64/haskell-hakyll/202511042311</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-hakyll/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-githash 0.1.6.3-335 x86_64</title>
-    <updated>2025-11-04T23:11:43Z</updated>
-    <id>tag:archlinux.org,2025-11-04:/packages/extra/x86_64/haskell-githash/202511042311</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-githash/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-dav 1.3.4-863 x86_64</title>
-    <updated>2025-11-04T23:11:43Z</updated>
-    <id>tag:archlinux.org,2025-11-04:/packages/extra/x86_64/haskell-dav/202511042311</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-dav/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: haskell-crypton-x509-validation 1.6.14-52 x86_64</title>
-    <updated>2025-11-04T23:11:42Z</updated>
-    <id>tag:archlinux.org,2025-11-04:/packages/extra/x86_64/haskell-crypton-x509-validation/202511042311</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/haskell-crypton-x509-validation/" rel="alternate"></link>
   </entry>
 </feed>
