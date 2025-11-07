@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-11-07T12:28:44Z</updated>
+  <updated>2025-11-07T18:20:18Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -166,6 +166,12 @@
     <link href="https://archlinux.org/news/glibc-241-corrupting-discord-installation/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Anthropic公式のMCPサーバー設計術！98.7%のトークン削減を実現</title>
+    <updated>2025-11-06T21:48:52Z</updated>
+    <id>https://zenn.dev/tmasuyama1114/articles/anthropic_mcp_workflow</id>
+    <link href="https://zenn.dev/tmasuyama1114/articles/anthropic_mcp_workflow" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Apps SDKでシンプルなChatGPTアプリを作る</title>
     <updated>2025-11-06T10:54:16Z</updated>
     <id>https://zenn.dev/himara2/articles/ae362b516e9e52</id>
@@ -202,6 +208,12 @@
     <link href="https://zenn.dev/sun_asterisk/articles/ai-driven-mental-model" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: DSPy + LangSmithでプロンプトを全自動で育ててみた</title>
+    <updated>2025-11-06T06:03:10Z</updated>
+    <id>https://zenn.dev/monox_dev/articles/7f5b8bb1423cbf</id>
+    <link href="https://zenn.dev/monox_dev/articles/7f5b8bb1423cbf" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: UnrealEngine5の教科書 [C++入門編,第三巻]</title>
     <updated>2025-11-05T18:20:37Z</updated>
     <id>https://zenn.dev/daichi_gamedev/books/unreal-engine-cplusplus</id>
@@ -224,18 +236,6 @@
     <updated>2025-11-05T07:23:56Z</updated>
     <id>https://zenn.dev/my_vision/articles/actions-ubuntu-slim</id>
     <link href="https://zenn.dev/my_vision/articles/actions-ubuntu-slim" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Observability Conference Tokyo 2025にオーガナイザーとして参加してました</title>
-    <updated>2025-11-05T06:11:48Z</updated>
-    <id>https://zenn.dev/katzchang/articles/3b6c0da97d090d</id>
-    <link href="https://zenn.dev/katzchang/articles/3b6c0da97d090d" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Codex CLIに静的型付き関数型言語TreePを作らせてみた</title>
-    <updated>2025-11-05T04:12:46Z</updated>
-    <id>https://zenn.dev/nextbeat/articles/819c2ace67e8ef</id>
-    <link href="https://zenn.dev/nextbeat/articles/819c2ace67e8ef" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 世界一わかりやすくGit worktreeを解説！AI駆動開発でも活用できる並列開発の方法</title>
@@ -262,16 +262,16 @@
     <link href="https://zenn.dev/niwatly/articles/295841b00bcb7f" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: [Anthropic推奨] 安定したLLM出力を得るプロンプト設計</title>
+    <updated>2025-11-04T12:31:54Z</updated>
+    <id>https://zenn.dev/tsuboi/articles/da19549dbdc6de</id>
+    <link href="https://zenn.dev/tsuboi/articles/da19549dbdc6de" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: 遂にLangChain v1.0リリース！ 新機能と移行のポイントをコード付きで分かりやすく解説！</title>
     <updated>2025-11-04T10:29:34Z</updated>
     <id>https://zenn.dev/nttdata_tech/articles/2ea5821c65fc06</id>
     <link href="https://zenn.dev/nttdata_tech/articles/2ea5821c65fc06" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Web 標準動向 2025年10月版</title>
-    <updated>2025-11-04T07:41:17Z</updated>
-    <id>https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202510</id>
-    <link href="https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202510" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Reactにおける<Component />とComponent()の違い</title>
@@ -4936,70 +4936,22 @@
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202411/08?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: MCP サーバーの基礎から実践レベルの知識まで</title>
-    <updated>2025-11-06T16:24:38Z</updated>
-    <id>tag:speakerdeck.com,2025-11-06:/azukiazusa1/mcp-sabanoji-chu-karashi-jian-reberunozhi-shi-made</id>
-    <link href="https://speakerdeck.com/azukiazusa1/mcp-sabanoji-chu-karashi-jian-reberunozhi-shi-made" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 絵画を、絵画らしく飾る。電子ペーパー採用の最大31.5型アートフレーム</title>
-    <updated>2025-11-07T04:22:16Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-11-07:/docs/news/2061431.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2061431.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 機械翻訳が「人手の作業を大量破壊」　Mozilla日本語コミュニティが解散宣言　人力訳を上書き</title>
     <updated>2025-11-07T07:57:07Z</updated>
     <id>tag:www.itmedia.co.jp,2025-11-07:/news/articles/2511/07/news096.html</id>
     <link href="https://www.itmedia.co.jp/news/articles/2511/07/news096.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ロボット掃除機のデータ送信をブロックしたところ遠隔操作で使用不可能にされてしまったが自力で復活させたという体験談</title>
-    <updated>2025-11-06T13:24:52Z</updated>
-    <id>tag:gigazine.net,2025-11-06:/news/20251106-smart-vacuum-remote-kill-command/</id>
-    <link href="https://gigazine.net/news/20251106-smart-vacuum-remote-kill-command/" rel="alternate"></link>
+    <title>1:hatena_blog_it: MCP サーバーの基礎から実践レベルの知識まで</title>
+    <updated>2025-11-06T16:24:38Z</updated>
+    <id>tag:speakerdeck.com,2025-11-06:/azukiazusa1/mcp-sabanoji-chu-karashi-jian-reberunozhi-shi-made</id>
+    <link href="https://speakerdeck.com/azukiazusa1/mcp-sabanoji-chu-karashi-jian-reberunozhi-shi-made" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【特集】 「iPhone Air」はなぜ人気がないのか？販売不振を招いた3つの理由</title>
-    <updated>2025-11-07T00:05:26Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-11-07:/docs/topic/feature/2061265.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2061265.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【買い物山脈】 Google製ドアベルを取り付けたら、宅配待ちでも気兼ねなくトイレに行けるようになった</title>
-    <updated>2025-11-06T22:01:33Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-11-06:/docs/column/kaimono/2060871.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/kaimono/2060871.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: バンダイチャンネル、全サービス停止--「不正アクセスの疑い」で</title>
-    <updated>2025-11-06T23:25:35Z</updated>
-    <id>tag:japan.cnet.com,2025-11-06:/article/35240167/</id>
-    <link href="https://japan.cnet.com/article/35240167/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Windows 11/10の10月更新プログラムですべてのデータを失う可能性</title>
-    <updated>2025-11-06T14:30:45Z</updated>
-    <id>tag:news.mynavi.jp,2025-11-06:/techplus/article/20251106-3633511/</id>
-    <link href="https://news.mynavi.jp/techplus/article/20251106-3633511/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「生成AIに仕事を奪われるのでは？」「勝手に学習に使われていない？」―カメラマンの不安に、Adobe Fireflyはどう応えているのか - はてなニュース</title>
-    <updated>2025-11-07T02:00:15Z</updated>
-    <id>tag:hatenanews.com,2025-11-07:/articles/2025/11/07/103000</id>
-    <link href="https://hatenanews.com/articles/2025/11/07/103000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「クマ避けスプレー搭載ドローン」登場　遠隔操作で噴射、自治体利用見込む</title>
-    <updated>2025-11-07T04:41:47Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-11-07:/news/articles/2511/07/news081.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2511/07/news081.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: アマゾンからの段ボールに見覚えある「シミ」　男性が通報した理由は：朝日新聞</title>
-    <updated>2025-11-07T01:38:47Z</updated>
-    <id>tag:www.asahi.com,2025-11-07:/articles/ASTC62V4STC6UTIL016M.html</id>
-    <link href="https://www.asahi.com/articles/ASTC62V4STC6UTIL016M.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「Mozilla/Firefoxの日本語コミュニティ解散」とかいうDramaについて知っておくべき2,3のこと</title>
+    <updated>2025-11-07T12:45:25Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-11-07:/20251107214401</id>
+    <link href="https://anond.hatelabo.jp/20251107214401" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: なぜアーキチームは設計や実装のパターンを絞りたいか？ 背景にある思考と技術選定のジレンマ | フューチャー技術ブログ</title>
@@ -5008,34 +4960,34 @@
     <link href="https://future-architect.github.io/articles/20251107a/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: TSMC、Appleにチップ価格の大幅値上げ通知か。iPhone 18は現行の6倍超になる可能性</title>
+    <title>1:hatena_blog_it: 絵画を、絵画らしく飾る。電子ペーパー採用の最大31.5型アートフレーム</title>
+    <updated>2025-11-07T04:22:16Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-11-07:/docs/news/2061431.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2061431.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: TSMC、Appleに大幅値上げ通知か。Phone 18搭載チップは現行の6倍、280ドルになる恐れ</title>
     <updated>2025-11-07T01:47:26Z</updated>
     <id>tag:gori.me,2025-11-07:/apple/apple-news/162174</id>
     <link href="https://gori.me/apple/apple-news/162174" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 北欧で運行中の中国製の電気バス、メーカー側から遠隔でアクセスできることが判明「何のための機能？」「テスラもやってた」</title>
-    <updated>2025-11-07T07:54:02Z</updated>
-    <id>tag:togetter.com,2025-11-07:/li/2625168</id>
-    <link href="https://togetter.com/li/2625168" rel="alternate"></link>
+    <title>1:hatena_blog_it: 北海道で車を運転中、ヒグマに襲われる動画がAIを疑うレベルで衝撃映像だった…真正面から突撃してくる迫力に「想像以上にデカい」「死んだフリとか無理」</title>
+    <updated>2025-11-07T13:46:18Z</updated>
+    <id>tag:togetter.com,2025-11-07:/li/2625260</id>
+    <link href="https://togetter.com/li/2625260" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ノルウェーで運用されている中国製電動バスにリモートアクセス機能が隠されていることが発見される</title>
-    <updated>2025-11-06T22:34:20Z</updated>
-    <id>tag:gigazine.net,2025-11-06:/news/20251107-chinese-buses/</id>
-    <link href="https://gigazine.net/news/20251107-chinese-buses/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「クマ避けスプレー搭載ドローン」登場　遠隔操作で噴射、自治体利用見込む</title>
+    <updated>2025-11-07T04:41:47Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-11-07:/news/articles/2511/07/news081.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2511/07/news081.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: これでAIのウソが激減！ ChatGPTを検証モードに切り替える「事実確認系プロンプト」10選 - Smart Watch Life｜日本初のスマートウォッチ専門メディア</title>
-    <updated>2025-11-07T02:42:16Z</updated>
-    <id>tag:www.smartwatchlife.jp,2025-11-07:/59886/</id>
-    <link href="https://www.smartwatchlife.jp/59886/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Next.js DevTools MCPを使ってNext.jsアプリの開発を効率化！Bridge MCP Serverの仕組みとAI時代のフレームワーク生存戦略について考えてみた | DevelopersIO</title>
-    <updated>2025-11-06T08:41:45Z</updated>
-    <id>tag:dev.classmethod.jp,2025-11-06:/articles/nextjs-devtools-mcp-aidd/</id>
-    <link href="https://dev.classmethod.jp/articles/nextjs-devtools-mcp-aidd/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 某フォトコンテストで”確かな撮影技術と構成の巧みさ”が評価され最優秀賞を獲った作品が著作権フリーの生成AI画像コンテンツだった→もうプロも見抜けないレベルになってるのか</title>
+    <updated>2025-11-07T11:54:26Z</updated>
+    <id>tag:togetter.com,2025-11-07:/li/2625233</id>
+    <link href="https://togetter.com/li/2625233" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: グーグル、AIノート「NotebookLM」アプリ版にクイズ・単語帳を自動生成する新機能</title>
@@ -5044,22 +4996,58 @@
     <link href="https://k-tai.watch.impress.co.jp/docs/news/2061396.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: MCPサーバー開発大全 | 技術評論社</title>
-    <updated>2025-11-06T10:52:47Z</updated>
-    <id>tag:gihyo.jp,2025-11-06:/book/2025/978-4-297-15327-4</id>
-    <link href="https://gihyo.jp/book/2025/978-4-297-15327-4" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「生成AIに仕事を奪われるのでは？」「勝手に学習に使われていない？」―カメラマンの不安に、Adobe Fireflyはどう応えているのか - はてなニュース</title>
+    <updated>2025-11-07T02:00:15Z</updated>
+    <id>tag:hatenanews.com,2025-11-07:/articles/2025/11/07/103000</id>
+    <link href="https://hatenanews.com/articles/2025/11/07/103000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 右クリックメニューに有用なコマンドを大量追加して日々の作業を快適にする技／「PowerShell」や「レジストリエディター」の起動などを追加、クラシックモード対応【レビュー】</title>
-    <updated>2025-11-07T01:53:03Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-11-07:/docs/review/2060076.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/review/2060076.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 北欧で運行中の中国製の電気バス、メーカー側から遠隔でアクセスできることが判明「何のための機能？」「テスラもやってた」</title>
+    <updated>2025-11-07T07:54:02Z</updated>
+    <id>tag:togetter.com,2025-11-07:/li/2625168</id>
+    <link href="https://togetter.com/li/2625168" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: FBIがウェブ魚拓サービス「archive.today」の所有者の身元を捜索中</title>
-    <updated>2025-11-07T03:23:50Z</updated>
-    <id>tag:gigazine.net,2025-11-07:/news/20251107-archive-today-fbi/</id>
-    <link href="https://gigazine.net/news/20251107-archive-today-fbi/" rel="alternate"></link>
+    <title>1:hatena_blog_it: これでAIのウソが激減！ ChatGPTを検証モードに切り替える「事実確認系プロンプト」10選 - Smart Watch Life｜日本初のスマートウォッチ専門メディア</title>
+    <updated>2025-11-07T02:42:16Z</updated>
+    <id>tag:www.smartwatchlife.jp,2025-11-07:/59886/</id>
+    <link href="https://www.smartwatchlife.jp/59886/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「ローマ帝国の道」の新たなデータセットが作られてマッピングされた道の総延長が10万km以上も増加</title>
+    <updated>2025-11-07T05:30:18Z</updated>
+    <id>tag:gigazine.net,2025-11-07:/news/20251107-new-map-reveals-ancient-roman-roads/</id>
+    <link href="https://gigazine.net/news/20251107-new-map-reveals-ancient-roman-roads/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: iPhoneのeSIMクイック転送がMVNOで使えない――IIJ谷脇社長「キャリアには働きかけている」</title>
+    <updated>2025-11-07T06:49:31Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2025-11-07:/docs/news/2061489.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/news/2061489.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 中国製の電気バス、中国から遠隔制御が可能だった…北欧各国が騒然</title>
+    <updated>2025-11-07T06:36:49Z</updated>
+    <id>tag:japanese.joins.com,2025-11-07:/JArticle/340749</id>
+    <link href="https://japanese.joins.com/JArticle/340749?sectcode=A00&servcode=A00" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: バンダイチャンネル、全サービス停止--「不正アクセスの疑い」で</title>
+    <updated>2025-11-06T23:25:35Z</updated>
+    <id>tag:japan.cnet.com,2025-11-06:/article/35240167/</id>
+    <link href="https://japan.cnet.com/article/35240167/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: VS Codeを活用した開発 (Gitの各種操作・デバッグ) -人工知能応用特論Ⅰ 第5回 | ドクセル</title>
+    <updated>2025-11-06T15:37:51Z</updated>
+    <id>tag:www.docswell.com,2025-11-06:/s/2625216247/ZX6764-2025-11-06-190151</id>
+    <link href="https://www.docswell.com/s/2625216247/ZX6764-2025-11-06-190151" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【特集】 「iPhone Air」はなぜ人気がないのか？販売不振を招いた3つの理由</title>
+    <updated>2025-11-07T00:05:26Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-11-07:/docs/topic/feature/2061265.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2061265.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 同じ脆弱性情報を使っているはずなのに！？なぜか発生した脆弱性の検知漏れ：パッケージの分類がもたらした落とし穴 - NTT docomo Business Engineers' Blog</title>
@@ -5068,10 +5056,28 @@
     <link href="https://engineers.ntt.com/entry/202510-chisaka/entry" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: シスコ製の無料ネットワーク構成図作成・管理ツール「Network Sketcher」v2.6.0　ほか ～15件を掲載（11月6日のダイジェストニュース）【ダイジェストニュース】</title>
-    <updated>2025-11-06T21:19:02Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-11-06:/docs/digest/2061271.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/digest/2061271.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「Pythonを抜いた」　いま最も使用されている言語とは　GitHubの年次調査「Octoverse 2025」</title>
+    <updated>2025-11-07T02:56:58Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2025-11-07:/ait/articles/2511/07/news051.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2511/07/news051.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ゲーミングPCを持ってたのに8年間気づかなかった男の話</title>
+    <updated>2025-11-06T10:21:47Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-11-06:/20251106191724</id>
+    <link href="https://anond.hatelabo.jp/20251106191724" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【買い物山脈】 Google製ドアベルを取り付けたら、宅配待ちでも気兼ねなくトイレに行けるようになった</title>
+    <updated>2025-11-06T22:01:33Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-11-06:/docs/column/kaimono/2060871.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/kaimono/2060871.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ロボット掃除機のデータ送信をブロックしたところ遠隔操作で使用不可能にされてしまったが自力で復活させたという体験談</title>
+    <updated>2025-11-06T13:24:52Z</updated>
+    <id>tag:gigazine.net,2025-11-06:/news/20251106-smart-vacuum-remote-kill-command/</id>
+    <link href="https://gigazine.net/news/20251106-smart-vacuum-remote-kill-command/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 流行語大賞にノミネートされた「チャッピー」は誰が使ってる？　相談相手はChatGPTな悩める若者たち #エキスパートトピ（篠原修司） - エキスパート - Yahoo!ニュース</title>
@@ -5080,15 +5086,15 @@
     <link href="https://news.yahoo.co.jp/expert/articles/5b55bc80ccd37961340d782ab5e4814bad0099c3" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【図解】Torネットワークによる匿名化と、.onionドメインにアクセスする仕組みについて - Qiita</title>
-    <updated>2025-11-06T03:52:12Z</updated>
-    <id>tag:qiita.com,2025-11-06:/todotodo/items/fd631b42eb18f9cfacd2</id>
-    <link href="https://qiita.com/todotodo/items/fd631b42eb18f9cfacd2" rel="alternate"></link>
+    <title>1:hatena_blog_it: 米国の看板猫、自動運転タクシーにひかれ死亡　地域住民から批判噴出　追悼が反対運動に発展</title>
+    <updated>2025-11-07T04:31:21Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-11-07:/aiplus/articles/2511/07/news047.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2511/07/news047.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「Pythonを抜いた」　いま最も使用されている言語とは　GitHubの年次調査「Octoverse 2025」</title>
-    <updated>2025-11-07T02:56:58Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2025-11-07:/ait/articles/2511/07/news051.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2511/07/news051.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 右クリックメニューに有用なコマンドを大量追加して日々の作業を快適にする技／「PowerShell」や「レジストリエディター」の起動などを追加、クラシックモード対応【レビュー】</title>
+    <updated>2025-11-07T01:53:03Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-11-07:/docs/review/2060076.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/review/2060076.html" rel="alternate"></link>
   </entry>
 </feed>
