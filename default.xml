@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-11-09T12:25:20Z</updated>
+  <updated>2025-11-09T18:18:08Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -466,6 +466,12 @@
     <link href="https://qiita.com/felis_silv/items/d447556ba3d03e5c333b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: A Quick First Look At Fedora 43</title>
+    <updated>2025-11-09T14:01:18Z</updated>
+    <id>yt:video:p9dmUn4IeT4</id>
+    <link href="https://www.youtube.com/watch?v=p9dmUn4IeT4" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: The Fragmentation Problem Within Linux - Is It Real Or Fake News?</title>
     <updated>2025-11-06T14:01:02Z</updated>
     <id>yt:video:Tu_pKh51kcM</id>
@@ -548,12 +554,6 @@
     <updated>2025-10-02T13:01:36Z</updated>
     <id>yt:video:nEKqJUD9yAs</id>
     <link href="https://www.youtube.com/watch?v=nEKqJUD9yAs" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: A Collection Of Tools For Developers In One App</title>
-    <updated>2025-09-29T13:01:19Z</updated>
-    <id>yt:video:fMmlz28rcX4</id>
-    <link href="https://www.youtube.com/watch?v=fMmlz28rcX4" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: パスワード変更も意味がない、クラウドを侵害し続ける悪意ある「OAuthアプリ」の実態</title>
@@ -1006,6 +1006,18 @@
     <link href="https://www.youtube.com/watch?v=1Dwwy41ZKvM" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: GeminiにPDFやWord、Excel、テキストファイルなどの検索機能を組み込める「File Search in Gemini API」提供開始、フルマネージドなRAGシステムを提供</title>
+    <updated>2025-11-09T15:12:56Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8371</id>
+    <link href="https://www.publickey1.jp/blog/25/geminipdfwordexcelfile_search_in_gemini_apirag.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: ITエンジニアがITエンジニアに読んでほしい本を選ぶ「ITエンジニア本大賞 2026」の投票がスタート</title>
+    <updated>2025-11-09T15:01:28Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8372</id>
+    <link href="https://www.publickey1.jp/blog/25/ititit_2026.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: 先進テクノロジーのハイプサイクル／VS Codeに「Planモード」が追加／GitHub、AIエージェントを統べる「Agent HQ」構想ほか、2025年10月の人気記事</title>
     <updated>2025-11-06T15:04:27Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8370</id>
@@ -1082,18 +1094,6 @@
     <updated>2025-10-26T15:49:40Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8357</id>
     <link href="https://www.publickey1.jp/blog/25/appleswift_sdk_for_androidswiftandroid.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Rails 8.1正式リリース。長時間かかるタスクの一時停止と再開やMarkdownレンダリングなど新機能</title>
-    <updated>2025-10-26T15:46:41Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8356</id>
-    <link href="https://www.publickey1.jp/blog/25/rails_81markdown.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: AWS Kiroのウェイトリストが終了、誰でも利用可能に。スペックファイルの指定や時間のかかるコマンドのバックグラウンド実行など新機能も</title>
-    <updated>2025-10-22T15:50:43Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8354</id>
-    <link href="https://www.publickey1.jp/blog/25/aws_kiro.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Mastodon、バージョン4.5をリリース ——元投稿者の引用ポリシーを尊重する引用投稿の投稿が可能に</title>
@@ -4924,58 +4924,16 @@
     <link href="https://gihyo.jp/article/2024/11/blender-basics-40?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 品質は設計でつくり込む / design in quality</title>
-    <updated>2025-11-08T09:15:06Z</updated>
-    <id>tag:speakerdeck.com,2025-11-08:/technuma/design-in-quality</id>
-    <link href="https://speakerdeck.com/technuma/design-in-quality" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Affinity アプリが永久無料と聞いてこれで脱 Adobe できるかと思ってるあなたに、Affinity 歴約 5 年の私から伝えておきたいこと</title>
-    <updated>2025-11-08T12:26:38Z</updated>
-    <id>tag:jeffreyfrancesco.org,2025-11-08:/weblog/2025110501/</id>
-    <link href="https://jeffreyfrancesco.org/weblog/2025110501/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 海外でバズった『Googleを使わずに、最も有名な日本人の名前を挙げてください』を集計してみたら色々と興味深い結果になった</title>
-    <updated>2025-11-09T01:38:33Z</updated>
-    <id>tag:togetter.com,2025-11-09:/li/2625791</id>
-    <link href="https://togetter.com/li/2625791" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 【Midjourney | Nano Banana】商品撮影のプロが撮影をやめた。誰も教えない、ブランドやECの現場レベルで使える画像生成AIと動画生成AIの神業プロンプトまとめ。｜さきすた</title>
     <updated>2025-11-09T02:37:55Z</updated>
     <id>tag:note.com,2025-11-09:/sakisuta/n/n5bfecc698d6c</id>
     <link href="https://note.com/sakisuta/n/n5bfecc698d6c" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Jupyterよりも marimoが使いやすい理由</title>
-    <updated>2025-11-07T23:05:44Z</updated>
-    <id>tag:zenn.dev,2025-11-07:/dxc_ai_driven/articles/10e04000ff6f1d</id>
-    <link href="https://zenn.dev/dxc_ai_driven/articles/10e04000ff6f1d" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「AIショック」に沈むApple　「iPhone以来の革命」に乗り遅れた3つの理由 | TBS CROSS DIG with Bloomberg</title>
-    <updated>2025-11-08T07:41:01Z</updated>
-    <id>tag:newsdig.tbs.co.jp,2025-11-08:/articles/withbloomberg/2270426</id>
-    <link href="https://newsdig.tbs.co.jp/articles/withbloomberg/2270426" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: チームのテスト力を総合的に鍛えてシフトレフトを推進する/Shifting Left with Software Testing Improvements</title>
-    <updated>2025-11-08T10:58:54Z</updated>
-    <id>tag:speakerdeck.com,2025-11-08:/goyoki/shifting-left-with-software-testing-improvements</id>
-    <link href="https://speakerdeck.com/goyoki/shifting-left-with-software-testing-improvements" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 電話番号は使いまわされているが、サービスの会員登録や本人確認で電話番号を使う必要があるのはリスクが高いのではないか？</title>
-    <updated>2025-11-08T17:31:11Z</updated>
-    <id>tag:togetter.com,2025-11-08:/li/2625669</id>
-    <link href="https://togetter.com/li/2625669" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: CI/CDに続く概念？GitHub Universeでも注目のContinuous AIを紹介 | ドクセル</title>
-    <updated>2025-11-08T22:00:53Z</updated>
-    <id>tag:www.docswell.com,2025-11-08:/s/yuma/K37VJ8-2025-11-07-ghcpmeetup</id>
-    <link href="https://www.docswell.com/s/yuma/K37VJ8-2025-11-07-ghcpmeetup" rel="alternate"></link>
+    <title>1:hatena_blog_it: 品質は設計でつくり込む / design in quality</title>
+    <updated>2025-11-08T09:15:06Z</updated>
+    <id>tag:speakerdeck.com,2025-11-08:/technuma/design-in-quality</id>
+    <link href="https://speakerdeck.com/technuma/design-in-quality" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 反イスラム感情惹起に生成AI動画が使用されることが増えてきた - 電脳塵芥</title>
@@ -4984,10 +4942,64 @@
     <link href="https://nou-yunyun.hatenablog.com/entry/2025/11/09/170000" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 海外でバズった『Googleを使わずに、最も有名な日本人の名前を挙げてください』を集計してみたら色々と興味深い結果になった</title>
+    <updated>2025-11-09T01:38:33Z</updated>
+    <id>tag:togetter.com,2025-11-09:/li/2625791</id>
+    <link href="https://togetter.com/li/2625791" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: チームのテスト力を総合的に鍛えてシフトレフトを推進する/Shifting Left with Software Testing Improvements</title>
+    <updated>2025-11-08T10:58:54Z</updated>
+    <id>tag:speakerdeck.com,2025-11-08:/goyoki/shifting-left-with-software-testing-improvements</id>
+    <link href="https://speakerdeck.com/goyoki/shifting-left-with-software-testing-improvements" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「AIショック」に沈むApple　「iPhone以来の革命」に乗り遅れた3つの理由 | TBS CROSS DIG with Bloomberg</title>
+    <updated>2025-11-08T07:41:01Z</updated>
+    <id>tag:newsdig.tbs.co.jp,2025-11-08:/articles/withbloomberg/2270426</id>
+    <link href="https://newsdig.tbs.co.jp/articles/withbloomberg/2270426" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: AIで作成した「回転すると別のものに見える絵」が知覚研究に役立つ</title>
     <updated>2025-11-09T08:07:54Z</updated>
     <id>tag:gigazine.net,2025-11-09:/news/20251109-visual-anagram-reveal-perception/</id>
     <link href="https://gigazine.net/news/20251109-visual-anagram-reveal-perception/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Affinity アプリが永久無料と聞いてこれで脱 Adobe できるかと思ってるあなたに、Affinity 歴約 5 年の私から伝えておきたいこと</title>
+    <updated>2025-11-08T12:26:38Z</updated>
+    <id>tag:jeffreyfrancesco.org,2025-11-08:/weblog/2025110501/</id>
+    <link href="https://jeffreyfrancesco.org/weblog/2025110501/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: CI/CDに続く概念？GitHub Universeでも注目のContinuous AIを紹介 | ドクセル</title>
+    <updated>2025-11-08T22:00:53Z</updated>
+    <id>tag:www.docswell.com,2025-11-08:/s/yuma/K37VJ8-2025-11-07-ghcpmeetup</id>
+    <link href="https://www.docswell.com/s/yuma/K37VJ8-2025-11-07-ghcpmeetup" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【年間で$3,120の削減】 Datadog から CloudWatch への移行で実現したコスパ良の外形監視 - Adwaysエンジニアブログ</title>
+    <updated>2025-11-09T12:07:17Z</updated>
+    <id>tag:blog.engineer.adways.net,2025-11-09:/entry/2025/11/05/120000</id>
+    <link href="https://blog.engineer.adways.net/entry/2025/11/05/120000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Jupyterよりも marimoが使いやすい理由</title>
+    <updated>2025-11-07T23:05:44Z</updated>
+    <id>tag:zenn.dev,2025-11-07:/dxc_ai_driven/articles/10e04000ff6f1d</id>
+    <link href="https://zenn.dev/dxc_ai_driven/articles/10e04000ff6f1d" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 例外処理を理解して、設計段階からエラーを見つけやすく、起こりにくく</title>
+    <updated>2025-11-08T06:00:43Z</updated>
+    <id>tag:speakerdeck.com,2025-11-08:/kajitack/understanding-exceptions-in-php</id>
+    <link href="https://speakerdeck.com/kajitack/understanding-exceptions-in-php" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: MIT、AI時代の新開発論を提唱。「可読性の高いソフトウェア」は"バイブコーディング"を終わらせるか | XenoSpectrum</title>
+    <updated>2025-11-09T11:54:53Z</updated>
+    <id>tag:xenospectrum.com,2025-11-09:/mit-legible-software-concepts-synchronizations-ai-coding/</id>
+    <link href="https://xenospectrum.com/mit-legible-software-concepts-synchronizations-ai-coding/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 「なにこれ身に覚えないねんけど詐欺？不正ログインされた？」→まるでApple公式のようなデザインで身に覚えのない請求メールが届いて「途中までID打ち込んでた...」</title>
@@ -4996,28 +5008,22 @@
     <link href="https://togetter.com/li/2625873" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: なんか生成AIのある世に生まれたのが楽しくなってきたな</title>
-    <updated>2025-11-08T16:03:40Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-11-08:/20251109000951</id>
-    <link href="https://anond.hatelabo.jp/20251109000951" rel="alternate"></link>
+    <title>1:hatena_blog_it: 結構変化しているWindows 11のエクスプローラーの基本設定を見直す (1/2)</title>
+    <updated>2025-11-09T08:07:10Z</updated>
+    <id>tag:ascii.jp,2025-11-09:/elem/000/004/350/4350352/</id>
+    <link href="https://ascii.jp/elem/000/004/350/4350352/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: マックの注文端末でメニューに価格が表示されてなくて困る話…モバイルオーダーでは見れるのに店舗だとなぜ見れないのか疑問だし、UIが問題と感じる人も</title>
-    <updated>2025-11-08T09:43:46Z</updated>
-    <id>tag:togetter.com,2025-11-08:/li/2625527</id>
-    <link href="https://togetter.com/li/2625527" rel="alternate"></link>
+    <title>1:hatena_blog_it: MCP ツールのコンテキスト圧迫の問題とその解決策</title>
+    <updated>2025-11-09T10:52:19Z</updated>
+    <id>tag:azukiazusa.dev,2025-11-09:/blog/mcp-tool-context-overflow/</id>
+    <link href="https://azukiazusa.dev/blog/mcp-tool-context-overflow/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: CSSのイージング関数を簡単に使えるようにできる「Easing Wizard」</title>
-    <updated>2025-11-08T16:53:01Z</updated>
-    <id>tag:gigazine.net,2025-11-08:/news/20251108-easing-wizard/</id>
-    <link href="https://gigazine.net/news/20251108-easing-wizard/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 日本語にも対応、Kiroと互換性のある国産の仕様駆動型開発ツール「cc-sdd」を使ってみた</title>
-    <updated>2025-11-08T16:50:57Z</updated>
-    <id>tag:gigazine.net,2025-11-08:/news/20251108-cc-sdd/</id>
-    <link href="https://gigazine.net/news/20251108-cc-sdd/" rel="alternate"></link>
+    <title>1:hatena_blog_it: スペースを開いていたら謎の知らない女2人がスピーカーリクエストを送ってきたので適当に許可したら俺の話ガン無視で2人だけで話し始めてマジで怖かった</title>
+    <updated>2025-11-09T08:59:17Z</updated>
+    <id>tag:togetter.com,2025-11-09:/li/2625905</id>
+    <link href="https://togetter.com/li/2625905" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Qwen3、GLM、GPT-ossなどクソデカ言語モデルを試したところGLM-4.5-Airがお気に入り - きしだのHatena</title>
@@ -5026,16 +5032,52 @@
     <link href="https://nowokay.hatenablog.com/entry/2025/11/06/065327" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 組織もソフトウェアも難しく考えない、もっとシンプルな考え方で設計する #phpconfuk</title>
+    <updated>2025-11-08T07:42:25Z</updated>
+    <id>tag:speakerdeck.com,2025-11-08:/o0h/phpconfuk-2025</id>
+    <link href="https://speakerdeck.com/o0h/phpconfuk-2025" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 電話番号は使いまわされているが、サービスの会員登録や本人確認で電話番号を使う必要があるのはリスクが高いのではないか？</title>
+    <updated>2025-11-08T17:31:11Z</updated>
+    <id>tag:togetter.com,2025-11-08:/li/2625669</id>
+    <link href="https://togetter.com/li/2625669" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 「ITエンジニアが選ぶ生成AI」ランキング　7割が「もう手放せない」</title>
     <updated>2025-11-07T02:19:55Z</updated>
     <id>tag:www.itmedia.co.jp,2025-11-07:/business/articles/2511/07/news018.html</id>
     <link href="https://www.itmedia.co.jp/business/articles/2511/07/news018.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: I finally found the perfect travel-ready productivity toolkit—and it fits on a USB stick</title>
-    <updated>2025-11-09T04:26:05Z</updated>
-    <id>tag:www.makeuseof.com,2025-11-09:/found-perfect-travel-ready-productivity-toolkit/</id>
-    <link href="https://www.makeuseof.com/found-perfect-travel-ready-productivity-toolkit/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 開発者が知っておきたい複雑さの正体/where-the-complexity-comes-from</title>
+    <updated>2025-11-08T01:52:48Z</updated>
+    <id>tag:speakerdeck.com,2025-11-08:/hanhan1978/where-the-complexity-comes-from</id>
+    <link href="https://speakerdeck.com/hanhan1978/where-the-complexity-comes-from" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 日本語にも対応、Kiroと互換性のある国産の仕様駆動型開発ツール「cc-sdd」を使ってみた</title>
+    <updated>2025-11-08T16:50:57Z</updated>
+    <id>tag:gigazine.net,2025-11-08:/news/20251108-cc-sdd/</id>
+    <link href="https://gigazine.net/news/20251108-cc-sdd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: なんか生成AIのある世に生まれたのが楽しくなってきたな</title>
+    <updated>2025-11-08T16:03:40Z</updated>
+    <id>tag:anond.hatelabo.jp,2025-11-08:/20251109000951</id>
+    <link href="https://anond.hatelabo.jp/20251109000951" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIエンジニアリング</title>
+    <updated>2025-11-09T04:21:35Z</updated>
+    <id>tag:www.oreilly.co.jp,2025-11-09://books/9784814401383/</id>
+    <link href="https://www.oreilly.co.jp//books/9784814401383/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ソフトウェアエンジニアガイドブック</title>
+    <updated>2025-11-07T06:55:45Z</updated>
+    <id>tag:www.oreilly.co.jp,2025-11-07://books/9784814401215/</id>
+    <link href="https://www.oreilly.co.jp//books/9784814401215/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 1Password AC #3: Master Password の作り方 | blog.jxck.io</title>
@@ -5044,63 +5086,21 @@
     <link href="https://blog.jxck.io/entries/2025-11-06/create-master-password.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 母から送られてくる封筒の裏に毎回「〆」と書かれているが、何の意味と効力があるのか？「お手紙の作法ですね」「簡易セキュリティ」など諸説集まる</title>
-    <updated>2025-11-08T08:36:46Z</updated>
-    <id>tag:togetter.com,2025-11-08:/li/2625462</id>
-    <link href="https://togetter.com/li/2625462" rel="alternate"></link>
+    <title>1:hatena_blog_it: 『トラックボールマウスは日本以外ではほとんど流行っていない』という発言にショックを受ける愛好家たち</title>
+    <updated>2025-11-08T07:44:26Z</updated>
+    <id>tag:togetter.com,2025-11-08:/li/2625493</id>
+    <link href="https://togetter.com/li/2625493" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: データセンターがやってきた街の現実。本当に潤ったのは誰だったのか？</title>
-    <updated>2025-11-07T09:55:59Z</updated>
-    <id>tag:www.gizmodo.jp,2025-11-07:/2025/11/impact-of-attracting-data-centers.html</id>
-    <link href="https://www.gizmodo.jp/2025/11/impact-of-attracting-data-centers.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【注目記事】年末調整の書き方 必要書類の記入例と簡単な計算方法【2025年(令和7年分)まとめ】基礎控除申告書の収入・所得金額、生命保険控除など記入手順を図解</title>
+    <updated>2025-11-07T23:15:26Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2025-11-07:/docs/readitnow/2061612.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/readitnow/2061612.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ツール100個超えのサイトも。ウェブ制作やプログラミングに便利な無料ツール集5選</title>
-    <updated>2025-11-08T06:01:28Z</updated>
-    <id>tag:news.mynavi.jp,2025-11-08:/article/20251108-3639171/</id>
-    <link href="https://news.mynavi.jp/article/20251108-3639171/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: リアル鉄道・物流管理シム『Transport Fever 3』の予算は約37億円、その9割を開発費につぎ込む。なぜこんな予算があり気合が入っているのか？開発者に訊いた - AUTOMATON</title>
-    <updated>2025-11-08T01:31:05Z</updated>
-    <id>tag:automaton-media.com,2025-11-08:/articles/newsjp/tf3-20251108-365238/</id>
-    <link href="https://automaton-media.com/articles/newsjp/tf3-20251108-365238/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIブラウザ4種・ガチ比較。「未来のインターネット」の利便性と危険性 | ライフハッカー・ジャパン</title>
-    <updated>2025-11-07T12:53:48Z</updated>
-    <id>tag:www.lifehacker.jp,2025-11-07:/article/2511-i-compared-the-biggest-ai-browsers/</id>
-    <link href="https://www.lifehacker.jp/article/2511-i-compared-the-biggest-ai-browsers/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIエージェントが雇用直撃　2026年はスーパーカンパニー出現か - 日本経済新聞</title>
-    <updated>2025-11-09T00:33:17Z</updated>
-    <id>tag:www.nikkei.com,2025-11-09:/article/DGXZQOCD30ASB0Q5A031C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOCD30ASB0Q5A031C2000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ZigCool</title>
-    <updated>2025-11-08T05:26:18Z</updated>
-    <id>tag:nilostolte.github.io,2025-11-08:/tech/articles/ZigCool.html</id>
-    <link href="https://nilostolte.github.io/tech/articles/ZigCool.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Gemini API の File Search Tool の概要｜npaka</title>
-    <updated>2025-11-07T06:47:19Z</updated>
-    <id>tag:note.com,2025-11-07:/npaka/n/n8526f1a5909e</id>
-    <link href="https://note.com/npaka/n/n8526f1a5909e" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: GitHub - Snapchat/Valdi: Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.</title>
-    <updated>2025-11-08T08:20:14Z</updated>
-    <id>tag:github.com,2025-11-08:/Snapchat/Valdi</id>
-    <link href="https://github.com/Snapchat/Valdi" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「古いiPhoneでLINE使えなくなる」ポスターに批判殺到　掲示元の「ノジマ」に意図を聞いた</title>
-    <updated>2025-11-08T09:52:26Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-11-08:/mobile/articles/2511/08/news036.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2511/08/news036.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: インターネットアーカイブの創設者が「我々は生き残ったが、ライブラリは壊滅した」と語る</title>
+    <updated>2025-11-08T12:07:23Z</updated>
+    <id>tag:gigazine.net,2025-11-08:/news/20251108-internet-archive-founder/</id>
+    <link href="https://gigazine.net/news/20251108-internet-archive-founder/" rel="alternate"></link>
   </entry>
 </feed>
