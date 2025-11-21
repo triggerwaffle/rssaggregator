@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-11-21T12:28:44Z</updated>
+  <updated>2025-11-21T18:20:18Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -10,10 +10,10 @@
     <email>johndoe@example.com</email>
   </author>
   <entry>
-    <title>4:terminal trove: auggie</title>
+    <title>4:terminal trove: gitlogue</title>
     <updated>2025-11-19T01:00:00Z</updated>
-    <id>https://terminaltrove.com/auggie/</id>
-    <link href="https://terminaltrove.com/feed/auggie/" rel="alternate"></link>
+    <id>https://terminaltrove.com/gitlogue/</id>
+    <link href="https://terminaltrove.com/feed/gitlogue/" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:terminal trove: pdfgrep</title>
@@ -28,16 +28,16 @@
     <link href="https://terminaltrove.com/feed/sot/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>4:terminal trove: auggie</title>
+    <updated>2025-11-19T01:00:00Z</updated>
+    <id>https://terminaltrove.com/auggie/</id>
+    <link href="https://terminaltrove.com/feed/auggie/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>4:terminal trove: snipt</title>
     <updated>2025-11-19T01:00:00Z</updated>
     <id>https://terminaltrove.com/snipt/</id>
     <link href="https://terminaltrove.com/feed/snipt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>4:terminal trove: gitlogue</title>
-    <updated>2025-11-19T01:00:00Z</updated>
-    <id>https://terminaltrove.com/gitlogue/</id>
-    <link href="https://terminaltrove.com/feed/gitlogue/" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:terminal trove: filessh</title>
@@ -3310,10 +3310,16 @@
     <link href="https://terminaltrove.com/feed/jless/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>4:terminal trove: s-tui</title>
+    <title>4:terminal trove: asn</title>
     <updated>2024-02-14T00:00:00Z</updated>
-    <id>https://terminaltrove.com/s-tui/</id>
-    <link href="https://terminaltrove.com/feed/s-tui/" rel="alternate"></link>
+    <id>https://terminaltrove.com/asn/</id>
+    <link href="https://terminaltrove.com/feed/asn/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>4:terminal trove: tiptop</title>
+    <updated>2024-02-14T00:00:00Z</updated>
+    <id>https://terminaltrove.com/tiptop/</id>
+    <link href="https://terminaltrove.com/feed/tiptop/" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:terminal trove: havn</title>
@@ -3334,16 +3340,10 @@
     <link href="https://terminaltrove.com/feed/daff/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>4:terminal trove: tiptop</title>
+    <title>4:terminal trove: s-tui</title>
     <updated>2024-02-14T00:00:00Z</updated>
-    <id>https://terminaltrove.com/tiptop/</id>
-    <link href="https://terminaltrove.com/feed/tiptop/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>4:terminal trove: asn</title>
-    <updated>2024-02-14T00:00:00Z</updated>
-    <id>https://terminaltrove.com/asn/</id>
-    <link href="https://terminaltrove.com/feed/asn/" rel="alternate"></link>
+    <id>https://terminaltrove.com/s-tui/</id>
+    <link href="https://terminaltrove.com/feed/s-tui/" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:terminal trove: ouch</title>
@@ -3352,22 +3352,16 @@
     <link href="https://terminaltrove.com/feed/ouch/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>4:terminal trove: sizeof</title>
-    <updated>2024-02-07T00:00:00Z</updated>
-    <id>https://terminaltrove.com/sizeof/</id>
-    <link href="https://terminaltrove.com/feed/sizeof/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>4:terminal trove: sshs</title>
-    <updated>2024-02-07T00:00:00Z</updated>
-    <id>https://terminaltrove.com/sshs/</id>
-    <link href="https://terminaltrove.com/feed/sshs/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>4:terminal trove: qsv</title>
     <updated>2024-02-07T00:00:00Z</updated>
     <id>https://terminaltrove.com/qsv/</id>
     <link href="https://terminaltrove.com/feed/qsv/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>4:terminal trove: sizeof</title>
+    <updated>2024-02-07T00:00:00Z</updated>
+    <id>https://terminaltrove.com/sizeof/</id>
+    <link href="https://terminaltrove.com/feed/sizeof/" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:terminal trove: wiki-tui</title>
@@ -3376,22 +3370,28 @@
     <link href="https://terminaltrove.com/feed/wiki-tui/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>4:terminal trove: sshs</title>
+    <updated>2024-02-07T00:00:00Z</updated>
+    <id>https://terminaltrove.com/sshs/</id>
+    <link href="https://terminaltrove.com/feed/sshs/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>4:terminal trove: mdcat</title>
     <updated>2024-01-31T00:00:00Z</updated>
     <id>https://terminaltrove.com/mdcat/</id>
     <link href="https://terminaltrove.com/feed/mdcat/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>4:terminal trove: toot</title>
-    <updated>2024-01-31T00:00:00Z</updated>
-    <id>https://terminaltrove.com/toot/</id>
-    <link href="https://terminaltrove.com/feed/toot/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>4:terminal trove: lsd</title>
     <updated>2024-01-31T00:00:00Z</updated>
     <id>https://terminaltrove.com/lsd/</id>
     <link href="https://terminaltrove.com/feed/lsd/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>4:terminal trove: toot</title>
+    <updated>2024-01-31T00:00:00Z</updated>
+    <id>https://terminaltrove.com/toot/</id>
+    <link href="https://terminaltrove.com/feed/toot/" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:terminal trove: logshark</title>
@@ -3418,10 +3418,10 @@
     <link href="https://terminaltrove.com/feed/brows/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>4:terminal trove: topgrade</title>
+    <title>4:terminal trove: termdbms</title>
     <updated>2024-01-24T00:00:00Z</updated>
-    <id>https://terminaltrove.com/topgrade/</id>
-    <link href="https://terminaltrove.com/feed/topgrade/" rel="alternate"></link>
+    <id>https://terminaltrove.com/termdbms/</id>
+    <link href="https://terminaltrove.com/feed/termdbms/" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:terminal trove: wg-cmd</title>
@@ -3430,10 +3430,10 @@
     <link href="https://terminaltrove.com/feed/wg-cmd/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>4:terminal trove: termdbms</title>
+    <title>4:terminal trove: topgrade</title>
     <updated>2024-01-24T00:00:00Z</updated>
-    <id>https://terminaltrove.com/termdbms/</id>
-    <link href="https://terminaltrove.com/feed/termdbms/" rel="alternate"></link>
+    <id>https://terminaltrove.com/topgrade/</id>
+    <link href="https://terminaltrove.com/feed/topgrade/" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:terminal trove: pysentation</title>
@@ -3496,6 +3496,12 @@
     <link href="https://terminaltrove.com/feed/fnc/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>4:terminal trove: helix</title>
+    <updated>2024-01-10T00:00:00Z</updated>
+    <id>https://terminaltrove.com/helix/</id>
+    <link href="https://terminaltrove.com/feed/helix/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>4:terminal trove: aider</title>
     <updated>2024-01-10T00:00:00Z</updated>
     <id>https://terminaltrove.com/aider/</id>
@@ -3506,12 +3512,6 @@
     <updated>2024-01-10T00:00:00Z</updated>
     <id>https://terminaltrove.com/musikcube/</id>
     <link href="https://terminaltrove.com/feed/musikcube/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>4:terminal trove: helix</title>
-    <updated>2024-01-10T00:00:00Z</updated>
-    <id>https://terminaltrove.com/helix/</id>
-    <link href="https://terminaltrove.com/feed/helix/" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:terminal trove: miller</title>
@@ -3544,16 +3544,16 @@
     <link href="https://terminaltrove.com/feed/hledger-ui/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>4:terminal trove: neovim</title>
-    <updated>2024-01-03T00:00:00Z</updated>
-    <id>https://terminaltrove.com/neovim/</id>
-    <link href="https://terminaltrove.com/feed/neovim/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>4:terminal trove: difftastic</title>
     <updated>2024-01-03T00:00:00Z</updated>
     <id>https://terminaltrove.com/difftastic/</id>
     <link href="https://terminaltrove.com/feed/difftastic/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>4:terminal trove: fnt</title>
+    <updated>2024-01-03T00:00:00Z</updated>
+    <id>https://terminaltrove.com/fnt/</id>
+    <link href="https://terminaltrove.com/feed/fnt/" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:terminal trove: procmux</title>
@@ -3592,10 +3592,10 @@
     <link href="https://terminaltrove.com/feed/dust/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>4:terminal trove: fnt</title>
+    <title>4:terminal trove: neovim</title>
     <updated>2024-01-03T00:00:00Z</updated>
-    <id>https://terminaltrove.com/fnt/</id>
-    <link href="https://terminaltrove.com/feed/fnt/" rel="alternate"></link>
+    <id>https://terminaltrove.com/neovim/</id>
+    <link href="https://terminaltrove.com/feed/neovim/" rel="alternate"></link>
   </entry>
   <entry>
     <title>4:terminal trove: calcurse</title>
@@ -3896,6 +3896,66 @@
     <updated>2023-11-01T22:00:00Z</updated>
     <id>https://terminaltrove.com/moc/</id>
     <link href="https://terminaltrove.com/feed/moc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: wshowlyrics-git</title>
+    <updated>2025-11-21T17:43:17Z</updated>
+    <id>wshowlyrics-git-1763746997</id>
+    <link href="https://aur.archlinux.org/packages/wshowlyrics-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: sway-scroll</title>
+    <updated>2025-11-21T17:04:32Z</updated>
+    <id>sway-scroll-1763744672</id>
+    <link href="https://aur.archlinux.org/packages/sway-scroll" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: perl-harfbuzz-shaper</title>
+    <updated>2025-11-21T16:10:41Z</updated>
+    <id>perl-harfbuzz-shaper-1763741441</id>
+    <link href="https://aur.archlinux.org/packages/perl-harfbuzz-shaper" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: thrive-launcher-bin</title>
+    <updated>2025-11-21T16:00:00Z</updated>
+    <id>thrive-launcher-bin-1763740800</id>
+    <link href="https://aur.archlinux.org/packages/thrive-launcher-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: antigravity-binary</title>
+    <updated>2025-11-21T15:43:41Z</updated>
+    <id>antigravity-binary-1763739821</id>
+    <link href="https://aur.archlinux.org/packages/antigravity-binary" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: deepcool-lm</title>
+    <updated>2025-11-21T15:07:08Z</updated>
+    <id>deepcool-lm-1763737628</id>
+    <link href="https://aur.archlinux.org/packages/deepcool-lm" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: bashhound-ce-git</title>
+    <updated>2025-11-21T14:53:50Z</updated>
+    <id>bashhound-ce-git-1763736830</id>
+    <link href="https://aur.archlinux.org/packages/bashhound-ce-git" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: plasma-workspace-lite</title>
+    <updated>2025-11-21T13:15:38Z</updated>
+    <id>plasma-workspace-lite-1763730938</id>
+    <link href="https://aur.archlinux.org/packages/plasma-workspace-lite" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: plasma-x11-session-lite</title>
+    <updated>2025-11-21T13:15:38Z</updated>
+    <id>plasma-x11-session-lite-1763730938</id>
+    <link href="https://aur.archlinux.org/packages/plasma-x11-session-lite" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: wasm-language-tools-bin</title>
+    <updated>2025-11-21T12:54:56Z</updated>
+    <id>wasm-language-tools-bin-1763729696</id>
+    <link href="https://aur.archlinux.org/packages/wasm-language-tools-bin" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:aur_new_packages: earctl</title>
@@ -4438,64 +4498,184 @@
     <link href="https://aur.archlinux.org/packages/apkg" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: pqhex-git</title>
-    <updated>2025-11-19T12:25:58Z</updated>
-    <id>pqhex-git-1763555158</id>
-    <link href="https://aur.archlinux.org/packages/pqhex-git" rel="alternate"></link>
+    <title>2:archlinux_new_packages: papers-lib-docs 49.2-1 x86_64</title>
+    <updated>2025-11-21T18:12:42Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/papers-lib-docs/202511211812</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/papers-lib-docs/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: miti</title>
-    <updated>2025-11-19T10:58:22Z</updated>
-    <id>miti-1763549902</id>
-    <link href="https://aur.archlinux.org/packages/miti" rel="alternate"></link>
+    <title>2:archlinux_new_packages: papers 49.2-1 x86_64</title>
+    <updated>2025-11-21T18:12:41Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/papers/202511211812</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/papers/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: visagevault-bin</title>
-    <updated>2025-11-19T10:52:34Z</updated>
-    <id>visagevault-bin-1763549554</id>
-    <link href="https://aur.archlinux.org/packages/visagevault-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: cargo-binstall 1.16.1-1 x86_64</title>
+    <updated>2025-11-21T18:12:41Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/cargo-binstall/202511211812</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/cargo-binstall/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-clipman</title>
-    <updated>2025-11-19T10:51:09Z</updated>
-    <id>python-clipman-1763549469</id>
-    <link href="https://aur.archlinux.org/packages/python-clipman" rel="alternate"></link>
+    <title>2:archlinux_new_packages: bluez-utils 5.85-1 x86_64</title>
+    <updated>2025-11-21T17:50:03Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra-testing/x86_64/bluez-utils/202511211750</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/bluez-utils/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: ceres-solver-cuda</title>
-    <updated>2025-11-19T10:32:17Z</updated>
-    <id>ceres-solver-cuda-1763548337</id>
-    <link href="https://aur.archlinux.org/packages/ceres-solver-cuda" rel="alternate"></link>
+    <title>2:archlinux_new_packages: bluez-obex 5.85-1 x86_64</title>
+    <updated>2025-11-21T17:50:02Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra-testing/x86_64/bluez-obex/202511211750</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/bluez-obex/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: google-antigravity-bin</title>
-    <updated>2025-11-19T10:30:01Z</updated>
-    <id>google-antigravity-bin-1763548201</id>
-    <link href="https://aur.archlinux.org/packages/google-antigravity-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: bluez-mesh 5.85-1 x86_64</title>
+    <updated>2025-11-21T17:50:02Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra-testing/x86_64/bluez-mesh/202511211750</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/bluez-mesh/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: diff2html-cli</title>
-    <updated>2025-11-19T09:45:24Z</updated>
-    <id>diff2html-cli-1763545524</id>
-    <link href="https://aur.archlinux.org/packages/diff2html-cli" rel="alternate"></link>
+    <title>2:archlinux_new_packages: bluez-libs 5.85-1 x86_64</title>
+    <updated>2025-11-21T17:50:01Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra-testing/x86_64/bluez-libs/202511211750</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/bluez-libs/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-stpsf</title>
-    <updated>2025-11-19T09:38:38Z</updated>
-    <id>python-stpsf-1763545118</id>
-    <link href="https://aur.archlinux.org/packages/python-stpsf" rel="alternate"></link>
+    <title>2:archlinux_new_packages: bluez-hid2hci 5.85-1 x86_64</title>
+    <updated>2025-11-21T17:50:01Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra-testing/x86_64/bluez-hid2hci/202511211750</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/bluez-hid2hci/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-stpsf-doc</title>
-    <updated>2025-11-19T09:38:38Z</updated>
-    <id>python-stpsf-doc-1763545118</id>
-    <link href="https://aur.archlinux.org/packages/python-stpsf-doc" rel="alternate"></link>
+    <title>2:archlinux_new_packages: bluez-deprecated-tools 5.85-1 x86_64</title>
+    <updated>2025-11-21T17:50:00Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra-testing/x86_64/bluez-deprecated-tools/202511211750</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/bluez-deprecated-tools/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: keylightd-tray-bin</title>
-    <updated>2025-11-19T09:31:02Z</updated>
-    <id>keylightd-tray-bin-1763544662</id>
-    <link href="https://aur.archlinux.org/packages/keylightd-tray-bin" rel="alternate"></link>
+    <title>2:archlinux_new_packages: bluez-cups 5.85-1 x86_64</title>
+    <updated>2025-11-21T17:50:00Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra-testing/x86_64/bluez-cups/202511211750</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/bluez-cups/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: bluez 5.85-1 x86_64</title>
+    <updated>2025-11-21T17:49:59Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra-testing/x86_64/bluez/202511211749</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/bluez/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: gnome-calculator 49.2-1 x86_64</title>
+    <updated>2025-11-21T16:41:32Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/gnome-calculator/202511211641</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/gnome-calculator/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: ibus-typing-booster 2.28.5-1 any</title>
+    <updated>2025-11-21T16:41:31Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/any/ibus-typing-booster/202511211641</id>
+    <link href="https://archlinux.org/packages/extra/any/ibus-typing-booster/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyfetch 2.0.5-1 x86_64</title>
+    <updated>2025-11-21T15:49:24Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra-testing/x86_64/hyfetch/202511211549</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/hyfetch/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: plasma-x11-session 6.5.3-2 x86_64</title>
+    <updated>2025-11-21T15:37:25Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra-testing/x86_64/plasma-x11-session/202511211537</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/plasma-x11-session/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: plasma-workspace 6.5.3-2 x86_64</title>
+    <updated>2025-11-21T15:37:24Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra-testing/x86_64/plasma-workspace/202511211537</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/plasma-workspace/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rtorrent 0.16.3-1 x86_64</title>
+    <updated>2025-11-21T15:27:27Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/rtorrent/202511211527</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rtorrent/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libtorrent 0.16.3-1 x86_64</title>
+    <updated>2025-11-21T15:27:26Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/libtorrent/202511211527</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libtorrent/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: converseen 0.15.1.2-1 x86_64</title>
+    <updated>2025-11-21T15:18:53Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra-testing/x86_64/converseen/202511211518</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/converseen/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: evolution-ews 3.58.2-1 x86_64</title>
+    <updated>2025-11-21T15:09:54Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/evolution-ews/202511211509</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/evolution-ews/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: evolution-spamassassin 3.58.2-1 x86_64</title>
+    <updated>2025-11-21T15:08:39Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/evolution-spamassassin/202511211508</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/evolution-spamassassin/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: evolution-bogofilter 3.58.2-1 x86_64</title>
+    <updated>2025-11-21T15:08:38Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/evolution-bogofilter/202511211508</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/evolution-bogofilter/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: evolution 3.58.2-1 x86_64</title>
+    <updated>2025-11-21T15:08:37Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/evolution/202511211508</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/evolution/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: quadrapassel 49.2-1 x86_64</title>
+    <updated>2025-11-21T15:03:45Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/quadrapassel/202511211503</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/quadrapassel/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libedataserverui4 3.58.2-1 x86_64</title>
+    <updated>2025-11-21T15:03:44Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/libedataserverui4/202511211503</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libedataserverui4/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: evolution-data-server-docs 3.58.2-1 x86_64</title>
+    <updated>2025-11-21T15:03:43Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/evolution-data-server-docs/202511211503</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/evolution-data-server-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: evolution-data-server 3.58.2-1 x86_64</title>
+    <updated>2025-11-21T15:03:43Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/evolution-data-server/202511211503</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/evolution-data-server/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: baobab 49.1-1 x86_64</title>
+    <updated>2025-11-21T15:03:42Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/baobab/202511211503</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/baobab/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: haproxy 3.2.9-1 x86_64</title>
+    <updated>2025-11-21T15:01:35Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/haproxy/202511211501</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/haproxy/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-jupyter-ydoc 3.3.0-1 any</title>
+    <updated>2025-11-21T13:28:33Z</updated>
+    <id>tag:archlinux.org,2025-11-21:/packages/extra/any/python-jupyter-ydoc/202511211328</id>
+    <link href="https://archlinux.org/packages/extra/any/python-jupyter-ydoc/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: polly 21.1.6-1 x86_64</title>
@@ -4594,12 +4774,6 @@
     <link href="https://archlinux.org/packages/extra/x86_64/editorconfig-checker/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:archlinux_new_packages: haproxy 3.2.9-1 x86_64</title>
-    <updated>2025-11-21T09:37:32Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra-testing/x86_64/haproxy/202511210937</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/haproxy/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:archlinux_new_packages: uv 0.9.11-1 x86_64</title>
     <updated>2025-11-21T08:40:35Z</updated>
     <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/uv/202511210840</id>
@@ -4622,179 +4796,5 @@
     <updated>2025-11-21T08:40:34Z</updated>
     <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/mytop/202511210840</id>
     <link href="https://archlinux.org/packages/extra/x86_64/mytop/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mariadb-libs 12.1.2-1 x86_64</title>
-    <updated>2025-11-21T08:40:33Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/mariadb-libs/202511210840</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/mariadb-libs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mariadb-clients 12.1.2-1 x86_64</title>
-    <updated>2025-11-21T08:40:33Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/mariadb-clients/202511210840</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/mariadb-clients/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mariadb 12.1.2-1 x86_64</title>
-    <updated>2025-11-21T08:40:32Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/mariadb/202511210840</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/mariadb/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: kimageannotator 0.7.2-1 x86_64</title>
-    <updated>2025-11-21T08:40:32Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/kimageannotator/202511210840</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/kimageannotator/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: keepalived 2.3.4-2 x86_64</title>
-    <updated>2025-11-21T08:40:31Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/keepalived/202511210840</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/keepalived/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: galera 26.4.24-1 x86_64</title>
-    <updated>2025-11-21T08:40:31Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/galera/202511210840</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/galera/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: abduco 0.6-8 x86_64</title>
-    <updated>2025-11-21T08:40:30Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/abduco/202511210840</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/abduco/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lib32-e2fsprogs 1.47.3-2 x86_64</title>
-    <updated>2025-11-21T08:40:13Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/multilib/x86_64/lib32-e2fsprogs/202511210840</id>
-    <link href="https://archlinux.org/packages/multilib/x86_64/lib32-e2fsprogs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: thin-provisioning-tools 1.3.1-1 x86_64</title>
-    <updated>2025-11-21T08:40:09Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/core/x86_64/thin-provisioning-tools/202511210840</id>
-    <link href="https://archlinux.org/packages/core/x86_64/thin-provisioning-tools/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: fuse2fs 1.47.3-2 x86_64</title>
-    <updated>2025-11-21T08:40:09Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/core/x86_64/fuse2fs/202511210840</id>
-    <link href="https://archlinux.org/packages/core/x86_64/fuse2fs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: e2fsprogs 1.47.3-2 x86_64</title>
-    <updated>2025-11-21T08:40:08Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/core/x86_64/e2fsprogs/202511210840</id>
-    <link href="https://archlinux.org/packages/core/x86_64/e2fsprogs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: breeze5 6.5.3-2 x86_64</title>
-    <updated>2025-11-21T08:31:40Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/breeze5/202511210831</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/breeze5/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: breeze 6.5.3-2 x86_64</title>
-    <updated>2025-11-21T08:31:40Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/breeze/202511210831</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/breeze/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: cargo-generate 0.23.7-1 x86_64</title>
-    <updated>2025-11-21T08:02:00Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/cargo-generate/202511210802</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/cargo-generate/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: actionlint 1.7.9-1 x86_64</title>
-    <updated>2025-11-21T07:50:45Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/actionlint/202511210750</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/actionlint/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libadwaita-docs 1:1.8.2-1 x86_64</title>
-    <updated>2025-11-21T04:00:38Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/libadwaita-docs/202511210400</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libadwaita-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libadwaita-demos 1:1.8.2-1 x86_64</title>
-    <updated>2025-11-21T04:00:38Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/libadwaita-demos/202511210400</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libadwaita-demos/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libadwaita 1:1.8.2-1 x86_64</title>
-    <updated>2025-11-21T04:00:37Z</updated>
-    <id>tag:archlinux.org,2025-11-21:/packages/extra/x86_64/libadwaita/202511210400</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libadwaita/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: wasmtime 39.0.0-1 x86_64</title>
-    <updated>2025-11-20T22:58:44Z</updated>
-    <id>tag:archlinux.org,2025-11-20:/packages/extra/x86_64/wasmtime/202511202258</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/wasmtime/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: easyeffects 8.0.4-1 x86_64</title>
-    <updated>2025-11-20T22:58:44Z</updated>
-    <id>tag:archlinux.org,2025-11-20:/packages/extra/x86_64/easyeffects/202511202258</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/easyeffects/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gitlab 18.6.0-1 x86_64</title>
-    <updated>2025-11-20T22:49:37Z</updated>
-    <id>tag:archlinux.org,2025-11-20:/packages/extra/x86_64/gitlab/202511202249</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/gitlab/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gnome-software 49.2-1 x86_64</title>
-    <updated>2025-11-20T22:26:16Z</updated>
-    <id>tag:archlinux.org,2025-11-20:/packages/extra/x86_64/gnome-software/202511202226</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/gnome-software/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: epiphany 49.2-1 x86_64</title>
-    <updated>2025-11-20T22:26:16Z</updated>
-    <id>tag:archlinux.org,2025-11-20:/packages/extra/x86_64/epiphany/202511202226</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/epiphany/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: dolt 1:1.78.2-1 x86_64</title>
-    <updated>2025-11-20T22:15:08Z</updated>
-    <id>tag:archlinux.org,2025-11-20:/packages/extra/x86_64/dolt/202511202215</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/dolt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: gitlab-runner 18.6.0-1 x86_64</title>
-    <updated>2025-11-20T21:50:19Z</updated>
-    <id>tag:archlinux.org,2025-11-20:/packages/extra/x86_64/gitlab-runner/202511202150</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/gitlab-runner/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: xdg-desktop-portal-hyprland 1.3.11-2 x86_64</title>
-    <updated>2025-11-20T21:47:38Z</updated>
-    <id>tag:archlinux.org,2025-11-20:/packages/extra/x86_64/xdg-desktop-portal-hyprland/202511202147</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/xdg-desktop-portal-hyprland/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: sdbus-cpp-doc 2.2.0-1 x86_64</title>
-    <updated>2025-11-20T21:47:37Z</updated>
-    <id>tag:archlinux.org,2025-11-20:/packages/extra/x86_64/sdbus-cpp-doc/202511202147</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/sdbus-cpp-doc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: sdbus-cpp 2.2.0-1 x86_64</title>
-    <updated>2025-11-20T21:47:37Z</updated>
-    <id>tag:archlinux.org,2025-11-20:/packages/extra/x86_64/sdbus-cpp/202511202147</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/sdbus-cpp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: hyprlock 0.9.2-5 x86_64</title>
-    <updated>2025-11-20T21:47:36Z</updated>
-    <id>tag:archlinux.org,2025-11-20:/packages/extra/x86_64/hyprlock/202511202147</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/hyprlock/" rel="alternate"></link>
   </entry>
 </feed>
