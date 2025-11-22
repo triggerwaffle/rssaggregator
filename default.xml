@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-11-22T12:25:16Z</updated>
+  <updated>2025-11-22T18:18:57Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -238,7 +238,7 @@
     <link href="https://zenn.dev/herp_inc/articles/when-to-resolve-technical-debt" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 論理削除の絞り込みはWHERE句でやるな</title>
+    <title>3:zenn_trend: LEFT JOINの論理削除はWHERE句でしぼるな</title>
     <updated>2025-11-21T02:45:01Z</updated>
     <id>https://zenn.dev/levtech/articles/squeeze-on-join-on</id>
     <link href="https://zenn.dev/levtech/articles/squeeze-on-join-on" rel="alternate"></link>
@@ -4954,70 +4954,16 @@
     <link href="https://gihyo.jp/article/2024/11/blender-basics-41?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: “時は来た”―ReiserFS、Linux 6.13でカーネルから完全に削除へ</title>
-    <updated>2024-11-22T07:16:00Z</updated>
-    <id>urn:uuid:b36a9fe0-34a2-7ed0-f163-eba1452e71e7</id>
-    <link href="https://gihyo.jp/article/2024/11/daily-linux-241122?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: PHP 8.4.1リリース、プロパティフックが利用可能に</title>
-    <updated>2024-11-22T01:25:00Z</updated>
-    <id>urn:uuid:8bb4f0a5-5d47-1c58-2f5c-920df95bfbcc</id>
-    <link href="https://gihyo.jp/article/2024/11/php-8_4_1?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: Azure IoT OperationsとUbuntu Core、Ubuntu 20.04 LTSのEOLまで半年</title>
-    <updated>2024-11-22T00:56:00Z</updated>
-    <id>urn:uuid:6031d79a-bbfb-dd32-e500-04d5e7df25d5</id>
-    <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202411/22?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Nano Banana Pro怖すぎ - トウフ系</title>
-    <updated>2025-11-21T10:47:20Z</updated>
-    <id>tag:kaishaku01.hatenablog.com,2025-11-21:/entry/2025/11/21/172357</id>
-    <link href="https://kaishaku01.hatenablog.com/entry/2025/11/21/172357" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: セルフレジは社会的に失敗だった？ 有人レジに戻す動きも</title>
-    <updated>2025-11-21T13:28:48Z</updated>
-    <id>tag:www.gizmodo.jp,2025-11-21:/2025/11/the-self-checkout-nightmare-may-finally-be-ending-jpn-2.html</id>
-    <link href="https://www.gizmodo.jp/2025/11/the-self-checkout-nightmare-may-finally-be-ending-jpn-2.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Gemini 3.0 Pro要緊急対策のご提言</title>
-    <updated>2025-11-21T19:04:00Z</updated>
-    <id>tag:paste.ssig33.com,2025-11-21:/8a22a6e9-a91d-4368-9b2f-a3d4567c7798</id>
-    <link href="https://paste.ssig33.com/8a22a6e9-a91d-4368-9b2f-a3d4567c7798" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ソフトウェア設計の課題・原則・実践技法</title>
-    <updated>2025-11-21T16:37:24Z</updated>
-    <id>tag:speakerdeck.com,2025-11-21:/masuda220/sohutoueashe-ji-noke-ti-yuan-ze-shi-jian-ji-fa</id>
-    <link href="https://speakerdeck.com/masuda220/sohutoueashe-ji-noke-ti-yuan-ze-shi-jian-ji-fa" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 事務作業をパートさん、生成ＡＩで代替できる仕事なので契約満了の予定だったが「彼女の仕事は丁寧でＡＩではできない」という周囲の声を受け雇用継続を決めた→「ご本人はAIを使いこなしていた」</title>
-    <updated>2025-11-21T14:36:52Z</updated>
-    <id>tag:posfie.com,2025-11-21:/@petaritape/p/tLMALrs</id>
-    <link href="https://posfie.com/@petaritape/p/tLMALrs" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【Ubuntu日和】 【第82回】無限増殖するミニPCの活用方法！MicroCloudでご家庭クラウドを構築してみたぞ</title>
-    <updated>2025-11-21T21:51:27Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-11-21:/docs/column/ubuntu/2064787.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/ubuntu/2064787.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 御社のSaaS導入を社内で止めていたのは、私です｜dx_note</title>
+    <updated>2025-11-22T12:00:39Z</updated>
+    <id>tag:note.com,2025-11-22:/posi7293/n/n369d55fe370e</id>
+    <link href="https://note.com/posi7293/n/n369d55fe370e" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【画像生成AI】帰宅後のOLをリアルに再現する方法｟プロンプト無料公開｠Midjourney/imageFX/ChatGPT/Whisk/imagen4/Gemini/生成AI/AI美女/副業/AI副業｜AI かわき｜世界一優しいAI画像生成の解説</title>
     <updated>2025-11-22T01:57:06Z</updated>
     <id>tag:note.com,2025-11-22:/kawakijourney_ai/n/n72e6f630f3aa</id>
     <link href="https://note.com/kawakijourney_ai/n/n72e6f630f3aa" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 吉野家、まさかの「ラーメン鍋」を発売！ “おかわり無料”のご飯のつき</title>
-    <updated>2025-11-22T02:26:50Z</updated>
-    <id>tag:ascii.jp,2025-11-22:/elem/000/004/353/4353413/</id>
-    <link href="https://ascii.jp/elem/000/004/353/4353413/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 中国の巨大ニュートリノ観測所「JUNO」が始動わずか59日で50年の歴史を凌駕：素粒子物理学に訪れた「新たな地平」とは | XenoSpectrum</title>
@@ -5032,10 +4978,52 @@
     <link href="https://codezine.jp/news/detail/22645" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: Gemini 3.0 Pro要緊急対策のご提言</title>
+    <updated>2025-11-21T19:04:00Z</updated>
+    <id>tag:paste.ssig33.com,2025-11-21:/8a22a6e9-a91d-4368-9b2f-a3d4567c7798</id>
+    <link href="https://paste.ssig33.com/8a22a6e9-a91d-4368-9b2f-a3d4567c7798" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: NanoBanana Pro時代に考える、AIとデザイン事務所のこれから｜ひつじ</title>
     <updated>2025-11-22T09:53:07Z</updated>
     <id>tag:note.com,2025-11-22:/hituji1234/n/n916957e7f20c</id>
     <link href="https://note.com/hituji1234/n/n916957e7f20c" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Nano Banana Pro怖すぎ - トウフ系</title>
+    <updated>2025-11-21T10:47:20Z</updated>
+    <id>tag:kaishaku01.hatenablog.com,2025-11-21:/entry/2025/11/21/172357</id>
+    <link href="https://kaishaku01.hatenablog.com/entry/2025/11/21/172357" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 事務作業をパートさん、生成ＡＩで代替できる仕事なので契約満了の予定だったが「彼女の仕事は丁寧でＡＩではできない」という周囲の声を受け雇用継続を決めた→「ご本人はAIを使いこなしていた」</title>
+    <updated>2025-11-21T14:36:52Z</updated>
+    <id>tag:posfie.com,2025-11-21:/@petaritape/p/tLMALrs</id>
+    <link href="https://posfie.com/@petaritape/p/tLMALrs" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ソフトウェア設計の課題・原則・実践技法</title>
+    <updated>2025-11-21T16:37:24Z</updated>
+    <id>tag:speakerdeck.com,2025-11-21:/masuda220/sohutoueashe-ji-noke-ti-yuan-ze-shi-jian-ji-fa</id>
+    <link href="https://speakerdeck.com/masuda220/sohutoueashe-ji-noke-ti-yuan-ze-shi-jian-ji-fa" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【Ubuntu日和】 【第82回】無限増殖するミニPCの活用方法！MicroCloudでご家庭クラウドを構築してみたぞ</title>
+    <updated>2025-11-21T21:51:27Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-11-21:/docs/column/ubuntu/2064787.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/ubuntu/2064787.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: セルフレジは社会的に失敗だった？ 有人レジに戻す動きも</title>
+    <updated>2025-11-21T13:28:48Z</updated>
+    <id>tag:www.gizmodo.jp,2025-11-21:/2025/11/the-self-checkout-nightmare-may-finally-be-ending-jpn-2.html</id>
+    <link href="https://www.gizmodo.jp/2025/11/the-self-checkout-nightmare-may-finally-be-ending-jpn-2.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 吉野家、まさかの「ラーメン鍋」を発売！ “おかわり無料”のご飯のつき</title>
+    <updated>2025-11-22T02:26:50Z</updated>
+    <id>tag:ascii.jp,2025-11-22:/elem/000/004/353/4353413/</id>
+    <link href="https://ascii.jp/elem/000/004/353/4353413/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AIに仕事を任せようとしたら、自分の仕事を言語化することになった｜honeshabri</title>
@@ -5044,16 +5032,28 @@
     <link href="https://note.com/honeshabri/n/nf0f2def2cdbf" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「AIの扱い方の教材」和歌山市の70代男性が毒キノコを食べて食中毒に、AIに食べられるかどうか聞いて判断したらしい</title>
-    <updated>2025-11-22T04:26:14Z</updated>
-    <id>tag:togetter.com,2025-11-22:/li/2630627</id>
-    <link href="https://togetter.com/li/2630627" rel="alternate"></link>
+    <title>1:hatena_blog_it: リモートワークを自作ルーター(OpenWrt)で支える - エムスリーテックブログ</title>
+    <updated>2025-11-21T06:46:39Z</updated>
+    <id>tag:www.m3tech.blog,2025-11-21:/entry/2025/11/21/153615</id>
+    <link href="https://www.m3tech.blog/entry/2025/11/21/153615" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「謝罪」しすぎない技術 - Qiita</title>
-    <updated>2025-11-21T10:47:45Z</updated>
-    <id>tag:qiita.com,2025-11-21:/y_o_28/items/4f3bd30f1f0a8fe4c21e</id>
-    <link href="https://qiita.com/y_o_28/items/4f3bd30f1f0a8fe4c21e" rel="alternate"></link>
+    <title>1:hatena_blog_it: Linuxカーネル開発入門ガイド（LFD103-JP） | Linux Foundation Education</title>
+    <updated>2025-11-22T10:42:47Z</updated>
+    <id>tag:training.linuxfoundation.org,2025-11-22:/ja/training/a-beginners-guide-to-linux-kernel-development-lfd103-jp/</id>
+    <link href="https://training.linuxfoundation.org/ja/training/a-beginners-guide-to-linux-kernel-development-lfd103-jp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitをCUIで強力にサポートする超高機能ツール「lazygit」</title>
+    <updated>2025-11-22T13:40:57Z</updated>
+    <id>tag:gigazine.net,2025-11-22:/news/20251122-lazygit/</id>
+    <link href="https://gigazine.net/news/20251122-lazygit/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 不確実性に備える ABEMA の信頼性設計とオブザーバビリティ基盤</title>
+    <updated>2025-11-21T13:42:27Z</updated>
+    <id>tag:speakerdeck.com,2025-11-21:/nagapad/bu-que-shi-xing-nibei-eru-abema-noxin-lai-xing-she-ji-toobuzababiriteiji-pan</id>
+    <link href="https://speakerdeck.com/nagapad/bu-que-shi-xing-nibei-eru-abema-noxin-lai-xing-she-ji-toobuzababiriteiji-pan" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 絵が描けなくても簡単に好みの絵を部屋に飾れるフルカラー電子ペーパー内蔵のSwitchBot「AIアートキャンバス」レビュー、AI生成だけでなく好きな画像も選択可能</title>
@@ -5062,93 +5062,69 @@
     <link href="https://gigazine.net/news/20251122-switchbot-ai-art-canvas/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 生成AI経由の流入、「note」強し　ゼロクリック問題に一つの解 - 日本経済新聞</title>
-    <updated>2025-11-21T20:50:28Z</updated>
-    <id>tag:www.nikkei.com,2025-11-21:/article/DGXZQOUC103ZA0Q5A111C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC103ZA0Q5A111C2000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 普段は数千円するお高い技術書がセールで安い、これから頑張りたい初心者も勉強する大きなチャンスが到来【Amazonブラックフライデー】</title>
-    <updated>2025-11-21T11:24:45Z</updated>
-    <id>tag:togetter.com,2025-11-21:/li/2630304</id>
-    <link href="https://togetter.com/li/2630304" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIにAIアピールすることを義務づける法律がカリフォルニア州で成立</title>
-    <updated>2025-11-21T23:32:19Z</updated>
-    <id>tag:gigazine.net,2025-11-21:/news/20251122-tell-ai-bills-california/</id>
-    <link href="https://gigazine.net/news/20251122-tell-ai-bills-california/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Omarchyを触ったら、初めてLinuxを触った日のワクワクが帰ってきた</title>
-    <updated>2025-11-22T01:41:54Z</updated>
-    <id>tag:zenn.dev,2025-11-22:/dokusy/articles/1e6fc740cae5d4</id>
-    <link href="https://zenn.dev/dokusy/articles/1e6fc740cae5d4" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: リモートワークを自作ルーター(OpenWrt)で支える - エムスリーテックブログ</title>
-    <updated>2025-11-21T06:46:39Z</updated>
-    <id>tag:www.m3tech.blog,2025-11-21:/entry/2025/11/21/153615</id>
-    <link href="https://www.m3tech.blog/entry/2025/11/21/153615" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 採取したキノコを撮影してAI判定　AIは”食べられる”と回答も...　実際は「毒キノコ」　和歌山市の70代男性が嘔吐の症状で一時入院　「AIや図鑑で自己判断するのは危険」市が注意呼びかけ | 特集 | MBSニュース</title>
-    <updated>2025-11-21T12:21:55Z</updated>
-    <id>tag:www.mbs.jp,2025-11-21:/news/feature/kansai/article/2025/11/108961.shtml</id>
-    <link href="https://www.mbs.jp/news/feature/kansai/article/2025/11/108961.shtml" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: そんなにAI臭いのかこれ？俺も昭和全開だから時代の流れについて行けてない..</title>
-    <updated>2025-11-22T03:18:14Z</updated>
-    <id>tag:anond.hatelabo.jp,2025-11-22:/20251122111856</id>
-    <link href="https://anond.hatelabo.jp/20251122111856" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 弊社ネットワークへの不正アクセスに関するお詫びとご報告 | ニュース | 株式会社STNet(エスティネット)</title>
-    <updated>2025-11-21T09:13:29Z</updated>
-    <id>tag:www.stnet.co.jp,2025-11-21:/news/oshirase_20251121.html</id>
-    <link href="https://www.stnet.co.jp/news/oshirase_20251121.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 秋葉原・万世書房と薄い本のお話</title>
-    <updated>2025-11-22T00:42:42Z</updated>
-    <id>tag:ascii.jp,2025-11-22:/elem/000/004/354/4354204/</id>
-    <link href="https://ascii.jp/elem/000/004/354/4354204/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: QAフローを最適化し、品質水準を満たしながらリリースまでの期間を最短化する - Cluster Tech Blog</title>
-    <updated>2025-11-21T15:20:17Z</updated>
-    <id>tag:tech-blog.cluster.mu,2025-11-21:/entry/2025/11/18</id>
-    <link href="https://tech-blog.cluster.mu/entry/2025/11/18" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: AI駆動開発を実現するためのアーキテクチャと取り組み</title>
     <updated>2025-11-21T16:40:10Z</updated>
     <id>tag:speakerdeck.com,2025-11-21:/baseballyama/aiqu-dong-kai-fa-woshi-xian-surutamenoakitekutiyatoqu-rizu-mi</id>
     <link href="https://speakerdeck.com/baseballyama/aiqu-dong-kai-fa-woshi-xian-surutamenoakitekutiyatoqu-rizu-mi" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Googleの画像生成AI「Gemini 3 Pro Image(Nano Banana Pro)」は過去モデルや他社製モデルと比べてどれくらい優秀なのか？</title>
-    <updated>2025-11-21T09:59:27Z</updated>
-    <id>tag:gigazine.net,2025-11-21:/news/20251121-google-gemini-3-pro-image-nano-banana-pro-comparison/</id>
-    <link href="https://gigazine.net/news/20251121-google-gemini-3-pro-image-nano-banana-pro-comparison/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Windows 11のほぼ全ての主要機能が壊れていた？Microsoftが認めたXAML問題とは | ソフトアンテナ</title>
+    <updated>2025-11-21T14:10:43Z</updated>
+    <id>tag:softantenna.com,2025-11-21:/blog/windows-11-core-features-are-broken/</id>
+    <link href="https://softantenna.com/blog/windows-11-core-features-are-broken/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Build production-ready applications without infrastructure complexity using Amazon ECS Express Mode | Amazon Web Services</title>
-    <updated>2025-11-21T22:56:28Z</updated>
-    <id>tag:aws.amazon.com,2025-11-21:/blogs/aws/build-production-ready-applications-without-infrastructure-complexity-using-amazon-ecs-express-mode/</id>
-    <link href="https://aws.amazon.com/blogs/aws/build-production-ready-applications-without-infrastructure-complexity-using-amazon-ecs-express-mode/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「AIの扱い方の教材」和歌山市の70代男性が毒キノコを食べて食中毒に、AIに食べられるかどうか聞いて判断したらしい</title>
+    <updated>2025-11-22T04:26:14Z</updated>
+    <id>tag:togetter.com,2025-11-22:/li/2630627</id>
+    <link href="https://togetter.com/li/2630627" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Google Antigravity の クイックスタート｜npaka</title>
-    <updated>2025-11-21T05:55:35Z</updated>
-    <id>tag:note.com,2025-11-21:/npaka/n/nafe71bf65ce5</id>
-    <link href="https://note.com/npaka/n/nafe71bf65ce5" rel="alternate"></link>
+    <title>1:hatena_blog_it: 再現性の高い Python 開発環境を作る - Python ライブラリは uv / その他ツールは Nix で固定する | ドクセル</title>
+    <updated>2025-11-22T01:41:55Z</updated>
+    <id>tag:www.docswell.com,2025-11-22:/s/ryu_trifolium/KJQPPM-2025-11-15-004430</id>
+    <link href="https://www.docswell.com/s/ryu_trifolium/KJQPPM-2025-11-15-004430" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Adobe Firefly × Hatena Blog 特別お題キャンペーン - はてなブログ</title>
-    <updated>2025-11-14T08:00:12Z</updated>
-    <id>tag:blog.hatena.ne.jp,2025-11-14:/-/campaign/AdobeFirefly202511</id>
-    <link href="https://blog.hatena.ne.jp/-/campaign/AdobeFirefly202511" rel="alternate"></link>
+    <title>1:hatena_blog_it: ECSの新機能Expressモードで、認証つきStreamlitアプリを簡単にAWSデプロイしよう！ - Qiita</title>
+    <updated>2025-11-22T10:06:48Z</updated>
+    <id>tag:qiita.com,2025-11-22:/minorun365/items/7ad6c37eb8996e79d631</id>
+    <link href="https://qiita.com/minorun365/items/7ad6c37eb8996e79d631" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 生成AI経由の流入、「note」強し　ゼロクリック問題に一つの解 - 日本経済新聞</title>
+    <updated>2025-11-21T20:50:28Z</updated>
+    <id>tag:www.nikkei.com,2025-11-21:/article/DGXZQOUC103ZA0Q5A111C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC103ZA0Q5A111C2000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 顔圧ほぼゼロ、重量はAppleの1/4、寝転がってのVRすら快適な「MeganeX 8K Mark II」 (1/4)</title>
+    <updated>2025-11-22T09:10:41Z</updated>
+    <id>tag:ascii.jp,2025-11-22:/elem/000/004/351/4351479/</id>
+    <link href="https://ascii.jp/elem/000/004/351/4351479/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ローカルLLM基礎知識 / local LLM basics 2025</title>
+    <updated>2025-11-22T10:15:14Z</updated>
+    <id>tag:speakerdeck.com,2025-11-22:/kishida/local-llm-basics-2025</id>
+    <link href="https://speakerdeck.com/kishida/local-llm-basics-2025" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 直感 生成AI</title>
+    <updated>2025-11-22T06:02:35Z</updated>
+    <id>tag:www.oreilly.co.jp,2025-11-22://books/9784814401406/</id>
+    <link href="https://www.oreilly.co.jp//books/9784814401406/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【Gmailを使用している要注意】個人情報がAIモデルに学習させられる可能性があるという話。理由は、初期設定ですべてのメッセージと添付ファイルにアクセスすることを自動的に許可されているから</title>
+    <updated>2025-11-22T11:02:46Z</updated>
+    <id>tag:posfie.com,2025-11-22:/@taimport/p/vP3ym9e</id>
+    <link href="https://posfie.com/@taimport/p/vP3ym9e" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ソフトウェアエンジニアリング入門</title>
+    <updated>2025-11-21T15:43:02Z</updated>
+    <id>tag:speakerdeck.com,2025-11-21:/ymty/sohutoueaenziniaringuru-men</id>
+    <link href="https://speakerdeck.com/ymty/sohutoueaenziniaringuru-men" rel="alternate"></link>
   </entry>
 </feed>
