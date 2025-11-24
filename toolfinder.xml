@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - toolfinder</title>
   <id>https://a.example.com</id>
-  <updated>2025-11-24T06:23:23Z</updated>
+  <updated>2025-11-24T12:30:10Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of toolfinder</subtitle>
   <link href="https://a.example.com"></link>
@@ -3898,6 +3898,24 @@
     <link href="https://terminaltrove.com/feed/moc/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:aur_new_packages: seabird-bin</title>
+    <updated>2025-11-24T09:24:58Z</updated>
+    <id>seabird-bin-1763976298</id>
+    <link href="https://aur.archlinux.org/packages/seabird-bin" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: fcitx5-meta</title>
+    <updated>2025-11-24T07:52:11Z</updated>
+    <id>fcitx5-meta-1763970731</id>
+    <link href="https://aur.archlinux.org/packages/fcitx5-meta" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:aur_new_packages: iwd-nosystemd-git</title>
+    <updated>2025-11-24T07:48:13Z</updated>
+    <id>iwd-nosystemd-git-1763970493</id>
+    <link href="https://aur.archlinux.org/packages/iwd-nosystemd-git" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:aur_new_packages: calf-gui</title>
     <updated>2025-11-24T05:22:11Z</updated>
     <id>calf-gui-1763961731</id>
@@ -4480,22 +4498,166 @@
     <link href="https://aur.archlinux.org/packages/python-angr-management" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: python-pyqodeng</title>
-    <updated>2025-11-21T23:07:28Z</updated>
-    <id>python-pyqodeng-1763766448</id>
-    <link href="https://aur.archlinux.org/packages/python-pyqodeng" rel="alternate"></link>
+    <title>2:archlinux_new_packages: rocblas 7.1.0-2 x86_64</title>
+    <updated>2025-11-24T12:28:33Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra-testing/x86_64/rocblas/202511241228</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/rocblas/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: pyside6-qtads</title>
-    <updated>2025-11-21T23:04:35Z</updated>
-    <id>pyside6-qtads-1763766275</id>
-    <link href="https://aur.archlinux.org/packages/pyside6-qtads" rel="alternate"></link>
+    <title>2:archlinux_new_packages: python-sentry_sdk 2.46.0-1 any</title>
+    <updated>2025-11-24T11:19:51Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra-testing/any/python-sentry_sdk/202511241119</id>
+    <link href="https://archlinux.org/packages/extra-testing/any/python-sentry_sdk/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:aur_new_packages: dxfl</title>
-    <updated>2025-11-21T23:01:08Z</updated>
-    <id>dxfl-1763766068</id>
-    <link href="https://aur.archlinux.org/packages/dxfl" rel="alternate"></link>
+    <title>2:archlinux_new_packages: galera 26.4.25-1 x86_64</title>
+    <updated>2025-11-24T10:40:33Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/galera/202511241040</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/galera/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyprpaper 0.7.6-3 x86_64</title>
+    <updated>2025-11-24T09:49:04Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/hyprpaper/202511240949</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyprpaper/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyprlock 0.9.2-6 x86_64</title>
+    <updated>2025-11-24T09:49:04Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/hyprlock/202511240949</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyprlock/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyprgraphics 0.4.0-1 x86_64</title>
+    <updated>2025-11-24T09:49:03Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/hyprgraphics/202511240949</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyprgraphics/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyprtoolkit 0.3.0-3 x86_64</title>
+    <updated>2025-11-24T09:46:40Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/hyprtoolkit/202511240946</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyprtoolkit/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyprpwcenter 0.1.1-6 x86_64</title>
+    <updated>2025-11-24T09:46:40Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/hyprpwcenter/202511240946</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyprpwcenter/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyprlauncher 0.1.3-8 x86_64</title>
+    <updated>2025-11-24T09:46:39Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/hyprlauncher/202511240946</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyprlauncher/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyprland-guiutils 0.1.0-5 x86_64</title>
+    <updated>2025-11-24T09:46:39Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/hyprland-guiutils/202511240946</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyprland-guiutils/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyprland 0.52.1-5 x86_64</title>
+    <updated>2025-11-24T09:46:38Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/hyprland/202511240946</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyprland/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: aquamarine 0.10.0-1 x86_64</title>
+    <updated>2025-11-24T09:46:38Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/aquamarine/202511240946</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/aquamarine/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: qsv 10.0.0-1 x86_64</title>
+    <updated>2025-11-24T09:39:36Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/qsv/202511240939</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/qsv/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: lib32-libnghttp3 1.13.1-1 x86_64</title>
+    <updated>2025-11-24T09:13:20Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/multilib-testing/x86_64/lib32-libnghttp3/202511240913</id>
+    <link href="https://archlinux.org/packages/multilib-testing/x86_64/lib32-libnghttp3/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libnghttp3 1.13.1-1 x86_64</title>
+    <updated>2025-11-24T09:13:18Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/core-testing/x86_64/libnghttp3/202511240913</id>
+    <link href="https://archlinux.org/packages/core-testing/x86_64/libnghttp3/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: hyprutils 0.10.3-1 x86_64</title>
+    <updated>2025-11-24T09:02:26Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/hyprutils/202511240902</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/hyprutils/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: python-pypdf 6.4.0-1 any</title>
+    <updated>2025-11-24T09:02:25Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/any/python-pypdf/202511240902</id>
+    <link href="https://archlinux.org/packages/extra/any/python-pypdf/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: glaze 6.1.0-1 any</title>
+    <updated>2025-11-24T09:02:24Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/any/glaze/202511240902</id>
+    <link href="https://archlinux.org/packages/extra/any/glaze/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: keepassxc 2.7.11-1 x86_64</title>
+    <updated>2025-11-24T08:50:39Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra-testing/x86_64/keepassxc/202511240850</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/keepassxc/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libteam-docs 1.32-3 x86_64</title>
+    <updated>2025-11-24T07:59:42Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/libteam-docs/202511240759</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libteam-docs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: libteam 1.32-3 x86_64</title>
+    <updated>2025-11-24T07:59:42Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/libteam/202511240759</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/libteam/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-mongodb 2.1.4-1 x86_64</title>
+    <updated>2025-11-24T07:53:12Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/php-mongodb/202511240753</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-mongodb/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: php-legacy-mongodb 2.1.4-1 x86_64</title>
+    <updated>2025-11-24T07:53:12Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/php-legacy-mongodb/202511240753</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/php-legacy-mongodb/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: kodi-addon-imagedecoder-heif 21.0.3-1 x86_64</title>
+    <updated>2025-11-24T07:53:11Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/kodi-addon-imagedecoder-heif/202511240753</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/kodi-addon-imagedecoder-heif/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: talhelper 3.0.41-1 x86_64</title>
+    <updated>2025-11-24T07:49:33Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/talhelper/202511240749</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/talhelper/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: rebels-in-the-sky 1.2.0-1 x86_64</title>
+    <updated>2025-11-24T07:19:11Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra/x86_64/rebels-in-the-sky/202511240719</id>
+    <link href="https://archlinux.org/packages/extra/x86_64/rebels-in-the-sky/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:archlinux_new_packages: freeciv 3.2.1-4 x86_64</title>
+    <updated>2025-11-24T06:32:34Z</updated>
+    <id>tag:archlinux.org,2025-11-24:/packages/extra-testing/x86_64/freeciv/202511240632</id>
+    <link href="https://archlinux.org/packages/extra-testing/x86_64/freeciv/" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:archlinux_new_packages: r2ghidra 6.0.7-1 x86_64</title>
@@ -4634,167 +4796,5 @@
     <updated>2025-11-23T22:34:06Z</updated>
     <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/deepin-draw/202511232234</id>
     <link href="https://archlinux.org/packages/extra/x86_64/deepin-draw/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-daemon 6.1.38-1 x86_64</title>
-    <updated>2025-11-23T22:34:05Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/deepin-daemon/202511232234</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-daemon/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-editor 6.5.32-1 x86_64</title>
-    <updated>2025-11-23T22:29:47Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/deepin-editor/202511232229</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-editor/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-calendar 6.5.3-1 x86_64</title>
-    <updated>2025-11-23T22:12:09Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/deepin-calendar/202511232212</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-calendar/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: deepin-calculator 6.5.27-1 x86_64</title>
-    <updated>2025-11-23T22:12:09Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/deepin-calculator/202511232212</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/deepin-calculator/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: immich-go 1:0.31.0-1 x86_64</title>
-    <updated>2025-11-23T21:20:46Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/immich-go/202511232120</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/immich-go/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: mat2 0.14.0-1 any</title>
-    <updated>2025-11-23T20:50:02Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/any/mat2/202511232050</id>
-    <link href="https://archlinux.org/packages/extra/any/mat2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: hiprt 3.0.3.a1525e7-1 x86_64</title>
-    <updated>2025-11-23T20:35:53Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra-testing/x86_64/hiprt/202511232035</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/hiprt/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: cuda-tools 13.0.2-2 x86_64</title>
-    <updated>2025-11-23T20:25:57Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/cuda-tools/202511232025</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/cuda-tools/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: cuda 13.0.2-2 x86_64</title>
-    <updated>2025-11-23T20:25:56Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/cuda/202511232025</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/cuda/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: syd 3.45.1-1 x86_64</title>
-    <updated>2025-11-23T19:00:36Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra-testing/x86_64/syd/202511231900</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/syd/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: tombi 0.6.53-1 x86_64</title>
-    <updated>2025-11-23T18:12:36Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/tombi/202511231812</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/tombi/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: codebook-lsp 0.3.20-1 x86_64</title>
-    <updated>2025-11-23T18:12:36Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/codebook-lsp/202511231812</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/codebook-lsp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: pnpm 10.23.0-1 any</title>
-    <updated>2025-11-23T18:12:35Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/any/pnpm/202511231812</id>
-    <link href="https://archlinux.org/packages/extra/any/pnpm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: eslint-language-server 3.0.20-1 any</title>
-    <updated>2025-11-23T18:12:34Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/any/eslint-language-server/202511231812</id>
-    <link href="https://archlinux.org/packages/extra/any/eslint-language-server/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: podman-desktop 1.23.1-1 x86_64</title>
-    <updated>2025-11-23T18:01:32Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/podman-desktop/202511231801</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/podman-desktop/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: crun 1.25-2 x86_64</title>
-    <updated>2025-11-23T18:01:31Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/crun/202511231801</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/crun/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: typescript-language-server 5.1.3-1 any</title>
-    <updated>2025-11-23T17:56:32Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/any/typescript-language-server/202511231756</id>
-    <link href="https://archlinux.org/packages/extra/any/typescript-language-server/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: libkrun 1.16.0-2 x86_64</title>
-    <updated>2025-11-23T17:53:53Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/libkrun/202511231753</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/libkrun/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: upterm 0.19.0-1 x86_64</title>
-    <updated>2025-11-23T17:20:24Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/upterm/202511231720</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/upterm/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: lvm2 2.03.37-1 x86_64</title>
-    <updated>2025-11-23T17:12:32Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/core/x86_64/lvm2/202511231712</id>
-    <link href="https://archlinux.org/packages/core/x86_64/lvm2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: device-mapper 2.03.37-1 x86_64</title>
-    <updated>2025-11-23T17:12:32Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/core/x86_64/device-mapper/202511231712</id>
-    <link href="https://archlinux.org/packages/core/x86_64/device-mapper/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: corrosion 0.6.0-1 any</title>
-    <updated>2025-11-23T15:46:33Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/any/corrosion/202511231546</id>
-    <link href="https://archlinux.org/packages/extra/any/corrosion/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: bandit 1.9.1-1 any</title>
-    <updated>2025-11-23T15:37:15Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/any/bandit/202511231537</id>
-    <link href="https://archlinux.org/packages/extra/any/bandit/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: fltk-docs 1.4.4-3 x86_64</title>
-    <updated>2025-11-23T15:31:29Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra-testing/x86_64/fltk-docs/202511231531</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/fltk-docs/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: fltk 1.4.4-3 x86_64</title>
-    <updated>2025-11-23T15:31:28Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra-testing/x86_64/fltk/202511231531</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/fltk/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: weechat 4.7.2-1 x86_64</title>
-    <updated>2025-11-23T15:12:08Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra-testing/x86_64/weechat/202511231512</id>
-    <link href="https://archlinux.org/packages/extra-testing/x86_64/weechat/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:archlinux_new_packages: winetricks 20250102-1 x86_64</title>
-    <updated>2025-11-23T14:45:12Z</updated>
-    <id>tag:archlinux.org,2025-11-23:/packages/extra/x86_64/winetricks/202511231445</id>
-    <link href="https://archlinux.org/packages/extra/x86_64/winetricks/" rel="alternate"></link>
   </entry>
 </feed>
