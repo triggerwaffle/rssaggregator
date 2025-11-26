@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-11-26T12:31:07Z</updated>
+  <updated>2025-11-26T18:18:38Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -184,6 +184,24 @@
     <link href="https://archlinux.org/news/glibc-241-corrupting-discord-installation/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 英語がもう苦手ではなくなったエンジニアが一つ殻を破るためにやった学習</title>
+    <updated>2025-11-25T23:30:01Z</updated>
+    <id>https://zenn.dev/moneyforward/articles/893eb6f50bd896</id>
+    <link href="https://zenn.dev/moneyforward/articles/893eb6f50bd896" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Claude for Excelがマジですごかった</title>
+    <updated>2025-11-25T21:18:23Z</updated>
+    <id>https://zenn.dev/acntechjp/articles/4b2f19b536d262</id>
+    <link href="https://zenn.dev/acntechjp/articles/4b2f19b536d262" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: オープンソース・プロジェクトのたたみ方</title>
+    <updated>2025-11-25T16:08:30Z</updated>
+    <id>https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project</id>
+    <link href="https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: AIアプリケーション開発を体系的に学ぶ 『AIエンジニアリング』全章紹介</title>
     <updated>2025-11-25T10:08:44Z</updated>
     <id>https://zenn.dev/seya/articles/333b03b47234aa</id>
@@ -232,6 +250,12 @@
     <link href="https://zenn.dev/datadog/articles/f7ac35d6cac1bd" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 今更だけどvim-fernを本気で設定する（on Neovim）</title>
+    <updated>2025-11-24T14:53:27Z</updated>
+    <id>https://zenn.dev/sirasagi62/articles/c10c8004ab43a8</id>
+    <link href="https://zenn.dev/sirasagi62/articles/c10c8004ab43a8" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: ノーコードのDiscordのBot作成ツールを公開したら4kブクマついた話</title>
     <updated>2025-11-24T14:42:35Z</updated>
     <id>https://zenn.dev/himais0giiiin/articles/849f19ad9bcc46</id>
@@ -244,12 +268,6 @@
     <link href="https://zenn.dev/studio/articles/refactoring-validation-process" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 新しいワークフローの勉強1 - Microsoft Agent Framework (C#) その18</title>
-    <updated>2025-11-24T13:18:00Z</updated>
-    <id>https://zenn.dev/microsoft/articles/agent-framework-018</id>
-    <link href="https://zenn.dev/microsoft/articles/agent-framework-018" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: 自作OSにネットワーク機能を実装してpingに応答させる</title>
     <updated>2025-11-24T12:03:30Z</updated>
     <id>https://zenn.dev/junjunjunjun/articles/fa8ab49a94875a</id>
@@ -260,24 +278,6 @@
     <updated>2025-11-24T11:50:57Z</updated>
     <id>https://zenn.dev/dxc_ai_driven/articles/ac66ba708120eb</id>
     <link href="https://zenn.dev/dxc_ai_driven/articles/ac66ba708120eb" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: チーム開発におけるバグと責任  - 個人を責めない文化が組織を強くする</title>
-    <updated>2025-11-24T09:43:54Z</updated>
-    <id>https://zenn.dev/hiraoku/articles/a87ee1f2fe8d75</id>
-    <link href="https://zenn.dev/hiraoku/articles/a87ee1f2fe8d75" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: asChild の課題と他の合成パターンの比較</title>
-    <updated>2025-11-24T09:04:38Z</updated>
-    <id>https://zenn.dev/tsuboi/articles/8abddb1ae3038f</id>
-    <link href="https://zenn.dev/tsuboi/articles/8abddb1ae3038f" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 【個人開発】Gemini × n8n × Antigravity で、サーバー代0円の「Micro-SaaS半自動製造工場」を構築した話</title>
-    <updated>2025-11-24T07:22:42Z</updated>
-    <id>https://zenn.dev/kaeru_tools/articles/855586e04e9389</id>
-    <link href="https://zenn.dev/kaeru_tools/articles/855586e04e9389" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: AIファーストなドキュメント戦略 - DocCommentにユビキタス言語を書くだけのシンプルなアプローチ</title>
@@ -1024,6 +1024,12 @@
     <link href="https://www.youtube.com/watch?v=1Dwwy41ZKvM" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: 自然言語でKubernetesに話しかけて運用管理可能に。AWSがフルマネージドなAmazon EKS MCP Serverをプレビュー開始</title>
+    <updated>2025-11-26T15:39:23Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8393</id>
+    <link href="https://www.publickey1.jp/blog/25/kubernetesawsamazon_eks_mcp_server.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: Rubyの次バージョンは「Ruby 4.0」に。「Ruby 4.0 Preview2」がリリース</title>
     <updated>2025-11-25T15:55:03Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8392</id>
@@ -1106,12 +1112,6 @@
     <updated>2025-11-13T15:37:08Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8379</id>
     <link href="https://www.publickey1.jp/blog/25/googleaimagika_10rust200.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: マイクロソフト、「.NET 10」正式リリース、2年ぶりのLTS版。JITコンパイラの最適化などによる高速化、耐量子計算機暗号など新機能</title>
-    <updated>2025-11-12T15:56:05Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8378</id>
-    <link href="https://www.publickey1.jp/blog/25/net_102ltsjit.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: 第889回　Zorin OS 18とは何か</title>
@@ -4912,12 +4912,6 @@
     <link href="https://gihyo.jp/article/2024/12/ruby-procon2024-12?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: 第112回　MySQL Shell for VS Code GAリリース、PostgreSQLが2週連続で更新版リリース</title>
-    <updated>2024-12-02T00:00:00Z</updated>
-    <id>urn:uuid:a55ed194-908a-9ec7-4ae9-f3b61474ae27</id>
-    <link href="https://gihyo.jp/article/2024/12/ossdb-various-news0112?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: オープンソース開発者に一番人気のイベントは「KubeCon」―Linux Foundation、2024年版オープンソース開発者レポートを公開</title>
     <updated>2024-11-29T08:04:00Z</updated>
     <id>urn:uuid:9510422b-5277-b969-32f0-8965b8a92ff9</id>
@@ -4930,40 +4924,22 @@
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202411/29?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: ChromebookがAndroidbookになる未来が来るのか？</title>
-    <updated>2024-11-27T23:58:00Z</updated>
-    <id>urn:uuid:ae26f05f-12ba-cfb7-1b46-47d3cf7fa217</id>
-    <link href="https://gihyo.jp/article/2024/11/android-weekly-topics-241128?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: Python型ヒントの動向と新しい機能の紹介</title>
-    <updated>2024-11-27T02:59:00Z</updated>
-    <id>urn:uuid:6360eed5-5ef4-b5ff-5ebd-8d6b91f0abd5</id>
-    <link href="https://gihyo.jp/article/2024/11/monthly-python-2411?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: 第840回　Ubuntu 20周年記念オフラインミーティング開催レポート</title>
-    <updated>2024-11-27T00:02:00Z</updated>
-    <id>urn:uuid:85de7648-2b33-c359-6adb-a58dbc9a288e</id>
-    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0840?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: MS-DOS用エディタの名作「VZ Editor」がオープンソースソフトウェアに</title>
-    <updated>2024-11-26T06:08:00Z</updated>
-    <id>urn:uuid:cffd74da-d6e1-b1d1-65bf-d878dda90344</id>
-    <link href="https://gihyo.jp/article/2024/11/vz-editor?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: Anthropic、生成AIとデータソースを接続するプロトコル「Model Context Protocol」をオープンソースとして公開</title>
-    <updated>2024-11-26T05:17:00Z</updated>
-    <id>urn:uuid:0c034351-97ff-5fc0-40f8-3b3e0a75f2f3</id>
-    <link href="https://gihyo.jp/article/2024/11/model-context-protocol?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Google「Nano Banana Pro」で“漫画”生成祭り開催中。一発出しでこの仕上がり……（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
     <updated>2025-11-26T00:27:42Z</updated>
     <id>tag:www.techno-edge.net,2025-11-26:/article/2025/11/26/4733.html</id>
     <link href="https://www.techno-edge.net/article/2025/11/26/4733.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: アップル、次世代Siriにグーグル「Gemini」採用へ</title>
+    <updated>2025-11-26T13:04:28Z</updated>
+    <id>tag:ascii.jp,2025-11-26:/elem/000/004/355/4355103/</id>
+    <link href="https://ascii.jp/elem/000/004/355/4355103/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 慶應義塾大学出版会 | 生成AIを活用したレポート・論文の書き方 | 伊藤貴之</title>
+    <updated>2025-11-26T07:12:38Z</updated>
+    <id>tag:www.keio-up.co.jp,2025-11-26:/np/isbn/9784766430837/</id>
+    <link href="https://www.keio-up.co.jp/np/isbn/9784766430837/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ガチ中国人が解説…中国ではVPNを刺さないとTwitterに繋がらないのでVPNなしの現在地CHINA表記のツイッタラーは100％工作員になる話</title>
@@ -4972,22 +4948,16 @@
     <link href="https://togetter.com/li/2632049" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AWSのコスト削減・最適化手法とコスト管理の勘所 - Qiita</title>
-    <updated>2025-11-25T23:39:37Z</updated>
-    <id>tag:qiita.com,2025-11-25:/kiwi-dev/items/df7e2923e0a723ccc345</id>
-    <link href="https://qiita.com/kiwi-dev/items/df7e2923e0a723ccc345" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 「Postgres で試した？」と聞き返せるようになるまでもしくはなぜ私は雰囲気で技術を語るのか？ — Just use Postgres 読書感想文 - じゃあ、おうちで学べる</title>
     <updated>2025-11-25T05:09:23Z</updated>
     <id>tag:syu-m-5151.hatenablog.com,2025-11-25:/entry/2025/11/25/135220</id>
     <link href="https://syu-m-5151.hatenablog.com/entry/2025/11/25/135220" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: オープンソース・プロジェクトのたたみ方</title>
-    <updated>2025-11-26T05:03:10Z</updated>
-    <id>tag:zenn.dev,2025-11-26:/dmikurube/articles/how-to-wind-down-an-opensource-project</id>
-    <link href="https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project" rel="alternate"></link>
+    <title>1:hatena_blog_it: AWSのコスト削減・最適化手法とコスト管理の勘所 - Qiita</title>
+    <updated>2025-11-25T23:39:37Z</updated>
+    <id>tag:qiita.com,2025-11-25:/kiwi-dev/items/df7e2923e0a723ccc345</id>
+    <link href="https://qiita.com/kiwi-dev/items/df7e2923e0a723ccc345" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【海外記事紹介】Rustにはガッカリしている</title>
@@ -5002,106 +4972,10 @@
     <link href="https://togetter.com/li/2632149" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「Goで作る自作コーディングエージェント nebula 開発入門」が良かった - $shibayu36->blog;</title>
-    <updated>2025-11-26T00:20:02Z</updated>
-    <id>tag:blog.shibayu36.org,2025-11-26:/entry/2025/11/25/170000</id>
-    <link href="https://blog.shibayu36.org/entry/2025/11/25/170000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Yubikeyを買ったのでLinuxのログインや1passwordのロック解除が出来るようにしてみた - joker1007’s diary</title>
-    <updated>2025-11-25T06:27:31Z</updated>
-    <id>tag:joker1007.hatenablog.com,2025-11-25:/entry/2025/11/25/023018</id>
-    <link href="https://joker1007.hatenablog.com/entry/2025/11/25/023018" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 佐川急便、全国的に配送遅延　急激な物流増加</title>
-    <updated>2025-11-26T08:54:50Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-11-26:/docs/news/2066443.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2066443.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ついに画像生成AI「FLUX.2」が登場、家のPCでローカル実行可能</title>
-    <updated>2025-11-26T02:44:33Z</updated>
-    <id>tag:gigazine.net,2025-11-26:/news/20251126-flux-2-released/</id>
-    <link href="https://gigazine.net/news/20251126-flux-2-released/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 慶應義塾大学出版会 | 生成AIを活用したレポート・論文の書き方 | 伊藤貴之</title>
-    <updated>2025-11-26T07:12:38Z</updated>
-    <id>tag:www.keio-up.co.jp,2025-11-26:/np/isbn/9784766430837/</id>
-    <link href="https://www.keio-up.co.jp/np/isbn/9784766430837/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「ATOK Passport」実質値上げにユーザー悲鳴　月330円プラン廃止、660円～に</title>
-    <updated>2025-11-26T02:14:40Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-11-26:/news/articles/2511/26/news075.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2511/26/news075.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: オールソニー開発の「ハイクオリティ ガンプラスキャンサービス」をトライ【西田宗千佳のRandomTracking】</title>
-    <updated>2025-11-26T03:52:14Z</updated>
-    <id>tag:av.watch.impress.co.jp,2025-11-26:/docs/series/rt/2065592.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/series/rt/2065592.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: GoogleのAIコーディングツール「Google Antigravity」を悪用してデータを盗み出す攻撃手法が見つかる</title>
-    <updated>2025-11-26T04:55:36Z</updated>
-    <id>tag:gigazine.net,2025-11-26:/news/20251126-google-antigravity-exfiltrates-data/</id>
-    <link href="https://gigazine.net/news/20251126-google-antigravity-exfiltrates-data/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 主要なブラウザで WebGPU がサポートされるようになりました  |  Blog  |  web.dev</title>
-    <updated>2025-11-26T06:38:44Z</updated>
-    <id>tag:web.dev,2025-11-26:/blog/webgpu-supported-major-browsers</id>
-    <link href="https://web.dev/blog/webgpu-supported-major-browsers?hl=ja" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「Visual Studio」のリリースサイクルが変更 ～機能更新が1カ月ごとに加速／年次バージョンは毎年公開、スタンアローンのProfessional版はサブスクリプションのみに</title>
-    <updated>2025-11-26T07:14:23Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-11-26:/docs/news/2066456.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2066456.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Amazonのこのふざけた衣装を布切らずにここまでトランスフォーマーしました→ビフォーアフターに驚きの声「まじでどうやったんだ」</title>
-    <updated>2025-11-26T07:54:18Z</updated>
-    <id>tag:togetter.com,2025-11-26:/li/2632172</id>
-    <link href="https://togetter.com/li/2632172" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Windows 10サポート終了でWindows 11に移行せずLinuxを選択するユーザーが登場、「Zorin OS 18」がリリースから1カ月で100万DL達成</title>
-    <updated>2025-11-26T00:54:27Z</updated>
-    <id>tag:gigazine.net,2025-11-26:/news/20251126-win-10-retirement-zorin-os/</id>
-    <link href="https://gigazine.net/news/20251126-win-10-retirement-zorin-os/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Cloudflareの大規模障害、“迂回”が不正アクセスの引き金に？　「ネットワーク侵入テスト」になったとの指摘も</title>
-    <updated>2025-11-25T23:43:09Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-11-25:/news/articles/2511/26/news034.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2511/26/news034.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: JVN#67185535: SwitchBot製スマートテレビドアホンに利用可能なデバッグ機能が存在している脆弱性</title>
-    <updated>2025-11-26T04:33:24Z</updated>
-    <id>tag:jvn.jp,2025-11-26:/jp/JVN67185535/</id>
-    <link href="https://jvn.jp/jp/JVN67185535/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 佐川、物流急増で配送遅延　ブラックフライデーも影響か</title>
-    <updated>2025-11-26T05:28:00Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-11-26:/news/articles/2511/26/news096.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2511/26/news096.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ガバメントクラウドに見る「ボタンの掛け違い」｜nack66@中野ソフトウエアサービス</title>
-    <updated>2025-11-26T07:24:54Z</updated>
-    <id>tag:note.com,2025-11-26:/nack66/n/n13e794117ad6</id>
-    <link href="https://note.com/nack66/n/n13e794117ad6" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【30,000字・全編無料】受託事業が堅実に1億円を稼ぐ仕組み｜ 田中 翔理 | Ready Crew(レディクル)</title>
-    <updated>2025-11-25T17:26:39Z</updated>
-    <id>tag:note.com,2025-11-25:/shori_tanaka/n/nc56406cc0607</id>
-    <link href="https://note.com/shori_tanaka/n/nc56406cc0607" rel="alternate"></link>
+    <title>1:hatena_blog_it: 読んだ本は忘れていい ― 年間300冊読む私の読書術</title>
+    <updated>2025-11-26T13:10:50Z</updated>
+    <id>tag:azukiazusa.dev,2025-11-26:/blog/my-reading-techniques-300-books-a-year/</id>
+    <link href="https://azukiazusa.dev/blog/my-reading-techniques-300-books-a-year/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 実装の 9 割を AI に任せる。食べログのジュニアエンジニアが構築した AI 連携開発フロー - Tabelog Tech Blog</title>
@@ -5110,21 +4984,99 @@
     <link href="https://tech-blog.tabelog.com/entry/optimized_ai_development_flow" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: iwashi氏が語る、AI時代も変わらない本質とは？dev、EM、PMの視点から考える“プロダクト開発のいまとこれから”</title>
-    <updated>2025-11-26T02:33:59Z</updated>
-    <id>tag:levtech.jp,2025-11-26:/media/article/column/detail_760/</id>
-    <link href="https://levtech.jp/media/article/column/detail_760/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 佐川急便、全国的に配送遅延　急激な物流増加</title>
+    <updated>2025-11-26T08:54:50Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-11-26:/docs/news/2066443.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2066443.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「社員よりAIを守る国、アメリカ」Z世代のMLエンジニアonoderaが見た“AIの国”の働き方 - エンジニアtype | 転職type</title>
-    <updated>2025-11-25T03:27:40Z</updated>
-    <id>tag:type.jp,2025-11-25:/et/feature/29732/</id>
-    <link href="https://type.jp/et/feature/29732/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「Goで作る自作コーディングエージェント nebula 開発入門」が良かった - $shibayu36->blog;</title>
+    <updated>2025-11-26T00:20:02Z</updated>
+    <id>tag:blog.shibayu36.org,2025-11-26:/entry/2025/11/25/170000</id>
+    <link href="https://blog.shibayu36.org/entry/2025/11/25/170000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Photoshop、Chrome拡張機能の利用でブラウザ版が12カ月無料</title>
-    <updated>2025-11-25T09:12:53Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-11-25:/docs/news/2066044.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2066044.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: ついに画像生成AI「FLUX.2」が登場、家のPCでローカル実行可能</title>
+    <updated>2025-11-26T02:44:33Z</updated>
+    <id>tag:gigazine.net,2025-11-26:/news/20251126-flux-2-released/</id>
+    <link href="https://gigazine.net/news/20251126-flux-2-released/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Yubikeyを買ったのでLinuxのログインや1passwordのロック解除が出来るようにしてみた - joker1007’s diary</title>
+    <updated>2025-11-25T06:27:31Z</updated>
+    <id>tag:joker1007.hatenablog.com,2025-11-25:/entry/2025/11/25/023018</id>
+    <link href="https://joker1007.hatenablog.com/entry/2025/11/25/023018" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: オールソニー開発の「ハイクオリティ ガンプラスキャンサービス」をトライ【西田宗千佳のRandomTracking】</title>
+    <updated>2025-11-26T03:52:14Z</updated>
+    <id>tag:av.watch.impress.co.jp,2025-11-26:/docs/series/rt/2065592.html</id>
+    <link href="https://av.watch.impress.co.jp/docs/series/rt/2065592.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「Visual Studio」のリリースサイクルが変更 ～機能更新が1カ月ごとに加速／年次バージョンは毎年公開、スタンアローンのProfessional版はサブスクリプションのみに</title>
+    <updated>2025-11-26T07:14:23Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-11-26:/docs/news/2066456.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2066456.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 主要なブラウザで WebGPU がサポートされるようになりました  |  Blog  |  web.dev</title>
+    <updated>2025-11-26T06:38:44Z</updated>
+    <id>tag:web.dev,2025-11-26:/blog/webgpu-supported-major-browsers</id>
+    <link href="https://web.dev/blog/webgpu-supported-major-browsers?hl=ja" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 無料で「統計データの活用法」を学べるオンライン講座、総務省が受講生募集</title>
+    <updated>2025-11-26T05:30:12Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2025-11-26:/ait/articles/2511/26/news060.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2511/26/news060.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「ATOK Passport」実質値上げにユーザー悲鳴　月330円プラン廃止、660円～に</title>
+    <updated>2025-11-26T02:14:40Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-11-26:/news/articles/2511/26/news075.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2511/26/news075.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub利用者数、日本が世界6位に上昇　AIでソフト開発が拡大 - 日本経済新聞</title>
+    <updated>2025-11-26T07:36:25Z</updated>
+    <id>tag:www.nikkei.com,2025-11-26:/article/DGXZQOUC261540W5A121C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC261540W5A121C2000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIと共に進化するモノタロウ - AI駆動開発 Conference Autumn 2025</title>
+    <updated>2025-11-26T03:03:52Z</updated>
+    <id>tag:speakerdeck.com,2025-11-26:/monotaro/monotaro-ai-conference-autumn-2025</id>
+    <link href="https://speakerdeck.com/monotaro/monotaro-ai-conference-autumn-2025" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ガバメントクラウドに見る「ボタンの掛け違い」｜nack66@中野ソフトウエアサービス</title>
+    <updated>2025-11-26T07:24:54Z</updated>
+    <id>tag:note.com,2025-11-26:/nack66/n/n13e794117ad6</id>
+    <link href="https://note.com/nack66/n/n13e794117ad6" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 佐川、物流急増で配送遅延　ブラックフライデーも影響か</title>
+    <updated>2025-11-26T05:28:00Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-11-26:/news/articles/2511/26/news096.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2511/26/news096.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: グーグルのTPUに突如脚光、エヌビディアの牙城崩せるか－QuickTake</title>
+    <updated>2025-11-25T18:46:55Z</updated>
+    <id>tag:www.bloomberg.co.jp,2025-11-25:/news/articles/2025-11-25/T6AE8LT9NJLZ00</id>
+    <link href="https://www.bloomberg.co.jp/news/articles/2025-11-25/T6AE8LT9NJLZ00" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: イーロン・マスクが『LoL』の人類最強チームに宣戦布告　Xの最新AIで挑戦</title>
+    <updated>2025-11-26T05:00:04Z</updated>
+    <id>tag:kai-you.net,2025-11-26:/article/93975</id>
+    <link href="https://kai-you.net/article/93975" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GoogleのAIコーディングツール「Google Antigravity」を悪用してデータを盗み出す攻撃手法が見つかる</title>
+    <updated>2025-11-26T04:55:36Z</updated>
+    <id>tag:gigazine.net,2025-11-26:/news/20251126-google-antigravity-exfiltrates-data/</id>
+    <link href="https://gigazine.net/news/20251126-google-antigravity-exfiltrates-data/" rel="alternate"></link>
   </entry>
 </feed>
