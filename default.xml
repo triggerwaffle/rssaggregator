@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-11-29T01:06:43Z</updated>
+  <updated>2025-11-29T06:20:42Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -184,6 +184,12 @@
     <link href="https://archlinux.org/news/glibc-241-corrupting-discord-installation/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 開発生産性を最大化するために考えていること ~あるいは技術的負債について</title>
+    <updated>2025-11-27T23:00:01Z</updated>
+    <id>https://zenn.dev/bloomo_tech/articles/a93e4ecbb16b15</id>
+    <link href="https://zenn.dev/bloomo_tech/articles/a93e4ecbb16b15" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Open Notebookを完全ローカル環境で動かす方法</title>
     <updated>2025-11-27T15:13:48Z</updated>
     <id>https://zenn.dev/karaage0703/articles/51a8276e74451c</id>
@@ -194,6 +200,12 @@
     <updated>2025-11-27T11:54:43Z</updated>
     <id>https://zenn.dev/aki_think/articles/e8a846e9bb95b0</id>
     <link href="https://zenn.dev/aki_think/articles/e8a846e9bb95b0" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Go + クリーンアーキテクチャで AI エージェント基盤を再設計した話【前編】</title>
+    <updated>2025-11-27T09:22:45Z</updated>
+    <id>https://zenn.dev/iyusuke/articles/b06400ce2b66c9</id>
+    <link href="https://zenn.dev/iyusuke/articles/b06400ce2b66c9" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 2台のDGX Sparkを相互接続して無事にvLLMを動作させるまでのメモ</title>
@@ -224,18 +236,6 @@
     <updated>2025-11-26T23:22:39Z</updated>
     <id>https://zenn.dev/loglass/articles/16745471ef55ff</id>
     <link href="https://zenn.dev/loglass/articles/16745471ef55ff" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: SNSアプリの投稿画面のUIデザイン改善</title>
-    <updated>2025-11-26T20:11:02Z</updated>
-    <id>https://zenn.dev/noppe/articles/7093cbaac7d976</id>
-    <link href="https://zenn.dev/noppe/articles/7093cbaac7d976" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: JSONはもう古い？LLM時代の新フォーマット「TOON」がトークンを節約する理由</title>
-    <updated>2025-11-26T17:22:05Z</updated>
-    <id>https://zenn.dev/akari1106/articles/ba99c8702ee732</id>
-    <link href="https://zenn.dev/akari1106/articles/ba99c8702ee732" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: GitHub Copilot カスタムエージェントのための agents.md 作成ベストプラクティス</title>
@@ -4966,28 +4966,46 @@
     <link href="https://edu.watch.impress.co.jp/docs/knowledge/2066960.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 昨今のAIブームは「言語能力こそが知能である」という誤解に基づいているという主張</title>
-    <updated>2025-11-28T08:00:22Z</updated>
-    <id>tag:gigazine.net,2025-11-28:/news/20251128-ai-bubble-llm-fundamental-mistake/</id>
-    <link href="https://gigazine.net/news/20251128-ai-bubble-llm-fundamental-mistake/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Claude Code完全ガイド</title>
     <updated>2025-11-26T08:55:29Z</updated>
     <id>tag:zenn.dev,2025-11-26:/heku/books/claude-code-guide</id>
     <link href="https://zenn.dev/heku/books/claude-code-guide" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Code はじめてガイド -1時間で学べるAI駆動開発の基本と実践-</title>
-    <updated>2025-11-28T03:06:00Z</updated>
-    <id>tag:speakerdeck.com,2025-11-28:/oikon48/claude-code-hazimetegaido-1shi-jian-dexue-beruaiqu-dong-kai-fa-noji-ben-toshi-jian</id>
-    <link href="https://speakerdeck.com/oikon48/claude-code-hazimetegaido-1shi-jian-dexue-beruaiqu-dong-kai-fa-noji-ben-toshi-jian" rel="alternate"></link>
+    <title>1:hatena_blog_it: 複数人でのCLI/Infrastructure as Codeの暮らしを良くする</title>
+    <updated>2025-11-28T15:17:12Z</updated>
+    <id>tag:speakerdeck.com,2025-11-28:/shmokmt/infrastructure-as-codenomu-rasiwoliang-kusuru</id>
+    <link href="https://speakerdeck.com/shmokmt/infrastructure-as-codenomu-rasiwoliang-kusuru" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: t-wadaが説く、今あえて“自分の手”でコードを書く理由「バイブコーディングは、エンジニアのためのものではない」 - エンジニアtype | 転職type</title>
-    <updated>2025-11-28T01:30:10Z</updated>
-    <id>tag:type.jp,2025-11-28:/et/feature/29773/</id>
-    <link href="https://type.jp/et/feature/29773/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 大手ゲーム企業でAI導入が加速もインディーゲーム界隈では「AIフリー」が新たな売り文句として広まっている</title>
+    <updated>2025-11-28T11:51:32Z</updated>
+    <id>tag:gigazine.net,2025-11-28:/news/20251128-indie-game-developers-ai-free/</id>
+    <link href="https://gigazine.net/news/20251128-indie-game-developers-ai-free/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 私物PCのマルウェア感染起因とみられる業務利用Slackへの不正ログイン事案についてまとめてみた - piyolog</title>
+    <updated>2025-11-28T09:03:44Z</updated>
+    <id>tag:piyolog.hatenadiary.jp,2025-11-28:/entry/2025/11/28/170613</id>
+    <link href="https://piyolog.hatenadiary.jp/entry/2025/11/28/170613" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: アサグループへのサイバー攻撃に関する会見で「最後に一言申し上げたい」から社長が現状を語りまくる様子→特に印象に残った発言たちへの反応</title>
+    <updated>2025-11-29T05:16:07Z</updated>
+    <id>tag:togetter.com,2025-11-29:/li/2633257</id>
+    <link href="https://togetter.com/li/2633257" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Gemini 3 Pro 実務活用ガイド：個人の能力を拡張し、業務フローを変革するための設計図｜【AI研究中】ただし</title>
+    <updated>2025-11-28T13:18:55Z</updated>
+    <id>tag:note.com,2025-11-28:/note_tds/n/n7ba408852de9</id>
+    <link href="https://note.com/note_tds/n/n7ba408852de9" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 昨今のAIブームは「言語能力こそが知能である」という誤解に基づいているという主張</title>
+    <updated>2025-11-28T08:00:22Z</updated>
+    <id>tag:gigazine.net,2025-11-28:/news/20251128-ai-bubble-llm-fundamental-mistake/</id>
+    <link href="https://gigazine.net/news/20251128-ai-bubble-llm-fundamental-mistake/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: GPUを使わずにWindowsでローカルLLMを動かす</title>
@@ -4996,10 +5014,64 @@
     <link href="https://zenn.dev/nwth/articles/202511-local-llm" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 複数人でのCLI/Infrastructure as Codeの暮らしを良くする</title>
-    <updated>2025-11-28T15:17:12Z</updated>
-    <id>tag:speakerdeck.com,2025-11-28:/shmokmt/infrastructure-as-codenomu-rasiwoliang-kusuru</id>
-    <link href="https://speakerdeck.com/shmokmt/infrastructure-as-codenomu-rasiwoliang-kusuru" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【Gemini 3 Pro】コピペ可能：ニュース収集からリッチなUI生成まで全自動化する Gem の作り方 - Qiita</title>
+    <updated>2025-11-27T08:27:35Z</updated>
+    <id>tag:qiita.com,2025-11-27:/Ryo-Nakano/items/bfd528bb5f6b83e0c43c</id>
+    <link href="https://qiita.com/Ryo-Nakano/items/bfd528bb5f6b83e0c43c" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Klack</title>
+    <updated>2023-09-06T00:47:52Z</updated>
+    <id>tag:tryklack.com,2023-09-06:/</id>
+    <link href="https://tryklack.com/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Claude Code はじめてガイド -1時間で学べるAI駆動開発の基本と実践-</title>
+    <updated>2025-11-28T03:06:00Z</updated>
+    <id>tag:speakerdeck.com,2025-11-28:/oikon48/claude-code-hazimetegaido-1shi-jian-dexue-beruaiqu-dong-kai-fa-noji-ben-toshi-jian</id>
+    <link href="https://speakerdeck.com/oikon48/claude-code-hazimetegaido-1shi-jian-dexue-beruaiqu-dong-kai-fa-noji-ben-toshi-jian" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【ご報告】世界で1番美味しくて健康的なズボラ飯を作りました - はらぺこグリズリーの料理ブログ</title>
+    <updated>2025-11-28T10:10:11Z</updated>
+    <id>tag:cheap-delicious.hatenablog.com,2025-11-28:/entry/2025/11/28/190126</id>
+    <link href="https://cheap-delicious.hatenablog.com/entry/2025/11/28/190126" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 補足: 履歴テーブル、今回はこう作りました 〜 Delegated Types編 〜 - その手の平は尻もつかめるさ</title>
+    <updated>2025-11-27T22:45:13Z</updated>
+    <id>tag:moznion.hatenadiary.com,2025-11-27:/entry/2025/11/27/223512</id>
+    <link href="https://moznion.hatenadiary.com/entry/2025/11/27/223512" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub - guigui-gui/guigui: An immediate-mode-like GUI framework for Go</title>
+    <updated>2025-11-28T15:36:59Z</updated>
+    <id>tag:github.com,2025-11-28:/guigui-gui/guigui</id>
+    <link href="https://github.com/guigui-gui/guigui" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【山田祥平のRe:config.sys】 iPhoneと写真をやり取りできるようになって肩身がちょっと広くなったAndroid</title>
+    <updated>2025-11-29T01:49:35Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-11-29:/docs/column/config/2067270.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/config/2067270.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: DeepSeekが数学的推論に特化したAIモデル「DeepSeek-Math-V2」をリリース、国際数学オリンピックで金メダルを取れるレベルの正答率を記録</title>
+    <updated>2025-11-28T03:23:20Z</updated>
+    <id>tag:gigazine.net,2025-11-28:/news/20251128-deepseek-math-v2/</id>
+    <link href="https://gigazine.net/news/20251128-deepseek-math-v2/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ZOZOにおけるAI活用の現在 ~モバイルアプリ開発でのAI活用状況と事例~</title>
+    <updated>2025-11-28T21:49:59Z</updated>
+    <id>tag:speakerdeck.com,2025-11-28:/zozotech/ai-at-zozo-mobile-app-development</id>
+    <link href="https://speakerdeck.com/zozotech/ai-at-zozo-mobile-app-development" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 経営をあまやかさないAIを作ろう｜深津 貴之 (fladdict)</title>
+    <updated>2025-11-28T10:10:43Z</updated>
+    <id>tag:note.com,2025-11-28:/fladdict/n/nbcc4eace2413</id>
+    <link href="https://note.com/fladdict/n/nbcc4eace2413" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: コンポーネントの設計で最近気をつけていることまとめ（React / Next.js） - Qiita</title>
@@ -5014,34 +5086,10 @@
     <link href="https://gigazine.net/news/20251128-googe-tpu-in-ai-age/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 大手ゲーム企業でAI導入が加速もインディーゲーム界隈では「AIフリー」が新たな売り文句として広まっている</title>
-    <updated>2025-11-28T11:51:32Z</updated>
-    <id>tag:gigazine.net,2025-11-28:/news/20251128-indie-game-developers-ai-free/</id>
-    <link href="https://gigazine.net/news/20251128-indie-game-developers-ai-free/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 名門Cherryの落日と再生：ドイツ生産終了、ゲーミング事業売却の可能性、そして「スイッチ戦争」の敗北が意味するもの | XenoSpectrum</title>
-    <updated>2025-11-28T04:37:46Z</updated>
-    <id>tag:xenospectrum.com,2025-11-28:/cherry-se-financial-crisis-production-china-sell-off-analysis/</id>
-    <link href="https://xenospectrum.com/cherry-se-financial-crisis-production-china-sell-off-analysis/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 懇親会で「ぼっち」になってしまうのは、あなたのせいではありません。 #ぼっち対策会議</title>
-    <updated>2025-11-27T23:28:43Z</updated>
-    <id>tag:www.docswell.com,2025-11-27:/s/Kaitou/574P6W-2025-11-27-163932</id>
-    <link href="https://www.docswell.com/s/Kaitou/574P6W-2025-11-27-163932" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Klack</title>
-    <updated>2023-09-06T00:47:52Z</updated>
-    <id>tag:tryklack.com,2023-09-06:/</id>
-    <link href="https://tryklack.com/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【Gemini 3 Pro】コピペ可能：ニュース収集からリッチなUI生成まで全自動化する Gem の作り方 - Qiita</title>
-    <updated>2025-11-27T08:27:35Z</updated>
-    <id>tag:qiita.com,2025-11-27:/Ryo-Nakano/items/bfd528bb5f6b83e0c43c</id>
-    <link href="https://qiita.com/Ryo-Nakano/items/bfd528bb5f6b83e0c43c" rel="alternate"></link>
+    <title>1:hatena_blog_it: OpenAI、ユーザー情報流出か</title>
+    <updated>2025-11-28T11:15:35Z</updated>
+    <id>tag:ascii.jp,2025-11-28:/elem/000/004/355/4355818/</id>
+    <link href="https://ascii.jp/elem/000/004/355/4355818/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Windows 11 24H2でスタートメニューやエクスプローラーがクラッシュする問題</title>
@@ -5050,34 +5098,10 @@
     <link href="https://pc.watch.impress.co.jp/docs/news/2067044.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OpenAIユーザーのメアドや位置情報が流出したことが判明、データ分析サービス経由でAPIユーザーの個人情報が流出</title>
-    <updated>2025-11-28T03:26:36Z</updated>
-    <id>tag:gigazine.net,2025-11-28:/news/20251128-openai-mixpanel-security-incident/</id>
-    <link href="https://gigazine.net/news/20251128-openai-mixpanel-security-incident/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「スマートロッカーが開かない」──深夜の大阪駅で何が起きた？　通信障害の原因とユーザーが取るべき行動、運営元に聞いた</title>
-    <updated>2025-11-28T06:18:13Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-11-28:/news/articles/2511/28/news101.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2511/28/news101.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: TPAC 2025 参戦記 前編: Overview - Cybozu Inside Out | サイボウズエンジニアのブログ</title>
-    <updated>2025-11-28T00:28:08Z</updated>
-    <id>tag:blog.cybozu.io,2025-11-28:/entry/2025/11/27/170000</id>
-    <link href="https://blog.cybozu.io/entry/2025/11/27/170000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: バイコヌール宇宙基地の発射台損傷でソユーズ打ち上げ困難に　ISS運用への影響は?</title>
-    <updated>2025-11-28T12:57:51Z</updated>
-    <id>tag:news.mynavi.jp,2025-11-28:/techplus/article/20251128-3731655/</id>
-    <link href="https://news.mynavi.jp/techplus/article/20251128-3731655/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ドコモ、ぷらら光を終了　ドコモ光とOCNに統合　ぷららメアドも終了</title>
-    <updated>2025-11-28T07:25:41Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-11-28:/docs/news/2067127.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2067127.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 懇親会で「ぼっち」になってしまうのは、あなたのせいではありません。 #ぼっち対策会議</title>
+    <updated>2025-11-27T23:28:43Z</updated>
+    <id>tag:www.docswell.com,2025-11-27:/s/Kaitou/574P6W-2025-11-27-163932</id>
+    <link href="https://www.docswell.com/s/Kaitou/574P6W-2025-11-27-163932" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: https://services.google.com/fh/files/misc/geminiforstudents_handbook_2025nov.pdf</title>
@@ -5086,45 +5110,21 @@
     <link href="https://services.google.com/fh/files/misc/geminiforstudents_handbook_2025nov.pdf" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Googleの自律型コーディングAIエージェント「Jules」、「Gemini 3 Pro」に対応／CLIは並列実行やWindowsでの動作に対応</title>
-    <updated>2025-11-28T05:17:54Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-11-28:/docs/news/2066962.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2066962.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: OpenAIユーザーのメアドや位置情報が流出したことが判明、データ分析サービス経由でAPIユーザーの個人情報が流出</title>
+    <updated>2025-11-28T03:26:36Z</updated>
+    <id>tag:gigazine.net,2025-11-28:/news/20251128-openai-mixpanel-security-incident/</id>
+    <link href="https://gigazine.net/news/20251128-openai-mixpanel-security-incident/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 新画像生成AI「FLUX.2」が登場！ オープンモデルで4メガピクセルの“超”高解像度生成を試す【生成AIストリーム】</title>
-    <updated>2025-11-28T09:01:52Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-11-28:/docs/serial/aistream/2067196.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/aistream/2067196.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: はじめに｜Claude Code完全ガイド</title>
+    <updated>2025-11-28T12:23:47Z</updated>
+    <id>tag:zenn.dev,2025-11-28:/heku/books/claude-code-guide/viewer/introduction</id>
+    <link href="https://zenn.dev/heku/books/claude-code-guide/viewer/introduction" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 混雑時も動画が止まらない新技術、KDDIが「L4S」国内初導入</title>
-    <updated>2025-11-28T09:08:16Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2025-11-28:/docs/news/2067171.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2067171.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「テッペイ」発表もシステム構築はこれから　“突貫工事“覚悟で、JR東がコード決済参入を急いだワケ</title>
-    <updated>2025-11-28T06:43:35Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-11-28:/news/articles/2511/28/news098.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2511/28/news098.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 日本で使われているiPhoneの利用者最多は『iPhone SE』だという事実「サイズがちょうどいいんだわ」「だってホームボタンから離れたくない」</title>
-    <updated>2025-11-28T00:16:45Z</updated>
-    <id>tag:togetter.com,2025-11-28:/li/2632816</id>
-    <link href="https://togetter.com/li/2632816" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 電池について１　電池が液漏れしてしまった（電池の転極について） – ナカバヤシ株式会社 REVEX（リーベックス）ブランド</title>
-    <updated>2025-11-28T08:21:36Z</updated>
-    <id>tag:revex.jp,2025-11-28:/faq/電池について１　電池が液漏れしてしまった（電/</id>
-    <link href="https://revex.jp/faq/%E9%9B%BB%E6%B1%A0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%91%E3%80%80%E9%9B%BB%E6%B1%A0%E3%81%8C%E6%B6%B2%E6%BC%8F%E3%82%8C%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%EF%BC%88%E9%9B%BB/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: どんなウィンドウもタブにまとめられる「WindowTabs」に日本語派生プロジェクトが誕生／Microsoftもあきらめた「Sets」機能を実現</title>
-    <updated>2025-11-28T07:53:13Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-11-28:/docs/news/2067165.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2067165.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: バイコヌール宇宙基地の発射台損傷でソユーズ打ち上げ困難に　ISS運用への影響は?</title>
+    <updated>2025-11-28T12:57:51Z</updated>
+    <id>tag:news.mynavi.jp,2025-11-28:/techplus/article/20251128-3731655/</id>
+    <link href="https://news.mynavi.jp/techplus/article/20251128-3731655/" rel="alternate"></link>
   </entry>
 </feed>
