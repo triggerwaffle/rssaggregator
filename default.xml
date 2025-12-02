@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-12-02T12:32:26Z</updated>
+  <updated>2025-12-02T18:23:44Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -454,6 +454,12 @@
     <link href="https://qiita.com/Aochan0604/items/f120d317aace2666e916?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: 'cat' - concatenate and print files - Video Man Pages</title>
+    <updated>2025-12-02T14:00:23Z</updated>
+    <id>yt:video:HKuP4UjG9_U</id>
+    <link href="https://www.youtube.com/watch?v=HKuP4UjG9_U" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: Chat With Patrons (Nov 30, 2025)</title>
     <updated>2025-12-01T06:25:17Z</updated>
     <id>yt:video:SJiT4Xz3StI</id>
@@ -536,12 +542,6 @@
     <updated>2025-10-23T13:02:01Z</updated>
     <id>yt:video:x68o5o1l1Ms</id>
     <link href="https://www.youtube.com/watch?v=x68o5o1l1Ms" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: Diablo 2 Resurrected LIVE - Leveling Up And Magic Finding</title>
-    <updated>2025-10-21T12:41:38Z</updated>
-    <id>yt:video:8b7b4qVjmV0</id>
-    <link href="https://www.youtube.com/watch?v=8b7b4qVjmV0" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: Amazon S3を狙うランサムウェア、「暗号鍵の悪用」でAWSも復号不能</title>
@@ -994,6 +994,18 @@
     <link href="https://www.youtube.com/watch?v=KLQ3KONOSEQ" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: AWS、コンテナではなくEC2インスタンスでサーバレスを構築できる「AWS Lambda Managed Instances」リリース</title>
+    <updated>2025-12-02T16:23:54Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8400</id>
+    <link href="https://www.publickey1.jp/blog/25/awsec2aws_lambda_managed_instances.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: AWS、AIエージェントでレガシーなWindowsアプリをコードもDBもモダンな「.NET＋Aurora PostgreSQL」に自動変換。AWS Transformリリース</title>
+    <updated>2025-12-02T16:18:26Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8399</id>
+    <link href="https://www.publickey1.jp/blog/25/awsaiwindowsdbnetaurora_postgresqlaws_transform.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: 「AWS MCP Server」プレビュー開始。最新のAWS APIからナレッジベースまで包括的にAIからAWSを利用可能に</title>
     <updated>2025-12-01T16:31:04Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8398</id>
@@ -1070,18 +1082,6 @@
     <updated>2025-11-18T17:01:50Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8386</id>
     <link href="https://www.publickey1.jp/blog/25/mcp_on_windowsaiwindowsignite_2025.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: ［速報］マイクロソフト、ミッションクリティカルに対応するスケーラブルなPostgreSQL「Azure HorizonDB」発表。Ignite 2025</title>
-    <updated>2025-11-18T17:01:29Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8384</id>
-    <link href="https://www.publickey1.jp/blog/25/postgresqlazure_horizondbignite_2025.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: ［速報］マイクロソフト、あらゆるAIエージェントを包括的に管理する「Microsoft Agent 365」発表。Ignite 2025</title>
-    <updated>2025-11-18T15:35:35Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8385</id>
-    <link href="https://www.publickey1.jp/blog/25/aimicrosoft_agent_365ignite_2025.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: FreeBSD 15.0リリース ―pkgツールベースのインストール／アップデート方式を採用へ</title>
@@ -4924,16 +4924,10 @@
     <link href="https://gihyo.jp/article/2024/12/python-bc-kaogshima?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Linux 6.13-rc1公開、SDUC、NVMe 2.1をサポート</title>
-    <updated>2024-12-02T04:45:00Z</updated>
-    <id>urn:uuid:2cf580fb-ea66-8126-f84b-8bb705e7b39b</id>
-    <link href="https://gihyo.jp/article/2024/12/daily-linux-241202?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: 「中高生国際Rubyプログラミングコンテスト2024 in Mitaka」受賞者決定！</title>
-    <updated>2024-12-02T01:52:35Z</updated>
-    <id>urn:uuid:df9b45f6-0098-733c-7c27-ab871cb57651</id>
-    <link href="https://gihyo.jp/article/2024/12/ruby-procon2024-12?utm_source=feed" rel="alternate"></link>
+    <title>1:hatena_blog_it: goroutineを作ってみる。Rustで - エムスリーテックブログ</title>
+    <updated>2025-12-02T08:18:35Z</updated>
+    <id>tag:www.m3tech.blog,2025-12-02:/entry/build-your-own-goroutine-in-rust</id>
+    <link href="https://www.m3tech.blog/entry/build-your-own-goroutine-in-rust" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【特集】 モバイルバッテリ処分2025、楽になったよ。ありがとう環境省</title>
@@ -4948,106 +4942,10 @@
     <link href="https://note.com/mongee0792/n/n1006007b1cb4" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: もしAI素人が「明日からAIエージェント作ってくれ」と言われたら｜Moriya</title>
-    <updated>2025-12-01T18:38:37Z</updated>
-    <id>tag:note.com,2025-12-01:/moriya_gekko/n/n47aa474cf658</id>
-    <link href="https://note.com/moriya_gekko/n/n47aa474cf658" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「公共Wi-Fiを避ける」「QRコードをスキャンしない」「公共のUSBポートでデバイスを充電しない」「パスワードを定期的に変更する」など時代遅れのセキュリティアドバイスを止めろと専門家グループが声を上げる</title>
-    <updated>2025-12-01T22:07:17Z</updated>
-    <id>tag:gigazine.net,2025-12-01:/news/20251202-stop-hacklore/</id>
-    <link href="https://gigazine.net/news/20251202-stop-hacklore/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 「MS “P”明朝」のように書体に“P”がついているのにはこういうワケがあった→「知らなかった…そんなの…」「Pありなしはエンジニアやデザイナーが頭痛になる」</title>
     <updated>2025-12-02T05:39:34Z</updated>
     <id>tag:togetter.com,2025-12-02:/li/2634552</id>
     <link href="https://togetter.com/li/2634552" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Writing a good CLAUDE.md</title>
-    <updated>2025-11-30T22:50:54Z</updated>
-    <id>tag:www.humanlayer.dev,2025-11-30:/blog/writing-a-good-claude-md</id>
-    <link href="https://www.humanlayer.dev/blog/writing-a-good-claude-md" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: クマ閉め出す自動ドア…スマホアプリに反応し開閉、障害者や高齢者向けシステム「新たな活用法」</title>
-    <updated>2025-12-01T23:47:58Z</updated>
-    <id>tag:www.yomiuri.co.jp,2025-12-01:/national/20251202-GYT1T00086/</id>
-    <link href="https://www.yomiuri.co.jp/national/20251202-GYT1T00086/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Antigravity を使うときは DevContainer で安全に使おう | DevelopersIO</title>
-    <updated>2025-12-01T14:02:55Z</updated>
-    <id>tag:dev.classmethod.jp,2025-12-01:/articles/dont-forget-to-use-devcontainer-when-using-antigravity/</id>
-    <link href="https://dev.classmethod.jp/articles/dont-forget-to-use-devcontainer-when-using-antigravity/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Kyashに入社して8年くらい経ちました - Konifar's WIP</title>
-    <updated>2025-12-01T15:08:54Z</updated>
-    <id>tag:konifar.hatenablog.com,2025-12-01:/entry/2025/12/01/234148</id>
-    <link href="https://konifar.hatenablog.com/entry/2025/12/01/234148" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: goroutineを作ってみる。Rustで - エムスリーテックブログ</title>
-    <updated>2025-12-02T08:18:35Z</updated>
-    <id>tag:www.m3tech.blog,2025-12-02:/entry/build-your-own-goroutine-in-rust</id>
-    <link href="https://www.m3tech.blog/entry/build-your-own-goroutine-in-rust" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: サイバーセキュリティ、“侵入前提”はもう時代遅れ？　今再び「防御」に注目が集まるワケ</title>
-    <updated>2025-12-02T03:22:10Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-12-02:/news/articles/2512/02/news014.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2512/02/news014.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: メモリ価格高騰でラズパイも値上げ。Pi 5は1GBメモリ版を追加</title>
-    <updated>2025-12-02T06:48:24Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-12-02:/docs/news/2067923.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2067923.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: エンジニアの雑談力って大事 - Qiita</title>
-    <updated>2025-12-02T05:13:07Z</updated>
-    <id>tag:qiita.com,2025-12-02:/sato_626/items/b07819166ee4a82155a7</id>
-    <link href="https://qiita.com/sato_626/items/b07819166ee4a82155a7" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: BtoBサイトの参考デザイン12選。企業規模や業種別にポイントも解説 | Coneのコンテンツ制作所</title>
-    <updated>2025-12-02T02:00:07Z</updated>
-    <id>tag:cone-c-slide.com,2025-12-02:/see-sla/blog/btobsite-design/</id>
-    <link href="https://cone-c-slide.com/see-sla/blog/btobsite-design/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Geminiの評判がよすぎる。ChatGPTはもうオワコン？</title>
-    <updated>2025-12-02T01:32:37Z</updated>
-    <id>tag:www.gizmodo.jp,2025-12-02:/2025/12/question_gemini_over_chatgpt.html</id>
-    <link href="https://www.gizmodo.jp/2025/12/question_gemini_over_chatgpt.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「DeepSeek-V3.2」が登場、GPT-5やGemini 3と同等性能でモデルを無料公開するオープンモデル</title>
-    <updated>2025-12-02T05:47:01Z</updated>
-    <id>tag:gigazine.net,2025-12-02:/news/20251202-deepseek-v3-2/</id>
-    <link href="https://gigazine.net/news/20251202-deepseek-v3-2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 画像生成AIで作った微妙なドット絵風画像をゲームで使える形式に直すウェブアプリ「Unfaker」</title>
-    <updated>2025-12-02T00:21:04Z</updated>
-    <id>tag:gigazine.net,2025-12-02:/news/20251202-unfaker-fix-ai-pixel-art/</id>
-    <link href="https://gigazine.net/news/20251202-unfaker-fix-ai-pixel-art/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: サムスン、3画面折りたたみスマホ「Galaxy Z TriFold」発表</title>
-    <updated>2025-12-02T03:59:48Z</updated>
-    <id>tag:www.watch.impress.co.jp,2025-12-02:/docs/news/2067919.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2067919.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: サイバーセキュリティ、“侵入前提”はもう時代遅れ？　今再び「防御」に注目が集まるワケ（ITmedia NEWS） - Yahoo!ニュース</title>
-    <updated>2025-12-02T03:53:56Z</updated>
-    <id>tag:news.yahoo.co.jp,2025-12-02:/articles/f86568669a14f00f0451abcb52d4408023e8080b</id>
-    <link href="https://news.yahoo.co.jp/articles/f86568669a14f00f0451abcb52d4408023e8080b" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 適職探索トップ | job tag（職業情報提供サイト（日本版O-NET））</title>
@@ -5056,22 +4954,112 @@
     <link href="https://shigoto.mhlw.go.jp/User/Search/Top" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: グーグル、すべてのAndroidユーザー向けに重大アップデートを公開 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-    <updated>2025-12-02T07:13:02Z</updated>
-    <id>tag:forbesjapan.com,2025-12-02:/articles/detail/86056</id>
-    <link href="https://forbesjapan.com/articles/detail/86056" rel="alternate"></link>
+    <title>1:hatena_blog_it: OpenAI、対Google「非常事態」宣言と米報道　3年前と形勢逆転 - 日本経済新聞</title>
+    <updated>2025-12-02T10:36:37Z</updated>
+    <id>tag:www.nikkei.com,2025-12-02:/article/DGXZQOGN027ZB0S5A201C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN027ZB0S5A201C2000000/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: デジ庁、「国産LLM」の公募開始　行政向けAIに実装へ</title>
-    <updated>2025-12-02T03:03:26Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-12-02:/aiplus/articles/2512/02/news066.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2512/02/news066.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: もしAI素人が「明日からAIエージェント作ってくれ」と言われたら｜Moriya</title>
+    <updated>2025-12-01T18:38:37Z</updated>
+    <id>tag:note.com,2025-12-01:/moriya_gekko/n/n47aa474cf658</id>
+    <link href="https://note.com/moriya_gekko/n/n47aa474cf658" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 健康保険「資格確認書」が届かない？　Web交付という可能性も</title>
-    <updated>2025-12-01T12:49:41Z</updated>
-    <id>tag:www.itmedia.co.jp,2025-12-01:/news/articles/2512/01/news127.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2512/01/news127.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: AI で再注目された技術やツールたち - ぽ靴な缶</title>
+    <updated>2025-12-02T14:17:34Z</updated>
+    <id>tag:blog.pokutuna.com,2025-12-02:/entry/ai-rediscovered-tech-and-tools</id>
+    <link href="https://blog.pokutuna.com/entry/ai-rediscovered-tech-and-tools" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Writing a good CLAUDE.md</title>
+    <updated>2025-11-30T22:50:54Z</updated>
+    <id>tag:www.humanlayer.dev,2025-11-30:/blog/writing-a-good-claude-md</id>
+    <link href="https://www.humanlayer.dev/blog/writing-a-good-claude-md" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「DeepSeek-V3.2」が登場、GPT-5やGemini 3と同等性能でモデルを無料公開するオープンモデル</title>
+    <updated>2025-12-02T05:47:01Z</updated>
+    <id>tag:gigazine.net,2025-12-02:/news/20251202-deepseek-v3-2/</id>
+    <link href="https://gigazine.net/news/20251202-deepseek-v3-2/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 標準電波「JJY」の運用が評価されIEEEマイルストーン認定。電波時計を支える標準時送出電波</title>
+    <updated>2025-12-02T13:02:38Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-12-02:/docs/news/2067150.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2067150.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 32歳ITエンジニアが休職になるまでのノート｜NPOS</title>
+    <updated>2025-12-02T09:19:44Z</updated>
+    <id>tag:note.com,2025-12-02:/npostring/n/n56e58d1783b3</id>
+    <link href="https://note.com/npostring/n/n56e58d1783b3" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 警視庁「デジポリス」アプリに、国際電話番号ブロック機能搭載</title>
+    <updated>2025-12-02T07:13:11Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-12-02:/news/articles/2512/02/news111.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2512/02/news111.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: おしゃべりAIリバーシ</title>
+    <updated>2025-12-02T05:58:54Z</updated>
+    <id>tag:reversi.nabettu.com,2025-12-02:/</id>
+    <link href="https://reversi.nabettu.com/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: エンジニアの雑談力って大事 - Qiita</title>
+    <updated>2025-12-02T05:13:07Z</updated>
+    <id>tag:qiita.com,2025-12-02:/sato_626/items/b07819166ee4a82155a7</id>
+    <link href="https://qiita.com/sato_626/items/b07819166ee4a82155a7" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「公共Wi-Fiを避ける」「QRコードをスキャンしない」「公共のUSBポートでデバイスを充電しない」「パスワードを定期的に変更する」など時代遅れのセキュリティアドバイスを止めろと専門家グループが声を上げる</title>
+    <updated>2025-12-01T22:07:17Z</updated>
+    <id>tag:gigazine.net,2025-12-01:/news/20251202-stop-hacklore/</id>
+    <link href="https://gigazine.net/news/20251202-stop-hacklore/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: サイバーセキュリティ、“侵入前提”はもう時代遅れ？　今再び「防御」に注目が集まるワケ</title>
+    <updated>2025-12-02T03:22:10Z</updated>
+    <id>tag:www.itmedia.co.jp,2025-12-02:/news/articles/2512/02/news014.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2512/02/news014.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: クマ閉め出す自動ドア…スマホアプリに反応し開閉、障害者や高齢者向けシステム「新たな活用法」</title>
+    <updated>2025-12-01T23:47:58Z</updated>
+    <id>tag:www.yomiuri.co.jp,2025-12-01:/national/20251202-GYT1T00086/</id>
+    <link href="https://www.yomiuri.co.jp/national/20251202-GYT1T00086/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 意見の異なる相手と建設的な議論を進めるための「RISAルール」とは？ディベート世界チャンピオンが議論のコツを解説</title>
+    <updated>2013-11-14T13:55:22Z</updated>
+    <id>tag:gigazine.net,2013-11-14:/news/20251202-argument-risa-bo-seo/</id>
+    <link href="https://gigazine.net/news/20251202-argument-risa-bo-seo/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Antigravity を使うときは DevContainer で安全に使おう | DevelopersIO</title>
+    <updated>2025-12-01T14:02:55Z</updated>
+    <id>tag:dev.classmethod.jp,2025-12-01:/articles/dont-forget-to-use-devcontainer-when-using-antigravity/</id>
+    <link href="https://dev.classmethod.jp/articles/dont-forget-to-use-devcontainer-when-using-antigravity/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「攻殻機動隊」が描いた未来はなぜ現実になったのか？メカデザイナー・山下いくと氏が語る革新性の秘密｜@DIME アットダイム</title>
+    <updated>2025-12-02T03:35:23Z</updated>
+    <id>tag:dime.jp,2025-12-02:/genre/2049360/</id>
+    <link href="https://dime.jp/genre/2049360/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: メモリ価格高騰でラズパイも値上げ。Pi 5は1GBメモリ版を追加</title>
+    <updated>2025-12-02T06:48:24Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2025-12-02:/docs/news/2067923.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2067923.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: サムスン、3画面折りたたみスマホ「Galaxy Z TriFold」発表</title>
+    <updated>2025-12-02T03:59:48Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-12-02:/docs/news/2067919.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2067919.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: なぜ AWS 移設をするのか - 株式会社ヘンリー エンジニアブログ</title>
@@ -5080,21 +5068,27 @@
     <link href="https://dev.henry.jp/entry/2025/why-we-are-migrating-from-google-cloud-to-aws" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 商用でも完全に無料、帰属も必要なし！ ポップでおしゃれなイラスト素材がダウンロードできる日本人によるサイト -pople</title>
-    <updated>2025-12-02T00:43:21Z</updated>
-    <id>tag:coliss.com,2025-12-02:/articles/freebies/pop-and-simple-illustrations-pople.html</id>
-    <link href="https://coliss.com/articles/freebies/pop-and-simple-illustrations-pople.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: セキュリティAIエージェントの現在と未来 / PSS #2 Takumi Session</title>
+    <updated>2025-12-02T09:27:03Z</updated>
+    <id>tag:speakerdeck.com,2025-12-02:/flatt_security/pss-number-2-takumi-session</id>
+    <link href="https://speakerdeck.com/flatt_security/pss-number-2-takumi-session" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Opus 4.5登場　プロ開発者向けにコーディング性能を再強化、API価格は1/3に</title>
-    <updated>2025-12-01T22:30:39Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2025-12-01:/ait/articles/2512/02/news005.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2512/02/news005.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 日本称賛系、技術系、中国批判系など海外の反応YouTube動画の【素材＆Vrew編集】のお仕事【1本2,000円～4,000円】のお仕事(YouTube動画作成・編集)【クラウドワークス】</title>
+    <updated>2025-12-02T00:14:11Z</updated>
+    <id>tag:crowdworks.jp,2025-12-02:/public/jobs/12699562</id>
+    <link href="https://crowdworks.jp/public/jobs/12699562" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Codeを使った初歩的なデバッグとテストコードを記述する際の注意点 | gihyo.jp</title>
-    <updated>2025-12-02T04:09:07Z</updated>
-    <id>tag:gihyo.jp,2025-12-02:/article/2025/11/get-started-claude-code-04</id>
-    <link href="https://gihyo.jp/article/2025/11/get-started-claude-code-04" rel="alternate"></link>
+    <title>1:hatena_blog_it: 末石直也 - ミクロ計量分析</title>
+    <updated>2025-11-30T10:25:24Z</updated>
+    <id>tag:sites.google.com,2025-11-30:/site/naoyasueishij/teaching/ミクロ計量分析</id>
+    <link href="https://sites.google.com/site/naoyasueishij/teaching/%E3%83%9F%E3%82%AF%E3%83%AD%E8%A8%88%E9%87%8F%E5%88%86%E6%9E%90" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: アサヒビール「形だけのセキュリティ対策」が招いた大混乱、“基本のキ”でつまずき大規模な障害に…サイバー攻撃から2カ月何が間違っていたのか（東洋経済オンライン） - Yahoo!ニュース</title>
+    <updated>2025-12-02T11:29:57Z</updated>
+    <id>tag:news.yahoo.co.jp,2025-12-02:/articles/ca1d224c89fb3a29dc4423908b5fb45f3dc57ca5</id>
+    <link href="https://news.yahoo.co.jp/articles/ca1d224c89fb3a29dc4423908b5fb45f3dc57ca5" rel="alternate"></link>
   </entry>
 </feed>
