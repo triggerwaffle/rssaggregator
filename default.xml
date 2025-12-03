@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-12-03T01:10:20Z</updated>
+  <updated>2025-12-03T06:24:02Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -154,6 +154,24 @@
     <link href="https://archlinux.org/news/glibc-241-corrupting-discord-installation/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 【TS】ユーザー定義型ガードを自分で書くな。ライブラリを使え。</title>
+    <updated>2025-12-02T15:04:07Z</updated>
+    <id>https://zenn.dev/yumemi_inc/articles/ts-avoid-hand-writing-type-guards</id>
+    <link href="https://zenn.dev/yumemi_inc/articles/ts-avoid-hand-writing-type-guards" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: HaskellerとRustaceanが知恵をあわせてプロダクトを3日で1000倍高速化した話</title>
+    <updated>2025-12-02T15:00:03Z</updated>
+    <id>https://zenn.dev/jij_inc/articles/2025-12-03-haskeller-and-rustacean-1000x-faster</id>
+    <link href="https://zenn.dev/jij_inc/articles/2025-12-03-haskeller-and-rustacean-1000x-faster" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 月間350件のプルリクを捌きつつ、実装タスクも並列でこなすために必要だったものはやっぱりgit worktreeでした。</title>
+    <updated>2025-12-02T12:00:30Z</updated>
+    <id>https://zenn.dev/dress_code/articles/89a5ceaa6eac37</id>
+    <link href="https://zenn.dev/dress_code/articles/89a5ceaa6eac37" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: AgentのToolを公開MCPから自作に変えたらToken使用料が9割削減した</title>
     <updated>2025-12-02T04:57:52Z</updated>
     <id>https://zenn.dev/leverages/articles/github-zenn-linkage-20251201-1</id>
@@ -214,10 +232,10 @@
     <link href="https://zenn.dev/layerx/articles/8c29b0367238b8" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 続・易しいアセンブリ</title>
-    <updated>2025-12-01T04:08:34Z</updated>
-    <id>https://zenn.dev/monicle/articles/7a1edbdac1a13f</id>
-    <link href="https://zenn.dev/monicle/articles/7a1edbdac1a13f" rel="alternate"></link>
+    <title>3:zenn_trend: Geminiで3Dモデルを作ってみた</title>
+    <updated>2025-12-01T04:58:52Z</updated>
+    <id>https://zenn.dev/jigjp_engineer/articles/dac17dcfdcb858</id>
+    <link href="https://zenn.dev/jigjp_engineer/articles/dac17dcfdcb858" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: TanStack Startを試してみたけど、もうNext.jsには戻れない</title>
@@ -232,18 +250,6 @@
     <link href="https://zenn.dev/counterworks/articles/573954dcfa8bb6" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 【絶対ダメ】node:vmモジュールをサンドボックスとして使ってみた！！！！</title>
-    <updated>2025-11-30T22:00:05Z</updated>
-    <id>https://zenn.dev/tchen/articles/8999302b0953b3</id>
-    <link href="https://zenn.dev/tchen/articles/8999302b0953b3" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: M365 Copilotで「自社スタイルPPT」を自動生成する方法</title>
-    <updated>2025-11-30T21:24:12Z</updated>
-    <id>https://zenn.dev/acntechjp/articles/411bbb4fe65022</id>
-    <link href="https://zenn.dev/acntechjp/articles/411bbb4fe65022" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: AIコーディング実践環境の構築方法【2025年12月】</title>
     <updated>2025-11-30T15:00:43Z</updated>
     <id>https://zenn.dev/mkj/articles/bf59c4c86d98a8</id>
@@ -254,12 +260,6 @@
     <updated>2025-11-30T15:00:21Z</updated>
     <id>https://zenn.dev/watany/articles/ad14f8a352d62f</id>
     <link href="https://zenn.dev/watany/articles/ad14f8a352d62f" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 投資xAIで勉強してきたことまとめ</title>
-    <updated>2025-11-30T15:00:03Z</updated>
-    <id>https://zenn.dev/ageonsen/articles/fa6646e4c62307</id>
-    <link href="https://zenn.dev/ageonsen/articles/fa6646e4c62307" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: VFX Artist のための UE5 マテリアル入門（初心者向け）</title>
@@ -904,7 +904,7 @@
     <link href="https://atmarkit.itmedia.co.jp/ait/articles/2404/18/news053.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:arco_linux_youtube: Edu 0060 : how to install Arch Linux - Xfce4 - i3wm - chadwm - arcolinux-nemesis scripts</title>
+    <title>3:arco_linux_youtube: Edu 0061 : how to install Arch Linux - Xfce4 - i3wm - chadwm - arcolinux-nemesis scripts</title>
     <updated>2025-12-02T08:09:02Z</updated>
     <id>yt:video:ME0aMF_RExI</id>
     <link href="https://www.youtube.com/watch?v=ME0aMF_RExI" rel="alternate"></link>
@@ -4942,16 +4942,64 @@
     <link href="https://toyokeizai.net/articles/-/921207?display=b" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 会計士から配管工で給与3倍の幸福度　「AIで新産業は望み薄」の未来 - 日本経済新聞</title>
+    <title>1:hatena_blog_it: GoogleがGeminiの活用法を紹介する電子書籍を無償公開 ～全国の大学生と合同で作成／社会人も業務などで役に立つ45の活用例を収録した『Gemini 活用事例集』【Book Watch/ニュース】</title>
+    <updated>2025-12-02T22:48:56Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2025-12-02:/docs/bookwatch/news/2068062.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/bookwatch/news/2068062.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: DMARCをなめてました - 弁護士ドットコム株式会社 Creators’ blog</title>
+    <updated>2025-12-02T23:42:09Z</updated>
+    <id>tag:creators.bengo4.com,2025-12-02:/entry/2025/12/03/000000</id>
+    <link href="https://creators.bengo4.com/entry/2025/12/03/000000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 大学生とともに作った「Gemini 活用事例集」を公開</title>
+    <updated>2025-12-03T00:25:20Z</updated>
+    <id>tag:blog.google,2025-12-03:/intl/ja-jp/feed/gemini/</id>
+    <link href="https://blog.google/intl/ja-jp/feed/gemini/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 米国、会計士から配管工で給与3倍の幸福度　「AIで雇用創出は望み薄」 - 日本経済新聞</title>
     <updated>2025-12-02T21:28:39Z</updated>
     <id>tag:www.nikkei.com,2025-12-02:/article/DGXZQOGN260CH0W5A121C2000000/</id>
     <link href="https://www.nikkei.com/article/DGXZQOGN260CH0W5A121C2000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 窓なし部屋でも「朝」は作れる。カメラマン×エンジニアが教える『光のデスク設計術』｜reny🌻</title>
+    <updated>2025-12-02T22:44:22Z</updated>
+    <id>tag:note.com,2025-12-02:/reni1chang/n/n84ae6af50436</id>
+    <link href="https://note.com/reni1chang/n/n84ae6af50436" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 誰でも今からでも追いつけるパスキー - Qiita</title>
+    <updated>2025-12-02T03:14:31Z</updated>
+    <id>tag:qiita.com,2025-12-02:/kkoiwai/items/4a1d438642ed5a050669</id>
+    <link href="https://qiita.com/kkoiwai/items/4a1d438642ed5a050669" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 適職探索トップ | job tag（職業情報提供サイト（日本版O-NET））</title>
     <updated>2022-10-03T17:12:53Z</updated>
     <id>tag:shigoto.mhlw.go.jp,2022-10-03:/User/Search/Top</id>
     <link href="https://shigoto.mhlw.go.jp/User/Search/Top" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIを楽観視する日本　「脅威ではない」44%、先進国では異例 - 日本経済新聞</title>
+    <updated>2025-12-02T23:24:14Z</updated>
+    <id>tag:www.nikkei.com,2025-12-02:/article/DGXZQOUC133YR0T11C25A1000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC133YR0T11C25A1000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「要件が決まらない」と嘆くのをやめて、企画と一緒に「業務」を作りに行こう - Tabelog Tech Blog</title>
+    <updated>2025-12-02T23:54:53Z</updated>
+    <id>tag:tech-blog.tabelog.com,2025-12-02:/entry/advent-calendar-20251203</id>
+    <link href="https://tech-blog.tabelog.com/entry/advent-calendar-20251203" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: おしゃべりAIリバーシ</title>
+    <updated>2025-12-02T05:58:54Z</updated>
+    <id>tag:reversi.nabettu.com,2025-12-02:/</id>
+    <link href="https://reversi.nabettu.com/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AI で再注目された技術やツールたち - ぽ靴な缶</title>
@@ -4966,34 +5014,10 @@
     <link href="https://note.com/npostring/n/n56e58d1783b3" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: おしゃべりAIリバーシ</title>
-    <updated>2025-12-02T05:58:54Z</updated>
-    <id>tag:reversi.nabettu.com,2025-12-02:/</id>
-    <link href="https://reversi.nabettu.com/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: goroutineを作ってみる。Rustで - エムスリーテックブログ</title>
-    <updated>2025-12-02T08:18:35Z</updated>
-    <id>tag:www.m3tech.blog,2025-12-02:/entry/build-your-own-goroutine-in-rust</id>
-    <link href="https://www.m3tech.blog/entry/build-your-own-goroutine-in-rust" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 結局このUSBは普及しなかったな…「この形状でなぜ普及すると思ったのか」「え、外付HDDではすごく普及してて困ってる」など反応様々</title>
     <updated>2025-12-02T23:12:44Z</updated>
     <id>tag:togetter.com,2025-12-02:/li/2634805</id>
     <link href="https://togetter.com/li/2634805" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 誰でも今からでも追いつけるパスキー - Qiita</title>
-    <updated>2025-12-02T03:14:31Z</updated>
-    <id>tag:qiita.com,2025-12-02:/kkoiwai/items/4a1d438642ed5a050669</id>
-    <link href="https://qiita.com/kkoiwai/items/4a1d438642ed5a050669" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: OpenAI、対Google「非常事態」宣言と米報道　3年前と形勢逆転 - 日本経済新聞</title>
-    <updated>2025-12-02T10:36:37Z</updated>
-    <id>tag:www.nikkei.com,2025-12-02:/article/DGXZQOGN027ZB0S5A201C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN027ZB0S5A201C2000000/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Bun is joining Anthropic | Bun Blog</title>
@@ -5002,16 +5026,16 @@
     <link href="https://bun.com/blog/bun-joins-anthropic" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: DMARCをなめてました - 弁護士ドットコム株式会社 Creators’ blog</title>
-    <updated>2025-12-02T23:42:09Z</updated>
-    <id>tag:creators.bengo4.com,2025-12-02:/entry/2025/12/03/000000</id>
-    <link href="https://creators.bengo4.com/entry/2025/12/03/000000" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIを使って会社設立してみた ～おしゃれ古民家カフェオーナーになったるで～</title>
+    <updated>2025-12-03T01:46:42Z</updated>
+    <id>tag:vs-group.jp,2025-12-03:/startup/others-child/23959.html</id>
+    <link href="https://vs-group.jp/startup/others-child/23959.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: [スタパ齋藤のApple野郎] USBケーブルの能力を「USB CABLE CHECKER3」を使って可視化するじゃんね</title>
-    <updated>2025-12-02T16:08:37Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2025-12-02:/docs/column/stapaapple/2067209.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2067209.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: ローカルAIかわいいよと言う話｜shi3z</title>
+    <updated>2025-12-03T00:01:18Z</updated>
+    <id>tag:note.com,2025-12-03:/shi3zblog/n/n5863f7a59f12</id>
+    <link href="https://note.com/shi3zblog/n/n5863f7a59f12" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Anthropic acquires Bun as Claude Code reaches $1B milestone</title>
@@ -5020,16 +5044,22 @@
     <link href="https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ChatGPT改良へ資源集中、アルトマン氏「非常事態」を宣言と米報道</title>
-    <updated>2025-12-02T21:24:48Z</updated>
-    <id>tag:www.bloomberg.co.jp,2025-12-02:/news/articles/2025-12-02/T6NL73KGIFUL00</id>
-    <link href="https://www.bloomberg.co.jp/news/articles/2025-12-02/T6NL73KGIFUL00" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【独自】国民の生成AI利用、将来8割　政府の初基本計画案、全容判明（共同通信） - Yahoo!ニュース</title>
+    <updated>2025-12-03T01:52:25Z</updated>
+    <id>tag:news.yahoo.co.jp,2025-12-03:/articles/dda3a9fbef4f6959a032228ff50933153d24c075</id>
+    <link href="https://news.yahoo.co.jp/articles/dda3a9fbef4f6959a032228ff50933153d24c075" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GoogleがGeminiの活用法を紹介する電子書籍を無償公開 ～全国の大学生と合同で作成／社会人も業務などで役に立つ45の活用例を収録した『Gemini 活用事例集』【Book Watch/ニュース】</title>
-    <updated>2025-12-02T22:48:56Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2025-12-02:/docs/bookwatch/news/2068062.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/bookwatch/news/2068062.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: [スタパ齋藤のApple野郎] USBケーブルの能力を「USB CABLE CHECKER3」を使って可視化するじゃんね</title>
+    <updated>2025-12-02T16:08:37Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2025-12-02:/docs/column/stapaapple/2067209.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2067209.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: プロダクトの未来に責任を持ち、プロダクト開発の面白さを解放する - Speee DEVELOPER BLOG</title>
+    <updated>2025-12-03T03:20:40Z</updated>
+    <id>tag:tech.speee.jp,2025-12-03:/entry/unlocking-development-levers</id>
+    <link href="https://tech.speee.jp/entry/unlocking-development-levers" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ブログ: 当サイトは2026年3月末をもちまし ..</title>
@@ -5038,45 +5068,15 @@
     <link href="https://www.rescue.ne.jp/whatsnew/blog.cgi/permalink/20251029195653" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIはE2Eテスト撲滅の夢を見るか？ - カミナシ エンジニアブログ</title>
-    <updated>2025-12-03T00:06:09Z</updated>
-    <id>tag:kaminashi-developer.hatenablog.jp,2025-12-03:/entry/ai-e2e</id>
-    <link href="https://kaminashi-developer.hatenablog.jp/entry/ai-e2e" rel="alternate"></link>
+    <title>1:hatena_blog_it: デジタル庁、ガバメントAI「源内」にPLaMo翻訳を採用</title>
+    <updated>2025-12-02T08:22:07Z</updated>
+    <id>tag:www.watch.impress.co.jp,2025-12-02:/docs/news/2068018.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2068018.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Go のアーキテクチャどうしてる？ ギフティで実際に試した構成パターンを紹介します - giftee Tech Blog</title>
-    <updated>2025-12-02T15:24:49Z</updated>
-    <id>tag:tech.giftee.co.jp,2025-12-02:/entry/2025/12/02/115256</id>
-    <link href="https://tech.giftee.co.jp/entry/2025/12/02/115256" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 第1回：顧客と自社ブランドを“なりすまし”から守るDMARCポリシーの段階的引き上げ【顧客を守るメール管理者のためのDMARCポリシー引き上げガイド】</title>
-    <updated>2025-12-02T22:29:17Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2025-12-02:/docs/column/dmarc/2064089.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/column/dmarc/2064089.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 標準電波「JJY」の運用が評価されIEEEマイルストーン認定。電波時計を支える標準時送出電波</title>
-    <updated>2025-12-02T13:02:38Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2025-12-02:/docs/news/2067150.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2067150.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 月間350件のプルリクを捌きつつ、実装タスクも並列でこなすために必要だったものはやっぱりgit worktreeでした。</title>
-    <updated>2025-12-02T12:21:18Z</updated>
-    <id>tag:zenn.dev,2025-12-02:/dress_code/articles/89a5ceaa6eac37</id>
-    <link href="https://zenn.dev/dress_code/articles/89a5ceaa6eac37" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 窓なし部屋でも「朝」は作れる。カメラマン×エンジニアが教える『光のデスク設計術』｜reny🌻</title>
-    <updated>2025-12-02T22:44:22Z</updated>
-    <id>tag:note.com,2025-12-02:/reni1chang/n/n84ae6af50436</id>
-    <link href="https://note.com/reni1chang/n/n84ae6af50436" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【AWS re:Invent 2025】マルチテナント・マルチエージェントの今を学んで構築した - カミナシ エンジニアブログ</title>
-    <updated>2025-12-02T23:27:18Z</updated>
-    <id>tag:kaminashi-developer.hatenablog.jp,2025-12-02:/entry/2025/12/03/aws-reinvent-multitenant-ai-agent</id>
-    <link href="https://kaminashi-developer.hatenablog.jp/entry/2025/12/03/aws-reinvent-multitenant-ai-agent" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【アドベントカレンダー2025】GitHub移行と一緒にmonorepo対応した話 - ぐるなびをちょっと良くするエンジニアブログ</title>
+    <updated>2025-12-03T03:06:08Z</updated>
+    <id>tag:developers.gnavi.co.jp,2025-12-03:/entry/adventcalendar-251203-1/</id>
+    <link href="https://developers.gnavi.co.jp/entry/adventcalendar-251203-1/" rel="alternate"></link>
   </entry>
 </feed>
