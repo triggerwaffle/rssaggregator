@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2025-12-21T12:28:18Z</updated>
+  <updated>2025-12-21T18:20:40Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -166,6 +166,24 @@
     <link href="https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: イベントソーシングから学ぶ、削除をドメインの言葉で表現する設計</title>
+    <updated>2025-12-21T03:13:13Z</updated>
+    <id>https://zenn.dev/jtechjapan_pub/articles/c0673490bc548c</id>
+    <link href="https://zenn.dev/jtechjapan_pub/articles/c0673490bc548c" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 転職して4ヶ月、開発チームのリードを任されてやってきたこと</title>
+    <updated>2025-12-20T23:59:53Z</updated>
+    <id>https://zenn.dev/moshjp/articles/e9518202e77b65</id>
+    <link href="https://zenn.dev/moshjp/articles/e9518202e77b65" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: アクティブ運用の基本法則</title>
+    <updated>2025-12-20T15:00:02Z</updated>
+    <id>https://zenn.dev/richwomanbtc/articles/778f13dbb2e256</id>
+    <link href="https://zenn.dev/richwomanbtc/articles/778f13dbb2e256" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Go の test における flag パッケージ活用Tips</title>
     <updated>2025-12-20T15:00:02Z</updated>
     <id>https://zenn.dev/uji/articles/go-flag-usecase-in-test</id>
@@ -206,12 +224,6 @@
     <updated>2025-12-19T11:00:01Z</updated>
     <id>https://zenn.dev/isawa/articles/2b84d7d6b2f207</id>
     <link href="https://zenn.dev/isawa/articles/2b84d7d6b2f207" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 「画像なし」で挑むVLM学習 / Text-Printed Imageによるアプローチ</title>
-    <updated>2025-12-19T07:49:06Z</updated>
-    <id>https://zenn.dev/turing_motors/articles/017e6d6253632f</id>
-    <link href="https://zenn.dev/turing_motors/articles/017e6d6253632f" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 医療業界で突然LLMを使ってくれと言われたら</title>
@@ -272,18 +284,6 @@
     <updated>2025-12-17T17:55:19Z</updated>
     <id>https://zenn.dev/livetoon/articles/b6b696841b604e</id>
     <link href="https://zenn.dev/livetoon/articles/b6b696841b604e" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 間違って電源ぶち抜いてしまい、学園祭の全配信システムを止めた話</title>
-    <updated>2025-12-17T13:06:02Z</updated>
-    <id>https://zenn.dev/sohosai/articles/9ea1ec0e844232</id>
-    <link href="https://zenn.dev/sohosai/articles/9ea1ec0e844232" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Anthropic SkillsからAIプロダクト開発者が学べること：Skillsは"業務マニュアル付きの道具箱"</title>
-    <updated>2025-12-17T08:00:01Z</updated>
-    <id>https://zenn.dev/r_kaga/articles/810cc2e8326ca5</id>
-    <link href="https://zenn.dev/r_kaga/articles/810cc2e8326ca5" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: AIを禁止して気づいた エンジニアの基礎体力</title>
@@ -358,7 +358,7 @@
     <link href="https://qiita.com/harunatotsuka/items/e16450df667845a3f130?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: 【公式】準備ゼロで使えるPyxel開発環境「Pyxel Code Maker」のご紹介</title>
+    <title>3:qiita_trend: 【公式】準備ゼロで使えるPyxel開発環境『Pyxel Code Maker』のご紹介</title>
     <updated>2025-12-20T22:04:39Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/2130281</id>
     <link href="https://qiita.com/kitao/items/6f3d080f8e1c5d2f2715?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
@@ -1006,6 +1006,12 @@
     <link href="https://www.youtube.com/watch?v=HInkCKhkxsM" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: Anthropic、AIエージェントにタスクの手順や知識を組み込める「Agent Skills」をオープンスタンダードに。早くもVS CodeやCursorなどがサポート</title>
+    <updated>2025-12-21T15:56:20Z</updated>
+    <id>tag:www.publickey1.jp,2025://2.8429</id>
+    <link href="https://www.publickey1.jp/blog/25/anthropicaiagent_skillsvs_codecursor.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: GitHub Actionsが価格改定。GitHubがホストする処理は値下げ、ユーザーのセルフホスト処理は1分あたり0.002ドルの請求に（追記あり）</title>
     <updated>2025-12-17T15:25:35Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8428</id>
@@ -1088,12 +1094,6 @@
     <updated>2025-12-09T15:07:58Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8415</id>
     <link href="https://www.publickey1.jp/blog/25/kafkaconfluentibmai.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Supabaseのバックエンドサービスを自社ブランドのBaaSとして提供できる「Supabase for Platforms」リリース。AIによる開発ツールを提供するベンダなどに向け</title>
-    <updated>2025-12-08T15:07:54Z</updated>
-    <id>tag:www.publickey1.jp,2025://2.8414</id>
-    <link href="https://www.publickey1.jp/blog/25/supabasebaassupabase_for_platformsai.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: VS Code、エージェントセッション一覧がチャットビューに統合、Gitワークツリーでの複数バックグラウンドエージェント動作、スキルを流用可能に</title>
@@ -4942,52 +4942,10 @@
     <link href="https://techtarget.itmedia.co.jp/tt/news/2512/19/news04.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 生成AI時代に"読書すること"の価値を考える。 - 世界のねじを巻くブログ</title>
-    <updated>2025-12-20T14:50:58Z</updated>
-    <id>tag:www.nejimakiblog.com,2025-12-20:/entry/ai-era-book-reading-meaning-dokusho</id>
-    <link href="https://www.nejimakiblog.com/entry/ai-era-book-reading-meaning-dokusho" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: おい、休め - じゃあ、おうちで学べる</title>
     <updated>2025-12-21T01:04:19Z</updated>
     <id>tag:syu-m-5151.hatenablog.com,2025-12-21:/entry/2025/12/21/092456</id>
     <link href="https://syu-m-5151.hatenablog.com/entry/2025/12/21/092456" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: GitHub Copilotにも追加されたAgent Skillsとは | ドクセル</title>
-    <updated>2025-12-20T11:19:49Z</updated>
-    <id>tag:www.docswell.com,2025-12-20:/s/yuma/5RE1Q3-2025-12-20-dotnetlab</id>
-    <link href="https://www.docswell.com/s/yuma/5RE1Q3-2025-12-20-dotnetlab" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 『Clair Obscur: Expedition 33』生成AI使用で「GOTY」とあるアワードで剥奪…過去インタビュー発言が要因に | Game*Spark - 国内・海外ゲーム情報サイト</title>
-    <updated>2025-12-21T03:24:06Z</updated>
-    <id>tag:www.gamespark.jp,2025-12-21:/article/2025/12/21/160864.html</id>
-    <link href="https://www.gamespark.jp/article/2025/12/21/160864.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 大ヒットゲーム『Clair Obscur: Expedition 33』、インディーゲームのアワードでもGOTY獲得するが「失格」に。開発中の生成AI利用が発覚したため - AUTOMATON</title>
-    <updated>2025-12-21T04:39:58Z</updated>
-    <id>tag:automaton-media.com,2025-12-21:/articles/newsjp/clair-obscur-expedition-33-genai-20251221-383841/</id>
-    <link href="https://automaton-media.com/articles/newsjp/clair-obscur-expedition-33-genai-20251221-383841/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Claude CodeにLSPツールが追加</title>
-    <updated>2025-12-20T15:45:15Z</updated>
-    <id>tag:blog.lai.so,2025-12-20:/claude-code-lsp/</id>
-    <link href="https://blog.lai.so/claude-code-lsp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Gemini Drop - Gemini に関する最新情報</title>
-    <updated>2025-12-21T04:21:13Z</updated>
-    <id>tag:gemini.google,2025-12-21:/jp/gemini-drops/</id>
-    <link href="https://gemini.google/jp/gemini-drops/?hl=ja" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 家族のようなロボット『らぼっと』と暮らし始めたが、プチプチを潰す感触にハマっているらしい「うちもあげてみました」</title>
-    <updated>2025-12-21T05:26:38Z</updated>
-    <id>tag:togetter.com,2025-12-21:/li/2641168</id>
-    <link href="https://togetter.com/li/2641168" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: もはやセキュリティに「社内」と「社外」の境界はない。CSIRTとPSIRTを統合してひとつのチームへ - freee Developers Hub</title>
@@ -4996,52 +4954,28 @@
     <link href="https://developers.freee.co.jp/entry/merge_csirt_and_psirt" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 最初から完璧は目指すな──初めて設計するあなたへ伝えたい、TypeScript設計の最低ライン - iimon TECH BLOG</title>
-    <updated>2025-12-20T22:10:40Z</updated>
-    <id>tag:tech.iimon.co.jp,2025-12-20:/entry/2025/12/21</id>
-    <link href="https://tech.iimon.co.jp/entry/2025/12/21" rel="alternate"></link>
+    <title>1:hatena_blog_it: Gemini Drop - Gemini に関する最新情報</title>
+    <updated>2025-12-21T04:21:13Z</updated>
+    <id>tag:gemini.google,2025-12-21:/jp/gemini-drops/</id>
+    <link href="https://gemini.google/jp/gemini-drops/?hl=ja" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: アップル株、2026年に40％下落する可能性 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-    <updated>2025-12-20T12:16:46Z</updated>
-    <id>tag:forbesjapan.com,2025-12-20:/articles/detail/87568</id>
-    <link href="https://forbesjapan.com/articles/detail/87568" rel="alternate"></link>
+    <title>1:hatena_blog_it: 大ヒットゲーム『Clair Obscur: Expedition 33』、インディーゲームのアワードでもGOTY獲得するが「失格」に。開発中の生成AI利用が発覚したため - AUTOMATON</title>
+    <updated>2025-12-21T04:39:58Z</updated>
+    <id>tag:automaton-media.com,2025-12-21:/articles/newsjp/clair-obscur-expedition-33-genai-20251221-383841/</id>
+    <link href="https://automaton-media.com/articles/newsjp/clair-obscur-expedition-33-genai-20251221-383841/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AI 駆動開発ライフサイクル(AI-DLC):ソフトウェアエンジニアリングの再構築 / AI-DLC Introduction</title>
-    <updated>2025-12-20T17:05:25Z</updated>
-    <id>tag:speakerdeck.com,2025-12-20:/kanamasa/ai-dlc-introduction</id>
-    <link href="https://speakerdeck.com/kanamasa/ai-dlc-introduction" rel="alternate"></link>
+    <title>1:hatena_blog_it: 2025年リリースの聴いてよかった音楽を紹介します - nomolkのブログ</title>
+    <updated>2025-12-21T14:45:39Z</updated>
+    <id>tag:nomolk.hatenablog.com,2025-12-21:/entry/2025/12/21/231907</id>
+    <link href="https://nomolk.hatenablog.com/entry/2025/12/21/231907" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: [アップデート] Amazon SES で送信前にメールアドレスの配信可能性を評価できる「メール検証」機能が追加されました | DevelopersIO</title>
-    <updated>2025-12-20T05:06:14Z</updated>
-    <id>tag:dev.classmethod.jp,2025-12-20:/articles/ses-email-validation/</id>
-    <link href="https://dev.classmethod.jp/articles/ses-email-validation/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: NVIDIAのLLM、Nemotron 3 Nanoは賢いけどコーディングには向かないかも。Mamba 2の特性が悪く出てる？ - きしだのHatena</title>
-    <updated>2025-12-21T01:43:47Z</updated>
-    <id>tag:nowokay.hatenablog.com,2025-12-21:/entry/2025/12/16/042030</id>
-    <link href="https://nowokay.hatenablog.com/entry/2025/12/16/042030" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 転職して4ヶ月、開発チームのリードを任されてやってきたこと</title>
-    <updated>2025-12-21T03:40:15Z</updated>
-    <id>tag:zenn.dev,2025-12-21:/moshjp/articles/e9518202e77b65</id>
-    <link href="https://zenn.dev/moshjp/articles/e9518202e77b65" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: イベントソーシングから学ぶ、削除をドメインの言葉で表現する設計</title>
-    <updated>2025-12-21T05:57:05Z</updated>
-    <id>tag:zenn.dev,2025-12-21:/jtechjapan_pub/articles/c0673490bc548c</id>
-    <link href="https://zenn.dev/jtechjapan_pub/articles/c0673490bc548c" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 事業を動かすエンジニアの判断軸——達成プランを軸に判断する - Speee DEVELOPER BLOG</title>
-    <updated>2025-12-21T02:30:26Z</updated>
-    <id>tag:tech.speee.jp,2025-12-21:/entry/2025/12/21/113000</id>
-    <link href="https://tech.speee.jp/entry/2025/12/21/113000" rel="alternate"></link>
+    <title>1:hatena_blog_it: 生成AI時代に"読書すること"の価値を考える。 - 世界のねじを巻くブログ</title>
+    <updated>2025-12-20T14:50:58Z</updated>
+    <id>tag:www.nejimakiblog.com,2025-12-20:/entry/ai-era-book-reading-meaning-dokusho</id>
+    <link href="https://www.nejimakiblog.com/entry/ai-era-book-reading-meaning-dokusho" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AIを活用したドキュメント執筆技術｜michiomochi</title>
@@ -5050,10 +4984,34 @@
     <link href="https://note.com/michiomochi/n/nffa93191b5e9" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ハイパー省メモリかつ高速なreadonly組み込みDBをUnityにぶちこもう - HADASHIKICK LAND</title>
-    <updated>2025-12-20T19:07:39Z</updated>
-    <id>tag:hadashikick.land,2025-12-20:/tech/vkv-preview</id>
-    <link href="https://hadashikick.land/tech/vkv-preview" rel="alternate"></link>
+    <title>1:hatena_blog_it: 8億ユーザーでも赤字拡大のOpenAIと売上11兆円宣言のAnthropic　AI覇権争いの”売上戦争”が幕開け（AMP［アンプ］） - Yahoo!ニュース</title>
+    <updated>2025-12-21T04:00:30Z</updated>
+    <id>tag:news.yahoo.co.jp,2025-12-21:/articles/c4015b9f5aeb847c2e93e53314832d297cac3833</id>
+    <link href="https://news.yahoo.co.jp/articles/c4015b9f5aeb847c2e93e53314832d297cac3833" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 4年間の実践から考える「異なる領域や立場を接続するデザイン」 - NTT docomo Business Engineers' Blog</title>
+    <updated>2025-12-21T01:06:41Z</updated>
+    <id>tag:engineers.ntt.com,2025-12-21:/entry/202512-advent-calender-day21/entry</id>
+    <link href="https://engineers.ntt.com/entry/202512-advent-calender-day21/entry" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 『Clair Obscur: Expedition 33』生成AI使用で「GOTY」とあるアワードで剥奪…過去インタビュー発言が要因に | Game*Spark - 国内・海外ゲーム情報サイト</title>
+    <updated>2025-12-21T03:24:06Z</updated>
+    <id>tag:www.gamespark.jp,2025-12-21:/article/2025/12/21/160864.html</id>
+    <link href="https://www.gamespark.jp/article/2025/12/21/160864.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub Copilotにも追加されたAgent Skillsとは | ドクセル</title>
+    <updated>2025-12-20T11:19:49Z</updated>
+    <id>tag:www.docswell.com,2025-12-20:/s/yuma/5RE1Q3-2025-12-20-dotnetlab</id>
+    <link href="https://www.docswell.com/s/yuma/5RE1Q3-2025-12-20-dotnetlab" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 最速最強の Markdown コンパイラ作るぞ</title>
+    <updated>2025-12-21T11:57:35Z</updated>
+    <id>tag:zenn.dev,2025-12-21:/mizchi/articles/markdown-incremental-preview</id>
+    <link href="https://zenn.dev/mizchi/articles/markdown-incremental-preview" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ローカル実行の常識！ LLM 量子化 ( Quantization ) の仕組みと手法を完全理解する - Qiita</title>
@@ -5062,39 +5020,75 @@
     <link href="https://qiita.com/fe2030/items/78e52eecc2d0e6da47c8" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: https://statisticsschool.com/wp-content/uploads/2025/03/%E3%80%90%E8%B3%87%E6%96%99%E3%80%91%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E7%B5%B1%E8%A8%88%E5%AD%A6%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7.pdf</title>
-    <updated>2025-04-27T11:02:54Z</updated>
-    <id>tag:statisticsschool.com,2025-04-27:/wp-content/uploads/2025/03/【資料】データサイエンスを活かすための統計学基礎講座.pdf</id>
-    <link href="https://statisticsschool.com/wp-content/uploads/2025/03/%E3%80%90%E8%B3%87%E6%96%99%E3%80%91%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%99%E3%81%9F%E3%82%81%E3%81%AE%E7%B5%B1%E8%A8%88%E5%AD%A6%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7.pdf" rel="alternate"></link>
+    <title>1:hatena_blog_it: Windows 11、更新プログラムの影響でメモリリークの不具合か</title>
+    <updated>2025-12-20T04:57:23Z</updated>
+    <id>tag:news.mynavi.jp,2025-12-20:/techplus/article/20251219-3839527/</id>
+    <link href="https://news.mynavi.jp/techplus/article/20251219-3839527/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: なぜC++からRustへ移行したか (生成AI時代の開発体験)</title>
-    <updated>2025-12-20T13:24:29Z</updated>
-    <id>tag:zenn.dev,2025-12-20:/h_shinaoka/articles/203fb232cc3f61</id>
-    <link href="https://zenn.dev/h_shinaoka/articles/203fb232cc3f61" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【第5回】AI時代の組織戦略（後半）｜スドケン@ハック思考【勝手に未来想像シンクタンク】</title>
+    <updated>2025-12-20T13:23:50Z</updated>
+    <id>tag:note.com,2025-12-20:/sudoken/n/ncd43570b6f03</id>
+    <link href="https://note.com/sudoken/n/ncd43570b6f03" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Google が2025年の AI 機能振り返りとヒントを公開。Gemini や Pixel の活用40選 | HelenTech</title>
-    <updated>2025-12-20T04:27:31Z</updated>
-    <id>tag:helentech.jp,2025-12-20:/news-79930/</id>
-    <link href="https://helentech.jp/news-79930/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 家族のようなロボット『らぼっと』と暮らし始めたが、プチプチを潰す感触にハマっているらしい「うちもあげてみました」</title>
+    <updated>2025-12-21T05:26:38Z</updated>
+    <id>tag:togetter.com,2025-12-21:/li/2641168</id>
+    <link href="https://togetter.com/li/2641168" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 世界一わかりやすいSPF/DKIM/DMARCの仕組み【完全図解】 - Qiita</title>
-    <updated>2025-12-18T21:32:36Z</updated>
-    <id>tag:qiita.com,2025-12-18:/user19/items/8acc4f2ce146d6d6e36c</id>
-    <link href="https://qiita.com/user19/items/8acc4f2ce146d6d6e36c" rel="alternate"></link>
+    <title>1:hatena_blog_it: DX化の決め手は正規表現 別にExcelでいいじゃない派のメモ - Qiita</title>
+    <updated>2025-12-21T05:24:47Z</updated>
+    <id>tag:qiita.com,2025-12-21:/ABlackComputer/items/dd2ea91fe81772af62e7</id>
+    <link href="https://qiita.com/ABlackComputer/items/dd2ea91fe81772af62e7" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub - mmarinovic/tailwindsql</title>
-    <updated>2025-12-20T10:59:28Z</updated>
-    <id>tag:github.com,2025-12-20:/mmarinovic/tailwindsql</id>
-    <link href="https://github.com/mmarinovic/tailwindsql" rel="alternate"></link>
+    <title>1:hatena_blog_it: [アップデート] Amazon SES で送信前にメールアドレスの配信可能性を評価できる「メール検証」機能が追加されました | DevelopersIO</title>
+    <updated>2025-12-20T05:06:14Z</updated>
+    <id>tag:dev.classmethod.jp,2025-12-20:/articles/ses-email-validation/</id>
+    <link href="https://dev.classmethod.jp/articles/ses-email-validation/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【Cursor✖️Figma】非エンジニアでも出来た！金融系UIデザインをAIで効率化する方法｜吉澤カレン</title>
-    <updated>2025-12-20T11:41:43Z</updated>
-    <id>tag:note.com,2025-12-20:/chankar_e_/n/n2557449b5a5b</id>
-    <link href="https://note.com/chankar_e_/n/n2557449b5a5b" rel="alternate"></link>
+    <title>1:hatena_blog_it: Claude CodeにLSPツールが追加</title>
+    <updated>2025-12-20T15:45:15Z</updated>
+    <id>tag:blog.lai.so,2025-12-20:/claude-code-lsp/</id>
+    <link href="https://blog.lai.so/claude-code-lsp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: なぜVPNが危険だと言われているのか？</title>
+    <updated>2025-12-21T10:06:43Z</updated>
+    <id>tag:zenn.dev,2025-12-21:/ryocv/articles/15550503ed19a3</id>
+    <link href="https://zenn.dev/ryocv/articles/15550503ed19a3" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「ブリテン島初の黒人」にまつわる物語、古代DNA技術の進歩が書き換える　新研究</title>
+    <updated>2025-12-21T05:01:34Z</updated>
+    <id>tag:www.cnn.co.jp,2025-12-21:/fringe/35241921.html</id>
+    <link href="https://www.cnn.co.jp/fringe/35241921.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AI 駆動開発ライフサイクル(AI-DLC):ソフトウェアエンジニアリングの再構築 / AI-DLC Introduction</title>
+    <updated>2025-12-20T17:05:25Z</updated>
+    <id>tag:speakerdeck.com,2025-12-20:/kanamasa/ai-dlc-introduction</id>
+    <link href="https://speakerdeck.com/kanamasa/ai-dlc-introduction" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: NotebookLM を利用したアンケートレポートの作成 | DevelopersIO</title>
+    <updated>2025-12-12T05:11:27Z</updated>
+    <id>tag:dev.classmethod.jp,2025-12-12:/articles/questionnaire-report-with-notebooklm/</id>
+    <link href="https://dev.classmethod.jp/articles/questionnaire-report-with-notebooklm/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 最初から完璧は目指すな──初めて設計するあなたへ伝えたい、TypeScript設計の最低ライン - iimon TECH BLOG</title>
+    <updated>2025-12-20T22:10:40Z</updated>
+    <id>tag:tech.iimon.co.jp,2025-12-20:/entry/2025/12/21</id>
+    <link href="https://tech.iimon.co.jp/entry/2025/12/21" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 仕様書を渡すとテスト観点を抽出してテストケースまで生成する上に使うほど賢くなったらいいなぁ...なAIエージェントをつくったよ - LIFULL Creators Blog</title>
+    <updated>2025-12-20T03:36:32Z</updated>
+    <id>tag:www.lifull.blog,2025-12-20:/entry/2025/12/20/120000</id>
+    <link href="https://www.lifull.blog/entry/2025/12/20/120000" rel="alternate"></link>
   </entry>
 </feed>
