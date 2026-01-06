@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-01-06T01:14:12Z</updated>
+  <updated>2026-01-06T06:25:58Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -154,6 +154,12 @@
     <link href="https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 現場で使い倒すDify：導入から本番運用・社内展開までの実践バイブル</title>
+    <updated>2026-01-06T02:09:32Z</updated>
+    <id>https://zenn.dev/kentaichimura/books/e48a042e40c657</id>
+    <link href="https://zenn.dev/kentaichimura/books/e48a042e40c657" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Fluentdを使った監査ログ機能の設計</title>
     <updated>2026-01-05T02:36:59Z</updated>
     <id>https://zenn.dev/bizibl_dev/articles/3cc96533ce03fc</id>
@@ -266,12 +272,6 @@
     <updated>2026-01-02T22:53:45Z</updated>
     <id>https://zenn.dev/togatoga/articles/e1e1e316491003</id>
     <link href="https://zenn.dev/togatoga/articles/e1e1e316491003" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: uv, ruff, ty, marimoで作る！次世代のPython研究開発環境</title>
-    <updated>2026-01-02T15:51:52Z</updated>
-    <id>https://zenn.dev/ohashi_reon/articles/230e7ee6989233</id>
-    <link href="https://zenn.dev/ohashi_reon/articles/230e7ee6989233" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: IT業界に蔓延する『ナンニデモPM』 それ、本当にプロジェクトマネジメント？</title>
@@ -544,6 +544,12 @@
     <link href="https://www.youtube.com/watch?v=hQsQJ7uhDGA" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:atmarkit_security: 大企業で「VPN時代が事実上、終焉」する2026年、セキュリティ対策の在り方は</title>
+    <updated>2026-01-06T04:00:00Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2026-01-06:/ait/articles/2601/06/news049.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2601/06/news049.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:atmarkit_security: いかにして「Active Directory」が侵害されるのか、Microsoftがまとめた攻撃パターン</title>
     <updated>2026-01-05T04:00:00Z</updated>
     <id>tag:atmarkit.itmedia.co.jp,2026-01-05:/ait/articles/2601/05/news039.html</id>
@@ -718,10 +724,10 @@
     <link href="https://atmarkit.itmedia.co.jp/ait/articles/2512/04/news057.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:atmarkit_security: VPN機器の脆弱性、ランサムウェア被害で露呈　ユーザー企業「9割が不安」</title>
-    <updated>2025-12-02T23:00:00Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2025-12-02:/ait/articles/2512/03/news049.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2512/03/news049.html" rel="alternate"></link>
+    <title>3:atmarkit_linux: 日本企業は「OSSには価値がある」と実感も、体制整備に課題</title>
+    <updated>2026-01-06T04:00:00Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2026-01-06:/ait/articles/2601/06/news047.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2601/06/news047.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_linux: 「脱VMware」の移行先としても注目――サーバ仮想化OSS「Proxmox VE」をインストールする方法</title>
@@ -896,12 +902,6 @@
     <updated>2024-05-01T23:00:00Z</updated>
     <id>tag:atmarkit.itmedia.co.jp,2024-05-01:/ait/articles/2405/02/news040.html</id>
     <link href="https://atmarkit.itmedia.co.jp/ait/articles/2405/02/news040.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:atmarkit_linux: Linux 6.8カーネル採用の「Ubuntu 24.04 LTS」リリース</title>
-    <updated>2024-05-01T23:00:00Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2024-05-01:/ait/articles/2405/02/news037.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2405/02/news037.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:arco_linux_youtube: Edu 065 : Arch Linux installation v26.01.01 - archinstall - xfce4 - chadwm - arcolinux-nemesis</title>
@@ -1082,6 +1082,12 @@
     <updated>2025-12-11T15:23:29Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8422</id>
     <link href="https://www.publickey1.jp/blog/25/googlemcpcloud_api_registry.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: 速報：注目無人ロボットタクシー「ZOOX」実車体験レポート</title>
+    <updated>2026-01-06T02:16:00Z</updated>
+    <id>urn:uuid:4e4148f8-6a0f-be71-8ce6-f4d404f53c20</id>
+    <link href="https://gihyo.jp/article/2026/01/ces-zoox?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: 2026年のWebアクセシビリティ</title>
@@ -4966,10 +4972,22 @@
     <link href="https://gihyo.jp/article/2025/01/zoku-gansiki-0058?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: おい、辞めるな - じゃあ、おうちで学べる</title>
-    <updated>2026-01-05T00:55:59Z</updated>
-    <id>tag:syu-m-5151.hatenablog.com,2026-01-05:/entry/2026/01/05/090020</id>
-    <link href="https://syu-m-5151.hatenablog.com/entry/2026/01/05/090020" rel="alternate"></link>
+    <title>1:hatena_blog_it: ただNext.jsを使う - カミナシ エンジニアブログ</title>
+    <updated>2026-01-06T00:05:49Z</updated>
+    <id>tag:kaminashi-developer.hatenablog.jp,2026-01-06:/entry/2026/01/06/just-use-next</id>
+    <link href="https://kaminashi-developer.hatenablog.jp/entry/2026/01/06/just-use-next" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 我が家の太陽光発電、苦難の道。今度は隣の新築で日陰に!? - 家電 Watch</title>
+    <updated>2026-01-05T23:43:13Z</updated>
+    <id>tag:kaden.watch.impress.co.jp,2026-01-05:/docs/column/solar/2075671.html</id>
+    <link href="https://kaden.watch.impress.co.jp/docs/column/solar/2075671.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: NVIDIA、従来比性能5倍のAI GPU「Rubin」正式発表。2026年後半に登場</title>
+    <updated>2026-01-06T00:08:15Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-01-06:/docs/news/event/2075697.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/event/2075697.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: NotebookLM×Gemini【Gem】でデザイン性のある編集可能スライドを作る！｜尾辻和孝</title>
@@ -4978,10 +4996,28 @@
     <link href="https://note.com/kazu_note_1987/n/n40b80ba85ace" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ただNext.jsを使う - カミナシ エンジニアブログ</title>
-    <updated>2026-01-06T00:05:49Z</updated>
-    <id>tag:kaminashi-developer.hatenablog.jp,2026-01-06:/entry/2026/01/06/just-use-next</id>
-    <link href="https://kaminashi-developer.hatenablog.jp/entry/2026/01/06/just-use-next" rel="alternate"></link>
+    <title>1:hatena_blog_it: スキマ時間にスマホで開発できる時代が来た。Claude Code + Opus 4.5で年末年始に旅行しながら初めてのゲーム開発をした話 - 科学と非科学の迷宮</title>
+    <updated>2026-01-05T23:39:28Z</updated>
+    <id>tag:shiumachi.hatenablog.com,2026-01-05:/entry/claude-code-opus-45-game-development-report</id>
+    <link href="https://shiumachi.hatenablog.com/entry/claude-code-opus-45-game-development-report" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: やりたいことがたくさんあるあなたへ、人生の“やらないこと”リストを考える - Findy Media</title>
+    <updated>2026-01-05T23:32:45Z</updated>
+    <id>tag:findy-code.io,2026-01-05:/media/articles/list-nwiizo</id>
+    <link href="https://findy-code.io/media/articles/list-nwiizo" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 娘がインスタで時々顔出ししてるらしく『親しい友達限定だから大丈夫』って言うけど、その親しい友達が流出させるんだぞと何度伝えても通じない→様々な意見が挙がる</title>
+    <updated>2026-01-06T02:44:10Z</updated>
+    <id>tag:togetter.com,2026-01-06:/li/2648320</id>
+    <link href="https://togetter.com/li/2648320" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 生成AI「Grok」の悪用を断罪へ　Xが厳格な新指針、法執行機関などと連携</title>
+    <updated>2026-01-06T04:08:37Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-06:/mobile/articles/2601/06/news083.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2601/06/news083.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Databases in 2025: A Year in Review</title>
@@ -4990,70 +5026,52 @@
     <link href="https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 自分の作ったVSCode拡張をOpen VSXにリリースした - $shibayu36->blog;</title>
-    <updated>2026-01-05T13:44:18Z</updated>
-    <id>tag:blog.shibayu36.org,2026-01-05:/entry/2026/01/05/113000</id>
-    <link href="https://blog.shibayu36.org/entry/2026/01/05/113000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: これからのAI時代、企業はどんなコンテンツを作るべきか？｜深津 貴之 (fladdict)</title>
-    <updated>2026-01-05T09:14:08Z</updated>
-    <id>tag:note.com,2026-01-05:/fladdict/n/n445f34e6a714</id>
-    <link href="https://note.com/fladdict/n/n445f34e6a714" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Biome と Git/GitHub を活用したJSバンドル差分表示ツールの開発 - Techtouch Developers Blog</title>
     <updated>2026-01-06T00:13:07Z</updated>
     <id>tag:tech.techtouch.jp,2026-01-06:/entry/js-bundle-diff-biome-git</id>
     <link href="https://tech.techtouch.jp/entry/js-bundle-diff-biome-git" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ～ 誓いの淵ドキュメント及びデータ解析評価</title>
-    <updated>2026-01-05T13:03:09Z</updated>
-    <id>tag:docs.google.com,2026-01-05:/document/d/1YXqfOSZ8Jt_hCrtHKPOxYUjCgsIdEjUmPxJPA-iyeZs/mobilebasic</id>
-    <link href="https://docs.google.com/document/d/1YXqfOSZ8Jt_hCrtHKPOxYUjCgsIdEjUmPxJPA-iyeZs/mobilebasic" rel="alternate"></link>
+    <title>1:hatena_blog_it: おい、辞めるな - じゃあ、おうちで学べる</title>
+    <updated>2026-01-05T00:55:59Z</updated>
+    <id>tag:syu-m-5151.hatenablog.com,2026-01-05:/entry/2026/01/05/090020</id>
+    <link href="https://syu-m-5151.hatenablog.com/entry/2026/01/05/090020" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 赤ちゃん寝かしつけ時の“背中スイッチ”回避を支援するデバイス、タカラトミーとユカイ工学がCESで披露</title>
-    <updated>2026-01-05T08:02:53Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-01-05:/news/articles/2601/05/news093.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2601/05/news093.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 自分の作ったVSCode拡張をOpen VSXにリリースした - $shibayu36->blog;</title>
+    <updated>2026-01-05T13:44:18Z</updated>
+    <id>tag:blog.shibayu36.org,2026-01-05:/entry/2026/01/05/113000</id>
+    <link href="https://blog.shibayu36.org/entry/2026/01/05/113000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Dev Containersとは？Dockerを使った開発環境構築の決定版【図解で完全理解】</title>
-    <updated>2026-01-04T05:11:56Z</updated>
-    <id>tag:zenn.dev,2026-01-04:/yamato_snow/articles/fcb3cf8cf0ad03</id>
-    <link href="https://zenn.dev/yamato_snow/articles/fcb3cf8cf0ad03" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「XPS」が帰ってきたぞ！Dellがわずか1年で方針転換した理由に納得</title>
+    <updated>2026-01-05T23:38:12Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-01-05:/docs/news/2075326.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2075326.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Code On-The-Go</title>
-    <updated>2026-01-05T04:53:12Z</updated>
-    <id>tag:granda.org,2026-01-05:/en/2026/01/02/claude-code-on-the-go/</id>
-    <link href="https://granda.org/en/2026/01/02/claude-code-on-the-go/" rel="alternate"></link>
+    <title>1:hatena_blog_it: クレカを止めても被害は止まらない……アカウント侵害の“第二幕”から得た教訓</title>
+    <updated>2026-01-05T22:56:37Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-05:/enterprise/articles/2601/06/news016.html</id>
+    <link href="https://www.itmedia.co.jp/enterprise/articles/2601/06/news016.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 2026年 OpenSSH(.ssh/config) の書き方を見直す</title>
-    <updated>2026-01-04T23:56:59Z</updated>
-    <id>tag:blog.naa0yama.com,2026-01-04:/p/00w04-v6tazj38/</id>
-    <link href="https://blog.naa0yama.com/p/00w04-v6tazj38/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【PC Watchのキーボード黙示録】 こだわりはないが、結果的にUbuntu的に便利なロジクール製を使用している理由</title>
+    <updated>2026-01-06T00:39:26Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-01-06:/docs/column/keyboard-relay/2075052.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/keyboard-relay/2075052.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: JNSA、「2025セキュリティ十大ニュース」を発表～1位はアサヒGHDやアスクルの大規模障害　</title>
-    <updated>2026-01-05T05:16:51Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2026-01-05:/docs/news/2075495.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2075495.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: ASUS、XREALと240Hz ARグラス「ROG XREAL R1」開発。HIFIMANとヘッドセット「ROG Kithara」</title>
+    <updated>2026-01-06T02:45:40Z</updated>
+    <id>tag:av.watch.impress.co.jp,2026-01-06:/docs/news/2075722.html</id>
+    <link href="https://av.watch.impress.co.jp/docs/news/2075722.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ウクライナはGoogleの元CEOであるエリック・シュミット率いるベンチャー企業が提供するAIドローンの実弾射撃試験場となりロシア政府関係者は警戒を強めている</title>
-    <updated>2026-01-05T13:44:12Z</updated>
-    <id>tag:gigazine.net,2026-01-05:/news/20260105-ukraine-ai-drone/</id>
-    <link href="https://gigazine.net/news/20260105-ukraine-ai-drone/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 未知なる存在「第5の力」とは何か？　星の冷え具合から探索する研究、独チームが発表　過去最高精度の絞り込みに成功</title>
-    <updated>2026-01-05T23:14:20Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-01-05:/news/articles/2601/06/news013.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2601/06/news013.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: パナソニック、VRヘッドセット事業撤退　シフトールに譲渡 - 日本経済新聞</title>
+    <updated>2026-01-05T18:47:13Z</updated>
+    <id>tag:www.nikkei.com,2026-01-05:/article/DGXZQOUF057NO0V00C26A1000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUF057NO0V00C26A1000000/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 自分で自分の首を絞めはじめたマイクロソフト…、Copilot+ PCは大丈夫そ？</title>
@@ -5062,10 +5080,28 @@
     <link href="https://www.gizmodo.jp/2026/01/microsofts-push-for-copilot-plus-pcs-could-stall-laptop-sales.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【重要】EmEditor ホームページに関する不正リンク（マルウェア）について（続報） – EmEditor (テキストエディタ)</title>
-    <updated>2026-01-05T04:32:01Z</updated>
-    <id>tag:jp.emeditor.com,2026-01-05:/general/【重要】emeditor-ホームページに関する不正リンク（マ/</id>
-    <link href="https://jp.emeditor.com/general/%E3%80%90%E9%87%8D%E8%A6%81%E3%80%91emeditor-%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%B8%8D%E6%AD%A3%E3%83%AA%E3%83%B3%E3%82%AF%EF%BC%88%E3%83%9E/" rel="alternate"></link>
+    <title>1:hatena_blog_it: これからのAI時代、企業はどんなコンテンツを作るべきか？｜深津 貴之 (fladdict)</title>
+    <updated>2026-01-05T09:14:08Z</updated>
+    <id>tag:note.com,2026-01-05:/fladdict/n/n445f34e6a714</id>
+    <link href="https://note.com/fladdict/n/n445f34e6a714" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 赤ちゃん寝かしつけ時の“背中スイッチ”回避を支援するデバイス、タカラトミーとユカイ工学がCESで披露</title>
+    <updated>2026-01-05T08:02:53Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-05:/news/articles/2601/05/news093.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2601/05/news093.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 低予算ゲーミングPCにはゲーミング向けLinux「Bazzite」を使え！【3】パフォーマンス検証編 Bazzite上でフレームレートはどのくらいになるかをテスト text by “KTU”加藤 勝明</title>
+    <updated>2026-01-06T00:03:51Z</updated>
+    <id>tag:akiba-pc.watch.impress.co.jp,2026-01-06:/docs/parts_review/showcase/2074929.html</id>
+    <link href="https://akiba-pc.watch.impress.co.jp/docs/parts_review/showcase/2074929.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: パスキーだけでは不十分？　証券各社が目指す「パスワードレス」への長い道のり</title>
+    <updated>2026-01-06T00:16:30Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-06:/business/articles/2601/06/news006.html</id>
+    <link href="https://www.itmedia.co.jp/business/articles/2601/06/news006.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 株式会社Stackの2025年開発体制の振り返り｜sonatard</title>
@@ -5074,51 +5110,33 @@
     <link href="https://sizu.me/sonatard/posts/soh8rdb01iex" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: アスクルのランサムウェア被害、原因は凡ミス？　ダークWebに潜り真相に迫る</title>
-    <updated>2026-01-05T02:44:38Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-01-05:/enterprise/articles/2512/27/news039.html</id>
-    <link href="https://www.itmedia.co.jp/enterprise/articles/2512/27/news039.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 未知なる存在「第5の力」とは何か？　星の冷え具合から探索する研究、独チームが発表　過去最高精度の絞り込みに成功</title>
+    <updated>2026-01-05T23:14:20Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-05:/news/articles/2601/06/news013.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2601/06/news013.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【建築士×ChatGPT】「読み方も分からない技術」で、野良DXFを3秒で解析する爆速ツールをHTML1枚で作った話【2025年法改正】 - Qiita</title>
-    <updated>2026-01-05T03:10:14Z</updated>
-    <id>tag:qiita.com,2026-01-05:/architectJapan/items/ee437f6a3cd0ac99a1d4</id>
-    <link href="https://qiita.com/architectJapan/items/ee437f6a3cd0ac99a1d4" rel="alternate"></link>
+    <title>1:hatena_blog_it: Intel、Panther LakeことCore Ultraシリーズ3を正式発表</title>
+    <updated>2026-01-05T23:33:24Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-01-05:/docs/news/2075666.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2075666.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: クラファンで5000万円集めた上級騎士なるにぃ氏のゲーム『誓いノ淵』、突如ディレクター離脱で“開発者不在”に。開発状況さえ確認不能 - AUTOMATON</title>
-    <updated>2026-01-05T03:23:05Z</updated>
-    <id>tag:automaton-media.com,2026-01-05:/articles/newsjp/20260105-397808/</id>
-    <link href="https://automaton-media.com/articles/newsjp/20260105-397808/" rel="alternate"></link>
+    <title>1:hatena_blog_it: イーロン・マスクが2025年に実現すると約束した（が実現しなかった）こと一覧 - YAMDAS現更新履歴</title>
+    <updated>2026-01-04T23:07:26Z</updated>
+    <id>tag:yamdas.hatenablog.com,2026-01-04:/entry/20260105/elon-musk-failed-to-deliver-on-2025</id>
+    <link href="https://yamdas.hatenablog.com/entry/20260105/elon-musk-failed-to-deliver-on-2025" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub - ykdojo/claude-code-tips: 40+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself</title>
-    <updated>2026-01-05T10:12:28Z</updated>
-    <id>tag:github.com,2026-01-05:/ykdojo/claude-code-tips</id>
-    <link href="https://github.com/ykdojo/claude-code-tips" rel="alternate"></link>
+    <title>1:hatena_blog_it: Boston Dynamicsのヒト型ロボット「Atlas」に「Gemini Robotics」搭載　Hyundaiが自動車工場に配備へ</title>
+    <updated>2026-01-06T00:46:12Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-06:/news/articles/2601/06/news056.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2601/06/news056.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: LLMは「同じ質問を2回」入力すると精度が上がる──Google研究者ら、プロンプト反復の効果を短報で報告 | Ledge.ai</title>
-    <updated>2026-01-04T13:01:42Z</updated>
-    <id>tag:ledge.ai,2026-01-04:/articles/prompt_repetition_improves_llm_accuracy</id>
-    <link href="https://ledge.ai/articles/prompt_repetition_improves_llm_accuracy" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: React Compound Componentパターンの使いどころ</title>
-    <updated>2026-01-04T23:45:09Z</updated>
-    <id>tag:zenn.dev,2026-01-04:/fitness_densuke/articles/2026-01-02-react-compound-component-pattern</id>
-    <link href="https://zenn.dev/fitness_densuke/articles/2026-01-02-react-compound-component-pattern" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: [スタパ齋藤の「スタパトロニクスMobile」] ディスプレイに合体するUSBハブ「MH5PC」が想像以上に「正解」だった</title>
-    <updated>2026-01-05T02:12:32Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2026-01-05:/docs/column/stapa/2074814.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/column/stapa/2074814.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 48時間以内にAI生成ポルノ画像を削除しろ──秋元康さんプロデュースのアイドルグループが異例の“公開警告”</title>
-    <updated>2026-01-05T09:47:22Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-01-05:/news/articles/2601/05/news104.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2601/05/news104.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 今週のはてなブックマーク数ランキング（2026年1月第1週） - はてなブックマーク開発ブログ</title>
+    <updated>2026-01-06T03:04:56Z</updated>
+    <id>tag:bookmark.hatenastaff.com,2026-01-06:/entry/2026/01/06/120415</id>
+    <link href="https://bookmark.hatenastaff.com/entry/2026/01/06/120415" rel="alternate"></link>
   </entry>
 </feed>
