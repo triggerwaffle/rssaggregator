@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-01-08T01:14:43Z</updated>
+  <updated>2026-01-08T06:25:54Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -154,10 +154,28 @@
     <link href="https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: NVIDIAのAlpaSim使ってみた</title>
+    <updated>2026-01-07T17:45:31Z</updated>
+    <id>https://zenn.dev/hakuturu583/articles/alpasim-introduction</id>
+    <link href="https://zenn.dev/hakuturu583/articles/alpasim-introduction" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Pythonだけで"ほぼReact"な宣言的UIアプリが作れるようになったぞ！【Flet1.0beta】</title>
+    <updated>2026-01-07T14:22:59Z</updated>
+    <id>https://zenn.dev/harumikun/articles/357c576417fbdd</id>
+    <link href="https://zenn.dev/harumikun/articles/357c576417fbdd" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Rust製軽量エディタZedでDev Containers + GitHub Copilot + Claude Code生活はじめました</title>
     <updated>2026-01-07T04:37:24Z</updated>
     <id>https://zenn.dev/dyoshikawa/articles/zed-devcontainers-copilot-claudecode</id>
     <link href="https://zenn.dev/dyoshikawa/articles/zed-devcontainers-copilot-claudecode" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 新卒エンジニアよ。コードは書かなくていいかもしれない。でも理解だけはやめないでほしい</title>
+    <updated>2026-01-07T01:40:25Z</updated>
+    <id>https://zenn.dev/tokium_dev/articles/vibe-coding-understanding-matters</id>
+    <link href="https://zenn.dev/tokium_dev/articles/vibe-coding-understanding-matters" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 「SQLiteは本番で使えない」は本当か？ 未経験がRails 8 × 格安VPSで負荷試験を乗り越え、PHP学習アプリをリリースしました！</title>
@@ -170,6 +188,12 @@
     <updated>2026-01-06T22:00:01Z</updated>
     <id>https://zenn.dev/aun_phonogram/articles/4be2f4745726fb</id>
     <link href="https://zenn.dev/aun_phonogram/articles/4be2f4745726fb" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: AIで個人開発を始めたら「作る」より「売る」が100倍難しかった話</title>
+    <updated>2026-01-06T16:53:01Z</updated>
+    <id>https://zenn.dev/ktg/articles/518c880823ad4a</id>
+    <link href="https://zenn.dev/ktg/articles/518c880823ad4a" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: MicrosoftはなぜBinaryFormatterを排除したのか</title>
@@ -232,12 +256,6 @@
     <link href="https://zenn.dev/kentaichimura/books/e48a042e40c657" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: Claude Codeの拡張機能を活用した並列開発プラグインの設計と実装</title>
-    <updated>2026-01-06T00:00:01Z</updated>
-    <id>https://zenn.dev/genda_jp/articles/b268146f3d5392</id>
-    <link href="https://zenn.dev/genda_jp/articles/b268146f3d5392" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: なぜクリーンアーキテクチャはドメインを守るのか</title>
     <updated>2026-01-05T04:45:05Z</updated>
     <id>https://zenn.dev/okuda0715tech/articles/8fdbf699db0a7e</id>
@@ -254,24 +272,6 @@
     <updated>2026-01-05T01:11:19Z</updated>
     <id>https://zenn.dev/yamadashy/articles/claude-code-agent-skills-agent-memory</id>
     <link href="https://zenn.dev/yamadashy/articles/claude-code-agent-skills-agent-memory" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: ソフトウェアエンジニアリングと東洋思想</title>
-    <updated>2026-01-05T00:15:31Z</updated>
-    <id>https://zenn.dev/sue738/books/eastern-philosophy-engineering</id>
-    <link href="https://zenn.dev/sue738/books/eastern-philosophy-engineering" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Playwright MCPでCSSの修正が楽になった</title>
-    <updated>2026-01-04T23:00:01Z</updated>
-    <id>https://zenn.dev/silverbirder/articles/5bba8251cea74a</id>
-    <link href="https://zenn.dev/silverbirder/articles/5bba8251cea74a" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: ブラウザのレイアウトエンジンを自作してみた</title>
-    <updated>2026-01-04T11:44:28Z</updated>
-    <id>https://zenn.dev/mizchi/articles/build-my-own-layout-engine</id>
-    <link href="https://zenn.dev/mizchi/articles/build-my-own-layout-engine" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: 拝啓、出社できなかった日の俺へ。──人生が止まったその日から、俺の挑戦が始まった。</title>
@@ -544,6 +544,18 @@
     <link href="https://www.youtube.com/watch?v=hQsQJ7uhDGA" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:atmarkit_security: AIを悪用する「バイブハッキング」でランサムウェア攻撃はどう変わる？</title>
+    <updated>2026-01-08T04:00:00Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2026-01-08:/ait/articles/2601/08/news046.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2601/08/news046.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:atmarkit_security: 「認可の欠落」が4位に急浮上　「最も危険な脆弱性Top 25」MITREが公開</title>
+    <updated>2026-01-08T04:00:00Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2026-01-08:/ait/articles/2601/08/news021.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2601/08/news021.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:atmarkit_security: 攻撃者が従業員の「セキュリティ疲れ」を突くデマを拡散　NordVPNが警告する2026年5つの脅威</title>
     <updated>2026-01-07T04:00:00Z</updated>
     <id>tag:atmarkit.itmedia.co.jp,2026-01-07:/ait/articles/2601/07/news051.html</id>
@@ -710,18 +722,6 @@
     <updated>2025-12-08T04:00:00Z</updated>
     <id>tag:atmarkit.itmedia.co.jp,2025-12-08:/ait/articles/2512/08/news037.html</id>
     <link href="https://atmarkit.itmedia.co.jp/ait/articles/2512/08/news037.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:atmarkit_security: Microsoft Teamsに「メッセージ改ざん」や「発信者の偽装」ができる4件の脆弱性</title>
-    <updated>2025-12-04T23:00:00Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2025-12-04:/ait/articles/2512/05/news061.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2512/05/news061.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:atmarkit_security: npmパッケージを狙った2度目の大規模攻撃　492のパッケージが自己増殖型ワーム「Shai Hulud」に感染</title>
-    <updated>2025-12-04T23:00:00Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2025-12-04:/ait/articles/2512/05/news051.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2512/05/news051.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_linux: 日本企業は「OSSには価値がある」と実感も、体制整備に課題</title>
@@ -4990,34 +4990,34 @@
     <link href="https://www.huffingtonpost.jp/entry/story_jp_693fbd8ee4b0775c5077e079" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Mac 環境構築2026</title>
-    <updated>2026-01-07T06:42:05Z</updated>
-    <id>tag:zenn.dev,2026-01-07:/mizchi/scraps/8b1f2789a94c43</id>
-    <link href="https://zenn.dev/mizchi/scraps/8b1f2789a94c43" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: ⌘英かな - Apple Silicon版</title>
     <updated>2026-01-07T22:38:24Z</updated>
     <id>tag:eikana.dominion525.com,2026-01-07:/</id>
     <link href="https://eikana.dominion525.com/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「とほほのWWW入門」作者・杜甫々さん “10年先を見据えた”プロジェクト管理術を語る (1/2)</title>
-    <updated>2026-01-07T00:10:24Z</updated>
-    <id>tag:ascii.jp,2026-01-07:/elem/000/004/364/4364476/</id>
-    <link href="https://ascii.jp/elem/000/004/364/4364476/" rel="alternate"></link>
+    <title>1:hatena_blog_it: インクを“はがして消す”ボールペン「ケセラ」</title>
+    <updated>2026-01-07T23:11:30Z</updated>
+    <id>tag:www.watch.impress.co.jp,2026-01-07:/docs/news/2075878.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2075878.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AI時代に今からITエンジニアを目指す若者にオススメする10冊の本 2026年版 - じゃあ、おうちで学べる</title>
-    <updated>2026-01-07T03:17:16Z</updated>
-    <id>tag:syu-m-5151.hatenablog.com,2026-01-07:/entry/2026/01/07/103853</id>
-    <link href="https://syu-m-5151.hatenablog.com/entry/2026/01/07/103853" rel="alternate"></link>
+    <title>1:hatena_blog_it: Mac 環境構築2026</title>
+    <updated>2026-01-07T06:42:05Z</updated>
+    <id>tag:zenn.dev,2026-01-07:/mizchi/scraps/8b1f2789a94c43</id>
+    <link href="https://zenn.dev/mizchi/scraps/8b1f2789a94c43" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【資料公開】デイリースクラム Deep Dive</title>
-    <updated>2026-01-07T08:20:55Z</updated>
-    <id>tag:www.ryuzee.com,2026-01-07:/contents/blog/14608</id>
-    <link href="https://www.ryuzee.com/contents/blog/14608" rel="alternate"></link>
+    <title>1:hatena_blog_it: Googleで14年間働いたエンジニアが語る「活躍する人がコード以外で意識している21の教訓」とは？</title>
+    <updated>2026-01-07T23:58:57Z</updated>
+    <id>tag:gigazine.net,2026-01-07:/news/20260108-google-14-years-21-lessons/</id>
+    <link href="https://gigazine.net/news/20260108-google-14-years-21-lessons/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: クレジットカード番号の混入を防ぐ技術 - inSmartBank</title>
+    <updated>2026-01-08T01:35:16Z</updated>
+    <id>tag:blog.smartbank.co.jp,2026-01-08:/entry/2026/01/08/100000</id>
+    <link href="https://blog.smartbank.co.jp/entry/2026/01/08/100000" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: VSCodeベースの開発環境に脆弱性、マルウェア感染を導く恐れ</title>
@@ -5026,22 +5026,40 @@
     <link href="https://news.mynavi.jp/techplus/article/20260107-3931954/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 会社の登記変更書類をChatGPTにお願いして作ってもらって楽だなぁと思っていたが、提出したら法務局から「何もかも違うので作り直してください」と怒られた</title>
-    <updated>2026-01-07T05:42:23Z</updated>
-    <id>tag:togetter.com,2026-01-07:/li/2648757</id>
-    <link href="https://togetter.com/li/2648757" rel="alternate"></link>
+    <title>1:hatena_blog_it: Dellが消費者はAI搭載PCに興味がないことを認める</title>
+    <updated>2026-01-08T01:36:18Z</updated>
+    <id>tag:gigazine.net,2026-01-08:/news/20260108-dell-admits-consumers-dont-care-ai-pc/</id>
+    <link href="https://gigazine.net/news/20260108-dell-admits-consumers-dont-care-ai-pc/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 雑誌「Mac Fan」定期刊行を終了へ　1993年の創刊から32年、「新しい形」に</title>
-    <updated>2026-01-07T10:45:36Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-01-07:/news/articles/2601/07/news133.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2601/07/news133.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: OpenAI、健康支援機能「ChatGPT Health」発表　Apple「ヘルスケア」などと連携</title>
+    <updated>2026-01-08T00:35:06Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-08:/aiplus/articles/2601/08/news052.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2601/08/news052.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIがバイナリを直接吐くようにはならない - きしだのHatena</title>
-    <updated>2026-01-07T02:47:25Z</updated>
-    <id>tag:nowokay.hatenablog.com,2026-01-07:/entry/2026/01/07/111410</id>
-    <link href="https://nowokay.hatenablog.com/entry/2026/01/07/111410" rel="alternate"></link>
+    <title>1:hatena_blog_it: 技術同人誌の著者は、なぜKindle版を出すのか or 出さないのか - プログラマでありたい</title>
+    <updated>2026-01-07T21:01:06Z</updated>
+    <id>tag:blog.takuros.net,2026-01-07:/entry/2026/01/07/205612</id>
+    <link href="https://blog.takuros.net/entry/2026/01/07/205612" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 中古PCも品薄。「お願いなので買い替えたらゲーミングPCを売ってください」ソフマップがXで呼びかけ</title>
+    <updated>2026-01-08T01:41:20Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-01-08:/docs/news/2076399.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2076399.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: PCメーカーDell、“AI機能の宣伝控えめ”に方針転換へ。「ユーザーはAI機能に興味ない」と気づいたから - AUTOMATON</title>
+    <updated>2026-01-08T05:03:37Z</updated>
+    <id>tag:automaton-media.com,2026-01-08:/articles/newsjp/dell-20260108-400891/</id>
+    <link href="https://automaton-media.com/articles/newsjp/dell-20260108-400891/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ChatGPTヘルスケア開始　個人の健康状態を理解・回答　Apple連携も</title>
+    <updated>2026-01-08T01:35:03Z</updated>
+    <id>tag:www.watch.impress.co.jp,2026-01-08:/docs/news/2076397.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2076397.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【危険】iPhone容量が一気に空く「2030年」小技が話題に！文鎮化リスクあり、絶対やめろ - すまほん!!</title>
@@ -5050,105 +5068,93 @@
     <link href="https://smhn.info/202601-iphone-tips" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 【資料公開】デイリースクラム Deep Dive</title>
+    <updated>2026-01-07T08:20:55Z</updated>
+    <id>tag:www.ryuzee.com,2026-01-07:/contents/blog/14608</id>
+    <link href="https://www.ryuzee.com/contents/blog/14608" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ロジクールのマウス、全世界のMac上で突如動作しなくなる。原因は証明書の期限切れ【やじうまWatch】</title>
+    <updated>2026-01-08T03:56:20Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2026-01-08:/docs/yajiuma/2076435.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2076435.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 雑誌「Mac Fan」定期刊行を終了へ　1993年の創刊から32年、「新しい形」に</title>
+    <updated>2026-01-07T10:45:36Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-07:/news/articles/2601/07/news133.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2601/07/news133.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Boseがワイヤレススピーカー・SoundTouch向けクラウドサービス終了で技術仕様を公開しオープンソース化</title>
+    <updated>2026-01-08T03:44:01Z</updated>
+    <id>tag:gigazine.net,2026-01-08:/news/20260108-bose-soundtouch-cloud-service-ending/</id>
+    <link href="https://gigazine.net/news/20260108-bose-soundtouch-cloud-service-ending/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AWS App Runner における見落としがちなポイント - カミナシ エンジニアブログ</title>
+    <updated>2026-01-08T02:01:50Z</updated>
+    <id>tag:kaminashi-developer.hatenablog.jp,2026-01-08:/entry/2026/01/08/090000</id>
+    <link href="https://kaminashi-developer.hatenablog.jp/entry/2026/01/08/090000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「Suicaがないと死ぬ」──SNSで共感呼ぶ利便性とは？　将来は「改札機」すら消える</title>
+    <updated>2026-01-07T22:06:06Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-07:/mobile/articles/2601/08/news045.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2601/08/news045.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 配車業務の負担を大幅削減。時間単位で管理する「予約枠」の開発 - NearMe Tech Blog</title>
+    <updated>2026-01-08T03:14:19Z</updated>
+    <id>tag:tech.nearme.jp,2026-01-08:/entry/2026/01/08/121129</id>
+    <link href="https://tech.nearme.jp/entry/2026/01/08/121129" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ハッカー集団の内部情報が漏洩､4000件超のランサムウェア"身代金交渉記録"が示す｢支払いの現実｣と狙われた組織に共通する弱点</title>
+    <updated>2026-01-07T23:32:54Z</updated>
+    <id>tag:toyokeizai.net,2026-01-07:/articles/-/925595</id>
+    <link href="https://toyokeizai.net/articles/-/925595?display=b" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ハッカー集団の内部情報が漏洩、4000件超のランサムウェア“身代金交渉記録”が示す「支払いの現実」と狙われた組織に共通する弱点（東洋経済オンライン） - Yahoo!ニュース</title>
+    <updated>2026-01-07T22:00:26Z</updated>
+    <id>tag:news.yahoo.co.jp,2026-01-07:/articles/7f0f12aef7a21b873bcd920d676f7f10c504f2b5</id>
+    <link href="https://news.yahoo.co.jp/articles/7f0f12aef7a21b873bcd920d676f7f10c504f2b5" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「私の写真がAIで悪用」　Xの性的画像問題、日本は法規制緩く - 日本経済新聞</title>
+    <updated>2026-01-07T23:47:08Z</updated>
+    <id>tag:www.nikkei.com,2026-01-07:/article/DGXZQOUC067MI0W6A100C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC067MI0W6A100C2000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AI時代に今からITエンジニアを目指す若者にオススメする10冊の本 2026年版 - じゃあ、おうちで学べる</title>
+    <updated>2026-01-07T03:17:16Z</updated>
+    <id>tag:syu-m-5151.hatenablog.com,2026-01-07:/entry/2026/01/07/103853</id>
+    <link href="https://syu-m-5151.hatenablog.com/entry/2026/01/07/103853" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「Web Designing」も定期刊行終了　「Mac Fan」とともにWeb・ムック移行　マイナビ出版</title>
+    <updated>2026-01-08T01:45:41Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-08:/news/articles/2601/08/news056.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2601/08/news056.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: GLM-4.7で自宅コーディングエージェントが現実的に。日本語力も高く幅広く使える。 - きしだのHatena</title>
     <updated>2026-01-06T15:37:54Z</updated>
     <id>tag:nowokay.hatenablog.com,2026-01-06:/entry/2026/01/06/235844</id>
     <link href="https://nowokay.hatenablog.com/entry/2026/01/06/235844" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 岩波新書と岩波文庫(Kindle Unlimited)のおすすめ - 山下泰平の趣味の方法</title>
-    <updated>2026-01-07T03:16:34Z</updated>
-    <id>tag:cocolog-nifty.hatenablog.com,2026-01-07:/entry/2026/01/07/120347</id>
-    <link href="https://cocolog-nifty.hatenablog.com/entry/2026/01/07/120347" rel="alternate"></link>
+    <title>1:hatena_blog_it: Apple Card、発行元をGoldman SachsからJPMorgan Chaseへ移行</title>
+    <updated>2026-01-08T03:03:10Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-08:/news/articles/2601/08/news068.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2601/08/news068.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 中国の病院でAlibabaのAIツール「PANDA」を使い18万枚のCTスキャン画像を再検査し医師が見落とした約24件の膵臓がんを発見</title>
-    <updated>2026-01-07T10:59:05Z</updated>
-    <id>tag:gigazine.net,2026-01-07:/news/20260107-alibaba-ai-panda-scan-cancer/</id>
-    <link href="https://gigazine.net/news/20260107-alibaba-ai-panda-scan-cancer/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Macでロジクール製品に問題発生。Logi Options+とG HUBの障害でカスタマイズ機能が全停止</title>
-    <updated>2026-01-07T11:29:40Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2026-01-07:/docs/news/2076330.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2076330.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Qwen-Imageに日本語を書かせる - きしだのHatena</title>
-    <updated>2026-01-06T01:05:45Z</updated>
-    <id>tag:nowokay.hatenablog.com,2026-01-06:/entry/2026/01/05/110344</id>
-    <link href="https://nowokay.hatenablog.com/entry/2026/01/05/110344" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 次世代核融合炉「SPARC」のAIデジタルツインを構築し商業化への取り組みが加速、Commonwealth Fusion SystemsがNVIDIA・シーメンスと提携へ</title>
-    <updated>2026-01-07T10:56:46Z</updated>
-    <id>tag:gigazine.net,2026-01-07:/news/20260107-cfs-nvidia-siemens-sparc/</id>
-    <link href="https://gigazine.net/news/20260107-cfs-nvidia-siemens-sparc/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users</title>
-    <updated>2026-01-07T09:41:02Z</updated>
-    <id>tag:thehackernews.com,2026-01-07:/2026/01/two-chrome-extensions-caught-stealing.html</id>
-    <link href="https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「動画広告は最大5秒でスキップできるようにすること」をベトナムが義務化</title>
-    <updated>2026-01-07T03:24:57Z</updated>
-    <id>tag:gigazine.net,2026-01-07:/news/20260107-unskippable-ads-ban-in-vietnam/</id>
-    <link href="https://gigazine.net/news/20260107-unskippable-ads-ban-in-vietnam/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 楽天ペイ、「楽天キャッシュ」払いのポイント還元率を引き下げ</title>
-    <updated>2026-01-07T08:50:04Z</updated>
-    <id>tag:www.watch.impress.co.jp,2026-01-07:/docs/news/2076290.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2076290.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI生成作品が小説大賞を獲得→書籍化中止　本人「後出し規約変更」で撤回と説明、運営の意図は | オタク総研</title>
-    <updated>2026-01-07T01:06:18Z</updated>
-    <id>tag:0115765.com,2026-01-07:/archives/165655</id>
-    <link href="https://0115765.com/archives/165655" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Windows 11、インストール画面はこれまでの3倍以上で広告だらけ</title>
-    <updated>2026-01-07T08:49:03Z</updated>
-    <id>tag:news.mynavi.jp,2026-01-07:/techplus/article/20260106-3926897/</id>
-    <link href="https://news.mynavi.jp/techplus/article/20260106-3926897/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ネコの腎臓病新薬、早ければ年内にも実用化へ　治験終了、4月には国に承認申請</title>
-    <updated>2026-01-07T08:03:25Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-01-07:/news/articles/2601/07/news125.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2601/07/news125.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 東京都、中小企業向けにサイバーセキュリティ対策をまとめたガイドブックの最新版を無料配布中　</title>
-    <updated>2026-01-07T03:57:25Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2026-01-07:/docs/news/2076139.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2076139.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 世界中のMacでロジクール製品に不具合　原因はアプリの“証明書の期限切れ” 　近日中に修正へ（更新あり）</title>
-    <updated>2026-01-07T12:03:14Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-01-07:/pcuser/articles/2601/07/news135.html</id>
-    <link href="https://www.itmedia.co.jp/pcuser/articles/2601/07/news135.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Vector graphics on GPU.</title>
-    <updated>2022-08-11T02:25:22Z</updated>
-    <id>tag:gasiulis.name,2022-08-11:/vector-graphics-on-gpu/</id>
-    <link href="https://gasiulis.name/vector-graphics-on-gpu/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: VSCodeとローカルLLM（gpt-oss120b）で和訳・RAGする - Qiita</title>
-    <updated>2026-01-07T00:28:12Z</updated>
-    <id>tag:qiita.com,2026-01-07:/segfo/items/ed8343e036a9f973c77d</id>
-    <link href="https://qiita.com/segfo/items/ed8343e036a9f973c77d" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ワンバンクアプリのLiquid Glass対応 - inSmartBank</title>
-    <updated>2026-01-07T00:36:25Z</updated>
-    <id>tag:blog.smartbank.co.jp,2026-01-07:/entry/liquid-glass</id>
-    <link href="https://blog.smartbank.co.jp/entry/liquid-glass" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【PC Watchのキーボード黙示録】 現代最高のキーボードの基準は“キートップのがたつき”だが、イケてない「REALFORCE GX1」に戻ってしまう【ライター石田賀津男の場合】</title>
+    <updated>2026-01-08T00:57:12Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-01-08:/docs/column/keyboard-relay/2076389.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/keyboard-relay/2076389.html" rel="alternate"></link>
   </entry>
 </feed>
