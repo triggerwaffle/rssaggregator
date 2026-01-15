@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-01-15T01:13:01Z</updated>
+  <updated>2026-01-15T06:25:32Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -9,6 +9,12 @@
     <name>triggerwaffle</name>
     <email>johndoe@example.com</email>
   </author>
+  <entry>
+    <title>4:orielly_books_soon: 解読 データアーキテクチャ</title>
+    <updated>2026-02-10T00:00:00+09:00</updated>
+    <id>tag:www.oreilly.co.jp,2026-02-10:/books/9784814401505/</id>
+    <link href="http://www.oreilly.co.jp/books/9784814401505/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
+  </entry>
   <entry>
     <title>4:orielly_books_soon: 生成AI時代のソフトウェア開発</title>
     <updated>2026-01-17T00:00:00+09:00</updated>
@@ -154,10 +160,28 @@
     <link href="https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Rust アプリケーションにおける実践的トランザクション設計</title>
+    <updated>2026-01-14T15:00:01Z</updated>
+    <id>https://zenn.dev/poi2/articles/68e3d158a6d4b9</id>
+    <link href="https://zenn.dev/poi2/articles/68e3d158a6d4b9" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Claude CodeとCodexの連携をMCPからSkillに変えたら体験が劇的に改善した</title>
+    <updated>2026-01-14T14:40:20Z</updated>
+    <id>https://zenn.dev/owayo/articles/63d325934ba0de</id>
+    <link href="https://zenn.dev/owayo/articles/63d325934ba0de" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: State of PWA 2026：今あらためて整理するPWA</title>
     <updated>2026-01-14T02:09:00Z</updated>
     <id>https://zenn.dev/masatodev/articles/6c9461617b3432</id>
     <link href="https://zenn.dev/masatodev/articles/6c9461617b3432" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Claude Codeに別のAIエージェント（Codex等）を相談役として付けてみた</title>
+    <updated>2026-01-14T00:56:16Z</updated>
+    <id>https://zenn.dev/hiropon22/articles/599e0d5a7517b3</id>
+    <link href="https://zenn.dev/hiropon22/articles/599e0d5a7517b3" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: GitHub Copilot を極める会</title>
@@ -170,6 +194,12 @@
     <updated>2026-01-13T13:00:13Z</updated>
     <id>https://zenn.dev/mitsuo119/articles/cd5feaee09262b</id>
     <link href="https://zenn.dev/mitsuo119/articles/cd5feaee09262b" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: AI が AWS ダッシュボードを"描く"。A2UI プロトコルで作る動的 AWS Advisor</title>
+    <updated>2026-01-13T08:33:34Z</updated>
+    <id>https://zenn.dev/aws_japan/articles/3753f8eb32cca7</id>
+    <link href="https://zenn.dev/aws_japan/articles/3753f8eb32cca7" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Claude「Cowork」を試してみた - コーディング不要でClaude Codeの力を使えるようになった</title>
@@ -214,34 +244,22 @@
     <link href="https://zenn.dev/innovation/articles/ce0f4b638fd86c" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: AI開発時代の矜持 ― AIに書かせたコードに責任を負うということ</title>
-    <updated>2026-01-13T00:00:04Z</updated>
-    <id>https://zenn.dev/plusone/articles/8255b1f428232c</id>
-    <link href="https://zenn.dev/plusone/articles/8255b1f428232c" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: "AIエージェント時代、正直しんどい話" に対する処方箋</title>
     <updated>2026-01-12T23:00:05Z</updated>
     <id>https://zenn.dev/hand_dot/articles/93089ca5b6de7f</id>
     <link href="https://zenn.dev/hand_dot/articles/93089ca5b6de7f" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: スマホ1タップで作業時間を記録！Notion × Vercel × Claude Code で作った時間管理システム</title>
-    <updated>2026-01-12T22:50:01Z</updated>
-    <id>https://zenn.dev/hiroto0126/articles/f19adaf776aa16</id>
-    <link href="https://zenn.dev/hiroto0126/articles/f19adaf776aa16" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: iptables入れたのにまだ27%直接アクセスされてた ー IPv6を忘れていた</title>
-    <updated>2026-01-12T22:27:01Z</updated>
-    <id>https://zenn.dev/dhc4aki/articles/955d4fcbea3196</id>
-    <link href="https://zenn.dev/dhc4aki/articles/955d4fcbea3196" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: 【日本で12人目】Kubernetes未経験から1年で15資格全冠した記録【Golden Kubestronaut】</title>
     <updated>2026-01-12T22:00:01Z</updated>
     <id>https://zenn.dev/yuu7751/articles/e6bbaa11aac218</id>
     <link href="https://zenn.dev/yuu7751/articles/e6bbaa11aac218" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: スマホでコードを書くという選択肢</title>
+    <updated>2026-01-12T09:45:44Z</updated>
+    <id>https://zenn.dev/sijiaoh/articles/377abc8cc28f92</id>
+    <link href="https://zenn.dev/sijiaoh/articles/377abc8cc28f92" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: ゲームエフェクトってどうやってできてるの？</title>
@@ -256,22 +274,10 @@
     <link href="https://zenn.dev/timelab/articles/354615e675ae9a" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: LLMの中身を覗いてみたら、Transformerは「回路」を形成していた</title>
-    <updated>2026-01-12T01:51:33Z</updated>
-    <id>https://zenn.dev/50s_zerotohero/articles/a6189c891fbd71</id>
-    <link href="https://zenn.dev/50s_zerotohero/articles/a6189c891fbd71" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: サムネイル画像URLはバックエンドで生成すべき</title>
     <updated>2026-01-11T09:07:47Z</updated>
     <id>https://zenn.dev/catatsuy/articles/4070de849114e0</id>
     <link href="https://zenn.dev/catatsuy/articles/4070de849114e0" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Cloudflare入れたのに75%素通りだった話 ー 攻撃者も学習する</title>
-    <updated>2026-01-11T02:29:01Z</updated>
-    <id>https://zenn.dev/dhc4aki/articles/af82b70c904faa</id>
-    <link href="https://zenn.dev/dhc4aki/articles/af82b70c904faa" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: 【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条</title>
@@ -1082,6 +1088,12 @@
     <updated>2025-12-23T15:17:16Z</updated>
     <id>tag:www.publickey1.jp,2025://2.8431</id>
     <link href="https://www.publickey1.jp/blog/25/1passwordcursor1passwordcursorai.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:gihyo_site: Firefox 147リリース、CSS anchor positioningをサポートし、主要ブラウザすべてで対応に</title>
+    <updated>2026-01-15T02:56:00Z</updated>
+    <id>urn:uuid:b9278c3d-4ae4-af6a-c42d-b35986b84356</id>
+    <link href="https://gihyo.jp/article/2026/01/css-anchor-positioning?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: 今後のDevSecOpsの動向：「一人チーム」による管理領域の拡大</title>
@@ -4984,6 +4996,12 @@
     <link href="https://k-tai.watch.impress.co.jp/docs/news/2077924.html" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 5億画素だがUSBポートなし。人間という「デバイス」に接続し、脳内イメージを画像化する技術 | レバテックラボ（レバテックLAB）</title>
+    <updated>2026-01-15T01:48:41Z</updated>
+    <id>tag:levtech.jp,2026-01-15:/media/article/column/detail_785/</id>
+    <link href="https://levtech.jp/media/article/column/detail_785/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: iD払いって何が良いの？と聞かれたけど分からなくて答えられなかった...iD払いのメリットって何ですか？</title>
     <updated>2026-01-14T14:04:15Z</updated>
     <id>tag:togetter.com,2026-01-14:/li/2651858</id>
@@ -4996,22 +5014,22 @@
     <link href="https://xenospectrum.com/ammobia-green-ammonia-haber-bosch-2-0-revolution/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 1800～1875年のデータのみでトレーニングされた大規模言語モデル「TimeCapsule LLM」</title>
+    <updated>2026-01-14T14:06:37Z</updated>
+    <id>tag:gigazine.net,2026-01-14:/news/20260114-timecapsulellm-trained-data-1800-1875/</id>
+    <link href="https://gigazine.net/news/20260114-timecapsulellm-trained-data-1800-1875/" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: ​Bandcamp、生成AI音楽を全面禁止｜人間によるクリエイティビティ保護を宣言 | クラベリア</title>
     <updated>2026-01-14T14:26:39Z</updated>
     <id>tag:clubberia.com,2026-01-14:/ja/news/11907-Bandcamp-AI/</id>
     <link href="https://clubberia.com/ja/news/11907-Bandcamp-AI/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 青春18きっぷ1枚で日本縦断ずっと不可能だったけどまた可能になったので最北端の稚内から最南端の鹿児島まで行ってきた｜pato</title>
-    <updated>2026-01-13T08:29:07Z</updated>
-    <id>tag:note.com,2026-01-13:/pato_numeri/n/neb0a35648079</id>
-    <link href="https://note.com/pato_numeri/n/neb0a35648079" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: CLAUDE.md や AGENTS.md のベストプラクティスな書き方 - izanami</title>
-    <updated>2026-01-13T14:23:32Z</updated>
-    <id>tag:izanami.dev,2026-01-13:/post/47b08b5a-6e1c-4fb0-8342-06b8e627450a</id>
-    <link href="https://izanami.dev/post/47b08b5a-6e1c-4fb0-8342-06b8e627450a" rel="alternate"></link>
+    <title>1:hatena_blog_it: Introducing: React Best Practices - Vercel</title>
+    <updated>2026-01-15T00:06:26Z</updated>
+    <id>tag:vercel.com,2026-01-15:/blog/introducing-react-best-practices</id>
+    <link href="https://vercel.com/blog/introducing-react-best-practices" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: M5Stackのかわいいロボット“スタックチャン”クラウドファンディング開始　約1万円から</title>
@@ -5020,16 +5038,46 @@
     <link href="https://ascii.jp/elem/000/004/366/4366129/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 1800～1875年のデータのみでトレーニングされた大規模言語モデル「TimeCapsule LLM」</title>
-    <updated>2026-01-14T14:06:37Z</updated>
-    <id>tag:gigazine.net,2026-01-14:/news/20260114-timecapsulellm-trained-data-1800-1875/</id>
-    <link href="https://gigazine.net/news/20260114-timecapsulellm-trained-data-1800-1875/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Streaming JSON in just 200 lines of JavaScript</title>
     <updated>2026-01-12T12:53:29Z</updated>
     <id>tag:krasimirtsonev.com,2026-01-12:/blog/article/streaming-json-in-just-200-lines-of-javascript</id>
     <link href="https://krasimirtsonev.com/blog/article/streaming-json-in-just-200-lines-of-javascript" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「クレカの上限金利を10%に」トランプ大統領の狙いと影響【鈴木淳也のPay Attention】</title>
+    <updated>2026-01-14T23:27:22Z</updated>
+    <id>tag:www.watch.impress.co.jp,2026-01-14:/docs/series/suzukij/2077572.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/series/suzukij/2077572.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「男塾」チャンネル収益化停止問題、YouTubeが調査へ　「貴殿の対応に感謝する!!」</title>
+    <updated>2026-01-15T01:02:55Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-15:/news/articles/2601/15/news071.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2601/15/news071.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Ruby公式サイトのリニューアルのディレクションの裏側 - ANDPAD Tech Blog</title>
+    <updated>2026-01-15T01:03:24Z</updated>
+    <id>tag:tech.andpad.co.jp,2026-01-15:/entry/2026/01/15/100000</id>
+    <link href="https://tech.andpad.co.jp/entry/2026/01/15/100000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: NECプラットフォームズ、Wi-Fi 7トライバンド対応ルーター「Aterm 19000T12BE」発売　</title>
+    <updated>2026-01-15T01:39:41Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2026-01-15:/docs/news/2077963.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/news/2077963.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Google Antigravity、エージェント機能拡張機能「Skills」の搭載を発表</title>
+    <updated>2026-01-14T08:15:13Z</updated>
+    <id>tag:codezine.jp,2026-01-14:/news/detail/22977</id>
+    <link href="https://codezine.jp/news/detail/22977" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: コンプライアンスと開発スピードを両立する / スマートバンクSREチームの2025年の振り返り - inSmartBank</title>
+    <updated>2026-01-15T03:10:22Z</updated>
+    <id>tag:blog.smartbank.co.jp,2026-01-15:/entry/2026/01/15/111834</id>
+    <link href="https://blog.smartbank.co.jp/entry/2026/01/15/111834" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 選択コンポーネントの使い分け | デザインパターン | SmartHR Design System</title>
@@ -5050,99 +5098,57 @@
     <link href="https://www.cnn.co.jp/fringe/35242713.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 2026年版「基本的なウェブアプリケーションを構築する」のチュートリアル手順作ってみた | DevelopersIO</title>
-    <updated>2026-01-13T12:33:24Z</updated>
-    <id>tag:dev.classmethod.jp,2026-01-13:/articles/2026-build-web-app-s3-lambda-api-gateway-dynamodb/</id>
-    <link href="https://dev.classmethod.jp/articles/2026-build-web-app-s3-lambda-api-gateway-dynamodb/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Copilot SDK in technical preview - GitHub Changelog</title>
+    <updated>2026-01-15T00:48:41Z</updated>
+    <id>tag:github.blog,2026-01-15:/changelog/2026-01-14-copilot-sdk-in-technical-preview/</id>
+    <link href="https://github.blog/changelog/2026-01-14-copilot-sdk-in-technical-preview/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 開発環境現状確認2026 - 5.1さらうどん</title>
-    <updated>2026-01-14T01:47:59Z</updated>
-    <id>tag:giginet.hateblo.jp,2026-01-14:/entry/2026/01/14/101200</id>
-    <link href="https://giginet.hateblo.jp/entry/2026/01/14/101200" rel="alternate"></link>
+    <title>1:hatena_blog_it: なぜAppleはiPhoneのSiri刷新で「Gemini」を選んだのか--OpenAIが落ちた必然とは</title>
+    <updated>2026-01-14T21:38:54Z</updated>
+    <id>tag:japan.cnet.com,2026-01-14:/article/35242717/</id>
+    <link href="https://japan.cnet.com/article/35242717/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: VS Codeで「Python仮想環境」を視覚的に管理する、新しい拡張機能「Python Environments」の現状と可能性</title>
-    <updated>2026-01-14T02:10:43Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2026-01-14:/ait/articles/2601/14/news019.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2601/14/news019.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「モノクローム専用」のRICOH GR IV Monochromeが正式発表　“赤色フィルター”を物理的に搭載　新開発のモノクロ用イメージコントロールも</title>
+    <updated>2026-01-15T01:39:48Z</updated>
+    <id>tag:dc.watch.impress.co.jp,2026-01-15:/docs/news/2077836.html</id>
+    <link href="https://dc.watch.impress.co.jp/docs/news/2077836.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Starlink mini の持ち運び向けセレクションを紹介 | IIJ Engineers Blog</title>
-    <updated>2026-01-14T08:47:39Z</updated>
-    <id>tag:eng-blog.iij.ad.jp,2026-01-14:/archives/34684</id>
-    <link href="https://eng-blog.iij.ad.jp/archives/34684" rel="alternate"></link>
+    <title>1:hatena_blog_it: キャリアのAndroidスマホが「ストレージ128GB」に固定されがちな理由</title>
+    <updated>2026-01-14T21:10:27Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-14:/mobile/articles/2601/15/news061.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2601/15/news061.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【やじうまPC Watch】 「コカ・コーラの味」を完全再現？科学系YouTuberが公開した「秘密のレシピ」が話題に</title>
-    <updated>2026-01-14T03:01:18Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2026-01-14:/docs/news/yajiuma/2077628.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/yajiuma/2077628.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【Windows 11】深いフォルダ階層を毎回たどるのは止めた。特定フォルダを「ドライブ」に変える裏ワザが便利すぎる</title>
+    <updated>2026-01-14T02:09:53Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2026-01-14:/ait/articles/2601/14/news016.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2601/14/news016.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Codex MCPを活用したAI Coding開発: Codex利用率 社内3位の活用術 | CyberAgent Developers Blog</title>
-    <updated>2026-01-14T00:19:54Z</updated>
-    <id>tag:developers.cyberagent.co.jp,2026-01-14:/blog/archives/61630/</id>
-    <link href="https://developers.cyberagent.co.jp/blog/archives/61630/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 40歳以上はカフェインの“効き”が悪い？　寝る前のコーヒーで睡眠と脳波を調査　Nature系列誌で報告</title>
+    <updated>2026-01-14T23:23:56Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-14:/news/articles/2601/15/news029.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2601/15/news029.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「クレカの上限金利を10%に」トランプ大統領の狙いと影響【鈴木淳也のPay Attention】</title>
-    <updated>2026-01-14T23:27:22Z</updated>
-    <id>tag:www.watch.impress.co.jp,2026-01-14:/docs/series/suzukij/2077572.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/series/suzukij/2077572.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: WEARのスクラム導入 ── PMOが推進した体制と運用 - ZOZO TECH BLOG</title>
+    <updated>2026-01-15T02:03:07Z</updated>
+    <id>tag:techblog.zozo.com,2026-01-15:/entry/introducing-scrum-to-wear</id>
+    <link href="https://techblog.zozo.com/entry/introducing-scrum-to-wear" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIで数学の未解決問題をほぼ自動的に解くことに成功、AIツールにおける重要な進展に</title>
-    <updated>2026-01-14T11:19:14Z</updated>
-    <id>tag:gigazine.net,2026-01-14:/news/20260114-gpt-5-2-pro-solved-erdos-problem/</id>
-    <link href="https://gigazine.net/news/20260114-gpt-5-2-pro-solved-erdos-problem/" rel="alternate"></link>
+    <title>1:hatena_blog_it: CLAUDE.md や AGENTS.md のベストプラクティスな書き方 - izanami</title>
+    <updated>2026-01-13T14:23:32Z</updated>
+    <id>tag:izanami.dev,2026-01-13:/post/47b08b5a-6e1c-4fb0-8342-06b8e627450a</id>
+    <link href="https://izanami.dev/post/47b08b5a-6e1c-4fb0-8342-06b8e627450a" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「福岡市で生活保護を断られて餓死」という誤情報はAIを使用した動画が元かな - 電脳塵芥</title>
-    <updated>2026-01-14T06:31:21Z</updated>
-    <id>tag:nou-yunyun.hatenablog.com,2026-01-14:/entry/2026/01/14/140000</id>
-    <link href="https://nou-yunyun.hatenablog.com/entry/2026/01/14/140000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 音楽配信プラットフォームのBandcampが生成AI音楽を禁止</title>
-    <updated>2026-01-14T14:06:22Z</updated>
-    <id>tag:gigazine.net,2026-01-14:/news/20260114-ai-is-not-permitted-on-bandcamp/</id>
-    <link href="https://gigazine.net/news/20260114-ai-is-not-permitted-on-bandcamp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: LLMによる「非定型見積書の明細抽出タスク」の精度を約80%→約95%に改善した話 - LayerX エンジニアブログ</title>
-    <updated>2026-01-14T04:07:04Z</updated>
-    <id>tag:tech.layerx.co.jp,2026-01-14:/entry/2026/01/14/125350</id>
-    <link href="https://tech.layerx.co.jp/entry/2026/01/14/125350" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 守り中心のCISOではもう限界、日本サイバーセキュリティ・イノベーション委員会代表理事が唱える「CISO2.0」の役割 | Japan Innovation Review powered by JBpress</title>
-    <updated>2026-01-14T05:24:04Z</updated>
-    <id>tag:jbpress.ismedia.jp,2026-01-14:/articles/-/92488</id>
-    <link href="https://jbpress.ismedia.jp/articles/-/92488" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Valveの新小型ゲーミングPC「Steam Machine」開発者いわく、ゲームの互換性認証はSteam Deckよりもゆるい。「確認済み」にするための制約少なめに - AUTOMATON</title>
-    <updated>2026-01-14T08:42:27Z</updated>
-    <id>tag:automaton-media.com,2026-01-14:/articles/newsjp/steam-machine-20260114-406233/</id>
-    <link href="https://automaton-media.com/articles/newsjp/steam-machine-20260114-406233/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ChatGPT、シェア22ポイント減の衝撃　Geminiがシェア20％を突破し猛追【2026年最新AIシェア調査】</title>
-    <updated>2026-01-14T20:49:10Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2026-01-14:/ait/articles/2601/15/news016.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2601/15/news016.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Googleの動画生成AI「Veo 3.1」がアップデートされてキャラクターの一貫性が向上し4Kアップスケーリングにも対応</title>
-    <updated>2026-01-14T03:48:53Z</updated>
-    <id>tag:gigazine.net,2026-01-14:/news/20260114-google-veo-video-generation-ai/</id>
-    <link href="https://gigazine.net/news/20260114-google-veo-video-generation-ai/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 再生時間が“1,234,567：30：00”（＝140年）の動画が出現　謎のYouTubeアカウントが世界中で話題に</title>
-    <updated>2026-01-14T10:14:55Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-01-14:/news/articles/2601/14/news109.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2601/14/news109.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: X、Grokでのビキニ画像を技術的に禁止　画像生成は有料プランのみに</title>
+    <updated>2026-01-15T02:02:51Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-15:/news/articles/2601/15/news075.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2601/15/news075.html" rel="alternate"></link>
   </entry>
 </feed>
