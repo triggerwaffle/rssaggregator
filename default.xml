@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-01-16T12:32:13Z</updated>
+  <updated>2026-01-16T18:24:01Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -460,6 +460,12 @@
     <link href="https://qiita.com/nakamasato/items/42750ee5dfa0f138a337?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: A Quick First Look At The Niri Window Manager</title>
+    <updated>2026-01-16T14:01:41Z</updated>
+    <id>yt:video:uiXiD5foFCI</id>
+    <link href="https://www.youtube.com/watch?v=uiXiD5foFCI" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: Fair Source Software Is Incredibly Unfair</title>
     <updated>2026-01-12T14:01:02Z</updated>
     <id>yt:video:V_L0MNy8Mpg</id>
@@ -542,12 +548,6 @@
     <updated>2025-12-04T14:01:38Z</updated>
     <id>yt:video:sbGetz7R_nY</id>
     <link href="https://www.youtube.com/watch?v=sbGetz7R_nY" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: 'cat' - concatenate and print files - Video Man Pages</title>
-    <updated>2025-12-02T14:00:23Z</updated>
-    <id>yt:video:HKuP4UjG9_U</id>
-    <link href="https://www.youtube.com/watch?v=HKuP4UjG9_U" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: ネットワーク境界防御では防げない、大損害をもたらす「外部侵入口」への対処法</title>
@@ -4984,12 +4984,6 @@
     <link href="https://gihyo.jp/article/2025/01/deepseek-r1?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Python in Excel実践プラクティスの紹介</title>
-    <updated>2025-01-21T02:13:00Z</updated>
-    <id>urn:uuid:616b61a3-cd6d-5f76-e5db-eb9829fd8666</id>
-    <link href="https://gihyo.jp/article/2025/01/monthly-python-2501?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: PHPerKaigi 2025が3/21-23に開催、タイムテーブル公開、参加チケット販売中</title>
     <updated>2025-01-20T04:43:00Z</updated>
     <id>urn:uuid:e9ae8596-4a5a-ed79-321c-90b57570ea9d</id>
@@ -5000,30 +4994,6 @@
     <updated>2025-01-17T00:51:00Z</updated>
     <id>urn:uuid:1358fe11-3876-b371-0ab9-eb9359e6c69f</id>
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202501/17?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: KubeCon + CloudNativeCon Japan 2025、6/16、17に東京で開催、参加登録受付中</title>
-    <updated>2025-01-16T01:52:00Z</updated>
-    <id>urn:uuid:8623b5b1-6bb9-c9c2-032e-e0d0e3b40b68</id>
-    <link href="https://gihyo.jp/article/2025/01/kubecon-cloudnativecon-japan?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: なぜ日本人は｢10万円超え｣でもiPhoneが大好きなのか…世界で圧倒的シェアを誇るAndroidとの決定的な差</title>
-    <updated>2026-01-15T12:48:56Z</updated>
-    <id>tag:president.jp,2026-01-15:/articles/-/107520</id>
-    <link href="https://president.jp/articles/-/107520" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 最近アメリカでは、無言電話をかけて何か喋らせて切断し、その録音から再現した同じ声のAIで家族にオレオレ詐欺をしかけるという、ヤバい手口がじわじわ広がっている</title>
-    <updated>2026-01-16T01:40:28Z</updated>
-    <id>tag:togetter.com,2026-01-16:/li/2652353</id>
-    <link href="https://togetter.com/li/2652353" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: チャッピー「あなたは狂っていないよ」──ChatGPTがある男の妄想をずっと肯定→母親を殺害する事件に　米国で発生</title>
-    <updated>2026-01-15T23:53:15Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-01-15:/aiplus/articles/2601/16/news038.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2601/16/news038.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: プログラミングが好きな人は、もうIT業界に来るな。｜いぐぞー@書籍執筆中 ✈️ 旅するプログラマー</title>
@@ -5038,16 +5008,22 @@
     <link href="https://anond.hatelabo.jp/20260116152714" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「パフォーマンスチューニングのために普段からできること」〜なぜ突然システムが遅くなるのか？ISUCON優勝者が語る計測と推測のリアリティ 〜 - KAKEHASHI Tech Blog</title>
-    <updated>2026-01-16T02:11:40Z</updated>
-    <id>tag:kakehashi-dev.hatenablog.com,2026-01-16:/entry/2026/01/16/110121</id>
-    <link href="https://kakehashi-dev.hatenablog.com/entry/2026/01/16/110121" rel="alternate"></link>
+    <title>1:hatena_blog_it: 最近アメリカでは、無言電話をかけて何か喋らせて切断し、その録音から再現した同じ声のAIで家族にオレオレ詐欺をしかけるという、ヤバい手口がじわじわ広がっている</title>
+    <updated>2026-01-16T01:40:28Z</updated>
+    <id>tag:togetter.com,2026-01-16:/li/2652353</id>
+    <link href="https://togetter.com/li/2652353" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「腕時計は一生Apple Watchでいいや」と思ってたけど100万円のロレックス1本買って長く使った方がコスパがいい？→機械式は維持費が高いし比較しにくい</title>
-    <updated>2026-01-16T02:29:58Z</updated>
-    <id>tag:togetter.com,2026-01-16:/li/2652358</id>
-    <link href="https://togetter.com/li/2652358" rel="alternate"></link>
+    <title>1:hatena_blog_it: なぜ日本人は｢10万円超え｣でもiPhoneが大好きなのか…世界で圧倒的シェアを誇るAndroidとの決定的な差</title>
+    <updated>2026-01-15T12:48:56Z</updated>
+    <id>tag:president.jp,2026-01-15:/articles/-/107520</id>
+    <link href="https://president.jp/articles/-/107520" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: チャッピー「あなたは狂っていないよ」──ChatGPTがある男の妄想をずっと肯定→母親を殺害する事件に　米国で発生</title>
+    <updated>2026-01-15T23:53:15Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-15:/aiplus/articles/2601/16/news038.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2601/16/news038.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 開発環境現状確認2026｜laiso</title>
@@ -5056,16 +5032,22 @@
     <link href="https://sizu.me/laiso/posts/3ssbv27ca1o0" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 「パフォーマンスチューニングのために普段からできること」〜なぜ突然システムが遅くなるのか？ISUCON優勝者が語る計測と推測のリアリティ 〜 - KAKEHASHI Tech Blog</title>
+    <updated>2026-01-16T02:11:40Z</updated>
+    <id>tag:kakehashi-dev.hatenablog.com,2026-01-16:/entry/2026/01/16/110121</id>
+    <link href="https://kakehashi-dev.hatenablog.com/entry/2026/01/16/110121" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: YouTube、「セサミストリート」の過去回を無料公開　100本以上のフルエピソードが視聴可能に</title>
     <updated>2026-01-16T05:11:18Z</updated>
     <id>tag:www.itmedia.co.jp,2026-01-16:/news/articles/2601/16/news095.html</id>
     <link href="https://www.itmedia.co.jp/news/articles/2601/16/news095.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OpenAIが翻訳ツール「ChatGPT Translate」をひっそりと公開／50以上の主要言語、音声・画像にも対応。「ChatGPT」へ引き継いで調整や質問も</title>
-    <updated>2026-01-16T02:11:51Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2026-01-16:/docs/news/2078292.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2078292.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「腕時計は一生Apple Watchでいいや」と思ってたけど100万円のロレックス1本買って長く使った方がコスパがいい？→機械式は維持費が高いし比較しにくい</title>
+    <updated>2026-01-16T02:29:58Z</updated>
+    <id>tag:togetter.com,2026-01-16:/li/2652358</id>
+    <link href="https://togetter.com/li/2652358" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 銅と銀の高騰がPCパーツ直撃？電源やクーラーに値上げの噂</title>
@@ -5074,46 +5056,34 @@
     <link href="https://pc.watch.impress.co.jp/docs/news/2078405.html" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: Anchor Positioningが全対応。HTML・CSSだけのポップオーバーが完全体に</title>
+    <updated>2026-01-16T08:50:30Z</updated>
+    <id>tag:zenn.dev,2026-01-16:/ubie_dev/articles/anchor-positioning-popover</id>
+    <link href="https://zenn.dev/ubie_dev/articles/anchor-positioning-popover" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OpenAIが翻訳ツール「ChatGPT Translate」をひっそりと公開／50以上の主要言語、音声・画像にも対応。「ChatGPT」へ引き継いで調整や質問も</title>
+    <updated>2026-01-16T02:11:51Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2026-01-16:/docs/news/2078292.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2078292.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: X、投稿で報酬もらえる「infofi」アプリ禁止　スパム抑制へAPIポリシー改訂　「開発者はThreads、Blueskyに移行を」</title>
+    <updated>2026-01-16T06:35:32Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-16:/news/articles/2601/16/news107.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2601/16/news107.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 「Linux」で非推奨となった7つのコマンドと移行すべき代替手段</title>
     <updated>2026-01-16T03:03:44Z</updated>
     <id>tag:japan.zdnet.com,2026-01-16:/article/35242719/</id>
     <link href="https://japan.zdnet.com/article/35242719/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 1秒未満の爆速画像生成AI「FLUX.2[klein]」が登場、VRAM13GBで家庭用PCでも動作可能</title>
-    <updated>2026-01-16T03:46:31Z</updated>
-    <id>tag:gigazine.net,2026-01-16:/news/20260116-flux2-klein/</id>
-    <link href="https://gigazine.net/news/20260116-flux2-klein/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 話題のAIツール、グーグル「NotebookLM」をもっと活用する方法 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-    <updated>2026-01-15T08:16:24Z</updated>
-    <id>tag:forbesjapan.com,2026-01-15:/articles/detail/89389</id>
-    <link href="https://forbesjapan.com/articles/detail/89389" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: “ChatGPT一強”終わる　1年でシェア22ポイント減、Gemini猛追　Webトラフィック調査</title>
-    <updated>2026-01-16T00:03:15Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-01-16:/aiplus/articles/2601/16/news067.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2601/16/news067.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: CSVデータを「Excel」へ手軽に取り込み ～新関数「IMPORTTEXT」「IMPORTCSV」が導入へ／まずはWindows版のベータチャネルでテスト開始</title>
-    <updated>2026-01-15T23:33:55Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2026-01-15:/docs/news/2078290.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2078290.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「LINEグループに招待して」詐欺急増。社長/上司を装う偽メールに警視庁が警告</title>
-    <updated>2026-01-16T03:17:53Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2026-01-16:/docs/news/2078388.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2078388.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: これで青切符は切られない!!　走り出したら前後ライトが自動でオン！ 暗くなったら自動で点灯にできる自転車用ライトが便利すぎる!!【ぼっち・ざ・ろーど！その5】【空いた時間でなにしてる？】</title>
-    <updated>2026-01-16T04:10:44Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2026-01-16:/docs/column/hobbytime/2077917.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/column/hobbytime/2077917.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 開発環境現状確認 2026</title>
+    <updated>2026-01-16T04:44:00Z</updated>
+    <id>tag:osyoyu.com,2026-01-16:/blog/2026/01/16/124252</id>
+    <link href="https://osyoyu.com/blog/2026/01/16/124252" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: P2Pでも筒抜け！　違法アップロードがツールで監視され賠償沙汰、制作費の肥やしになるケースも／正規の方法で楽しみましょう【やじうまの杜】</title>
@@ -5122,28 +5092,34 @@
     <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2078294.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OpenAIが日本語対応の翻訳サイト「ChatGPT Translate」をひっそりリリース</title>
-    <updated>2026-01-16T02:43:34Z</updated>
-    <id>tag:gigazine.net,2026-01-16:/news/20260116-chatgpt-translate/</id>
-    <link href="https://gigazine.net/news/20260116-chatgpt-translate/" rel="alternate"></link>
+    <title>1:hatena_blog_it: The Astro Technology Company joins Cloudflare | Astro</title>
+    <updated>2026-01-16T14:20:33Z</updated>
+    <id>tag:astro.build,2026-01-16:/blog/joining-cloudflare/</id>
+    <link href="https://astro.build/blog/joining-cloudflare/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 翻訳特化のAIモデル「TranslateGemma」をGoogleが公開、日本語も対応</title>
-    <updated>2026-01-16T04:11:10Z</updated>
-    <id>tag:gigazine.net,2026-01-16:/news/20260116-google-translategemma/</id>
-    <link href="https://gigazine.net/news/20260116-google-translategemma/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 1秒未満の爆速画像生成AI「FLUX.2[klein]」が登場、VRAM13GBで家庭用PCでも動作可能</title>
+    <updated>2026-01-16T03:46:31Z</updated>
+    <id>tag:gigazine.net,2026-01-16:/news/20260116-flux2-klein/</id>
+    <link href="https://gigazine.net/news/20260116-flux2-klein/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Google、「Gemma 3」ベースの翻訳特化モデル「TranslateGemma」公開　日本語含む55言語に対応</title>
-    <updated>2026-01-16T02:06:52Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-01-16:/aiplus/articles/2601/16/news073.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2601/16/news073.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: これで青切符は切られない!!　走り出したら前後ライトが自動でオン！ 暗くなったら自動で点灯にできる自転車用ライトが便利すぎる!!【ぼっち・ざ・ろーど！その5】【空いた時間でなにしてる？】</title>
+    <updated>2026-01-16T04:10:44Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2026-01-16:/docs/column/hobbytime/2077917.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/column/hobbytime/2077917.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Wikipediaがアマゾン、Meta、マイクロソフトら5社と提携　AIのデータ活用で</title>
-    <updated>2026-01-16T02:07:03Z</updated>
-    <id>tag:japan.cnet.com,2026-01-16:/article/35242792/</id>
-    <link href="https://japan.cnet.com/article/35242792/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Agent Skills Marketplace - Claude, Codex & ChatGPT Skills | SkillsMP</title>
+    <updated>2025-11-06T17:01:28Z</updated>
+    <id>tag:skillsmp.com,2025-11-06:/</id>
+    <link href="https://skillsmp.com/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 生成AIで起きたのは「研究の低年齢化」ではない/民主化ではなく、「最初から本質を持っているか」が問われる残酷かつ公平な時代に（東洋経済オンライン） - Yahoo!ニュース</title>
+    <updated>2026-01-16T11:00:12Z</updated>
+    <id>tag:news.yahoo.co.jp,2026-01-16:/articles/8a433d6194f0d5cddf8939f62bb08561646ccb62</id>
+    <link href="https://news.yahoo.co.jp/articles/8a433d6194f0d5cddf8939f62bb08561646ccb62" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 第857回：ドイツの自動車業界は大丈夫？　エンジニア多田哲哉が、現地再訪で大いにショックを受けたこと 【エディターから一言】 - webCG</title>
@@ -5152,15 +5128,33 @@
     <link href="https://www.webcg.net/articles/-/53240" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: たった1晩の睡眠から100以上の病気リスクを予測するAIモデルが開発される</title>
-    <updated>2026-01-16T03:19:05Z</updated>
-    <id>tag:gigazine.net,2026-01-16:/news/20260116-single-nights-sleep-predict-diseases-risk/</id>
-    <link href="https://gigazine.net/news/20260116-single-nights-sleep-predict-diseases-risk/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「LINEグループに招待して」詐欺急増。社長/上司を装う偽メールに警視庁が警告</title>
+    <updated>2026-01-16T03:17:53Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-01-16:/docs/news/2078388.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2078388.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ZOZOマッチのリアルタイムメッセージング基盤 〜AWS AppSyncとGraphQL Subscriptionの活用〜 - ZOZO TECH BLOG</title>
-    <updated>2026-01-16T02:24:30Z</updated>
-    <id>tag:techblog.zozo.com,2026-01-16:/entry/zozomatch-be-graphql</id>
-    <link href="https://techblog.zozo.com/entry/zozomatch-be-graphql" rel="alternate"></link>
+    <title>1:hatena_blog_it: マウスコンピューター「全モデル販売停止」の真相　軣社長が語った“想定外の受注急増”と“正直な決断”</title>
+    <updated>2026-01-16T04:22:10Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-16:/pcuser/articles/2601/16/news082.html</id>
+    <link href="https://www.itmedia.co.jp/pcuser/articles/2601/16/news082.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OpenAIが日本語対応の翻訳サイト「ChatGPT Translate」をひっそりリリース</title>
+    <updated>2026-01-16T02:43:34Z</updated>
+    <id>tag:gigazine.net,2026-01-16:/news/20260116-chatgpt-translate/</id>
+    <link href="https://gigazine.net/news/20260116-chatgpt-translate/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: “ChatGPT一強”終わる　1年でシェア22ポイント減、Gemini猛追　Webトラフィック調査</title>
+    <updated>2026-01-16T00:03:15Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-01-16:/aiplus/articles/2601/16/news067.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2601/16/news067.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: マッキンゼーは次世代の採用テストでAIツール「Lilli」を利用してケーススタディを分析させている</title>
+    <updated>2026-01-16T04:51:31Z</updated>
+    <id>tag:gigazine.net,2026-01-16:/news/20260116-mckinsey-ai-chatbot-recruitment-process/</id>
+    <link href="https://gigazine.net/news/20260116-mckinsey-ai-chatbot-recruitment-process/" rel="alternate"></link>
   </entry>
 </feed>
