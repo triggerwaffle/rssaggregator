@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-02-05T06:50:39Z</updated>
+  <updated>2026-02-05T12:46:57Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -9,6 +9,12 @@
     <name>triggerwaffle</name>
     <email>johndoe@example.com</email>
   </author>
+  <entry>
+    <title>4:orielly_books_soon: Aligned</title>
+    <updated>2026-03-04T00:00:00+09:00</updated>
+    <id>tag:www.oreilly.co.jp,2026-03-04:/books/9784814401499/</id>
+    <link href="http://www.oreilly.co.jp/books/9784814401499/?utm_source=feed&utm_mediun=referral&utm_content=new_book" rel="alternate"></link>
+  </entry>
   <entry>
     <title>4:orielly_books_soon: 解読 データアーキテクチャ</title>
     <updated>2026-02-10T00:00:00+09:00</updated>
@@ -136,22 +142,34 @@
     <link href="https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: なぜJavaのジェネリクスの型推論は同じ型を強制しないのか</title>
+    <updated>2026-02-05T01:24:10Z</updated>
+    <id>https://zenn.dev/nstock/articles/java-generics-lub-type-inference</id>
+    <link href="https://zenn.dev/nstock/articles/java-generics-lub-type-inference" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 現在のパスキーは単一障害点である</title>
+    <updated>2026-02-04T14:58:00Z</updated>
+    <id>https://zenn.dev/malt03/articles/3f5dbee5301ddd</id>
+    <link href="https://zenn.dev/malt03/articles/3f5dbee5301ddd" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: Ghostty + lazygit + Claude Code 構成に憧れて挫折し、VSCodeにタブバーを生やした</title>
+    <updated>2026-02-04T10:37:29Z</updated>
+    <id>https://zenn.dev/yukih/articles/33cba73b2e62dc</id>
+    <link href="https://zenn.dev/yukih/articles/33cba73b2e62dc" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: tmux使いが全員Zellijに乗り換える日が来た</title>
+    <updated>2026-02-04T10:00:51Z</updated>
+    <id>https://zenn.dev/hirokitakamura/articles/zellij-complete-guide</id>
+    <link href="https://zenn.dev/hirokitakamura/articles/zellij-complete-guide" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: 防衛省サイバーコンテスト 2026 CTF Writeup</title>
     <updated>2026-02-04T06:23:33Z</updated>
     <id>https://zenn.dev/waki285/articles/2026-modctf-writeup</id>
     <link href="https://zenn.dev/waki285/articles/2026-modctf-writeup" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 【インターン 2025】~ Finatext ~</title>
-    <updated>2026-02-04T06:00:02Z</updated>
-    <id>https://zenn.dev/ahiru75/articles/e865848bdea632</id>
-    <link href="https://zenn.dev/ahiru75/articles/e865848bdea632" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: ちょっと社でアンケートとってみた - State of chot Inc. 2025</title>
-    <updated>2026-02-04T04:07:42Z</updated>
-    <id>https://zenn.dev/chot/articles/state-of-chot-inc-2025</id>
-    <link href="https://zenn.dev/chot/articles/state-of-chot-inc-2025" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: CodeX のデスクトップアプリを触ってみた</title>
@@ -220,28 +238,10 @@
     <link href="https://zenn.dev/nanahiryu/articles/claude-code-skills-202601" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 防衛省サイバーコンテスト2026 Writeup</title>
-    <updated>2026-02-02T14:58:05Z</updated>
-    <id>https://zenn.dev/saku0512/articles/e33e6df540df45</id>
-    <link href="https://zenn.dev/saku0512/articles/e33e6df540df45" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: 技術負債も理解負債も生まないAIコーディング手法（2026年2月現在）</title>
     <updated>2026-02-02T11:01:57Z</updated>
     <id>https://zenn.dev/avaintelligence/articles/debt-free-ai-coding-practices</id>
     <link href="https://zenn.dev/avaintelligence/articles/debt-free-ai-coding-practices" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: コンポーネントの「ウォーターフォール問題」をどう解決するか by React開発者 Dan Abramov氏</title>
-    <updated>2026-02-02T10:00:02Z</updated>
-    <id>https://zenn.dev/dragon1208/articles/5ed0277f280e71</id>
-    <link href="https://zenn.dev/dragon1208/articles/5ed0277f280e71" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Claude Code Skillsがわからなくて焦った僕が、最初に考えるべきだったこと</title>
-    <updated>2026-02-02T06:55:14Z</updated>
-    <id>https://zenn.dev/tokium_dev/articles/1f0c83eb3dd72d</id>
-    <link href="https://zenn.dev/tokium_dev/articles/1f0c83eb3dd72d" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: VSCodeの時代は終わった？次世代エディタ Zed Editor 完全ガイド</title>
@@ -256,10 +256,22 @@
     <link href="https://zenn.dev/scgajge12/books/06d5b176dfe0d7" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: Claude Code Max(100ドル)を会社支給にするまでに考えたこと・試したことまとめ</title>
+    <updated>2026-02-01T23:05:48Z</updated>
+    <id>https://zenn.dev/manalink_dev/articles/claude_code_max_plan_thinking_and_compare</id>
+    <link href="https://zenn.dev/manalink_dev/articles/claude_code_max_plan_thinking_and_compare" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:qiita_trend: 2026年、AWS LambdaはVSCodeで開発するのがナウい</title>
     <updated>2026-02-03T11:52:34Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/2153552</id>
     <link href="https://qiita.com/moritalous/items/4daa244550e2a4388d26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。</title>
+    <updated>2026-02-03T02:25:59Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153301</id>
+    <link href="https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: AIエージェントと協働するオフィスワーク2026</title>
@@ -274,142 +286,10 @@
     <link href="https://qiita.com/hitomin_poke/items/0d772d4fdd8a05f5cc8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。</title>
-    <updated>2026-02-03T02:25:59Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153301</id>
-    <link href="https://qiita.com/yosim/items/bbc8671d4295139c6e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: Windows アプリの開発手段の選択肢をまとめてみたの続き</title>
-    <updated>2026-02-02T00:00:06Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2152777</id>
-    <link href="https://qiita.com/tinymouse/items/f036cf3ac3381e6f4438?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
-    <updated>2026-02-04T03:16:02Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153811</id>
-    <link href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: Qiitaでの発信をきっかけに書籍を出版しました</title>
-    <updated>2026-02-02T23:26:05Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153250</id>
-    <link href="https://qiita.com/c60evaporator/items/9c7bd5791f33b2c034cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: Claude Codeを使用する上で設定したほうが良いファイル5選</title>
-    <updated>2026-02-03T09:28:11Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153483</id>
-    <link href="https://qiita.com/TatApp/items/6618c025de5715ed35d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: URLだけで進捗共有できるタスク管理ツールを作った話（社内チャット向け）</title>
-    <updated>2026-02-03T03:18:03Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153331</id>
-    <link href="https://qiita.com/uni928/items/2f92ad7f7bee9f4b9f51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: UIデザインから実装までをAIエージェントに丸投げしてみた（ChatGPT → Google Stitch → Antigravity × Claude Opus 4.5）</title>
-    <updated>2026-02-03T23:21:15Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153739</id>
-    <link href="https://qiita.com/kunitomo926/items/205aa17d0acc88a34bf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: 何だか疲れたときに見る記事</title>
-    <updated>2026-02-02T09:52:00Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2152981</id>
-    <link href="https://qiita.com/kyoooohei_y/items/a0a3c16b5f9950453af6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: 【時短術】Nano Bananaの画像をパワポの『オブジェクト』として編集する方法（SVG変換）</title>
-    <updated>2026-02-04T00:04:51Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153750</id>
-    <link href="https://qiita.com/hamham/items/24a60507b75a337ff184?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: SLMをファインチューニングしてみる</title>
-    <updated>2026-02-03T01:28:43Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153286</id>
-    <link href="https://qiita.com/lambda-knight/items/72d17be884cc471c3b7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: サーバレスでここまでできる！CloudFront + S3 + Lambda でWeb公開</title>
-    <updated>2026-02-02T06:50:37Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2152897</id>
-    <link href="https://qiita.com/toyooka_yuga/items/c70b14bb1cd3b5bd28ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: 【JavaScript】Object.keys(obj).lengthをもっと短く書きたい！ ……書きたい？</title>
-    <updated>2026-02-02T11:02:26Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153018</id>
-    <link href="https://qiita.com/rana_kualu/items/630e9fe09175f9a3f2e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: エンジニアの経験が伝わる職務経歴書を書く - シーキューブモデル</title>
-    <updated>2026-02-02T00:04:47Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2152779</id>
-    <link href="https://qiita.com/newta/items/248390917376fc96e51d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: 【シリアル通信】「実機がないからテストできない」は言い訳？SocketDebuggerで巨大な産業機器を丸ごと模擬してみた🔥</title>
-    <updated>2026-02-04T00:19:44Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153754</id>
-    <link href="https://qiita.com/umezawa_udom/items/1492b77916ce3061cadf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: Rust言語勉強 ~所有権について~</title>
-    <updated>2026-02-02T04:29:55Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2151462</id>
-    <link href="https://qiita.com/Kanau_Kato/items/4051665b4c41249da715?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: 話すだけで日報が完成し、課題は夜に進み、朝に“今日やるべきこと”が届く──Copilot Studioで作る「日報×課題実行×調査支援」マルチエージェント</title>
-    <updated>2026-02-04T01:46:46Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153780</id>
-    <link href="https://qiita.com/Katayama_Studio/items/1f551e33a09a2b127ad6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: 【速報】OpenAIがCodex Appを投下！Claude Code終了か？「数週間の作業を数日で」の衝撃</title>
-    <updated>2026-02-02T21:04:58Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153225</id>
-    <link href="https://qiita.com/emi_ndk/items/8a01a07f0e2e80a5197b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: (新機能)AWSマネジメントコンソールのナビゲーションバーにアカウント名が表示されるようになりました</title>
-    <updated>2026-02-04T01:48:52Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153782</id>
-    <link href="https://qiita.com/yama3133/items/661f270ea8bec83b3ca9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: MySQLで「数日前に実行されたUPDATE文」を調査・特定する方法</title>
-    <updated>2026-02-04T02:25:24Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153795</id>
-    <link href="https://qiita.com/oguri-yusuke/items/95368fcb651ebd9909f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: iPhone に iPerf3 を入れて Oracle Cloud 仮想マシンへインターネット帯域測定してみてみた</title>
-    <updated>2026-02-04T00:01:18Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153746</id>
-    <link href="https://qiita.com/shirok/items/15df5bdf54024e5a9f21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: ⏰Copilot Scheduler🚀 GitHub Copilot をスケジュール実行する VS Code 拡張機能を作った</title>
-    <updated>2026-02-01T21:58:28Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2152743</id>
-    <link href="https://qiita.com/aktsmm/items/9a90eede8f4396ef216d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: VS Code × Cline × OCI GenAIで"コピペバイブコーディングを卒業"</title>
-    <updated>2026-02-02T13:56:02Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153127</id>
-    <link href="https://qiita.com/itokazu/items/28042d9285ffbfed9da8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:qiita_trend: 最近の GitHub の AI 周りのまとめ in Microsoft AI Tour in Mumbai 基調講演デモ (2025年12月版)</title>
-    <updated>2026-02-04T15:46:48Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2154144</id>
-    <link href="https://qiita.com/chomado/items/9e2d2b3f9ef6a40a83d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: エンジニアは、なぜ生成AIで仕事が楽にならないのか</title>
+    <updated>2026-02-05T01:29:55Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153168</id>
+    <link href="https://qiita.com/KYoshiyama/items/14554853372f33c3374b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: 【Claude Code】 /insights コマンドがおもしろい</title>
@@ -418,22 +298,148 @@
     <link href="https://qiita.com/ryu-ki/items/7748d48a725f742428b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:qiita_trend: React 19の型定義では「FC」と「ReactNodeを返す関数」が違う</title>
+    <updated>2026-02-04T03:16:02Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153811</id>
+    <link href="https://qiita.com/uhyo/items/0d6797b848ed41d0e697?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: URLだけで進捗共有できるタスク管理ツールを作った話（社内チャット向け）</title>
+    <updated>2026-02-03T03:18:03Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153331</id>
+    <link href="https://qiita.com/uni928/items/2f92ad7f7bee9f4b9f51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 最近の GitHub の AI 周りのまとめ in Microsoft AI Tour in Mumbai 基調講演デモ (2025年12月版)</title>
+    <updated>2026-02-04T15:46:48Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2154144</id>
+    <link href="https://qiita.com/chomado/items/9e2d2b3f9ef6a40a83d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: Qiitaでの発信をきっかけに書籍を出版しました</title>
+    <updated>2026-02-02T23:26:05Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153250</id>
+    <link href="https://qiita.com/c60evaporator/items/9c7bd5791f33b2c034cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 閉域内に Bedrock と MCP を使った Streamlit アプリを ECS Express モードでデプロイする</title>
+    <updated>2026-02-04T17:00:24Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2154157</id>
+    <link href="https://qiita.com/takeda_h/items/6c57a34453d01346478d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 【ACE-Step-1.5】30分で構築するローカル音楽生成AI｜初学者向け</title>
+    <updated>2026-02-04T15:42:55Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2154140</id>
+    <link href="https://qiita.com/abemaki29/items/471b600074852732239e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 【時短術】Nano Bananaの画像をパワポの『オブジェクト』として編集する方法（SVG変換）</title>
+    <updated>2026-02-04T00:04:51Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153750</id>
+    <link href="https://qiita.com/hamham/items/24a60507b75a337ff184?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: Claude Codeを使用する上で設定したほうが良いファイル5選</title>
+    <updated>2026-02-03T09:28:11Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153483</id>
+    <link href="https://qiita.com/TatApp/items/6618c025de5715ed35d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 【Delphi】週番号を得る</title>
+    <updated>2026-02-04T11:35:12Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2154036</id>
+    <link href="https://qiita.com/ht_deko/items/738b9c83ce7e85d94a6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: SLMをファインチューニングしてみる</title>
+    <updated>2026-02-03T01:28:43Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153286</id>
+    <link href="https://qiita.com/lambda-knight/items/72d17be884cc471c3b7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:qiita_trend: 【Kaggle】CSIRO 上位解法振り返り</title>
     <updated>2026-02-04T07:31:43Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/2153912</id>
     <link href="https://qiita.com/kazuki-matsuoka/items/878dbc90060c4ab6fd6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: CloudWatch Logsのコストを約7割削減した話</title>
-    <updated>2026-02-04T03:19:22Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153813</id>
-    <link href="https://qiita.com/ebina-kota/items/f05a174b51ee0cc694dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: 【シリアル通信】「実機がないからテストできない」は言い訳？SocketDebuggerで巨大な産業機器を丸ごと模擬してみた🔥</title>
+    <updated>2026-02-04T00:19:44Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153754</id>
+    <link href="https://qiita.com/umezawa_udom/items/1492b77916ce3061cadf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: インデックス、なんとなく張ってない？設計の判断基準まとめ</title>
-    <updated>2026-02-04T03:05:27Z</updated>
-    <id>tag:qiita.com,2005:PublicArticle/2153809</id>
-    <link href="https://qiita.com/chara-gida/items/e90d4774cce0301b4edc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+    <title>3:qiita_trend: 何だか疲れたときに見る記事</title>
+    <updated>2026-02-02T09:52:00Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2152981</id>
+    <link href="https://qiita.com/kyoooohei_y/items/a0a3c16b5f9950453af6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: UIデザインから実装までをAIエージェントに丸投げしてみた（ChatGPT → Google Stitch → Antigravity × Claude Opus 4.5）</title>
+    <updated>2026-02-03T23:21:15Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153739</id>
+    <link href="https://qiita.com/kunitomo926/items/205aa17d0acc88a34bf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 【Claude Code Skills】superpowers - AIエージェント向け開発ワークフローの決定版を徹底解説</title>
+    <updated>2026-02-02T14:50:39Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153152</id>
+    <link href="https://qiita.com/pythonista0328/items/723b5cb4ef19718ed491?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 【JavaScript】Object.keys(obj).lengthをもっと短く書きたい！ ……書きたい？</title>
+    <updated>2026-02-02T11:02:26Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153018</id>
+    <link href="https://qiita.com/rana_kualu/items/630e9fe09175f9a3f2e8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 【コピペOK】Ant Design コンポーネントカタログ 〜画像と用途で探せる逆引きガイド〜</title>
+    <updated>2026-02-05T01:35:21Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2154240</id>
+    <link href="https://qiita.com/issy345/items/82e886f394709e0c703b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: Laravel × Vueで発生するJSエラーをSentryに分かりやすく通知する方法</title>
+    <updated>2026-02-05T03:00:20Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2152680</id>
+    <link href="https://qiita.com/chaochire/items/8430035d149518646119?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: iPhone に iPerf3 を入れて Oracle Cloud 仮想マシンへインターネット帯域測定してみてみた</title>
+    <updated>2026-02-04T00:01:18Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153746</id>
+    <link href="https://qiita.com/shirok/items/15df5bdf54024e5a9f21?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: 入水しました！！</title>
+    <updated>2026-02-05T03:40:24Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2154290</id>
+    <link href="https://qiita.com/hekiboko/items/06677d5ba8eb2821bfb7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: いまさら聞けないClaude Code入門</title>
+    <updated>2026-02-04T02:01:45Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153787</id>
+    <link href="https://qiita.com/k-mae/items/ef68761dab12a58f399a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: プロンプトエンジニアリングの5つの原則</title>
+    <updated>2026-02-02T08:58:31Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2152955</id>
+    <link href="https://qiita.com/shunkus/items/25a56308a050298db895?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: VS Code × Cline × OCI GenAIで"コピペバイブコーディングを卒業"</title>
+    <updated>2026-02-02T13:56:02Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2153127</id>
+    <link href="https://qiita.com/itokazu/items/28042d9285ffbfed9da8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:qiita_trend: リモートMCPサーバーの現在地を調べてみた</title>
+    <updated>2026-02-05T03:08:15Z</updated>
+    <id>tag:qiita.com,2005:PublicArticle/2154281</id>
+    <link href="https://qiita.com/goroneko/items/00f1c99ac91d0c495cf7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:distrotube_youtube: Digital Detox And Being Self Sufficient</title>
@@ -5026,16 +5032,34 @@
     <link href="https://gihyo.jp/article/2025/02/android-weekly-topics-250206?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Codeの性能を引き出すワークフロー設計 - エス・エム・エス エンジニア テックブログ</title>
-    <updated>2026-02-04T02:50:41Z</updated>
-    <id>tag:tech.bm-sms.co.jp,2026-02-04:/entry/2026/02/04/110000</id>
-    <link href="https://tech.bm-sms.co.jp/entry/2026/02/04/110000" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「×」ボタンをタップしても消えない――「UI偽装広告」が壊すデジタル社会の常識</title>
+    <updated>2026-02-05T05:37:33Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-02-05:/news/articles/2602/04/news050.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2602/04/news050.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ｢日報をAIに丸投げ｣した新人の1年後の悲惨な末路　日報はなぜあるのか？　AIを｢使うな｣ではなく｢使い方を考える｣必要がある</title>
     <updated>2026-02-04T22:21:00Z</updated>
     <id>tag:toyokeizai.net,2026-02-04:/articles/-/933473</id>
     <link href="https://toyokeizai.net/articles/-/933473?display=b" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Claude Codeの性能を引き出すワークフロー設計 - エス・エム・エス エンジニア テックブログ</title>
+    <updated>2026-02-04T02:50:41Z</updated>
+    <id>tag:tech.bm-sms.co.jp,2026-02-04:/entry/2026/02/04/110000</id>
+    <link href="https://tech.bm-sms.co.jp/entry/2026/02/04/110000" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: HDD大手メーカー、なんと「読み書き速度4倍」となる新技術発表。お値段急騰中のSSDの“代わり”を目指す - AUTOMATON</title>
+    <updated>2026-02-05T07:09:44Z</updated>
+    <id>tag:automaton-media.com,2026-02-05:/articles/newsjp/hdd-20260205-416397/</id>
+    <link href="https://automaton-media.com/articles/newsjp/hdd-20260205-416397/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Gemini新機能「プロジェクト」展開へ</title>
+    <updated>2026-02-05T02:07:52Z</updated>
+    <id>tag:jetstream.blog,2026-02-05:/satellite/gemini-new-feature-projects-coming-soon/</id>
+    <link href="https://jetstream.blog/satellite/gemini-new-feature-projects-coming-soon/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 声優ら、声のAI無断複製に危惧　権利侵害訴える手立て乏しく - 日本経済新聞</title>
@@ -5050,34 +5074,10 @@
     <link href="https://speakerdeck.com/shoheimitani/foreign-key-checks" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 任天堂、好決算でも株価急落……Google「ゲーム生成AI」の衝撃、唯一無二のゲームブランドを脅かすか</title>
-    <updated>2026-02-05T01:23:05Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-02-05:/business/articles/2602/05/news030.html</id>
-    <link href="https://www.itmedia.co.jp/business/articles/2602/05/news030.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: ChromeOSは2034年に段階的廃止へ…GoogleのOS開発計画、裁判所への提出書類から判明【やじうまWatch】</title>
     <updated>2026-02-05T02:51:48Z</updated>
     <id>tag:internet.watch.impress.co.jp,2026-02-05:/docs/yajiuma/2083598.html</id>
     <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2083598.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 生成AIヘビーユーザーほど「残業時間が長い」　パーソル傘下調査</title>
-    <updated>2026-02-04T09:51:22Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-02-04:/aiplus/articles/2602/04/news121.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2602/04/news121.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「AIが人間をレンタルできるサービスが誕生」まさにディストピアがすぐそこまで来ているのでは</title>
-    <updated>2026-02-04T13:28:12Z</updated>
-    <id>tag:togetter.com,2026-02-04:/li/2659913</id>
-    <link href="https://togetter.com/li/2659913" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Gemini新機能「プロジェクト」展開へ</title>
-    <updated>2026-02-05T02:07:52Z</updated>
-    <id>tag:jetstream.blog,2026-02-05:/satellite/gemini-new-feature-projects-coming-soon/</id>
-    <link href="https://jetstream.blog/satellite/gemini-new-feature-projects-coming-soon/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AIで機能開発は早くなったのに、なぜ収益が伸びないのか｜MRYY</title>
@@ -5086,94 +5086,34 @@
     <link href="https://note.com/mryy/n/ndf519006ee0e" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 無料で「Suno v4.5」超え？　音楽生成AI「ACE-Step v1.5」公開　個人向けGPUでも動作</title>
-    <updated>2026-02-04T17:26:11Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-02-04:/aiplus/articles/2602/04/news127.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2602/04/news127.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIでSaaSは死なないし、業務システムをAIで内製化してはいけない｜Real SmartHR リアスマ</title>
+    <updated>2026-02-05T06:10:54Z</updated>
+    <id>tag:real.smarthr.co.jp,2026-02-05:/articles/times_serizawa_0008</id>
+    <link href="https://real.smarthr.co.jp/articles/times_serizawa_0008" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Geminiが作ってくれた最悪なプログラミング言語「Ojisan」、最悪だが読みやすく分かりやすいという声が寄せられる</title>
-    <updated>2026-02-04T14:13:11Z</updated>
-    <id>tag:togetter.com,2026-02-04:/li/2659959</id>
-    <link href="https://togetter.com/li/2659959" rel="alternate"></link>
+    <title>1:hatena_blog_it: たった一日で43兆円が消えた日　Anthropic「Cowork」が揺るがしたSaaS神話</title>
+    <updated>2026-02-05T03:02:53Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-02-05:/business/articles/2602/05/news067.html</id>
+    <link href="https://www.itmedia.co.jp/business/articles/2602/05/news067.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「×」ボタンをタップしても消えない――「UI偽装広告」が壊すデジタル社会の常識</title>
-    <updated>2026-02-05T05:37:33Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-02-05:/news/articles/2602/04/news050.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2602/04/news050.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【優勝🥇】防衛省サイバーコンテストをAIで攻略した話 - Qiita</title>
+    <updated>2026-02-05T08:02:55Z</updated>
+    <id>tag:qiita.com,2026-02-05:/satoki/items/955302bf2615813bae5a</id>
+    <link href="https://qiita.com/satoki/items/955302bf2615813bae5a" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Apple SiliconでAIやっている人に朗報です。vllm-mlxが凄い。 - Qiita</title>
-    <updated>2026-02-04T03:55:50Z</updated>
-    <id>tag:qiita.com,2026-02-04:/yosim/items/bbc8671d4295139c6e6d</id>
-    <link href="https://qiita.com/yosim/items/bbc8671d4295139c6e6d" rel="alternate"></link>
+    <title>1:hatena_blog_it: 任天堂、好決算でも株価急落……Google「ゲーム生成AI」の衝撃、唯一無二のゲームブランドを脅かすか</title>
+    <updated>2026-02-05T01:23:05Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-02-05:/business/articles/2602/05/news030.html</id>
+    <link href="https://www.itmedia.co.jp/business/articles/2602/05/news030.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: TSMCの熊本新工場、最先端品「3ナノ」に転換　AI向け需要増 - 日本経済新聞</title>
-    <updated>2026-02-05T02:55:34Z</updated>
-    <id>tag:www.nikkei.com,2026-02-05:/article/DGXZQOGM295DG0Z20C26A1000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGM295DG0Z20C26A1000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Anthropic、スーパーボウル向けCMを公開　OpenAIのアルトマンCEOは「不誠実な印象操作だ」と批判</title>
-    <updated>2026-02-04T22:55:49Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-02-04:/news/articles/2602/05/news062.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2602/05/news062.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Anthropic、AIへの広告導入はしないと宣言　「Claudeは思考のための純粋な道具であるべき」</title>
-    <updated>2026-02-04T22:03:27Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-02-04:/news/articles/2602/05/news060.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2602/05/news060.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: LayerX に join しました - As a Futurist...</title>
-    <updated>2026-02-04T23:38:18Z</updated>
-    <id>tag:blog.riywo.com,2026-02-04:/2026/02/joining-layerx/</id>
-    <link href="https://blog.riywo.com/2026/02/joining-layerx/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: NPUなんて飾りだ！その認識、これを読めばちょっと変わるかも</title>
-    <updated>2026-02-04T23:25:50Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2026-02-04:/docs/news/2083505.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2083505.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: OSSは特別じゃない。アウトプットを30年間続けてきて得たもの - Findy Media</title>
-    <updated>2026-02-04T23:39:27Z</updated>
-    <id>tag:findy-code.io,2026-02-04:/media/articles/codesidechat-gosukenator</id>
-    <link href="https://findy-code.io/media/articles/codesidechat-gosukenator" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Claude CodeのTasks System機能を試してみた | DevelopersIO</title>
-    <updated>2026-02-03T11:09:50Z</updated>
-    <id>tag:dev.classmethod.jp,2026-02-03:/articles/claude-code-tasks-system/</id>
-    <link href="https://dev.classmethod.jp/articles/claude-code-tasks-system/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: [石野純也の「スマホとお金」] 「2万円還元」が招く“ホッパー”問題　SIM単体キャッシュバックの仕組みと行方</title>
-    <updated>2026-02-05T00:01:10Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2026-02-05:/docs/column/value/2083468.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/column/value/2083468.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Mistral AIが文字起こしAI「Voxtral Mini Transcribe V2」と「Voxtral Realtime」を発表</title>
-    <updated>2026-02-05T03:20:19Z</updated>
-    <id>tag:gigazine.net,2026-02-05:/news/20260205-mistral-ai-voxtral-transcribe-2/</id>
-    <link href="https://gigazine.net/news/20260205-mistral-ai-voxtral-transcribe-2/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Obsidian引退しました｜すぅ | AI駆動PM</title>
-    <updated>2026-02-03T13:45:03Z</updated>
-    <id>tag:note.com,2026-02-03:/suh_sunaneko/n/nad82181288b2</id>
-    <link href="https://note.com/suh_sunaneko/n/nad82181288b2" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: SRE Kaigi 2026で「コスト版ポストモーテム」の導入とその後の改善について発表しました - ANDPAD Tech Blog</title>
-    <updated>2026-02-05T01:03:06Z</updated>
-    <id>tag:tech.andpad.co.jp,2026-02-05:/entry/2026/02/05/100000</id>
-    <link href="https://tech.andpad.co.jp/entry/2026/02/05/100000" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIで並列開発に挑んだら、逆に効率を落とした話 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+    <updated>2026-02-05T06:16:30Z</updated>
+    <id>tag:tech-blog.rakus.co.jp,2026-02-05:/entry/20260204/ai-parallel-development</id>
+    <link href="https://tech-blog.rakus.co.jp/entry/20260204/ai-parallel-development" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: アンソロピックの新AIエージェントにより「ソフトウェア不要論」が世界に拡大、インドIT株が急落 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
@@ -5182,9 +5122,75 @@
     <link href="https://forbesjapan.com/articles/detail/91121" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 無料で「Suno v4.5」超え？　音楽生成AI「ACE-Step v1.5」公開　個人向けGPUでも動作</title>
+    <updated>2026-02-04T17:26:11Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-02-04:/aiplus/articles/2602/04/news127.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2602/04/news127.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: TSMCの熊本新工場、最先端品「3ナノ」に転換　AI向け需要増 - 日本経済新聞</title>
+    <updated>2026-02-05T02:55:34Z</updated>
+    <id>tag:www.nikkei.com,2026-02-05:/article/DGXZQOGM295DG0Z20C26A1000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGM295DG0Z20C26A1000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「AIが人間をレンタルできるサービスが誕生」まさにディストピアがすぐそこまで来ているのでは</title>
+    <updated>2026-02-04T13:28:12Z</updated>
+    <id>tag:togetter.com,2026-02-04:/li/2659913</id>
+    <link href="https://togetter.com/li/2659913" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: Surface RT「歴史的大失敗」の裏で何が？　エプスタイン文書が示すMS元幹部の焦りと情報漏えい</title>
     <updated>2026-02-05T03:59:57Z</updated>
     <id>tag:www.itmedia.co.jp,2026-02-05:/pcuser/articles/2602/05/news055.html</id>
     <link href="https://www.itmedia.co.jp/pcuser/articles/2602/05/news055.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Anthropic、AIへの広告導入はしないと宣言　「Claudeは思考のための純粋な道具であるべき」</title>
+    <updated>2026-02-04T22:03:27Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-02-04:/news/articles/2602/05/news060.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2602/05/news060.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Anthropic、スーパーボウル向けCMを公開　OpenAIのアルトマンCEOは「不誠実な印象操作だ」と批判</title>
+    <updated>2026-02-04T22:55:49Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-02-04:/news/articles/2602/05/news062.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2602/05/news062.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: キャリア10年超のライター、ついにAIに仕事を奪われる</title>
+    <updated>2026-02-04T23:55:07Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2026-02-04:/ait/articles/2601/29/news011.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2601/29/news011.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ウォンテッドリーのLLM アプリケーション自動テスト戦略 | Wantedly Engineer Blog</title>
+    <updated>2026-02-05T08:21:18Z</updated>
+    <id>tag:www.wantedly.com,2026-02-05:/companies/wantedly/post_articles/1041873</id>
+    <link href="https://www.wantedly.com/companies/wantedly/post_articles/1041873" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OllamaがOCR対応。v0.15.5で手書き認識やコーディング特化モデル追加</title>
+    <updated>2026-02-05T05:50:52Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-02-05:/docs/news/2083704.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2083704.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「これ、申し込めてるの？」　1.1万円の「東京ポイント」獲得は、ちょっと不安だった</title>
+    <updated>2026-02-05T04:02:58Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-02-05:/news/articles/2602/05/news072.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2602/05/news072.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: NPUなんて飾りだ！その認識、これを読めばちょっと変わるかも</title>
+    <updated>2026-02-04T23:25:50Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-02-04:/docs/news/2083505.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2083505.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: サンスター、芯がドバッと補充できるシャープペン「シンドバット」復刻</title>
+    <updated>2026-02-04T01:56:53Z</updated>
+    <id>tag:www.watch.impress.co.jp,2026-02-04:/docs/news/2083086.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2083086.html" rel="alternate"></link>
   </entry>
 </feed>
