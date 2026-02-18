@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-02-18T12:51:23Z</updated>
+  <updated>2026-02-18T18:43:40Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -988,6 +988,18 @@
     <link href="https://www.youtube.com/watch?v=0VknpDHN2Co" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: Amazon EC2が仮想化のネスト（Nested Virtualization）に対応。KVMやHyper-Vを用いた仮想マシンを設定可能に</title>
+    <updated>2026-02-18T15:38:06Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8486</id>
+    <link href="https://www.publickey1.jp/blog/26/amazon_ec2nested_virtualizationkvmhyper-v.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: Slackが「リアルタイムサーチAPI」と「Slack MCP Server」を発表。生成AIがSlack上のやりとりを基にコンテキストを理解可能</title>
+    <updated>2026-02-18T15:36:16Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8485</id>
+    <link href="https://www.publickey1.jp/blog/26/slackapislack_mcp_serveraislack.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: マイクロソフト、.NETランタイムでWebAssemblyの実行をサポートへ、CoreCLRに実装を開始</title>
     <updated>2026-02-17T15:44:49Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8484</id>
@@ -1064,18 +1076,6 @@
     <updated>2026-02-04T15:48:50Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8472</id>
     <link href="https://www.publickey1.jp/blog/26/aiagent_tracecursorcognitiongoogle_jules.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: さくらのクラウド、ガバメントクラウドの条件クリアまであと3つまで到達。残りは統制やセキュリティ認証、オブジェクトストレージなどの一部に</title>
-    <updated>2026-02-04T15:43:15Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8471</id>
-    <link href="https://www.publickey1.jp/blog/26/3_8.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Claude CodeやGemini CLIなどのコーディングエージェントを安全に使えるMicroVMベースの分離環境「Docker Sandbox」。WindowsとMacに対応</title>
-    <updated>2026-02-04T02:35:51Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8470</id>
-    <link href="https://www.publickey1.jp/blog/26/dockerclaude_codegemini_climicroivmdocker_snadboxwindowsmac.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Anthropic、Opusクラスに迫る「Claude Sonnet 4.6」をリリース ——FigmaもClaude Codeを利用した、ブラウザ上のUIキャプチャ機能を発表</title>
@@ -5074,22 +5074,10 @@
     <link href="https://gihyo.jp/article/2025/02/daily-linux-250219?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 航空機内でモバイルバッテリーの使用禁止へ 4月から 国交省 | NHKニュース</title>
-    <updated>2026-02-18T03:35:57Z</updated>
-    <id>tag:news.web.nhk,2026-02-18:/newsweb/na/na-k10015054951000</id>
-    <link href="https://news.web.nhk/newsweb/na/na-k10015054951000" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Anthropic公式「スキル構築ガイド」を読み解く──Claude Codeの真の拡張はここにある - Qiita</title>
     <updated>2026-02-18T01:40:08Z</updated>
     <id>tag:qiita.com,2026-02-18:/nogataka/items/cace9602e4eaea995cc9</id>
     <link href="https://qiita.com/nogataka/items/cace9602e4eaea995cc9" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: エプスタイン文書を「使い慣れたUI」で丸裸にする開発者たち｜情報の灯台</title>
-    <updated>2026-02-17T15:15:14Z</updated>
-    <id>tag:note.com,2026-02-17:/joho_no_todai/n/nb1bfe7a329c9</id>
-    <link href="https://note.com/joho_no_todai/n/nb1bfe7a329c9" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【15分で追いつく！】今のClaude Codeができることをざっくり解説 - Qiita</title>
@@ -5098,10 +5086,10 @@
     <link href="https://qiita.com/kyuko/items/77e9e022860b57e4bd4d" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【特集】 PCが起動不能になる？6月に期限切れを迎えるセキュアブート証明書問題とは</title>
-    <updated>2026-02-17T21:09:45Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2026-02-17:/docs/topic/feature/2086628.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2086628.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 航空機内でモバイルバッテリーの使用禁止へ 4月から 国交省 | NHKニュース</title>
+    <updated>2026-02-18T03:35:57Z</updated>
+    <id>tag:news.web.nhk,2026-02-18:/newsweb/na/na-k10015054951000</id>
+    <link href="https://news.web.nhk/newsweb/na/na-k10015054951000" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: AnkerからAIボイスレコーダー「Soundcore Work」が発売、世界最小でAI文字起こしや要約</title>
@@ -5116,118 +5104,16 @@
     <link href="https://note.com/simplearchitect/n/n0de0a2e8bc6e" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: あなたがSunoだと思ってサブスクしているそのAI作曲サービスの正体（CloseBox） | テクノエッジ TechnoEdge</title>
-    <updated>2026-02-18T02:04:14Z</updated>
-    <id>tag:www.techno-edge.net,2026-02-18:/article/2026/02/18/4870.html</id>
-    <link href="https://www.techno-edge.net/article/2026/02/18/4870.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 問い合わせ対応の全工程の自動化を AI で実現 - CRE による MCP から Agent Skills 移行の記録 - 弁護士ドットコム株式会社 Creators’ blog</title>
+    <updated>2026-02-18T05:30:03Z</updated>
+    <id>tag:creators.bengo4.com,2026-02-18:/entry/2026/02/18/080000</id>
+    <link href="https://creators.bengo4.com/entry/2026/02/18/080000" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AWS 構成図をプロンプトひとつで作れる！Claude Code + draw.io MCP サーバーを試してみた | DevelopersIO</title>
-    <updated>2026-02-17T16:30:40Z</updated>
-    <id>tag:dev.classmethod.jp,2026-02-17:/articles/aws-architecture-diagram-claude-code-drawio-mcp/</id>
-    <link href="https://dev.classmethod.jp/articles/aws-architecture-diagram-claude-code-drawio-mcp/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 剱岳の雪崩事故、iPhoneの“衛星SOS”で救助要請に成功</title>
-    <updated>2026-02-18T07:03:58Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-02-18:/news/articles/2602/18/news103.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2602/18/news103.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 中国製のスマートアイマスクに他人の脳波を読み取れる脆弱性があることが判明</title>
-    <updated>2026-02-18T06:12:50Z</updated>
-    <id>tag:gigazine.net,2026-02-18:/news/20260218-smart-sleep-mask-vulnerability/</id>
-    <link href="https://gigazine.net/news/20260218-smart-sleep-mask-vulnerability/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: アンカー、直営店にモバイルバッテリー回収ボックス設置へ　“炎”をまとった啓発キャラクターも登場</title>
-    <updated>2026-02-18T03:35:37Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-02-18:/news/articles/2602/18/news078.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2602/18/news078.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ゲームエンジンGodot開発者、「“雑な生成AI製コード”の変更提案が殺到してチームがクタクタ」と悲鳴。オープンソースゆえの深刻な悩み - AUTOMATON</title>
-    <updated>2026-02-18T07:16:35Z</updated>
-    <id>tag:automaton-media.com,2026-02-18:/articles/newsjp/godot-20260218-422080/</id>
-    <link href="https://automaton-media.com/articles/newsjp/godot-20260218-422080/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ChatGPTアプリ「freee確定申告」提供開始</title>
-    <updated>2026-02-18T05:01:29Z</updated>
-    <id>tag:japan.cnet.com,2026-02-18:/article/35244010/</id>
-    <link href="https://japan.cnet.com/article/35244010/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 超高線量環境下で動作するWi-Fiチップの開発に成功 | Science Tokyo - 東京科学大学</title>
-    <updated>2026-02-18T04:44:26Z</updated>
-    <id>tag:www.isct.ac.jp,2026-02-18:/ja/news/dk5trp9231q1</id>
-    <link href="https://www.isct.ac.jp/ja/news/dk5trp9231q1" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI学習目的の海賊版収集・利用は著作権法違反になるか？　柿沼太一弁護士の見解</title>
-    <updated>2026-02-18T01:21:45Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-02-18:/aiplus/articles/2602/16/news041.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2602/16/news041.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: FigmaとAnthropicが「Code to Canvas」をリリース、Claude Codeで生成されたコードを編集可能なデザインとしてFigmaに直接インポートできるように</title>
-    <updated>2026-02-18T05:31:48Z</updated>
-    <id>tag:gigazine.net,2026-02-18:/news/20260218-figma-code-to-canvas/</id>
-    <link href="https://gigazine.net/news/20260218-figma-code-to-canvas/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: OpenClawの何が特別なのか？</title>
-    <updated>2026-02-17T12:14:49Z</updated>
-    <id>tag:blog.lai.so,2026-02-17:/openclaw/</id>
-    <link href="https://blog.lai.so/openclaw/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「AIは言語化が得意な人しか勝たん」ではつまんない――「答え」よりも「問い」を考えさせよう</title>
-    <updated>2026-02-18T02:43:29Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2026-02-18:/ait/articles/2602/18/news009.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2602/18/news009.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: NURO 光の自宅でゲーマーが忌み嫌う「二重ルーター」環境を導入、Switch 2のNATタイプを維持する設定を考えた　</title>
-    <updated>2026-02-17T23:32:44Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2026-02-17:/docs/review/2081890.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/review/2081890.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「AIの恩恵、公平に分配を」　駐日インド大使が寄稿 - 日本経済新聞</title>
-    <updated>2026-02-17T08:09:17Z</updated>
-    <id>tag:www.nikkei.com,2026-02-17:/article/DGXZQOCB105XU0Q6A210C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOCB105XU0Q6A210C2000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 画像生成AI「BitDance」をTikTok開発元の研究者らが公開したので使ってみた、Z-Imageより速くて高品質をアピールする自己回帰モデル</title>
-    <updated>2026-02-18T03:39:56Z</updated>
-    <id>tag:gigazine.net,2026-02-18:/news/20260218-bitdance-autoregressive-generation-ai/</id>
-    <link href="https://gigazine.net/news/20260218-bitdance-autoregressive-generation-ai/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ヨーロッパの河川を見た女性が、「ヨーロッパの川は堤防がなく、道から川の美しい水面が見える。自然を壊すダムもほとんどない。ヨーロッパの人たちは自然を愛し自然と共生しようとしている。それに引きかえ日本はどこもかしこも高い人工的な堤防だらけで自然を破壊し、山にはどこもかしこもダムだらけにして自然を破壊しているという話</title>
-    <updated>2026-02-18T04:38:58Z</updated>
-    <id>tag:posfie.com,2026-02-18:/@taimport/p/iyHOnOZ</id>
-    <link href="https://posfie.com/@taimport/p/iyHOnOZ" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: アル中をやめて、「X」中毒者になった人間の末路</title>
-    <updated>2026-02-17T23:09:16Z</updated>
-    <id>tag:blog.tinect.jp,2026-02-17:/</id>
-    <link href="https://blog.tinect.jp/?p=90781" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI生成画像を見抜くのが得意な人がいる。その理由はもって生まれた物体認識能力にあった | カラパイア</title>
-    <updated>2026-02-18T03:38:20Z</updated>
-    <id>tag:karapaia.com,2026-02-18:/archives/585705.html</id>
-    <link href="https://karapaia.com/archives/585705.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: パナソニック、「家電からサービス転換」の挫折　リセットされたAI戦略の先にあるもの - Impress Watch</title>
-    <updated>2026-02-18T00:01:51Z</updated>
-    <id>tag:www.watch.impress.co.jp,2026-02-18:/docs/topic/2085938.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/topic/2085938.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: エプスタイン文書を「使い慣れたUI」で丸裸にする開発者たち｜情報の灯台</title>
+    <updated>2026-02-17T15:15:14Z</updated>
+    <id>tag:note.com,2026-02-17:/joho_no_todai/n/nb1bfe7a329c9</id>
+    <link href="https://note.com/joho_no_todai/n/nb1bfe7a329c9" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: React 19時代のコンポーネント設計ベストプラクティス</title>
@@ -5236,9 +5122,123 @@
     <link href="https://speakerdeck.com/uhyo/react-19shi-dai-nokonponentoshe-ji-besutopurakuteisu" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 100均のメジャーで測ってVRChatワールドを作った結果、予想外のことが起きた｜タカハシヤマダ</title>
-    <updated>2026-02-17T23:04:10Z</updated>
-    <id>tag:note.com,2026-02-17:/takahashi_yamada/n/n93f84fbd2dfd</id>
-    <link href="https://note.com/takahashi_yamada/n/n93f84fbd2dfd" rel="alternate"></link>
+    <title>1:hatena_blog_it: 剱岳の雪崩事故、iPhoneの“衛星SOS”で救助要請に成功</title>
+    <updated>2026-02-18T07:03:58Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-02-18:/news/articles/2602/18/news103.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2602/18/news103.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【特集】 PCが起動不能になる？6月に期限切れを迎えるセキュアブート証明書問題とは</title>
+    <updated>2026-02-17T21:09:45Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-02-17:/docs/topic/feature/2086628.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2086628.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Windows 11、ついにMIDI 2.0対応。40年越しの刷新が始まった｜情報の灯台</title>
+    <updated>2026-02-18T12:43:49Z</updated>
+    <id>tag:note.com,2026-02-18:/joho_no_todai/n/n1a834684fc43</id>
+    <link href="https://note.com/joho_no_todai/n/n1a834684fc43" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: tmuxユーザーだけどtmuxのペイン分割をあまり使ってこなかった人のためのページ</title>
+    <updated>2026-02-18T02:39:58Z</updated>
+    <id>tag:zenn.dev,2026-02-18:/arm_techblog/articles/1e17250f400604</id>
+    <link href="https://zenn.dev/arm_techblog/articles/1e17250f400604" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 中国製のスマートアイマスクに他人の脳波を読み取れる脆弱性があることが判明</title>
+    <updated>2026-02-18T06:12:50Z</updated>
+    <id>tag:gigazine.net,2026-02-18:/news/20260218-smart-sleep-mask-vulnerability/</id>
+    <link href="https://gigazine.net/news/20260218-smart-sleep-mask-vulnerability/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: あなたがSunoだと思ってサブスクしているそのAI作曲サービスの正体（CloseBox） | テクノエッジ TechnoEdge</title>
+    <updated>2026-02-18T02:04:14Z</updated>
+    <id>tag:www.techno-edge.net,2026-02-18:/article/2026/02/18/4870.html</id>
+    <link href="https://www.techno-edge.net/article/2026/02/18/4870.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ゲームエンジンGodot開発者、「“雑な生成AI製コード”の変更提案が殺到してチームがクタクタ」と悲鳴。オープンソースゆえの深刻な悩み - AUTOMATON</title>
+    <updated>2026-02-18T07:16:35Z</updated>
+    <id>tag:automaton-media.com,2026-02-18:/articles/newsjp/godot-20260218-422080/</id>
+    <link href="https://automaton-media.com/articles/newsjp/godot-20260218-422080/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OpenClowに毎日ブログを書かせて3週間、気づいたら私の代筆者ができていた - はげあたま.org</title>
+    <updated>2026-02-18T11:02:26Z</updated>
+    <id>tag:www.hageatama.org,2026-02-18:/20260218/1771412465</id>
+    <link href="https://www.hageatama.org/20260218/1771412465" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 時系列統計データ検索サイトにおけるAPI機能の提供開始 : 日本銀行 Bank of Japan</title>
+    <updated>2026-02-18T11:56:15Z</updated>
+    <id>tag:www.boj.or.jp,2026-02-18:/statistics/outline/notice_2026/not260218a.htm</id>
+    <link href="https://www.boj.or.jp/statistics/outline/notice_2026/not260218a.htm" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: CLIを書いてるなら、まずOTLPでtracesとeventsを吐けるようにするのがオススメ - Kengo's blog</title>
+    <updated>2026-02-18T01:28:20Z</updated>
+    <id>tag:blog.kengo-toda.jp,2026-02-18:/entry/2026/02/18/082231</id>
+    <link href="https://blog.kengo-toda.jp/entry/2026/02/18/082231" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ソフトウェア工学をコンピュータサイエンスとよぶのはおかしい - 芳賀 雅樹 のページ</title>
+    <updated>2026-02-18T02:53:19Z</updated>
+    <id>tag:silasol.la,2026-02-18:/posts/2026-02-18-01_software-engineering-is-not-cs/</id>
+    <link href="https://silasol.la/posts/2026-02-18-01_software-engineering-is-not-cs/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: アンカー、直営店にモバイルバッテリー回収ボックス設置へ　“炎”をまとった啓発キャラクターも登場</title>
+    <updated>2026-02-18T03:35:37Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-02-18:/news/articles/2602/18/news078.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2602/18/news078.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AWS 構成図をプロンプトひとつで作れる！Claude Code + draw.io MCP サーバーを試してみた | DevelopersIO</title>
+    <updated>2026-02-17T16:30:40Z</updated>
+    <id>tag:dev.classmethod.jp,2026-02-17:/articles/aws-architecture-diagram-claude-code-drawio-mcp/</id>
+    <link href="https://dev.classmethod.jp/articles/aws-architecture-diagram-claude-code-drawio-mcp/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: NotebookLM、プロンプトを使ったスライド修正機能と、PowerPoint形式の出力機能を提供へ | gihyo.jp</title>
+    <updated>2026-02-18T08:05:14Z</updated>
+    <id>tag:gihyo.jp,2026-02-18:/article/2026/02/notebooklm-adds-prompt-based-revisions-and-pptx-export</id>
+    <link href="https://gihyo.jp/article/2026/02/notebooklm-adds-prompt-based-revisions-and-pptx-export" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「SkillsBench」 Agent Skillsは人間のチューニングが必須｜Seiji Takahashi@ベースマキナ</title>
+    <updated>2026-02-18T09:47:41Z</updated>
+    <id>tag:note.com,2026-02-18:/timakin/n/nf497d32c2d35</id>
+    <link href="https://note.com/timakin/n/nf497d32c2d35" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ChatGPTアプリ「freee確定申告」提供開始</title>
+    <updated>2026-02-18T05:01:29Z</updated>
+    <id>tag:japan.cnet.com,2026-02-18:/article/35244010/</id>
+    <link href="https://japan.cnet.com/article/35244010/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: サイバーエージェント、AI研究に関する研修資料3種類を無料公開　「社会実装のアンチパターン」など解説</title>
+    <updated>2026-02-18T07:51:21Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-02-18:/aiplus/articles/2602/18/news110.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2602/18/news110.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 超高線量環境下で動作するWi-Fiチップの開発に成功 | Science Tokyo - 東京科学大学</title>
+    <updated>2026-02-18T04:44:26Z</updated>
+    <id>tag:www.isct.ac.jp,2026-02-18:/ja/news/dk5trp9231q1</id>
+    <link href="https://www.isct.ac.jp/ja/news/dk5trp9231q1" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: FigmaとAnthropicが「Code to Canvas」をリリース、Claude Codeで生成されたコードを編集可能なデザインとしてFigmaに直接インポートできるように</title>
+    <updated>2026-02-18T05:31:48Z</updated>
+    <id>tag:gigazine.net,2026-02-18:/news/20260218-figma-code-to-canvas/</id>
+    <link href="https://gigazine.net/news/20260218-figma-code-to-canvas/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「AIの恩恵、公平に分配を」　駐日インド大使が寄稿 - 日本経済新聞</title>
+    <updated>2026-02-17T08:09:17Z</updated>
+    <id>tag:www.nikkei.com,2026-02-17:/article/DGXZQOCB105XU0Q6A210C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOCB105XU0Q6A210C2000000/" rel="alternate"></link>
   </entry>
 </feed>
