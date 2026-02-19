@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-02-19T12:51:50Z</updated>
+  <updated>2026-02-19T18:42:42Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -148,6 +148,12 @@
     <link href="https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 【MCP×LINE】AIに「LINEを送る力」を授けよう！</title>
+    <updated>2026-02-19T07:55:07Z</updated>
+    <id>https://zenn.dev/4geru/books/mcp-line-handson</id>
+    <link href="https://zenn.dev/4geru/books/mcp-line-handson" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: クラウド型コーディングエージェントの時代がまた来る</title>
     <updated>2026-02-19T00:00:10Z</updated>
     <id>https://zenn.dev/ubie_dev/articles/9258ddaa5f8caa</id>
@@ -260,12 +266,6 @@
     <updated>2026-02-15T23:01:05Z</updated>
     <id>https://zenn.dev/epicai_techblog/articles/ff6225111e3649</id>
     <link href="https://zenn.dev/epicai_techblog/articles/ff6225111e3649" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Figma MakeでClaude Opus 4.6を使ったら凄すぎた件</title>
-    <updated>2026-02-15T12:43:34Z</updated>
-    <id>https://zenn.dev/itsminadesu/articles/687683f466519b</id>
-    <link href="https://zenn.dev/itsminadesu/articles/687683f466519b" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: 【15分で追いつく！】今のClaude Codeができることをざっくり解説</title>
@@ -988,6 +988,12 @@
     <link href="https://www.youtube.com/watch?v=0VknpDHN2Co" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: GitHub、リポジトリに対するプルリクエストをコラボレーターのみに制限する、あるいは完全に無効にする設定を可能に</title>
+    <updated>2026-02-19T15:28:30Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8487</id>
+    <link href="https://www.publickey1.jp/blog/26/github_14.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: Amazon EC2が仮想化のネスト（Nested Virtualization）に対応。KVMやHyper-Vを用いた仮想マシンを設定可能に</title>
     <updated>2026-02-18T15:38:06Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8486</id>
@@ -1070,12 +1076,6 @@
     <updated>2026-02-05T15:36:19Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8473</id>
     <link href="https://www.publickey1.jp/blog/26/aiacpagent_client_protocolgemini_cligithub_copilotopencode.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: そのコードのその行をどのようにAIが生成し、なぜ変更されたのか。コードのコンテキスト履歴を記録する標準「Agent Trace」。Cursor、Cognition、Google Julesらが提唱</title>
-    <updated>2026-02-04T15:48:50Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8472</id>
-    <link href="https://www.publickey1.jp/blog/26/aiagent_tracecursorcognitiongoogle_jules.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: KDE Plasma 6.6リリース　―“宇宙で最高のデスクトップです（当社比）”</title>
@@ -5086,18 +5086,6 @@
     <link href="https://gihyo.jp/article/2025/02/grok-3?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: 第851回　KSMBDでSambaではないSMBサーバーを実行する</title>
-    <updated>2025-02-19T00:00:00Z</updated>
-    <id>urn:uuid:ec2b60ba-94ff-d154-3e39-edf56775267a</id>
-    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0851?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: Hector Martin、Asahi Linuxプロジェクトリーダーも辞任</title>
-    <updated>2025-02-18T23:55:00Z</updated>
-    <id>urn:uuid:11face72-9d8e-5e28-97c1-0c1d35c6ac95</id>
-    <link href="https://gihyo.jp/article/2025/02/daily-linux-250219?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 年収2500万でも貧困層？ 米マイクロソフトに18年勤務した日本人エンジニアが「日本は健全」と語るワケ - エンジニアtype | 転職type</title>
     <updated>2026-02-19T06:31:15Z</updated>
     <id>tag:type.jp,2026-02-19:/et/feature/30493/</id>
@@ -5110,58 +5098,16 @@
     <link href="https://nwknews.jp/archives/6232291.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 小1にGemini使わせてみたら、AIより先に困ったことがあった</title>
-    <updated>2026-02-18T16:00:40Z</updated>
-    <id>tag:zenn.dev,2026-02-18:/nexta_/articles/f001c370c7df1d</id>
-    <link href="https://zenn.dev/nexta_/articles/f001c370c7df1d" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: ブックマークしておくと便利！ さまざまなデバイスのスクリーンサイズ・解像度・ピクセル密度などの仕様が一覧できる -What Is My Screen Size?</title>
     <updated>2026-02-19T01:05:02Z</updated>
     <id>tag:coliss.com,2026-02-19:/articles/build-websites/operation/work/screen-sizes-and-resolutions-for-different-devices.html</id>
     <link href="https://coliss.com/articles/build-websites/operation/work/screen-sizes-and-resolutions-for-different-devices.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: アサヒグループHD、ランサムウェア攻撃によるシステム障害について、調査が完了した内容と再発防止策を公開　取引先や従業員の情報約11万5000件の漏えいを確認</title>
-    <updated>2026-02-18T22:59:59Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2026-02-18:/docs/news/2087007.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2087007.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIに「ペルソナ」を与えるだけで、UIデザインはここまで化ける - Qiita</title>
-    <updated>2026-02-18T16:25:02Z</updated>
-    <id>tag:qiita.com,2026-02-18:/natume_nat/items/c3d904ff5f898ad243f3</id>
-    <link href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【レビュー】 “崖っぷちダビング文化”に援軍現る!? アイ・オーのPCドライブ「BDレコ」使ってみた</title>
-    <updated>2026-02-18T23:14:32Z</updated>
-    <id>tag:av.watch.impress.co.jp,2026-02-18:/docs/review/review/2086640.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/review/review/2086640.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Geminiが歌を手に入れた。日本語の楽曲をチャットで作れるGoogle Lyria 3を使ってわかった限界（CloseBox） | テクノエッジ TechnoEdge</title>
-    <updated>2026-02-19T00:24:26Z</updated>
-    <id>tag:www.techno-edge.net,2026-02-19:/article/2026/02/19/4873.html</id>
-    <link href="https://www.techno-edge.net/article/2026/02/19/4873.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Microsoftの「ガラスにデータを1万年以上保存する技術」が進歩して家庭用ガラスにもデータを記録可能に</title>
-    <updated>2026-02-19T03:40:31Z</updated>
-    <id>tag:gigazine.net,2026-02-19:/news/20260219-microsoft-research-project-silica-advances/</id>
-    <link href="https://gigazine.net/news/20260219-microsoft-research-project-silica-advances/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: NVIDIAが日本語特化の小型AIモデル「Nemotron-Nano-9B-v2-Japanese」を公開、10B以下で最高性能を達成し商用利用可能</title>
-    <updated>2026-02-19T05:18:36Z</updated>
-    <id>tag:gigazine.net,2026-02-19:/news/20260219-nvidia-nemotron-2-nano-9b-japanese/</id>
-    <link href="https://gigazine.net/news/20260219-nvidia-nemotron-2-nano-9b-japanese/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: サイズ半分「ルンバ ミニ」誕生、日本法人の発案で開発　3万9800円から</title>
-    <updated>2026-02-19T03:02:53Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-02-19:/news/articles/2602/19/news090.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2602/19/news090.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「AIを使えば劇的に生産性が上がる」は本当か？cc-sdd導入前後のデプロイ頻度データから見えた、AI時代のチーム開発の"本当のボトルネック"。 - Timee Product Team Blog</title>
+    <updated>2026-02-19T10:12:13Z</updated>
+    <id>tag:tech.timee.co.jp,2026-02-19:/entry/2026/02/19/190000</id>
+    <link href="https://tech.timee.co.jp/entry/2026/02/19/190000" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン - Qiita</title>
@@ -5170,22 +5116,82 @@
     <link href="https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【西川和久の不定期コラム】 人間なら半日の作業が2時間に。ローカルLLM「Qwen3 Coder Next」で爆速開発</title>
-    <updated>2026-02-18T22:26:54Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2026-02-18:/docs/column/nishikawa/2086975.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/nishikawa/2086975.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: アサヒグループHD、ランサムウェア攻撃によるシステム障害について、調査が完了した内容と再発防止策を公開　取引先や従業員の情報約11万5000件の漏えいを確認</title>
+    <updated>2026-02-18T22:59:59Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2026-02-18:/docs/news/2087007.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/news/2087007.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 依存性注入（DI）とは？“外から渡す”だけでコードがここまで変わる - Qiita</title>
-    <updated>2026-02-18T09:54:45Z</updated>
-    <id>tag:qiita.com,2026-02-18:/HK_Reisfeld/items/d56f9704bc95ffc77e74</id>
-    <link href="https://qiita.com/HK_Reisfeld/items/d56f9704bc95ffc77e74" rel="alternate"></link>
+    <title>1:hatena_blog_it: NVIDIAが日本語特化の小型AIモデル「Nemotron-Nano-9B-v2-Japanese」を公開、10B以下で最高性能を達成し商用利用可能</title>
+    <updated>2026-02-19T05:18:36Z</updated>
+    <id>tag:gigazine.net,2026-02-19:/news/20260219-nvidia-nemotron-2-nano-9b-japanese/</id>
+    <link href="https://gigazine.net/news/20260219-nvidia-nemotron-2-nano-9b-japanese/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude × Devinで実現するAI駆動開発ワークフロー - ZOZO TECH BLOG</title>
-    <updated>2026-02-19T02:22:47Z</updated>
-    <id>tag:techblog.zozo.com,2026-02-19:/entry/ai-driven-dev-with-claude-and-devin</id>
-    <link href="https://techblog.zozo.com/entry/ai-driven-dev-with-claude-and-devin" rel="alternate"></link>
+    <title>1:hatena_blog_it: venv？conda？ Python周りの面倒な環境管理を一元化するVS Code拡張機能が登場／1年のプレビュー期間を経てMicrosoftが「Python Environments」を一般公開</title>
+    <updated>2026-02-19T09:32:47Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2026-02-19:/docs/news/2087199.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2087199.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Microsoftの「ガラスにデータを1万年以上保存する技術」が進歩して家庭用ガラスにもデータを記録可能に</title>
+    <updated>2026-02-19T03:40:31Z</updated>
+    <id>tag:gigazine.net,2026-02-19:/news/20260219-microsoft-research-project-silica-advances/</id>
+    <link href="https://gigazine.net/news/20260219-microsoft-research-project-silica-advances/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIに「ユーザーペルソナ」を与えるだけで、UIデザインはここまで化ける - Qiita</title>
+    <updated>2026-02-18T16:25:02Z</updated>
+    <id>tag:qiita.com,2026-02-18:/natume_nat/items/c3d904ff5f898ad243f3</id>
+    <link href="https://qiita.com/natume_nat/items/c3d904ff5f898ad243f3" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 小1にGemini使わせてみたら、AIより先に困ったことがあった</title>
+    <updated>2026-02-18T16:00:40Z</updated>
+    <id>tag:zenn.dev,2026-02-18:/nexta_/articles/f001c370c7df1d</id>
+    <link href="https://zenn.dev/nexta_/articles/f001c370c7df1d" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Geminiが歌を手に入れた。日本語の楽曲をチャットで作れるGoogle Lyria 3を使ってわかった限界（CloseBox） | テクノエッジ TechnoEdge</title>
+    <updated>2026-02-19T00:24:26Z</updated>
+    <id>tag:www.techno-edge.net,2026-02-19:/article/2026/02/19/4873.html</id>
+    <link href="https://www.techno-edge.net/article/2026/02/19/4873.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【レビュー】 “崖っぷちダビング文化”に援軍現る!? アイ・オーのPCドライブ「BDレコ」使ってみた</title>
+    <updated>2026-02-18T23:14:32Z</updated>
+    <id>tag:av.watch.impress.co.jp,2026-02-18:/docs/review/review/2086640.html</id>
+    <link href="https://av.watch.impress.co.jp/docs/review/review/2086640.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Claude Codeが短期投資家に与える影響｜UKI</title>
+    <updated>2026-02-19T09:28:36Z</updated>
+    <id>tag:note.com,2026-02-19:/uki_profit/n/na31ed1225e20</id>
+    <link href="https://note.com/uki_profit/n/na31ed1225e20" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: サイズ半分「ルンバ ミニ」誕生、日本法人の発案で開発　3万9800円から</title>
+    <updated>2026-02-19T03:02:53Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-02-19:/news/articles/2602/19/news090.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2602/19/news090.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Claude Code の Agent Skills を活用してリポジトリのオンボーディングを効率化する | Wantedly Engineer Blog</title>
+    <updated>2026-02-19T08:00:46Z</updated>
+    <id>tag:www.wantedly.com,2026-02-19:/companies/wantedly/post_articles/1045343</id>
+    <link href="https://www.wantedly.com/companies/wantedly/post_articles/1045343" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ディープフェイクを超えた「AI汚染」の脅威──中国発「スロパガンダ」の正体</title>
+    <updated>2026-02-19T09:50:45Z</updated>
+    <id>tag:www.newsweekjapan.jp,2026-02-19:/stories/world/2026/02/588103.php</id>
+    <link href="https://www.newsweekjapan.jp/stories/world/2026/02/588103.php" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: バイブコーディングはもう古い？　その限界を乗り越える「エージェンティックエンジニアリング」</title>
+    <updated>2026-02-18T23:41:40Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2026-02-18:/ait/articles/2602/19/news018.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2602/19/news018.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: エプスタイン元被告との関係発覚のビル・ゲイツ氏、AIサミットでの基調講演をキャンセル</title>
@@ -5200,16 +5206,16 @@
     <link href="https://gigazine.net/news/20260219-tesla-robotaxi-crashes/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「AIを使えば劇的に生産性が上がる」は本当か？cc-sdd導入前後のデプロイ頻度データから見えた、AI時代のチーム開発の"本当のボトルネック"。 - Timee Product Team Blog</title>
-    <updated>2026-02-19T10:12:13Z</updated>
-    <id>tag:tech.timee.co.jp,2026-02-19:/entry/2026/02/19/190000</id>
-    <link href="https://tech.timee.co.jp/entry/2026/02/19/190000" rel="alternate"></link>
+    <title>1:hatena_blog_it: AWSが推進する�AI駆動開発ライフサイクル入門 �〜 AI駆動開発時代に必要な人材とは 〜�/ introduction_to_aidlc_and_skills</title>
+    <updated>2026-02-19T07:45:10Z</updated>
+    <id>tag:speakerdeck.com,2026-02-19:/fatsushi/introduction-to-aidlc-and-skills</id>
+    <link href="https://speakerdeck.com/fatsushi/introduction-to-aidlc-and-skills" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ソフトウェア工学をコンピュータサイエンスとよぶのはおかしい - 芳賀 雅樹 のページ</title>
-    <updated>2026-02-18T02:53:19Z</updated>
-    <id>tag:silasol.la,2026-02-18:/posts/2026-02-18-01_software-engineering-is-not-cs/</id>
-    <link href="https://silasol.la/posts/2026-02-18-01_software-engineering-is-not-cs/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Gemini 3.1 Pro: A smarter model for your most complex tasks</title>
+    <updated>2026-02-19T16:34:46Z</updated>
+    <id>tag:blog.google,2026-02-19:/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/</id>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Googleが音楽生成AI「Lyria 3」を公開したので日本語ボーカル付き楽曲を作ってみた</title>
@@ -5218,16 +5224,22 @@
     <link href="https://gigazine.net/news/20260219-google-lyria-3-music-generation-ai/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: バイブコーディングはもう古い？　その限界を乗り越える「エージェンティックエンジニアリング」</title>
-    <updated>2026-02-18T23:41:40Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2026-02-18:/ait/articles/2602/19/news018.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2602/19/news018.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: ドコモの「いつでもカエドキプログラム」、最大2万2000円の利用料を追加　ただし買い替えなら免除</title>
+    <updated>2026-02-19T12:36:50Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-02-19:/news/articles/2602/19/news143.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2602/19/news143.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Code の Agent Skills を活用してリポジトリのオンボーディングを効率化する | Wantedly Engineer Blog</title>
-    <updated>2026-02-19T08:00:46Z</updated>
-    <id>tag:www.wantedly.com,2026-02-19:/companies/wantedly/post_articles/1045343</id>
-    <link href="https://www.wantedly.com/companies/wantedly/post_articles/1045343" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「AIは雇用や生産性にほとんど影響を与えていない」と数千人の企業幹部が認める、「生産性のパラドックス」の再来か</title>
+    <updated>2026-02-19T10:22:53Z</updated>
+    <id>tag:gigazine.net,2026-02-19:/news/20260219-ai-productivity-paradox/</id>
+    <link href="https://gigazine.net/news/20260219-ai-productivity-paradox/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ドコモ、3月から「いつでもカエドキプログラム」に利用料　買い替えで免除に</title>
+    <updated>2026-02-19T09:16:43Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2026-02-19:/docs/news/2087359.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/news/2087359.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: UMPCといえばやっぱこの大きさだよね。人気の8型がCore i3-N305搭載で復活</title>
@@ -5236,33 +5248,15 @@
     <link href="https://pc.watch.impress.co.jp/docs/news/2087217.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 全米が注目の行方不明事件、“消去済み”Nestカメラ映像をGoogleの技術力で復元　プライバシー懸念も</title>
-    <updated>2026-02-19T04:23:50Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-02-19:/news/articles/2602/19/news040.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2602/19/news040.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Database Skills — AI Agent Skills for Databases by PlanetScale</title>
+    <updated>2026-02-18T23:43:43Z</updated>
+    <id>tag:database-skills.com,2026-02-18:/</id>
+    <link href="https://database-skills.com/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: CLIを書いてるなら、まずOTLPでtracesとeventsを吐けるようにするのがオススメ - Kengo's blog</title>
-    <updated>2026-02-18T01:28:20Z</updated>
-    <id>tag:blog.kengo-toda.jp,2026-02-18:/entry/2026/02/18/082231</id>
-    <link href="https://blog.kengo-toda.jp/entry/2026/02/18/082231" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ソフトバンク、春から次世代SMS「RCS」対応</title>
-    <updated>2026-02-19T03:28:57Z</updated>
-    <id>tag:www.watch.impress.co.jp,2026-02-19:/docs/news/2087173.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2087173.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Antigravity と Gemini CLI の比較 | Google Cloud 公式ブログ</title>
-    <updated>2026-02-18T13:39:30Z</updated>
-    <id>tag:cloud.google.com,2026-02-18:/blog/ja/topics/developers-practitioners/choosing-antigravity-or-gemini-cli</id>
-    <link href="https://cloud.google.com/blog/ja/topics/developers-practitioners/choosing-antigravity-or-gemini-cli" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ソフトバンク、今春「RCS」開始へ　iPhoneとAndroidで写真・動画をやり取りできる</title>
-    <updated>2026-02-19T05:05:12Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2026-02-19:/docs/news/2087125.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2087125.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「要約問題が0点」英検1級で相次ぐ訴え…AIのミス？採点厳格化の影響？　協会「評価は何重にもチェックしている」 - 弁護士ドットコムニュース</title>
+    <updated>2026-02-19T08:09:39Z</updated>
+    <id>tag:www.bengo4.com,2026-02-19:/c_18/n_20018/</id>
+    <link href="https://www.bengo4.com/c_18/n_20018/" rel="alternate"></link>
   </entry>
 </feed>
