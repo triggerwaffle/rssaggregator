@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-03-01T12:35:34Z</updated>
+  <updated>2026-03-01T18:24:57Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -1006,6 +1006,18 @@
     <link href="https://www.youtube.com/watch?v=Uq0ZmphfwNw" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: AWS、ログイン不要で「Aurora DSQL」をすぐ試せるプレイグラウンド公開。PostgreSQLとの互換性チェックに</title>
+    <updated>2026-03-01T16:01:36Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8494</id>
+    <link href="https://www.publickey1.jp/blog/26/awsaurora_dsqlpostgresql.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: Vercel、単一のTypeScriptコードでSlack、Teams、Discordをはじめ主要チャットサービスに対応したチャットボットが作れる「Chat SDK」、オープンソースで公開</title>
+    <updated>2026-03-01T15:58:52Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8493</id>
+    <link href="https://www.publickey1.jp/blog/26/verceltypescriptslackteamsdiscordchat_sdk.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: 「Java to Kotlinコンバータ for VS Code」、JetBrainsがリリース</title>
     <updated>2026-02-25T15:47:42Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8492</id>
@@ -1082,18 +1094,6 @@
     <updated>2026-02-15T15:31:43Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8480</id>
     <link href="https://www.publickey1.jp/blog/26/tuxcare_elspr.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: GitHub、YAMLではなく自然言語でビルドやデプロイなどのワークフローを記述できる「GitHub Agentic Workflows」テクニカルプレビュー</title>
-    <updated>2026-02-15T15:29:25Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8479</id>
-    <link href="https://www.publickey1.jp/blog/26/githubyamlgithub_agentic_workflows.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: なぜTypeScriptは成功しているのか。作者ヘイルスバーグ氏が語る7つの教訓</title>
-    <updated>2026-02-12T15:54:56Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8478</id>
-    <link href="https://www.publickey1.jp/blog/26/typescript7.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: プラットフォームエンジニアリングとは何か？ 基本概念と背景</title>
@@ -5134,58 +5134,22 @@
     <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0853?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Anthropic公式「skill-creator」完全ガイド 〜 Skillsを作れるSkillsで脱・ゼロから設計〜</title>
-    <updated>2025-12-28T09:01:26Z</updated>
-    <id>tag:zenn.dev,2025-12-28:/yamato_snow/articles/30e8dcf9490c88</id>
-    <link href="https://zenn.dev/yamato_snow/articles/30e8dcf9490c88" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Claude Code 初学者ロードマップ - Qiita</title>
     <updated>2026-02-27T04:12:02Z</updated>
     <id>tag:qiita.com,2026-02-27:/marugame/items/8b870661f80d63499336</id>
     <link href="https://qiita.com/marugame/items/8b870661f80d63499336" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 日本一高いビルになる予定の『Torch Tower』は特殊な構造をしているが関東の溶接工の約5人に1人(120人)を集め作業をしている「溶接工ってそれしかいないの！？」</title>
-    <updated>2026-02-28T16:34:54Z</updated>
-    <id>tag:togetter.com,2026-02-28:/li/2669397</id>
-    <link href="https://togetter.com/li/2669397" rel="alternate"></link>
+    <title>1:hatena_blog_it: Anthropic公式「skill-creator」完全ガイド 〜 Skillsを作れるSkillsで脱・ゼロから設計〜</title>
+    <updated>2025-12-28T09:01:26Z</updated>
+    <id>tag:zenn.dev,2025-12-28:/yamato_snow/articles/30e8dcf9490c88</id>
+    <link href="https://zenn.dev/yamato_snow/articles/30e8dcf9490c88" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【Excel新機能】データが増えるたびに数式を直すのはもう終わり。動的配列関数とスピル演算子（#）の威力とは</title>
-    <updated>2026-02-26T23:28:55Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2026-02-26:/ait/articles/2602/27/news029.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2602/27/news029.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「待って！Amazonさん！？」遊戯王カードのBOXを購入したら大きな箱にパックが1つだけ...→販売元がAmazon公式であるにも関わらず同じような報告が相次ぐ</title>
-    <updated>2026-03-01T07:13:04Z</updated>
-    <id>tag:togetter.com,2026-03-01:/li/2669696</id>
-    <link href="https://togetter.com/li/2669696" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 米国、イラン攻撃にアンソロピックのAI使用か　WSJ報道 - 日本経済新聞</title>
-    <updated>2026-03-01T07:36:40Z</updated>
-    <id>tag:www.nikkei.com,2026-03-01:/article/DGXZQOGN011010R00C26A3000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN011010R00C26A3000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: GodotはAIコーディングエージェントでのゲーム開発に向いている - ABAの日誌</title>
-    <updated>2026-03-01T05:03:55Z</updated>
-    <id>tag:aba.hatenablog.com,2026-03-01:/entry/2026/03/01/140039</id>
-    <link href="https://aba.hatenablog.com/entry/2026/03/01/140039" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: OpenAI、米国防総省とAI導入で合意　Anthropicへの強硬措置の沈静化を要請</title>
-    <updated>2026-02-28T22:36:31Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-02-28:/news/articles/2603/01/news019.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2603/01/news019.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: なぜGPUはリアルタイム処理に向かないのか - Ryuz's tech blog</title>
-    <updated>2026-03-01T09:25:14Z</updated>
-    <id>tag:blog.rtc-lab.com,2026-03-01:/entry/2026/03/01/145630</id>
-    <link href="https://blog.rtc-lab.com/entry/2026/03/01/145630" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【朗報】Microsoft TeamsのEnter キーによる誤送信防止機能がいよいよロールアウトされていた「これは助かる！」「なんでこれまで放置されていた…」</title>
+    <updated>2026-03-01T11:57:00Z</updated>
+    <id>tag:togetter.com,2026-03-01:/li/2669795</id>
+    <link href="https://togetter.com/li/2669795" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 衝撃！NotebookLMの「隠し機能」を解放する自動化ツール｜tyo</title>
@@ -5194,16 +5158,46 @@
     <link href="https://note.com/humble_dog9839/n/n896e285ad324" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIがガス機器による大気汚染を削減する規制案に大量の反対意見を送信していたことが判明</title>
-    <updated>2026-03-01T10:21:46Z</updated>
-    <id>tag:gigazine.net,2026-03-01:/news/20260301-ai-opposing-pollution/</id>
-    <link href="https://gigazine.net/news/20260301-ai-opposing-pollution/" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 「AI疑われるかもだが現実なのよ...」茨城県にある神社、子宝祈願のお餅がド直球すぎる→「まだまだソフトな方」とリアルなご神体などを挙げる声続々と</title>
     <updated>2026-03-01T11:41:53Z</updated>
     <id>tag:togetter.com,2026-03-01:/li/2669776</id>
     <link href="https://togetter.com/li/2669776" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: なぜGPUはリアルタイム処理に向かないのか - Ryuz's tech blog</title>
+    <updated>2026-03-01T09:25:14Z</updated>
+    <id>tag:blog.rtc-lab.com,2026-03-01:/entry/2026/03/01/145630</id>
+    <link href="https://blog.rtc-lab.com/entry/2026/03/01/145630" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AI小説の現在地 〜品質と量産の間で〜｜新大宮@Web小説界隈ナビゲーター</title>
+    <updated>2026-03-01T08:13:47Z</updated>
+    <id>tag:note.com,2026-03-01:/shin038/n/n5ec65e9f48b9</id>
+    <link href="https://note.com/shin038/n/n5ec65e9f48b9" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GodotはAIコーディングエージェントでのゲーム開発に向いている - ABAの日誌</title>
+    <updated>2026-03-01T05:03:55Z</updated>
+    <id>tag:aba.hatenablog.com,2026-03-01:/entry/2026/03/01/140039</id>
+    <link href="https://aba.hatenablog.com/entry/2026/03/01/140039" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 米国、イラン攻撃にアンソロピックのAI使用か　WSJ報道 - 日本経済新聞</title>
+    <updated>2026-03-01T07:36:40Z</updated>
+    <id>tag:www.nikkei.com,2026-03-01:/article/DGXZQOGN011010R00C26A3000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN011010R00C26A3000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「待って！Amazonさん！？」遊戯王カードのBOXを購入したら大きな箱にパックが1つだけ...→販売元がAmazon公式であるにも関わらず同じような報告が相次ぐ</title>
+    <updated>2026-03-01T07:13:04Z</updated>
+    <id>tag:togetter.com,2026-03-01:/li/2669696</id>
+    <link href="https://togetter.com/li/2669696" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIがガス機器による大気汚染を削減する規制案に大量の反対意見を送信していたことが判明</title>
+    <updated>2026-03-01T10:21:46Z</updated>
+    <id>tag:gigazine.net,2026-03-01:/news/20260301-ai-opposing-pollution/</id>
+    <link href="https://gigazine.net/news/20260301-ai-opposing-pollution/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Terminal 版 Playwright 風テストツールの tuistory が便利 - Qiita</title>
@@ -5212,52 +5206,10 @@
     <link href="https://qiita.com/tomoasleep/items/9f35a0d6e24edd8f2265" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIは著作権法を壊したのではなく「元から壊れていた著作権法の仕組み」を露呈させただけ</title>
-    <updated>2026-03-01T05:13:58Z</updated>
-    <id>tag:gigazine.net,2026-03-01:/news/20260301-ai-copyright-law-broken/</id>
-    <link href="https://gigazine.net/news/20260301-ai-copyright-law-broken/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: チームメンバー迷わないIaC設計</title>
-    <updated>2026-02-28T07:36:18Z</updated>
-    <id>tag:speakerdeck.com,2026-02-28:/hayama17/timumenbami-wanaiiacshe-ji</id>
-    <link href="https://speakerdeck.com/hayama17/timumenbami-wanaiiacshe-ji" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Claude Codeに重大な脆弱性　設定ファイル経由でRCEやAPIキー窃取の恐れ</title>
-    <updated>2026-02-28T00:55:53Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-02-28:/enterprise/articles/2602/28/news013.html</id>
-    <link href="https://www.itmedia.co.jp/enterprise/articles/2602/28/news013.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI に 24 時間セキュリティ監視を任せてみた — ホームラボで SOC を構築した話 - Qiita</title>
-    <updated>2026-02-27T14:29:42Z</updated>
-    <id>tag:qiita.com,2026-02-27:/takao-shimizu/items/7cb1d8b48cd442e07962</id>
-    <link href="https://qiita.com/takao-shimizu/items/7cb1d8b48cd442e07962" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ZEROTOKYOの映像を支える技術</title>
-    <updated>2023-09-01T10:12:38Z</updated>
-    <id>tag:www.miroc.co.jp,2023-09-01:/antenna/antenna-headline/zerotokyo-zepp-shinjuku-tokyo/</id>
-    <link href="https://www.miroc.co.jp/antenna/antenna-headline/zerotokyo-zepp-shinjuku-tokyo/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Gmailアカウントのセキュリティを今すぐ確認せよ、攻撃が進行中だ | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-    <updated>2026-02-28T21:43:05Z</updated>
-    <id>tag:forbesjapan.com,2026-02-28:/articles/detail/92692</id>
-    <link href="https://forbesjapan.com/articles/detail/92692" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 3000万コミットの逆説——AIを最も使う者が、最も報われない｜川崎 裕一 / マネタイズおじさん</title>
-    <updated>2026-02-28T06:31:49Z</updated>
-    <id>tag:comemo.nikkei.com,2026-02-28:/n/nc79e1cbc469f</id>
-    <link href="https://comemo.nikkei.com/n/nc79e1cbc469f" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: WEBアプリ開発でよく使うデザインパターンを整理する</title>
-    <updated>2026-02-28T01:37:55Z</updated>
-    <id>tag:zenn.dev,2026-02-28:/frontline/articles/1ded5a62ace83e</id>
-    <link href="https://zenn.dev/frontline/articles/1ded5a62ace83e" rel="alternate"></link>
+    <title>1:hatena_blog_it: Skillsで実現する軽量パーソナルRAG</title>
+    <updated>2026-03-01T10:52:51Z</updated>
+    <id>tag:zenn.dev,2026-03-01:/karaage0703/articles/d7eaf62437185d</id>
+    <link href="https://zenn.dev/karaage0703/articles/d7eaf62437185d" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Claude Code を Pro プランで2週間使ってみた - Qiita</title>
@@ -5266,16 +5218,40 @@
     <link href="https://qiita.com/wataru86/items/116ba416d2ebd3f28bbd" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 日本一高いビルになる予定の『Torch Tower』は特殊な構造をしているが関東の溶接工の約5人に1人(120人)を集め作業をしている「溶接工ってそれしかいないの！？」</title>
+    <updated>2026-02-28T16:34:54Z</updated>
+    <id>tag:togetter.com,2026-02-28:/li/2669397</id>
+    <link href="https://togetter.com/li/2669397" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: 滋賀県（大津市）のデパートは何故潰れるのか？ - プログラマでありたい</title>
     <updated>2026-02-27T01:44:33Z</updated>
     <id>tag:blog.takuros.net,2026-02-27:/entry/2020/09/02/085918</id>
     <link href="https://blog.takuros.net/entry/2020/09/02/085918" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: I switched to an iPhone, but I still miss these 5 Android features</title>
-    <updated>2026-03-01T07:38:47Z</updated>
-    <id>tag:www.makeuseof.com,2026-03-01:/switched-to-iphone-but-still-miss-these-android-features/</id>
-    <link href="https://www.makeuseof.com/switched-to-iphone-but-still-miss-these-android-features/" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIは著作権法を壊したのではなく「元から壊れていた著作権法の仕組み」を露呈させただけ</title>
+    <updated>2026-03-01T05:13:58Z</updated>
+    <id>tag:gigazine.net,2026-03-01:/news/20260301-ai-copyright-law-broken/</id>
+    <link href="https://gigazine.net/news/20260301-ai-copyright-law-broken/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ローカルLLMの脆弱性があるんか？〜CVE-2024-50050から学ぶ「自分だけで使ってるから安全」の落とし穴〜 - Qiita</title>
+    <updated>2026-02-27T13:29:40Z</updated>
+    <id>tag:qiita.com,2026-02-27:/GeneLab_999/items/08873f6569a2b96a276c</id>
+    <link href="https://qiita.com/GeneLab_999/items/08873f6569a2b96a276c" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: The Factory Model: How Coding Agents Changed Software Engineering</title>
+    <updated>2026-03-01T06:58:56Z</updated>
+    <id>tag:addyosmani.com,2026-03-01:/blog/factory-model/</id>
+    <link href="https://addyosmani.com/blog/factory-model/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【Excel新機能】データが増えるたびに数式を直すのはもう終わり。動的配列関数とスピル演算子（#）の威力とは</title>
+    <updated>2026-02-26T23:28:55Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2026-02-26:/ait/articles/2602/27/news029.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2602/27/news029.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: X のレコメンドアルゴリズムの実装を読む</title>
@@ -5284,9 +5260,27 @@
     <link href="https://zenn.dev/dmmdata/articles/x-recommendation-algorithm" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: React Doctor</title>
-    <updated>2026-02-28T23:40:58Z</updated>
-    <id>tag:www.react.doctor,2026-02-28:/</id>
-    <link href="https://www.react.doctor/" rel="alternate"></link>
+    <title>1:hatena_blog_it: ZEROTOKYOの映像を支える技術</title>
+    <updated>2023-09-01T10:12:38Z</updated>
+    <id>tag:www.miroc.co.jp,2023-09-01:/antenna/antenna-headline/zerotokyo-zepp-shinjuku-tokyo/</id>
+    <link href="https://www.miroc.co.jp/antenna/antenna-headline/zerotokyo-zepp-shinjuku-tokyo/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: I switched to an iPhone, but I still miss these 5 Android features</title>
+    <updated>2026-03-01T07:38:47Z</updated>
+    <id>tag:www.makeuseof.com,2026-03-01:/switched-to-iphone-but-still-miss-these-android-features/</id>
+    <link href="https://www.makeuseof.com/switched-to-iphone-but-still-miss-these-android-features/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AWS Infrastructure as Code の新機能 2025 総まとめ�~ SA 4人による怒涛のデモ祭り ~</title>
+    <updated>2026-02-24T21:55:40Z</updated>
+    <id>tag:speakerdeck.com,2026-02-24:/konokenj/aws-iac-update-feb-2026</id>
+    <link href="https://speakerdeck.com/konokenj/aws-iac-update-feb-2026" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Claude Codeに重大な脆弱性　設定ファイル経由でRCEやAPIキー窃取の恐れ</title>
+    <updated>2026-02-28T00:55:53Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-02-28:/enterprise/articles/2602/28/news013.html</id>
+    <link href="https://www.itmedia.co.jp/enterprise/articles/2602/28/news013.html" rel="alternate"></link>
   </entry>
 </feed>
