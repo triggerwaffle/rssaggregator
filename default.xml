@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-03-04T12:40:50Z</updated>
+  <updated>2026-03-04T18:39:24Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -142,16 +142,40 @@
     <link href="https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: 状態と性質を区別して考える</title>
+    <updated>2026-03-04T03:00:05Z</updated>
+    <id>https://zenn.dev/knowledgework/articles/95f30cfd155b5d</id>
+    <link href="https://zenn.dev/knowledgework/articles/95f30cfd155b5d" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: わざと汚く書いたコードを /simplify に渡したら半分以下になった</title>
+    <updated>2026-03-03T21:25:26Z</updated>
+    <id>https://zenn.dev/maniizu3110/articles/010-claude-code-simplify-auto-refactor</id>
+    <link href="https://zenn.dev/maniizu3110/articles/010-claude-code-simplify-auto-refactor" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Rustの仕事が増えていく理由</title>
     <updated>2026-03-03T18:29:57Z</updated>
     <id>https://zenn.dev/yukinarit/articles/e3fd03a62c3da0</id>
     <link href="https://zenn.dev/yukinarit/articles/e3fd03a62c3da0" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: koji-1009/setup-flutterを作った</title>
+    <updated>2026-03-03T12:30:05Z</updated>
+    <id>https://zenn.dev/koji_1009/articles/acaff740d44047</id>
+    <link href="https://zenn.dev/koji_1009/articles/acaff740d44047" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: AI生成の「CLAUDE .md」、逆に精度が下がるという研究</title>
     <updated>2026-03-03T02:16:10Z</updated>
     <id>https://zenn.dev/knowledgesense/articles/7210292cbe6838</id>
     <link href="https://zenn.dev/knowledgesense/articles/7210292cbe6838" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: 【RAG ベストプラクティス探索】Reranker用のモデル比較とコスト削減実験</title>
+    <updated>2026-03-03T01:31:15Z</updated>
+    <id>https://zenn.dev/elyza/articles/2642fd1b964fd2</id>
+    <link href="https://zenn.dev/elyza/articles/2642fd1b964fd2" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: PRを送るだけでリポジトリを「乗っ取れる」？GitHub Actionsの危ない書き方を実際に検証してみた (hackerbot-claw)</title>
@@ -164,6 +188,12 @@
     <updated>2026-03-02T23:50:53Z</updated>
     <id>https://zenn.dev/panda728/books/criteria-pattern-ddd</id>
     <link href="https://zenn.dev/panda728/books/criteria-pattern-ddd" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: ソースコードを読まずに「なぜ」を特定する ―― 可視化の解像度を上げる方法とは</title>
+    <updated>2026-03-02T23:50:52Z</updated>
+    <id>https://zenn.dev/panda728/articles/09b3d5e9377122</id>
+    <link href="https://zenn.dev/panda728/articles/09b3d5e9377122" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Async React時代の宣言的UI: デバウンスの例</title>
@@ -202,12 +232,6 @@
     <link href="https://zenn.dev/takumishimizu/articles/isolate-design-system-to-avoid-debt" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 自身の経験とRustへの思い</title>
-    <updated>2026-03-02T08:48:06Z</updated>
-    <id>https://zenn.dev/aq2r/articles/746b6ab98bf7d1</id>
-    <link href="https://zenn.dev/aq2r/articles/746b6ab98bf7d1" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: 運転動画を検索可能にする 〜Cosmos-Embed1とDatabricksで〜</title>
     <updated>2026-03-02T06:00:01Z</updated>
     <id>https://zenn.dev/turing_motors/articles/cf86e1bf0e41ca</id>
@@ -236,30 +260,6 @@
     <updated>2026-03-01T20:08:37Z</updated>
     <id>https://zenn.dev/shinkawa/articles/d9f260627ee4b8</id>
     <link href="https://zenn.dev/shinkawa/articles/d9f260627ee4b8" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: もう.envにAPIキーを平文で置くのはやめた — macOS Keychain管理CLI「LLM Key Ring」</title>
-    <updated>2026-03-01T09:05:14Z</updated>
-    <id>https://zenn.dev/yottayoshida/articles/llm-key-ring-secure-api-key-management</id>
-    <link href="https://zenn.dev/yottayoshida/articles/llm-key-ring-secure-api-key-management" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: Skillsで実現する軽量パーソナルRAG</title>
-    <updated>2026-03-01T08:17:28Z</updated>
-    <id>https://zenn.dev/karaage0703/articles/d7eaf62437185d</id>
-    <link href="https://zenn.dev/karaage0703/articles/d7eaf62437185d" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 壊れにくいUIテストの設計を考える（Playwright + Storybook + React + GitHub Actions）</title>
-    <updated>2026-03-01T04:51:21Z</updated>
-    <id>https://zenn.dev/ohimusdev46301/articles/be70f58bf82926</id>
-    <link href="https://zenn.dev/ohimusdev46301/articles/be70f58bf82926" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 東京大学の入試数学とJulia言語</title>
-    <updated>2026-03-01T04:39:05Z</updated>
-    <id>https://zenn.dev/dannchu/books/u-tokyo-2026-julia</id>
-    <link href="https://zenn.dev/dannchu/books/u-tokyo-2026-julia" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:qiita_trend: Claude Codeですべての日常業務を爆速化しよう！</title>
@@ -982,6 +982,24 @@
     <link href="https://www.youtube.com/watch?v=Uq0ZmphfwNw" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: The React Foundatoinが正式に創設、中立的なReactの開発へ。Linux Foundation傘下で</title>
+    <updated>2026-03-04T15:30:02Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8502</id>
+    <link href="https://www.publickey1.jp/blog/26/the_react_foundatoinreactlinux_foundation.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: Google、Chromeのリリースサイクルを2週間に短縮すると発表。Webの進化がさらに高速に</title>
+    <updated>2026-03-04T15:27:10Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8501</id>
+    <link href="https://www.publickey1.jp/blog/26/googlechrome2web.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: 主要なブラウザエンジンにて、Service WorkerでのJavaScriptモジュール機能が利用可能に</title>
+    <updated>2026-03-04T15:22:57Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8500</id>
+    <link href="https://www.publickey1.jp/blog/26/service_workerjavascript.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: AWS、中東でデータセンター施設がドローンの直接攻撃を受けたことを公表。3つのアベイラビリティゾーンのうち2つが著しく損傷</title>
     <updated>2026-03-03T15:38:16Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8499</id>
@@ -1052,24 +1070,6 @@
     <updated>2026-02-23T15:11:59Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8488</id>
     <link href="https://www.publickey1.jp/blog/26/anthropicclaude_code_security.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: GitHub、リポジトリに対するプルリクエストをコラボレーターのみに制限する、あるいは完全に無効にする設定を可能に</title>
-    <updated>2026-02-19T15:28:30Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8487</id>
-    <link href="https://www.publickey1.jp/blog/26/github_14.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Amazon EC2が仮想化のネスト（Nested Virtualization）に対応。KVMやHyper-Vを用いた仮想マシンを設定可能に</title>
-    <updated>2026-02-18T15:38:06Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8486</id>
-    <link href="https://www.publickey1.jp/blog/26/amazon_ec2nested_virtualizationkvmhyper-v.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Slackが「リアルタイムサーチAPI」と「Slack MCP Server」を発表。生成AIがSlack上のやりとりを基にコンテキストを理解可能</title>
-    <updated>2026-02-18T15:36:16Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8485</id>
-    <link href="https://www.publickey1.jp/blog/26/slackapislack_mcp_serveraislack.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: OpenAI、ChatGPT用の最新モデル「GPT-5.3 Instant」をリリース</title>
@@ -5140,46 +5140,10 @@
     <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202503/07?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: Google Pixel Watch 4の、今わかっているコト</title>
-    <updated>2025-03-05T23:53:00Z</updated>
-    <id>urn:uuid:2d1b6bce-7d1c-5c32-cb5a-5e9795acac16</id>
-    <link href="https://gihyo.jp/article/2025/03/android-weekly-topics-250306?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: 第853回　Sambaで作るActive Directory互換環境  （2） 2台目のドメインコントローラーの作成とSYSVOLフォルダの同期設定</title>
-    <updated>2025-03-05T00:05:00Z</updated>
-    <id>urn:uuid:a48df308-0e31-06d9-cc31-e84345e43086</id>
-    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0853?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【狂気】2026年、PS3を開発する——1行もコードを書けない人間が、AIと組んで「開発地獄」と呼ばれたPS3に挑み、15年間誰も開けられなかった扉をこじ開けた1週間の記録。｜田中</title>
-    <updated>2026-03-04T00:03:13Z</updated>
-    <id>tag:note.com,2026-03-04:/tanakaps/n/n410dbceb8c8d</id>
-    <link href="https://note.com/tanakaps/n/n410dbceb8c8d" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: ビオレ「おうちdeエステ」から「隠れ角栓まで自己崩壊させる新技術」を使った洗顔料が発表…先行販売は売り切れ続出「ここまでのビフォアフ写真載せるのすごい」</title>
     <updated>2026-03-04T06:38:28Z</updated>
     <id>tag:togetter.com,2026-03-04:/li/2670836</id>
     <link href="https://togetter.com/li/2670836" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「AIにもちゃんと聞けない人」に足りない視点の話</title>
-    <updated>2026-03-03T22:41:48Z</updated>
-    <id>tag:blog.tinect.jp,2026-03-03:/</id>
-    <link href="https://blog.tinect.jp/?p=90819" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 要求定義・仕様記述・設計・検証の手引き - 理論から学ぶ明確で統一された成果物定義</title>
-    <updated>2026-03-04T00:19:52Z</updated>
-    <id>tag:speakerdeck.com,2026-03-04:/orgachem/guidelines-for-requirements-definition-specification-writing-design-and-verification</id>
-    <link href="https://speakerdeck.com/orgachem/guidelines-for-requirements-definition-specification-writing-design-and-verification" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 人生で一度もプログラムをしたことのない人間が最近はchatGPTを使って小さいプログラムを作っている - orangestar2</title>
-    <updated>2026-03-04T05:47:47Z</updated>
-    <id>tag:orangestar2.hatenadiary.com,2026-03-04:/entry/2026/03/04/143108</id>
-    <link href="https://orangestar2.hatenadiary.com/entry/2026/03/04/143108" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: マネージャー版 "提案のレベル" を上げる</title>
@@ -5188,52 +5152,22 @@
     <link href="https://speakerdeck.com/konifar/maneziyaban-ti-an-noreberu-woshang-geru" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OpenAIのアルトマンCEO「私は間違いを犯した」と釈明。「ChatGPT解約運動」激化を受け、国防総省との契約内容を修正へ | Business Insider Japan</title>
-    <updated>2026-03-03T12:24:31Z</updated>
-    <id>tag:www.businessinsider.jp,2026-03-03:/article/2603-openai-amending-contract-with-pentagon-amid-backlash-mass-surveillance-anthropic/</id>
-    <link href="https://www.businessinsider.jp/article/2603-openai-amending-contract-with-pentagon-amid-backlash-mass-surveillance-anthropic/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 要求定義・仕様記述・設計・検証の手引き - 理論から学ぶ明確で統一された成果物定義</title>
+    <updated>2026-03-04T00:19:52Z</updated>
+    <id>tag:speakerdeck.com,2026-03-04:/orgachem/guidelines-for-requirements-definition-specification-writing-design-and-verification</id>
+    <link href="https://speakerdeck.com/orgachem/guidelines-for-requirements-definition-specification-writing-design-and-verification" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 退去費用</title>
-    <updated>2026-03-03T05:03:40Z</updated>
-    <id>tag:anond.hatelabo.jp,2026-03-03:/20260303135010</id>
-    <link href="https://anond.hatelabo.jp/20260303135010" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【狂気】2026年、PS3を開発する——1行もコードを書けない人間が、AIと組んで「開発地獄」と呼ばれたPS3に挑み、15年間誰も開けられなかった扉をこじ開けた1週間の記録。｜田中</title>
+    <updated>2026-03-04T00:03:13Z</updated>
+    <id>tag:note.com,2026-03-04:/tanakaps/n/n410dbceb8c8d</id>
+    <link href="https://note.com/tanakaps/n/n410dbceb8c8d" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: VポイントPayの残高失効がなぜ起きたのか　三井住友カードの対応は?</title>
-    <updated>2026-03-03T23:45:05Z</updated>
-    <id>tag:www.watch.impress.co.jp,2026-03-03:/docs/topic/2090233.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/topic/2090233.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【PC Watchのキーボード黙示録】 数十のキーボードを渡り歩き、辿り着いたのは30年物のレトロモデル【編集者上田の場合】</title>
-    <updated>2026-03-03T22:27:20Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2026-03-03:/docs/column/keyboard-relay/2089979.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/keyboard-relay/2089979.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話 - Qiita</title>
-    <updated>2026-03-03T03:27:01Z</updated>
-    <id>tag:qiita.com,2026-03-03:/yamapiiii/items/cc2450f410b64329d275</id>
-    <link href="https://qiita.com/yamapiiii/items/cc2450f410b64329d275" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「定時実行」と「定期実行」の実装ガイド | blog.jxck.io</title>
-    <updated>2026-03-03T23:45:26Z</updated>
-    <id>tag:blog.jxck.io,2026-03-03:/entries/2026-03-03/scheduled-and-periodic-execution.html</id>
-    <link href="https://blog.jxck.io/entries/2026-03-03/scheduled-and-periodic-execution.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: “AI生成”明かさず戦争の動画を投稿すると収益化停止、2度目で永久停止──Xの新方針</title>
-    <updated>2026-03-04T06:41:52Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-03-04:/news/articles/2603/04/news131.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2603/04/news131.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 中道改革連合が落選者支援のためにクラウドファンディングを始めることを発表したが、「政治とカネ」の温床に繋がるリスクを指摘する意見が集まる</title>
-    <updated>2026-03-04T03:09:52Z</updated>
-    <id>tag:togetter.com,2026-03-04:/li/2670756</id>
-    <link href="https://togetter.com/li/2670756" rel="alternate"></link>
+    <title>1:hatena_blog_it: 人生で一度もプログラムをしたことのない人間が最近はchatGPTを使って小さいプログラムを作っている - orangestar2</title>
+    <updated>2026-03-04T05:47:47Z</updated>
+    <id>tag:orangestar2.hatenadiary.com,2026-03-04:/entry/2026/03/04/143108</id>
+    <link href="https://orangestar2.hatenadiary.com/entry/2026/03/04/143108" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: skill-creatorから学ぶSkill設計と、Orchestration Skillの作り方</title>
@@ -5242,16 +5176,76 @@
     <link href="https://nyosegawa.github.io/posts/skill-creator-and-orchestration-skill/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 「AIにもちゃんと聞けない人」に足りない視点の話</title>
+    <updated>2026-03-03T22:41:48Z</updated>
+    <id>tag:blog.tinect.jp,2026-03-03:/</id>
+    <link href="https://blog.tinect.jp/?p=90819" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「定時実行」と「定期実行」の実装ガイド | blog.jxck.io</title>
+    <updated>2026-03-03T23:45:26Z</updated>
+    <id>tag:blog.jxck.io,2026-03-03:/entries/2026-03-03/scheduled-and-periodic-execution.html</id>
+    <link href="https://blog.jxck.io/entries/2026-03-03/scheduled-and-periodic-execution.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: なぜMetaは詐欺広告を野放しにし、そこから莫大な金を稼ぎ続けられたのか » p2ptk[.]org</title>
+    <updated>2026-03-04T12:53:16Z</updated>
+    <id>tag:p2ptk.org,2026-03-04:/monopoly/5443</id>
+    <link href="https://p2ptk.org/monopoly/5443" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: CLAUDE.mdに本当は何を書くべきなのか</title>
+    <updated>2026-03-04T13:47:42Z</updated>
+    <id>tag:zenn.dev,2026-03-04:/cureapp/articles/65b9a99d22ce2b</id>
+    <link href="https://zenn.dev/cureapp/articles/65b9a99d22ce2b" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: VポイントPayの残高失効がなぜ起きたのか　三井住友カードの対応は?</title>
+    <updated>2026-03-03T23:45:05Z</updated>
+    <id>tag:www.watch.impress.co.jp,2026-03-03:/docs/topic/2090233.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/topic/2090233.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: “AI生成”明かさず戦争の動画を投稿すると収益化停止、2度目で永久停止──Xの新方針</title>
+    <updated>2026-03-04T06:41:52Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-03-04:/news/articles/2603/04/news131.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2603/04/news131.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Appleから9万9,800円のモバイルノート「MacBook Neo」登場</title>
+    <updated>2026-03-04T14:44:31Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-03-04:/docs/news/2090660.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2090660.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Apple、「MacBook Neo」発表　A18 Proチップ、本体4色に白キーボード、9万9800円から</title>
+    <updated>2026-03-04T14:37:03Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-03-04:/pcuser/articles/2603/04/news162.html</id>
+    <link href="https://www.itmedia.co.jp/pcuser/articles/2603/04/news162.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: Pixelの詐欺電話検知が日本でも利用可能に</title>
     <updated>2026-03-04T08:22:26Z</updated>
     <id>tag:pc.watch.impress.co.jp,2026-03-04:/docs/news/2090513.html</id>
     <link href="https://pc.watch.impress.co.jp/docs/news/2090513.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 世界初、近づくだけで払える「UWB決済」実用化へ　JCBとりそな</title>
-    <updated>2026-03-04T04:39:11Z</updated>
-    <id>tag:www.watch.impress.co.jp,2026-03-04:/docs/news/2090409.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2090409.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 国産リモートデスクトップ「Brynhildr」にiPhone/iPad版が登場、今ならタダ／画面転送、遠隔操作、音声伝送、マルチモニターなどに対応</title>
+    <updated>2026-03-04T09:11:44Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2026-03-04:/docs/news/2090153.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2090153.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【PC Watchのキーボード黙示録】 数十のキーボードを渡り歩き、辿り着いたのは30年物のレトロモデル【編集者上田の場合】</title>
+    <updated>2026-03-03T22:27:20Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-03-03:/docs/column/keyboard-relay/2089979.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/keyboard-relay/2089979.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 完全に「脱Google化」されたスマホのモバイルエコシステム「/e/OS」</title>
+    <updated>2026-03-04T12:20:05Z</updated>
+    <id>tag:gigazine.net,2026-03-04:/news/20260304-degoogled-ungoogled-smartphone-os-e/</id>
+    <link href="https://gigazine.net/news/20260304-degoogled-ungoogled-smartphone-os-e/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Androidスマホを外部モニターに接続してPC風に使えるようにする機能が登場、まずはPixelとGalaxyから</title>
@@ -5260,46 +5254,22 @@
     <link href="https://gigazine.net/news/20260304-android-extend-display/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 国税庁が暗号資産の押収を発表→ウォレットのマスターキーも公開、即盗難されてしまう【やじうまWatch】</title>
-    <updated>2026-03-04T03:00:55Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2026-03-04:/docs/yajiuma/2090325.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2090325.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: OpenAIのアルトマンCEO「私は間違いを犯した」と釈明。「ChatGPT解約運動」激化を受け、国防総省との契約内容を修正へ | Business Insider Japan</title>
+    <updated>2026-03-03T12:24:31Z</updated>
+    <id>tag:www.businessinsider.jp,2026-03-03:/article/2603-openai-amending-contract-with-pentagon-amid-backlash-mass-surveillance-anthropic/</id>
+    <link href="https://www.businessinsider.jp/article/2603-openai-amending-contract-with-pentagon-amid-backlash-mass-surveillance-anthropic/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ソニーが「wena」商標を譲渡 新製品? 予告も</title>
-    <updated>2026-03-04T07:47:06Z</updated>
-    <id>tag:www.watch.impress.co.jp,2026-03-04:/docs/news/2090451.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2090451.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 中道改革連合が落選者支援のためにクラウドファンディングを始めることを発表したが、「政治とカネ」の温床に繋がるリスクを指摘する意見が集まる</title>
+    <updated>2026-03-04T03:09:52Z</updated>
+    <id>tag:togetter.com,2026-03-04:/li/2670756</id>
+    <link href="https://togetter.com/li/2670756" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: マイクロソフト・コーポレーションらによる独占禁止法違反被疑行為に関する審査の開始及び第三者からの情報・意見の募集について | 公正取引委員会</title>
-    <updated>2026-03-04T07:02:49Z</updated>
-    <id>tag:www.jftc.go.jp,2026-03-04:/soudan/jyohoteikyo/260304.html</id>
-    <link href="https://www.jftc.go.jp/soudan/jyohoteikyo/260304.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Claude Code Agent Teamsの衝撃と実際 | gihyo.jp</title>
-    <updated>2026-03-03T04:00:12Z</updated>
-    <id>tag:gihyo.jp,2026-03-03:/article/2026/02/get-started-claude-code-07</id>
-    <link href="https://gihyo.jp/article/2026/02/get-started-claude-code-07" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Apple、まったく新しいM5 ProとM5 Maxを搭載したMacBook Proを発表</title>
-    <updated>2026-03-03T14:33:04Z</updated>
-    <id>tag:www.apple.com,2026-03-03:/jp/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/</id>
-    <link href="https://www.apple.com/jp/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: “文字の起源”を覆す発見か　4万年前の旧石器人類が刻んだ記号、原楔形文字に匹敵の情報量　PNAS誌で掲載</title>
-    <updated>2026-03-03T23:39:48Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-03-03:/news/articles/2603/04/news035.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2603/04/news035.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: おい、方法を捨てろ - じゃあ、おうちで学べる</title>
-    <updated>2026-03-03T01:46:19Z</updated>
-    <id>tag:syu-m-5151.hatenablog.com,2026-03-03:/entry/2026/03/02/110121</id>
-    <link href="https://syu-m-5151.hatenablog.com/entry/2026/03/02/110121" rel="alternate"></link>
+    <title>1:hatena_blog_it: 世界初、近づくだけで払える「UWB決済」実用化へ　JCBとりそな</title>
+    <updated>2026-03-04T04:39:11Z</updated>
+    <id>tag:www.watch.impress.co.jp,2026-03-04:/docs/news/2090409.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2090409.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: RESTはどのようにバズワード化したか</title>
@@ -5308,9 +5278,33 @@
     <link href="https://koriym.github.io/blog/2026/03/03/rest-how-it-became-buzzword" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Qwen、8GB環境で動く軽量AIモデル　OpenAIに迫る衝撃性能</title>
-    <updated>2026-03-03T17:33:00Z</updated>
-    <id>tag:ascii.jp,2026-03-03:/elem/000/004/377/4377988/</id>
-    <link href="https://ascii.jp/elem/000/004/377/4377988/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 退去費用</title>
+    <updated>2026-03-03T05:03:40Z</updated>
+    <id>tag:anond.hatelabo.jp,2026-03-03:/20260303135010</id>
+    <link href="https://anond.hatelabo.jp/20260303135010" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ChatGPTはもはや“過去”？仕事を丸投げできる「Gemini」の実力</title>
+    <updated>2026-03-04T09:14:26Z</updated>
+    <id>tag:xtrend.nikkei.com,2026-03-04:/atcl/contents/18/01343/00001/</id>
+    <link href="https://xtrend.nikkei.com/atcl/contents/18/01343/00001/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ソニーが「wena」商標を譲渡 新製品? 予告も</title>
+    <updated>2026-03-04T07:47:06Z</updated>
+    <id>tag:www.watch.impress.co.jp,2026-03-04:/docs/news/2090451.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2090451.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 🥹 b:id:nguyen-oi の中身(プログラム)を公開します🤣</title>
+    <updated>2026-03-04T12:18:28Z</updated>
+    <id>tag:anond.hatelabo.jp,2026-03-04:/20260304211711</id>
+    <link href="https://anond.hatelabo.jp/20260304211711" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Claude Codeの/usageの内容をStatusBarに表示する</title>
+    <updated>2026-03-04T13:03:17Z</updated>
+    <id>tag:zenn.dev,2026-03-04:/suthio/articles/f832922e18f994</id>
+    <link href="https://zenn.dev/suthio/articles/f832922e18f994" rel="alternate"></link>
   </entry>
 </feed>
