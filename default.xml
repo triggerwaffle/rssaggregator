@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-03-06T12:40:03Z</updated>
+  <updated>2026-03-06T18:35:44Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -142,6 +142,18 @@
     <link href="https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:zenn_trend: ポップコーンUIとReact</title>
+    <updated>2026-03-06T06:00:37Z</updated>
+    <id>https://zenn.dev/akfm/articles/popcorn-ui-anti-pattern</id>
+    <link href="https://zenn.dev/akfm/articles/popcorn-ui-anti-pattern" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: OSSにおけるAI Slop問題の何が問題なのか？</title>
+    <updated>2026-03-06T03:51:29Z</updated>
+    <id>https://zenn.dev/yusukebe/articles/3fd5bc6ea341c9</id>
+    <link href="https://zenn.dev/yusukebe/articles/3fd5bc6ea341c9" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:zenn_trend: Claude Codeを組織導入するためのプラン選定ガイド</title>
     <updated>2026-03-05T22:00:00Z</updated>
     <id>https://zenn.dev/knowledgework/articles/claude-code-organization-plan-guide</id>
@@ -152,6 +164,12 @@
     <updated>2026-03-05T09:38:00Z</updated>
     <id>https://zenn.dev/kazhack/articles/ca8dcebdd9f10b</id>
     <link href="https://zenn.dev/kazhack/articles/ca8dcebdd9f10b" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>3:zenn_trend: AI エージェント基盤を、OS を作るように設計する</title>
+    <updated>2026-03-05T02:57:07Z</updated>
+    <id>https://zenn.dev/r_kawaiimura/articles/addf6348bf064b</id>
+    <link href="https://zenn.dev/r_kawaiimura/articles/addf6348bf064b" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: Claude Code に向いているプログラミング言語</title>
@@ -172,7 +190,7 @@
     <link href="https://zenn.dev/dassimen/articles/fb7c9c893479ee" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: 既存のECSが辛すぎたので、ゲーム専用プログラミング言語『Enaga』をコンパイラから自作した話</title>
+    <title>3:zenn_trend: ゲーム専用プログラミング言語『Enaga』をコンパイラから自作した話</title>
     <updated>2026-03-04T14:24:12Z</updated>
     <id>https://zenn.dev/shimaenaga_1/articles/6272bc960a0def</id>
     <link href="https://zenn.dev/shimaenaga_1/articles/6272bc960a0def" rel="alternate"></link>
@@ -202,34 +220,16 @@
     <link href="https://zenn.dev/headwaters/articles/53f51eb428dab6" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: ブラックボックスだった社内のAI活用度をGASで可視化してみた</title>
-    <updated>2026-03-04T07:52:03Z</updated>
-    <id>https://zenn.dev/micin/articles/8fce37cc4e485a</id>
-    <link href="https://zenn.dev/micin/articles/8fce37cc4e485a" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: デザイナーのためのコンポーネント設計論</title>
     <updated>2026-03-04T07:20:04Z</updated>
     <id>https://zenn.dev/yy/books/b62994c6b0b1e9</id>
     <link href="https://zenn.dev/yy/books/b62994c6b0b1e9" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:zenn_trend: Web 標準動向 2026年2月版</title>
-    <updated>2026-03-04T07:17:47Z</updated>
-    <id>https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202602</id>
-    <link href="https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202602" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>3:zenn_trend: MCPはなぜCLIに負けたのか —— 経緯と構造を整理する</title>
     <updated>2026-03-04T07:09:50Z</updated>
     <id>https://zenn.dev/hiraly/articles/3409b886607274</id>
     <link href="https://zenn.dev/hiraly/articles/3409b886607274" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:zenn_trend: 状態と性質を区別して考える</title>
-    <updated>2026-03-04T03:00:05Z</updated>
-    <id>https://zenn.dev/knowledgework/articles/95f30cfd155b5d</id>
-    <link href="https://zenn.dev/knowledgework/articles/95f30cfd155b5d" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:zenn_trend: 備忘録 : Codexでいくつか機能が追加された</title>
@@ -5152,12 +5152,6 @@
     <link href="https://gihyo.jp/article/2025/03/daily-linux-250307?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: 第59回　Plamo Linuxのインストーラ</title>
-    <updated>2025-03-07T02:07:00Z</updated>
-    <id>urn:uuid:1358a50b-96ca-c67f-b1cf-9ed38c163734</id>
-    <link href="https://gihyo.jp/article/2025/03/zoku-gansiki-0059?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: GitHub Copilot Chat、Visual Studio/VS Code上で画像を入力できるVision機能がパブリックプレビューに</title>
     <updated>2025-03-07T02:04:00Z</updated>
     <id>urn:uuid:960d69fc-a8b2-c7d2-05b7-c3d12ac3c978</id>
@@ -5176,34 +5170,16 @@
     <link href="https://anond.hatelabo.jp/20260306142231" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 友達の娘が「会わせたい人がいる」と彼氏を連れてきたが耳にずっとイヤホンをつけたままで時代を感じた話…「補聴器かもしれない」「だとしても彼氏が言うべき」など</title>
-    <updated>2026-03-06T03:59:07Z</updated>
-    <id>tag:togetter.com,2026-03-06:/li/2671476</id>
-    <link href="https://togetter.com/li/2671476" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 日本生命、米国でOpenAIを提訴　「ChatGPTが非弁行為」 - 日本経済新聞</title>
-    <updated>2026-03-05T23:07:01Z</updated>
-    <id>tag:www.nikkei.com,2026-03-05:/article/DGXZQOGN060800W6A300C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN060800W6A300C2000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 5ch.netのドメインがレジストラからBANされたらしい</title>
-    <updated>2026-03-05T22:58:49Z</updated>
-    <id>tag:anond.hatelabo.jp,2026-03-05:/20260306075728</id>
-    <link href="https://anond.hatelabo.jp/20260306075728" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 「5ちゃんねる」のドメイン「5ch.net」永久停止へ　動物虐待コンテンツ放置で</title>
     <updated>2026-03-06T07:35:17Z</updated>
     <id>tag:www.itmedia.co.jp,2026-03-06:/news/articles/2603/06/news112.html</id>
     <link href="https://www.itmedia.co.jp/news/articles/2603/06/news112.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ノートPCみたいな｢持ち歩けるクルマ｣。今度は公道も走れるぞ</title>
-    <updated>2026-03-05T23:07:20Z</updated>
-    <id>tag:www.gizmodo.jp,2026-03-05:/2026/03/walkcar-2-ysb.html</id>
-    <link href="https://www.gizmodo.jp/2026/03/walkcar-2-ysb.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 友達の娘が「会わせたい人がいる」と彼氏を連れてきたが耳にずっとイヤホンをつけたままで時代を感じた話…「補聴器かもしれない」「だとしても彼氏が言うべき」など</title>
+    <updated>2026-03-06T03:59:07Z</updated>
+    <id>tag:togetter.com,2026-03-06:/li/2671476</id>
+    <link href="https://togetter.com/li/2671476" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 【保存版】Claude課金すべき？Cowrok・Skills・Claude Codeの使い方全解説</title>
@@ -5212,16 +5188,16 @@
     <link href="https://newspicks.com/news/16173894/body/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: OSSにおけるAI Slop問題の何が問題なのか？</title>
-    <updated>2026-03-06T04:54:14Z</updated>
-    <id>tag:zenn.dev,2026-03-06:/yusukebe/articles/3fd5bc6ea341c9</id>
-    <link href="https://zenn.dev/yusukebe/articles/3fd5bc6ea341c9" rel="alternate"></link>
+    <title>1:hatena_blog_it: CHUWIにCPU偽装疑惑。ノートPCが7430Uと表示も実は5500U？</title>
+    <updated>2026-03-06T08:37:59Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-03-06:/docs/news/2091304.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2091304.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 巨大掲示板「5ch」がドメインを剥奪されたことが判明、5ch.netから5ch.ioに変更して運営は続行</title>
-    <updated>2026-03-06T06:15:21Z</updated>
-    <id>tag:gigazine.net,2026-03-06:/news/20260306-5ch-domain/</id>
-    <link href="https://gigazine.net/news/20260306-5ch-domain/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 5ch.netのドメインがレジストラからBANされたらしい</title>
+    <updated>2026-03-05T22:58:49Z</updated>
+    <id>tag:anond.hatelabo.jp,2026-03-05:/20260306075728</id>
+    <link href="https://anond.hatelabo.jp/20260306075728" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ガバメントAIで試用する国内大規模言語モデル（LLM）の公募結果｜デジタル庁</title>
@@ -5230,16 +5206,40 @@
     <link href="https://www.digital.go.jp/news/10d55c63-b3e1-42b9-9cc5-93a06943ae0e" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: CHUWIにCPU偽装疑惑。ノートPCが7430Uと表示も実は5500U？</title>
-    <updated>2026-03-06T08:37:59Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2026-03-06:/docs/news/2091304.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2091304.html" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: 同人誌即売会「コミティア」、生成AI作品を原則禁止　“表紙がAIイラストの文芸作品”も不可</title>
     <updated>2026-03-06T05:17:00Z</updated>
     <id>tag:www.itmedia.co.jp,2026-03-06:/aiplus/articles/2603/06/news084.html</id>
     <link href="https://www.itmedia.co.jp/aiplus/articles/2603/06/news084.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 巨大掲示板「5ch」がドメインを剥奪されたことが判明、5ch.netから5ch.ioに変更して運営は続行</title>
+    <updated>2026-03-06T06:15:21Z</updated>
+    <id>tag:gigazine.net,2026-03-06:/news/20260306-5ch-domain/</id>
+    <link href="https://gigazine.net/news/20260306-5ch-domain/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Symphony - OpenAIが発表したチケット駆動AI開発ツールについて</title>
+    <updated>2026-03-06T12:00:27Z</updated>
+    <id>tag:zenn.dev,2026-03-06:/komlock_lab/articles/openai-symphony</id>
+    <link href="https://zenn.dev/komlock_lab/articles/openai-symphony" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 日本生命、米国でOpenAIを提訴　「ChatGPTが非弁行為」 - 日本経済新聞</title>
+    <updated>2026-03-05T23:07:01Z</updated>
+    <id>tag:www.nikkei.com,2026-03-05:/article/DGXZQOGN060800W6A300C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN060800W6A300C2000000/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 突然の「スーパーコア」誕生と消えたEコア――Apple M5 Pro／Maxが断行した「CPU大再編」を読み解く</title>
+    <updated>2026-03-06T11:01:57Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-03-06:/pcuser/articles/2603/06/news114.html</id>
+    <link href="https://www.itmedia.co.jp/pcuser/articles/2603/06/news114.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Firefoxがクラッシュする原因の最大15％がメモリのビット反転によるものだという分析結果</title>
+    <updated>2026-03-06T10:01:54Z</updated>
+    <id>tag:gigazine.net,2026-03-06:/news/20260306-firefox-bit-flip/</id>
+    <link href="https://gigazine.net/news/20260306-firefox-bit-flip/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: もしも2026年にFlashが作られていたら？という「新しいFlash」構築中、古いファイルを開いて編集も可能</title>
@@ -5248,16 +5248,28 @@
     <link href="https://gigazine.net/news/20260306-new-flash/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Anthropic、AIの労働市場インパクトを測る新指標　プログラマーは75％、清掃員は0％</title>
-    <updated>2026-03-06T00:13:12Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-03-06:/aiplus/articles/2603/06/news076.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2603/06/news076.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: ノートPCみたいな｢持ち歩けるクルマ｣。今度は公道も走れるぞ</title>
+    <updated>2026-03-05T23:07:20Z</updated>
+    <id>tag:www.gizmodo.jp,2026-03-05:/2026/03/walkcar-2-ysb.html</id>
+    <link href="https://www.gizmodo.jp/2026/03/walkcar-2-ysb.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: やり返しって基本しない方がいいんだろうけどやられっぱなしの人は毎回許さなきゃいけないの？→やり返すのと許すのはそれぞれ別で考えた方がいいとアドバイスが来る</title>
-    <updated>2026-03-06T02:19:52Z</updated>
-    <id>tag:togetter.com,2026-03-06:/li/2671416</id>
-    <link href="https://togetter.com/li/2671416" rel="alternate"></link>
+    <title>1:hatena_blog_it: ドコモがAndroid端末の標準メッセージアプリを「Google メッセージ」に変更　＋メッセージアプリも引き続き利用可</title>
+    <updated>2026-03-06T11:03:08Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-03-06:/mobile/articles/2603/06/news138.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2603/06/news138.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ChatGPTから150万人が離脱、解約前に「必ずやっておく」べきこと | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+    <updated>2026-03-06T09:21:44Z</updated>
+    <id>tag:forbesjapan.com,2026-03-06:/articles/detail/93161</id>
+    <link href="https://forbesjapan.com/articles/detail/93161" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ChatGPTの「非弁行為」により日本生命がOpenAIを提訴（栗原潔） - エキスパート - Yahoo!ニュース</title>
+    <updated>2026-03-06T09:36:12Z</updated>
+    <id>tag:news.yahoo.co.jp,2026-03-06:/expert/articles/6f088a493de9c13cb777755d3129bf6351c8c5a0</id>
+    <link href="https://news.yahoo.co.jp/expert/articles/6f088a493de9c13cb777755d3129bf6351c8c5a0" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: “政府認定AI”選定へ　デジタル庁、国産7モデルを検証　全府省庁18万人に展開</title>
@@ -5266,69 +5278,27 @@
     <link href="https://www.itmedia.co.jp/aiplus/articles/2603/06/news097.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら"成功したはずの出力"がカオスだった話 - Qiita</title>
-    <updated>2026-03-05T22:57:01Z</updated>
-    <id>tag:qiita.com,2026-03-05:/toarusyakaijin/items/3ab5caa68a8a33f5ec73</id>
-    <link href="https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ネットワーク不要・サブスク不要！ 落合陽一氏の「vibe-local」でオフラインAIコーディングを体験してみた【生成AIストリーム】</title>
-    <updated>2026-03-05T08:17:06Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2026-03-05:/docs/serial/aistream/2090895.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/aistream/2090895.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: OpenAIが「GPT-5.4」提供、Excelと連携　アンソロピック上回る性能 - 日本経済新聞</title>
-    <updated>2026-03-05T23:00:02Z</updated>
-    <id>tag:www.nikkei.com,2026-03-05:/article/DGXZQOGN05CGB0V00C26A3000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN05CGB0V00C26A3000000/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Goに脆弱性報告した話 | Wantedly Engineer Blog</title>
-    <updated>2026-03-06T04:33:46Z</updated>
-    <id>tag:www.wantedly.com,2026-03-06:/companies/wantedly/post_articles/1041394</id>
-    <link href="https://www.wantedly.com/companies/wantedly/post_articles/1041394" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AI時代にすべてをGitHubで管理するあなたへ — HTTPS接続、今すぐやめてください - Qiita</title>
-    <updated>2026-03-05T18:46:22Z</updated>
-    <id>tag:qiita.com,2026-03-05:/kenimo49/items/27e2a11e80fe3b835f96</id>
-    <link href="https://qiita.com/kenimo49/items/27e2a11e80fe3b835f96" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: ブラウザ操作を自動キャプチャして手順書を作るChrome拡張機能を作った</title>
     <updated>2026-03-06T02:13:40Z</updated>
     <id>tag:zenn.dev,2026-03-06:/ktg/articles/55b63d68ac2ddb</id>
     <link href="https://zenn.dev/ktg/articles/55b63d68ac2ddb" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 怪しいAIに「確定申告」を任せるゲーム『納税庁らくらくAIチャット』無料公開。“きのこの山好きには山林所得上乗せ”など、トンデモ理論炸裂ゲーム - AUTOMATON</title>
-    <updated>2026-03-06T04:30:30Z</updated>
-    <id>tag:automaton-media.com,2026-03-06:/articles/newsjp/20260306-426868/</id>
-    <link href="https://automaton-media.com/articles/newsjp/20260306-426868/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 米オラクル、数千人削減と米報道　AI投資資金を捻出 - 日本経済新聞</title>
+    <updated>2026-03-05T22:59:50Z</updated>
+    <id>tag:www.nikkei.com,2026-03-05:/article/DGXZQOGN0602F0W6A300C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN0602F0W6A300C2000000/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 技術的負債の泥沼から組織を救う3つの転換点</title>
-    <updated>2026-03-04T08:36:28Z</updated>
-    <id>tag:speakerdeck.com,2026-03-04:/nwiizo/ji-shu-de-fu-zhai-noni-zhao-karazu-zhi-wojiu-u3tunozhuan-huan-dian</id>
-    <link href="https://speakerdeck.com/nwiizo/ji-shu-de-fu-zhai-noni-zhao-karazu-zhi-wojiu-u3tunozhuan-huan-dian" rel="alternate"></link>
+    <title>1:hatena_blog_it: やり返しって基本しない方がいいんだろうけどやられっぱなしの人は毎回許さなきゃいけないの？→やり返すのと許すのはそれぞれ別で考えた方がいいとアドバイスが来る</title>
+    <updated>2026-03-06T02:19:52Z</updated>
+    <id>tag:togetter.com,2026-03-06:/li/2671416</id>
+    <link href="https://togetter.com/li/2671416" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ChatGPTやGeminiからClaudeへカンタンに移行できる？　新しい「メモリインポート機能」を試してみた</title>
-    <updated>2026-03-06T01:43:47Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2026-03-06:/ait/articles/2603/06/news022.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2603/06/news022.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ポップコーンUIとReact</title>
-    <updated>2026-03-06T06:06:43Z</updated>
-    <id>tag:zenn.dev,2026-03-06:/akfm/articles/popcorn-ui-anti-pattern</id>
-    <link href="https://zenn.dev/akfm/articles/popcorn-ui-anti-pattern" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「チャットGPTの法的助言で不当な訴訟に直面」日本生命アメリカ法人が16億円の損害賠償求めオープンAIを提訴｜FNNプライムオンライン</title>
-    <updated>2026-03-06T07:05:21Z</updated>
-    <id>tag:www.fnn.jp,2026-03-06:/articles/-/1011168</id>
-    <link href="https://www.fnn.jp/articles/-/1011168" rel="alternate"></link>
+    <title>1:hatena_blog_it: みずほFGの自社LLM、「GPT-5.2と同精度」でオンプレ運用可能　「Qwen3-32B」ベース</title>
+    <updated>2026-03-06T07:54:54Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-03-06:/aiplus/articles/2603/06/news115.html</id>
+    <link href="https://www.itmedia.co.jp/aiplus/articles/2603/06/news115.html" rel="alternate"></link>
   </entry>
 </feed>
