@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-03-11T12:43:34Z</updated>
+  <updated>2026-03-11T18:45:46Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -988,6 +988,18 @@
     <link href="https://www.youtube.com/watch?v=Uq0ZmphfwNw" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: Google PlayのGoogleの取り分が20％以下に値下げへ。独自課金システムや外部Webサイトに誘導しての課金も可能に</title>
+    <updated>2026-03-11T16:20:18Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8514</id>
+    <link href="https://www.publickey1.jp/blog/26/google_playgoogle20web.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: JavaScript製表計算ライブラリ「SpreadJS」、生成AIへの指示で自動集計や分析が可能になる機能搭載</title>
+    <updated>2026-03-11T15:42:09Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8513</id>
+    <link href="https://www.publickey1.jp/blog/26/javascriptspreadjsai.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: マイクロソフトが「.NET Skills」公開。AIエージェントの.NET開発能力を拡張</title>
     <updated>2026-03-10T15:31:27Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8512</id>
@@ -1064,18 +1076,6 @@
     <updated>2026-03-04T15:22:57Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8500</id>
     <link href="https://www.publickey1.jp/blog/26/service_workerjavascript.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: AWS、中東でデータセンター施設がドローンの直接攻撃を受けたことを公表。3つのアベイラビリティゾーンのうち2つが著しく損傷</title>
-    <updated>2026-03-03T15:38:16Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8499</id>
-    <link href="https://www.publickey1.jp/blog/26/aws32.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: NTTドコモ、AWSを用いた5Gコアネットワークの商用運用を開始。AIエージェントを用いた設計、構築の自動化により人為ミスの防止や構築期間の80%短縮を実現</title>
-    <updated>2026-03-03T15:36:44Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8498</id>
-    <link href="https://www.publickey1.jp/blog/26/nttaws5gai80.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: 第903回　コンテナ時代の端末ソフトウェアPtyxisを活用しよう！</title>
@@ -5170,12 +5170,6 @@
     <link href="https://gihyo.jp/article/2025/03/google-gemma-3?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: 期待はずれだった？ rabbit r1のその後</title>
-    <updated>2025-03-12T23:49:00Z</updated>
-    <id>urn:uuid:777fae62-5011-afa9-67d1-55c53f198951</id>
-    <link href="https://gihyo.jp/article/2025/03/android-weekly-topics-250313?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: TypeScript、パフォーマンス改善のためにネイティブ実装の取り組みを発表 ——ネイティブ実装にGo言語を使い、ビルド時間（tsc）は10倍の速度改善</title>
     <updated>2025-03-12T02:01:00Z</updated>
     <id>urn:uuid:e524280e-781a-384b-c4a8-08d5407b5f0a</id>
@@ -5188,10 +5182,10 @@
     <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0854?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: サンワサプライ、ごろ寝でPC操作できる多機能ハンディマウス</title>
-    <updated>2026-03-11T05:44:48Z</updated>
-    <id>tag:pc.watch.impress.co.jp,2026-03-11:/docs/news/2092392.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2092392.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Claude Code Skills (Agent Skills) 入門【社内勉強会スライド】 | DevelopersIO</title>
+    <updated>2026-03-11T02:13:54Z</updated>
+    <id>tag:dev.classmethod.jp,2026-03-11:/articles/claude-code-skills-for-cloud-bu-consulting-members/</id>
+    <link href="https://dev.classmethod.jp/articles/claude-code-skills-for-cloud-bu-consulting-members/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 鹿や猪を追い払う目的の四足歩行ロボットだが数週間で馴れてしまった、なので追跡させて行動範囲を記録してハンターに共有するSFチックな試みに移行</title>
@@ -5200,46 +5194,10 @@
     <link href="https://togetter.com/li/2673486" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 10万円で200円余るMacBook NeoでAI音楽制作は成立するのか。 Logic ProとSunoで検証してみた（CloseBox） | テクノエッジ TechnoEdge</title>
-    <updated>2026-03-11T04:23:10Z</updated>
-    <id>tag:www.techno-edge.net,2026-03-11:/article/2026/03/11/4916.html</id>
-    <link href="https://www.techno-edge.net/article/2026/03/11/4916.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: お気に入りの配信者が死んじゃうかも</title>
-    <updated>2026-03-10T21:52:27Z</updated>
-    <id>tag:anond.hatelabo.jp,2026-03-10:/20260310120251</id>
-    <link href="https://anond.hatelabo.jp/20260310120251" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【2026年最新】100ページ超の要件定義書も楽勝！Antigravity × NotebookLMでドキュメント作成を爆速化 - Qiita</title>
-    <updated>2026-03-10T20:06:21Z</updated>
-    <id>tag:qiita.com,2026-03-10:/hitotch/items/411bfd2be559b82d156d</id>
-    <link href="https://qiita.com/hitotch/items/411bfd2be559b82d156d" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: ゲーム開発のゲームエンジン採用率、「Unreal Engine」がついに「Unity」を抜き去ったとの調査結果。ここ1年でUEが一気に引き離す - AUTOMATON</title>
-    <updated>2026-03-11T09:34:30Z</updated>
-    <id>tag:automaton-media.com,2026-03-11:/articles/newsjp/unreal-engine-20260311-428296/</id>
-    <link href="https://automaton-media.com/articles/newsjp/unreal-engine-20260311-428296/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 非情報系研究者へ送る Transformer入門</title>
-    <updated>2026-03-10T04:03:02Z</updated>
-    <id>tag:speakerdeck.com,2026-03-10:/rishiyama/fei-qing-bao-xi-yan-jiu-zhe-hesong-ru-transformerru-men</id>
-    <link href="https://speakerdeck.com/rishiyama/fei-qing-bao-xi-yan-jiu-zhe-hesong-ru-transformerru-men" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIとロボット技術を駆使した人間の労働者をほとんど必要としない「ダークファクトリー」が中国の労働市場で賃金の低下と雇用機会の喪失を引き起こしている</title>
-    <updated>2026-03-11T07:38:01Z</updated>
-    <id>tag:gigazine.net,2026-03-11:/news/20260311-china-ai-dark-factory/</id>
-    <link href="https://gigazine.net/news/20260311-china-ai-dark-factory/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIエージェントが勝手に ブログで個人攻撃、 「野放し」に歯止めなく</title>
-    <updated>2026-03-11T00:01:45Z</updated>
-    <id>tag:www.technologyreview.jp,2026-03-11:/s/379025/online-harassment-is-entering-its-ai-era/</id>
-    <link href="https://www.technologyreview.jp/s/379025/online-harassment-is-entering-its-ai-era/" rel="alternate"></link>
+    <title>1:hatena_blog_it: サンワサプライ、ごろ寝でPC操作できる多機能ハンディマウス</title>
+    <updated>2026-03-11T05:44:48Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-03-11:/docs/news/2092392.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2092392.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ITに強いと主張してる新しい部下の得意ソフトが「一太郎」と聞いて、とんでもないポンコツか、はたまたすさまじぃ能力者かとハラハラドキドキしてる⇒一太郎か…</title>
@@ -5248,34 +5206,94 @@
     <link href="https://posfie.com/@kalofollow/p/wHAGGOL" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: なぜ、SOLIDの単一責務の原則(SRP)は理解しにくいのか？</title>
-    <updated>2026-03-10T10:47:52Z</updated>
-    <id>tag:zenn.dev,2026-03-10:/pdfractal/articles/f3edfb13487e25</id>
-    <link href="https://zenn.dev/pdfractal/articles/f3edfb13487e25" rel="alternate"></link>
+    <title>1:hatena_blog_it: 10万円で200円余るMacBook NeoでAI音楽制作は成立するのか。 Logic ProとSunoで検証してみた（CloseBox） | テクノエッジ TechnoEdge</title>
+    <updated>2026-03-11T04:23:10Z</updated>
+    <id>tag:www.techno-edge.net,2026-03-11:/article/2026/03/11/4916.html</id>
+    <link href="https://www.techno-edge.net/article/2026/03/11/4916.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 米軍がイラン無人機封じにAI新兵器、Google元CEO関与　費用400分の1 - 日本経済新聞</title>
-    <updated>2026-03-10T20:41:39Z</updated>
-    <id>tag:www.nikkei.com,2026-03-10:/article/DGXZQOGN100970Q6A310C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN100970Q6A310C2000000/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 【2026年最新】100ページ超の要件定義書も楽勝！Antigravity × NotebookLMでドキュメント作成を爆速化 - Qiita</title>
+    <updated>2026-03-10T20:06:21Z</updated>
+    <id>tag:qiita.com,2026-03-10:/hitotch/items/411bfd2be559b82d156d</id>
+    <link href="https://qiita.com/hitotch/items/411bfd2be559b82d156d" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ダイアログ実装にみるトレンドと実装の中身 - エムスリーテックブログ</title>
-    <updated>2026-03-11T04:39:55Z</updated>
-    <id>tag:www.m3tech.blog,2026-03-11:/entry/2026/03/11/132828</id>
-    <link href="https://www.m3tech.blog/entry/2026/03/11/132828" rel="alternate"></link>
+    <title>1:hatena_blog_it: お気に入りの配信者が死んじゃうかも</title>
+    <updated>2026-03-10T21:52:27Z</updated>
+    <id>tag:anond.hatelabo.jp,2026-03-10:/20260310120251</id>
+    <link href="https://anond.hatelabo.jp/20260310120251" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 10万円切りMacが17年ぶりに復活！　実機を試して分かったAppleが仕掛ける「MacBook Neo」の実力</title>
-    <updated>2026-03-10T14:30:49Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-03-10:/pcuser/articles/2603/10/news132.html</id>
-    <link href="https://www.itmedia.co.jp/pcuser/articles/2603/10/news132.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: カズオ・イシグロら約1万人の作家が「この本を盗むな」という「中身のない本」を出版、AI企業が作品を一方的に利用する現状に抗議するため</title>
+    <updated>2026-03-11T11:58:13Z</updated>
+    <id>tag:gigazine.net,2026-03-11:/news/20260311-dont-steal-this-book/</id>
+    <link href="https://gigazine.net/news/20260311-dont-steal-this-book/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: サンワサプライ、センサーライトとソーラーパネル付き屋外用ネットワークカメラ「400-SSA013」発売　</title>
-    <updated>2026-03-11T03:39:12Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2026-03-11:/docs/news/2092106.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2092106.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 社内研修でも使える「生成AIはじめの一歩」　総務省が資料を無償公開</title>
+    <updated>2026-03-11T03:58:21Z</updated>
+    <id>tag:smbiz.asahi.com,2026-03-11:/article/16406076</id>
+    <link href="https://smbiz.asahi.com/article/16406076" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ゲーム開発のゲームエンジン採用率、「Unreal Engine」がついに「Unity」を抜き去ったとの調査結果。ここ1年でUEが一気に引き離す - AUTOMATON</title>
+    <updated>2026-03-11T09:34:30Z</updated>
+    <id>tag:automaton-media.com,2026-03-11:/articles/newsjp/unreal-engine-20260311-428296/</id>
+    <link href="https://automaton-media.com/articles/newsjp/unreal-engine-20260311-428296/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: このゲームこう変えれば面白いかもという謎の人間の直感の力、AIも身につけて欲しい - ABAの日誌</title>
+    <updated>2026-03-11T09:33:06Z</updated>
+    <id>tag:aba.hatenablog.com,2026-03-11:/entry/2026/03/11/182225</id>
+    <link href="https://aba.hatenablog.com/entry/2026/03/11/182225" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHubで見つけた「便利ツール」を解析したらマルウェアだった話</title>
+    <updated>2026-03-10T22:55:06Z</updated>
+    <id>tag:zenn.dev,2026-03-10:/hiyoko_sauna/articles/74dd12a7cabafa</id>
+    <link href="https://zenn.dev/hiyoko_sauna/articles/74dd12a7cabafa" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ロボットのための工場に灯りは要らない</title>
+    <updated>2026-03-11T10:57:09Z</updated>
+    <id>tag:speakerdeck.com,2026-03-11:/watany/dark-factory-for-agent</id>
+    <link href="https://speakerdeck.com/watany/dark-factory-for-agent" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIとロボット技術を駆使した人間の労働者をほとんど必要としない「ダークファクトリー」が中国の労働市場で賃金の低下と雇用機会の喪失を引き起こしている</title>
+    <updated>2026-03-11T07:38:01Z</updated>
+    <id>tag:gigazine.net,2026-03-11:/news/20260311-china-ai-dark-factory/</id>
+    <link href="https://gigazine.net/news/20260311-china-ai-dark-factory/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ユーザーの代わりに買い物できるPerplexityのAIブラウザ「Comet」のAmazonへのアクセス禁止命令を裁判所が下す、さらにAmazonのデータの複製をすべて破棄することも義務付け</title>
+    <updated>2026-03-11T03:16:55Z</updated>
+    <id>tag:gigazine.net,2026-03-11:/news/20260311-amazon-win-court-perplexity-comet/</id>
+    <link href="https://gigazine.net/news/20260311-amazon-win-court-perplexity-comet/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: YouTubeが「政治家になりすましたAIフェイク動画」の検出ツールを提供開始</title>
+    <updated>2026-03-11T01:50:14Z</updated>
+    <id>tag:gigazine.net,2026-03-11:/news/20260311-youtube-likeness-detection/</id>
+    <link href="https://gigazine.net/news/20260311-youtube-likeness-detection/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: メモリとCPUの価格高騰で10万円台前半クラスのノートPCの小売価格が利益率を維持するために約40％上昇する可能性あり</title>
+    <updated>2026-03-11T04:51:22Z</updated>
+    <id>tag:gigazine.net,2026-03-11:/news/20260311-notebook-pc-prices-will-rise/</id>
+    <link href="https://gigazine.net/news/20260311-notebook-pc-prices-will-rise/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Faster bundler</title>
+    <updated>2026-03-11T00:58:48Z</updated>
+    <id>tag:railsatscale.com,2026-03-11:/2026-03-09-faster-bundler/</id>
+    <link href="https://railsatscale.com/2026-03-09-faster-bundler/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: MetaがAIエージェントソーシャルネットワーク「Moltbook」を買収</title>
+    <updated>2026-03-11T04:56:55Z</updated>
+    <id>tag:gigazine.net,2026-03-11:/news/20260311-moltbook-agent/</id>
+    <link href="https://gigazine.net/news/20260311-moltbook-agent/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Geminiが文書も表計算もスライドも自動生成、Workspace大型刷新</title>
@@ -5284,57 +5302,33 @@
     <link href="https://pc.watch.impress.co.jp/docs/news/2092373.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 素焼きアーモンド食べてたら気になる穴を見つけたので割ってみたらなんかいた！→現代の技術では、これの混入を防ぐのは技術的に無理らしい</title>
-    <updated>2026-03-10T23:12:44Z</updated>
-    <id>tag:togetter.com,2026-03-10:/li/2673336</id>
-    <link href="https://togetter.com/li/2673336" rel="alternate"></link>
+    <title>1:hatena_blog_it: DuckDB 1.5.0リリース、コマンドラインクライアント、パーサーを刷新 ―次バージョンは“DuckDB 2.0”に | gihyo.jp</title>
+    <updated>2026-03-10T03:41:46Z</updated>
+    <id>tag:gihyo.jp,2026-03-10:/article/2026/03/duckdb-150</id>
+    <link href="https://gihyo.jp/article/2026/03/duckdb-150" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 無料で簡単にAIエージェントでブラウザやファイルの自動操作ができる「Agent Zero」、ChatGPT・Claude・Geminiと連携できローカルAIも使用可能</title>
-    <updated>2026-03-11T02:20:04Z</updated>
-    <id>tag:gigazine.net,2026-03-11:/news/20260311-agent-zero/</id>
-    <link href="https://gigazine.net/news/20260311-agent-zero/" rel="alternate"></link>
+    <title>1:hatena_blog_it: llmock — Deterministic mock LLM server for testing</title>
+    <updated>2026-03-11T03:32:34Z</updated>
+    <id>tag:llmock.copilotkit.dev,2026-03-11:/</id>
+    <link href="https://llmock.copilotkit.dev/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Code Skillsのチーム展開で気づいたSkill管理の課題と対策 - 株式会社ヘンリー エンジニアブログ</title>
-    <updated>2026-03-11T02:38:12Z</updated>
-    <id>tag:dev.henry.jp,2026-03-11:/entry/claude-code-skills-for-teams</id>
-    <link href="https://dev.henry.jp/entry/claude-code-skills-for-teams" rel="alternate"></link>
+    <title>1:hatena_blog_it: MacBook Neoのロジックボードサイズは約19x3cm。</title>
+    <updated>2026-03-11T07:29:33Z</updated>
+    <id>tag:applech2.com,2026-03-11:/archives/20260311-maccbook-neo-logic-board-size.html</id>
+    <link href="https://applech2.com/archives/20260311-maccbook-neo-logic-board-size.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: JR東日本、AIとドローンで復旧迅速化　運転再開時間を3割短縮</title>
-    <updated>2026-03-11T06:03:09Z</updated>
-    <id>tag:www.watch.impress.co.jp,2026-03-11:/docs/news/2092434.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2092434.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: サンワサプライ、センサーライトとソーラーパネル付き屋外用ネットワークカメラ「400-SSA013」発売　</title>
+    <updated>2026-03-11T03:39:12Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2026-03-11:/docs/news/2092106.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/news/2092106.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 2年間諦めていたDBの整合性崩れを、Claude Codeと2文のSQLで解決した話</title>
-    <updated>2026-03-10T12:57:11Z</updated>
-    <id>tag:zenn.dev,2026-03-10:/syncable_tech/articles/2ddb940ade018d</id>
-    <link href="https://zenn.dev/syncable_tech/articles/2ddb940ade018d" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「Firefox ESR 115」のサポートが4度目の延長、Windows 7/8.xで2026年8月まで利用可能／macOS 10.12、10.13、10.14にも適用</title>
-    <updated>2026-03-11T04:12:11Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2026-03-11:/docs/news/2092258.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2092258.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Coding Agent時代に、開発速度を遅くする</title>
-    <updated>2026-03-10T06:19:53Z</updated>
-    <id>tag:nyosegawa.github.io,2026-03-10:/posts/not-building-in-agent-era/</id>
-    <link href="https://nyosegawa.github.io/posts/not-building-in-agent-era/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: DOGEの元職員が「5億人超のアメリカ国民の社会保障番号などが含まれたデータベース」をUSBメモリに保存して盗んだとの報道</title>
-    <updated>2026-03-11T03:15:25Z</updated>
-    <id>tag:gigazine.net,2026-03-11:/news/20260311-doge-employee-stole-social-security-data/</id>
-    <link href="https://gigazine.net/news/20260311-doge-employee-stole-social-security-data/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: これでSVGアイコンを探すときに困らない！ 無料で商用利用できるライブラリを横断検索できる便利サイト -All SVG Icons</title>
-    <updated>2026-03-11T01:09:10Z</updated>
-    <id>tag:coliss.com,2026-03-11:/articles/build-websites/operation/work/all-svg-icons.html</id>
-    <link href="https://coliss.com/articles/build-websites/operation/work/all-svg-icons.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 12.6型WQXGAはこうやって武器にする！最新2in1「mouse M2」で構築する効率仕事術 ～Windows 11 UIの「惜しい」or「なじめない」部分はツールで補完[Sponsored]</title>
+    <updated>2026-03-11T03:32:50Z</updated>
+    <id>tag:pc.watch.impress.co.jp,2026-03-11:/docs/topic/special/2087602.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/topic/special/2087602.html" rel="alternate"></link>
   </entry>
 </feed>
