@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-03-12T12:43:49Z</updated>
+  <updated>2026-03-12T18:43:45Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -298,7 +298,7 @@
     <link href="https://qiita.com/ssaita/items/dd3ea7c8834c7bebebf9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
-    <title>3:qiita_trend: Antigravityの「青いボタン」をポチポチ押すのはもう終わり！ターミナル自動承認でAntigravityで楽々開発を実現しよう</title>
+    <title>3:qiita_trend: Antigravityの「青いボタン」をポチポチ押すのはもう終わり！ターミナル自動承認でAntigravityで楽々開発を実現しよう ＋追記 Antigravity０％問題</title>
     <updated>2026-03-09T21:58:30Z</updated>
     <id>tag:qiita.com,2005:PublicArticle/2170946</id>
     <link href="https://qiita.com/masakinihirota/items/b1c979cda8518f8b6695?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
@@ -448,6 +448,12 @@
     <link href="https://qiita.com/tkazuaki0820/items/bdb238d1929757c4e357?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: Origami Linux Is Both Elegant And Opinionated (And I Like It!)</title>
+    <updated>2026-03-12T13:00:04Z</updated>
+    <id>yt:video:1STCtfTNKvk</id>
+    <link href="https://www.youtube.com/watch?v=1STCtfTNKvk" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: Replacing Native Apps With Snaps And Flatpaks? (Don't Do It!)</title>
     <updated>2026-03-09T12:48:13Z</updated>
     <id>yt:video:58jkfpJ3j0E</id>
@@ -530,12 +536,6 @@
     <updated>2026-01-30T14:01:13Z</updated>
     <id>yt:video:iN-J51qDzpk</id>
     <link href="https://www.youtube.com/watch?v=iN-J51qDzpk" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: My Xonsh Shell Experiment Failed! (...Kind Of)</title>
-    <updated>2026-01-26T14:00:25Z</updated>
-    <id>yt:video:Iif4GpL6yrQ</id>
-    <link href="https://www.youtube.com/watch?v=Iif4GpL6yrQ" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: 「セキュリティ専門家と同等の結果」　Microsoftが公開したAI支援の脅威分析ワークフローの中身</title>
@@ -988,6 +988,12 @@
     <link href="https://www.youtube.com/watch?v=Uq0ZmphfwNw" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: 静的サイトジェネレータ「Astro 6.0」正式リリース。開発環境としてCloudflare Workers対応。Rust製コンパイラの実験的追加など</title>
+    <updated>2026-03-12T15:26:16Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8515</id>
+    <link href="https://www.publickey1.jp/blog/26/astro_60cloudflare_workersrust.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: Google PlayのGoogleの取り分が20％以下に値下げへ。独自課金システムや外部Webサイトに誘導しての課金も可能に</title>
     <updated>2026-03-11T16:20:18Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8514</id>
@@ -1070,12 +1076,6 @@
     <updated>2026-03-04T15:27:10Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8501</id>
     <link href="https://www.publickey1.jp/blog/26/googlechrome2web.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: 主要なブラウザエンジンにて、Service WorkerでのJavaScriptモジュール機能が利用可能に</title>
-    <updated>2026-03-04T15:22:57Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8500</id>
-    <link href="https://www.publickey1.jp/blog/26/service_workerjavascript.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: OpenAI、Windows向け「Codex」アプリを一般提供開始 ——Windows上のCodexサンドボックスでエージェントを実行可能に</title>
@@ -5194,22 +5194,10 @@
     <link href="https://gihyo.jp/article/2025/03/google-gemma-3?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: TypeScript、パフォーマンス改善のためにネイティブ実装の取り組みを発表 ——ネイティブ実装にGo言語を使い、ビルド時間（tsc）は10倍の速度改善</title>
-    <updated>2025-03-12T02:01:00Z</updated>
-    <id>urn:uuid:e524280e-781a-384b-c4a8-08d5407b5f0a</id>
-    <link href="https://gihyo.jp/article/2025/03/typescript-native-port?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:gihyo_site: 第854回　Sambaで作るActive Directory互換環境  （3） ドメインコントローラーの基本操作</title>
-    <updated>2025-03-12T01:09:00Z</updated>
-    <id>urn:uuid:084187cf-232d-8876-af82-a47a684d8bdd</id>
-    <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0854?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIコーディングはなぜ後から苦しくなるのか？　技術負債に続く「理解負債」「認知負債」という新たな落とし穴</title>
-    <updated>2026-03-11T23:54:12Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2026-03-11:/ait/articles/2603/12/news016.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2603/12/news016.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: [はてブ統計] はてなブックマークは衰退しているのか？</title>
+    <updated>2026-03-12T09:08:08Z</updated>
+    <id>tag:anond.hatelabo.jp,2026-03-12:/20260312180747</id>
+    <link href="https://anond.hatelabo.jp/20260312180747" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: ゲーム中の"ネコハラ"を防ぐ「猫ハウスデスク」</title>
@@ -5218,10 +5206,16 @@
     <link href="https://pc.watch.impress.co.jp/docs/news/2092801.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: イオンの金融アプリが「イオンペイ」にブランド統一　決済・ウォレット集約</title>
-    <updated>2026-03-12T06:57:36Z</updated>
-    <id>tag:www.watch.impress.co.jp,2026-03-12:/docs/news/2092710.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2092710.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: プログラマの抱いている不動産データについての誤謬</title>
+    <updated>2026-03-12T09:33:58Z</updated>
+    <id>tag:zenn.dev,2026-03-12:/estie/articles/39efe1ebf6b188</id>
+    <link href="https://zenn.dev/estie/articles/39efe1ebf6b188" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Googleアカウントを奪われてしまった可哀想なキモオタの話｜非耶部（ヒジャベ）</title>
+    <updated>2026-03-12T10:56:41Z</updated>
+    <id>tag:note.com,2026-03-12:/subete_0hana4/n/nc2ed571d3dc5</id>
+    <link href="https://note.com/subete_0hana4/n/nc2ed571d3dc5" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: モバイルバッテリーなどが「小型家電リサイクル法」対象に</title>
@@ -5230,64 +5224,106 @@
     <link href="https://k-tai.watch.impress.co.jp/docs/news/2092857.html" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: 50 Years of Thinking Different</title>
+    <updated>2026-03-12T13:32:36Z</updated>
+    <id>tag:www.apple.com,2026-03-12:/jp/50-years-of-thinking-different/</id>
+    <link href="https://www.apple.com/jp/50-years-of-thinking-different/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: WordPressが「My WordPress」リリース、ウェブブラウザだけで完全に動作しプラグインが使えるWordPressを構築可能でバックアップしてどこにでも復元可能でRSSリーダー化も可能</title>
+    <updated>2026-03-12T12:11:09Z</updated>
+    <id>tag:gigazine.net,2026-03-12:/news/20260312-my-wordpress/</id>
+    <link href="https://gigazine.net/news/20260312-my-wordpress/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: メモリ使用量40MBの衝撃。理想のMarkdownエディタを求めた結果、Tauriで自作が一番良かった - Qiita</title>
+    <updated>2026-03-12T04:27:15Z</updated>
+    <id>tag:qiita.com,2026-03-12:/ssaita/items/dd3ea7c8834c7bebebf9</id>
+    <link href="https://qiita.com/ssaita/items/dd3ea7c8834c7bebebf9" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: アルゴリズム設計は圧縮設計である - naoya.dev</title>
+    <updated>2026-03-12T07:04:41Z</updated>
+    <id>tag:naoya.dev,2026-03-12:/wiki/アルゴリズム設計は圧縮設計である</id>
+    <link href="https://naoya.dev/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E8%A8%AD%E8%A8%88%E3%81%AF%E5%9C%A7%E7%B8%AE%E8%A8%AD%E8%A8%88%E3%81%A7%E3%81%82%E3%82%8B" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: イオンの金融アプリが「イオンペイ」にブランド統一　決済・ウォレット集約</title>
+    <updated>2026-03-12T06:57:36Z</updated>
+    <id>tag:www.watch.impress.co.jp,2026-03-12:/docs/news/2092710.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2092710.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: チームで本格的に Docs as Code を運用しているので紹介します - エムスリーテックブログ</title>
     <updated>2026-03-12T03:40:58Z</updated>
     <id>tag:www.m3tech.blog,2026-03-12:/entry/2026/03/12/115110</id>
     <link href="https://www.m3tech.blog/entry/2026/03/12/115110" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: [はてブ統計] はてなブックマークは衰退しているのか？</title>
-    <updated>2026-03-12T09:08:08Z</updated>
-    <id>tag:anond.hatelabo.jp,2026-03-12:/20260312180747</id>
-    <link href="https://anond.hatelabo.jp/20260312180747" rel="alternate"></link>
+    <title>1:hatena_blog_it: 最速でわかる生成AI実践ガイド | 技術評論社</title>
+    <updated>2026-03-12T14:50:58Z</updated>
+    <id>tag:gihyo.jp,2026-03-12:/book/2026/978-4-297-15482-0</id>
+    <link href="https://gihyo.jp/book/2026/978-4-297-15482-0" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 10万円｢MacBook Neo｣エントリーでもカラーを妥協しない理由とは？ iPhoneのチップ採用で実現した"学生向け入り口戦略"の狙い</title>
-    <updated>2026-03-12T03:27:18Z</updated>
-    <id>tag:toyokeizai.net,2026-03-12:/articles/-/937670</id>
-    <link href="https://toyokeizai.net/articles/-/937670?display=b" rel="alternate"></link>
+    <title>1:hatena_blog_it: I cleared my Windows 11 cache and the difference was immediate</title>
+    <updated>2026-03-12T12:12:13Z</updated>
+    <id>tag:www.makeuseof.com,2026-03-12:/i-cleared-my-windows-11-cache-and-the-difference-was-immediate/</id>
+    <link href="https://www.makeuseof.com/i-cleared-my-windows-11-cache-and-the-difference-was-immediate/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: プログラマの抱いている不動産データについての誤謬</title>
-    <updated>2026-03-12T09:33:58Z</updated>
-    <id>tag:zenn.dev,2026-03-12:/estie/articles/39efe1ebf6b188</id>
-    <link href="https://zenn.dev/estie/articles/39efe1ebf6b188" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「Android」スマホにハードウェアの脆弱性、4台に1台に影響のおそれ</title>
+    <updated>2026-03-12T11:53:33Z</updated>
+    <id>tag:japan.zdnet.com,2026-03-12:/article/35244912/</id>
+    <link href="https://japan.zdnet.com/article/35244912/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 広告で「2秒でぽかぽか」「3分で部屋中涼しく」、実際は冷暖房能力を持たず　国民生活センターが“偽空調”に注意喚起</title>
-    <updated>2026-03-11T21:48:24Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-03-11:/news/articles/2603/11/news103.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2603/11/news103.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: Claude Code のコード品質がばらつくので AI に品質保証させる仕組みを作った話 / A story about building a mechanism to have AI ensure quality, because the code quality from Claude Code was inconsistent</title>
+    <updated>2026-03-12T12:41:42Z</updated>
+    <id>tag:speakerdeck.com,2026-03-12:/nrslib/a-story-about-building-a-mechanism-to-have-ai-ensure-quality-because-the-code-quality-from-claude-code-was-inconsistent</id>
+    <link href="https://speakerdeck.com/nrslib/a-story-about-building-a-mechanism-to-have-ai-ensure-quality-because-the-code-quality-from-claude-code-was-inconsistent" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: WebGPUのシェーダーの文法がほぼRustな理由</title>
-    <updated>2026-03-11T21:31:04Z</updated>
-    <id>tag:zenn.dev,2026-03-11:/ihasq/articles/85ff98c0c291ec</id>
-    <link href="https://zenn.dev/ihasq/articles/85ff98c0c291ec" rel="alternate"></link>
+    <title>1:hatena_blog_it: Claude Codeログ基盤の構築</title>
+    <updated>2026-03-12T12:48:49Z</updated>
+    <id>tag:speakerdeck.com,2026-03-12:/giginet/claude-code-logging</id>
+    <link href="https://speakerdeck.com/giginet/claude-code-logging" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: MacBook Neoのトラックパッドは感圧タッチトラックパッドではなく旧世代のMagic Trackpadと同じため強めのクリックや加速操作、感圧スケッチ操作は不可能。</title>
-    <updated>2026-03-11T22:46:24Z</updated>
-    <id>tag:applech2.com,2026-03-11:/archives/20260312-macbook-neo-magic-trackpad.html</id>
-    <link href="https://applech2.com/archives/20260312-macbook-neo-magic-trackpad.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 阪急電鉄、“入場キャンセル”が改札タッチで可能に</title>
+    <updated>2026-03-12T08:28:20Z</updated>
+    <id>tag:www.watch.impress.co.jp,2026-03-12:/docs/news/2092867.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2092867.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 中国の国営企業や政府機関がオフィス環境でのOpenClaw利用を制限する動き、中国全土でOpenClawの利用が広がりセキュリティ上の懸念が高まっているため</title>
-    <updated>2026-03-12T07:22:32Z</updated>
-    <id>tag:gigazine.net,2026-03-12:/news/20260312-china-limit-use-of-openclaw/</id>
-    <link href="https://gigazine.net/news/20260312-china-limit-use-of-openclaw/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 豪IT大手アトラシアン、1600人を解雇　「AIで必要なスキルが変化」 - 日本経済新聞</title>
+    <updated>2026-03-12T07:58:32Z</updated>
+    <id>tag:www.nikkei.com,2026-03-12:/article/DGXZQOGM1211X0S6A310C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGM1211X0S6A310C2000000/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 総務省、「電波の有効利用評価」を公表　ドコモのミリ波やソフトバンクのSub6展開に課題も</title>
-    <updated>2026-03-12T08:25:18Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2026-03-12:/docs/news/2092778.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2092778.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 50 Years of Thinking Different</title>
+    <updated>2026-03-12T13:32:50Z</updated>
+    <id>tag:www.apple.com,2026-03-12:/50-years-of-thinking-different/</id>
+    <link href="https://www.apple.com/50-years-of-thinking-different/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: わずか8GBのメモリ。MacBook NeoでエージェンティックAIを開発したら、絵を描いて曲も作れるように。MVまで全てローカルで完結できた（CloseBox） | テクノエッジ TechnoEdge</title>
-    <updated>2026-03-12T01:28:23Z</updated>
-    <id>tag:www.techno-edge.net,2026-03-12:/article/2026/03/12/4917.html</id>
-    <link href="https://www.techno-edge.net/article/2026/03/12/4917.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIコーディングはなぜ後から苦しくなるのか？　技術負債に続く「理解負債」「認知負債」という新たな落とし穴</title>
+    <updated>2026-03-11T23:54:12Z</updated>
+    <id>tag:atmarkit.itmedia.co.jp,2026-03-11:/ait/articles/2603/12/news016.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2603/12/news016.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 象印から初のサーキュレーター。まっすぐ&広がる風を1台で - 家電 Watch</title>
+    <updated>2026-03-12T10:10:50Z</updated>
+    <id>tag:kaden.watch.impress.co.jp,2026-03-12:/docs/news/2092599.html</id>
+    <link href="https://kaden.watch.impress.co.jp/docs/news/2092599.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: すべてのPCに「Xbox モード」を展開 ～「GDC 2026」に先駆けMicrosoftが発表／過去10年で最大のツール拡充、初回ロード時間の大幅短縮や「DirectStorage」の強化も</title>
+    <updated>2026-03-12T05:45:09Z</updated>
+    <id>tag:forest.watch.impress.co.jp,2026-03-12:/docs/news/2092626.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2092626.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Pythonを用いたレトロゲームエンジン「Pyxel」に公式のVisual Studio Code拡張機能／これさえあれば「Pyxel」ゲームが楽しめる</title>
@@ -5296,75 +5332,27 @@
     <link href="https://forest.watch.impress.co.jp/docs/news/2092632.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Claude Codeを加速させる私の推しスキル・ツール・設定（Findyイベント登壇資料）</title>
-    <updated>2026-03-11T12:41:43Z</updated>
-    <id>tag:share.google,2026-03-11:/CROCkWfh4j5sV8PkO</id>
-    <link href="https://share.google/CROCkWfh4j5sV8PkO" rel="alternate"></link>
+    <title>1:hatena_blog_it: GitHub - pbakaus/impeccable: The design language that makes your AI harness better at design.</title>
+    <updated>2026-03-09T04:52:31Z</updated>
+    <id>tag:github.com,2026-03-09:/pbakaus/impeccable</id>
+    <link href="https://github.com/pbakaus/impeccable" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Antigravity、レート制限時に“追い課金”可能に　ただし「AI Pro」ユーザーから「リミット厳しくなった？」の声も</title>
-    <updated>2026-03-12T05:13:58Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-03-12:/aiplus/articles/2603/12/news076.html</id>
-    <link href="https://www.itmedia.co.jp/aiplus/articles/2603/12/news076.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: GitHub - tokoroten/prompt-review</title>
+    <updated>2026-03-12T09:17:30Z</updated>
+    <id>tag:github.com,2026-03-12:/tokoroten/prompt-review</id>
+    <link href="https://github.com/tokoroten/prompt-review" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: CLAUDE.mdとrulesの使い分け、各ツールの対応状況 (2026.3) — tellme.tokyo</title>
-    <updated>2026-03-12T02:58:57Z</updated>
-    <id>tag:tellme.tokyo,2026-03-12:/post/2026/03/12/ai-coding-agent-rules/</id>
-    <link href="https://tellme.tokyo/post/2026/03/12/ai-coding-agent-rules/" rel="alternate"></link>
+    <title>1:hatena_blog_it: s@: social networking over static sites</title>
+    <updated>2026-03-12T01:35:11Z</updated>
+    <id>tag:satproto.org,2026-03-12:/</id>
+    <link href="http://satproto.org/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: フラッシュメモリ通説「通電しなければ半年～1年で消え始める」は本当か？ 6年目の実験結果 | Gadget Gate</title>
-    <updated>2026-03-11T22:49:22Z</updated>
-    <id>tag:gadget.phileweb.com,2026-03-11:/post-120900/</id>
-    <link href="https://gadget.phileweb.com/post-120900/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【悲報】ChatGPTが「笑ゥせぇるすまん」であることが判明。スタンフォード大の研究で、ChatGPTやGeminiなどのAIで、1万1,500件超の悩み相談を分析した結果、ユーザーが間違ってる時ですら「あなたは正しい」って肯定してきた話</title>
-    <updated>2026-03-11T22:07:08Z</updated>
-    <id>tag:posfie.com,2026-03-11:/@taimport/p/GmMQwKi</id>
-    <link href="https://posfie.com/@taimport/p/GmMQwKi" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 最も優れた Podcast アプリの死と再生について</title>
-    <updated>2026-03-11T13:20:02Z</updated>
-    <id>tag:portalshit.net,2026-03-11:/2026/03/11/the-death-and-rebirth-of-the-best-podcast-app</id>
-    <link href="https://portalshit.net/2026/03/11/the-death-and-rebirth-of-the-best-podcast-app" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「他人にお金を配りたくなるスイッチ」発見？　脳への電気刺激で“利他的行動”増大　スイスチームが報告</title>
-    <updated>2026-03-11T23:56:49Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-03-11:/news/articles/2603/12/news039.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2603/12/news039.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: PayPay銀行、6月に「ログインID」を廃止　店番・口座番号方式に一本化</title>
-    <updated>2026-03-11T21:07:18Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2026-03-11:/docs/news/2092430.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2092430.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: [石野純也の「スマホとお金」] iPhone 17と3万円差の「iPhone 17e」は買いか？　全キャリア比較で判明した事実</title>
-    <updated>2026-03-11T15:33:44Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2026-03-11:/docs/column/value/2092390.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/column/value/2092390.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: モノタロウのフロントエンド刷新の取り組み①～大規模ECサイトのフロントエンドをドメイン単位で再設計した話 - MonotaRO Tech Blog</title>
-    <updated>2026-03-12T00:06:50Z</updated>
-    <id>tag:tech-blog.monotaro.com,2026-03-12:/entry/2026/03/12/090000</id>
-    <link href="https://tech-blog.monotaro.com/entry/2026/03/12/090000" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Claude に jq の JIT コンパイラを作らせたらめちゃくちゃ速くなった - Qiita</title>
-    <updated>2026-03-11T04:10:25Z</updated>
-    <id>tag:qiita.com,2026-03-11:/m5d215/items/6b814078a0ad47654b42</id>
-    <link href="https://qiita.com/m5d215/items/6b814078a0ad47654b42" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「X」（Twitter）の「Ask Grok」、無償提供は終了か ～「Xプレミアム」以上限定に／「@grok」で話しかけたら答えてくれる機能【やじうまの杜】</title>
-    <updated>2026-03-12T08:12:39Z</updated>
-    <id>tag:forest.watch.impress.co.jp,2026-03-12:/docs/serial/yajiuma/2092902.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2092902.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: POPOPO サービス発表会</title>
+    <updated>2026-03-11T11:40:50Z</updated>
+    <id>tag:www.popopo.com,2026-03-11:/lp/teaser/</id>
+    <link href="https://www.popopo.com/lp/teaser/" rel="alternate"></link>
   </entry>
 </feed>
