@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-03-22T12:37:07Z</updated>
+  <updated>2026-03-22T18:28:37Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -988,6 +988,18 @@
     <link href="https://www.youtube.com/watch?v=UiTPkxB7W7g" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: 「Google AI Studio」がFirebaseのバックエンドとAntigravityのコーディングエージェントを搭載、プロンプトだけで高度なフルスタックアプリケーションを生成可能に</title>
+    <updated>2026-03-22T16:04:27Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8524</id>
+    <link href="https://www.publickey1.jp/blog/26/google_ai_studiofirebaseantigravity.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>2:publickey: AIエージェントがコマンドラインでブラウザを自動操作できる「Browser Use CLI 2.0」リリース。Chrome DevToolsへの接続などで操作速度が2倍に</title>
+    <updated>2026-03-22T15:58:36Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8523</id>
+    <link href="https://www.publickey1.jp/blog/26/aibrowser_use_cli_20chrome_devtools2.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: Node.js互換でコンテナよりも高密度と高速起動を実現する「Edge.js」、Wasmerが発表</title>
     <updated>2026-03-18T15:24:43Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8522</id>
@@ -1064,18 +1076,6 @@
     <updated>2026-03-09T15:37:16Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8510</id>
     <link href="https://www.publickey1.jp/blog/26/claude_coworkmicrosoft_365_copilotcopilot_cowork.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: Node.js、今後は年に一度のリリースとなり、すべてのリリースがLTS版になると発表</title>
-    <updated>2026-03-09T15:18:56Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8509</id>
-    <link href="https://www.publickey1.jp/blog/26/nodejslts.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: 専用OS「Windows CPC」を搭載した「クラウドPC」デバイスがDellとASUSから登場</title>
-    <updated>2026-03-09T15:12:43Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8508</id>
-    <link href="https://www.publickey1.jp/blog/26/oswindows_cpcpcdellasus.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: CDK for TypeScriptで検証するAgentCore Observabilityゼロコード計装の仕組み</title>
@@ -5218,16 +5218,46 @@
     <link href="https://diohabara.github.io/blog/quit-gpif/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 非デザイナーでもできる。Google Stitchがだいたい理解できるハンズオンマニュアル｜すぅ | AI駆動PM</title>
-    <updated>2026-03-21T05:05:33Z</updated>
-    <id>tag:note.com,2026-03-21:/suh_sunaneko/n/n9452278d1f2a</id>
-    <link href="https://note.com/suh_sunaneko/n/n9452278d1f2a" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>1:hatena_blog_it: Everything Claude Codeを眺めてみる | oikon48</title>
     <updated>2026-03-22T03:35:42Z</updated>
     <id>tag:oikon48.dev,2026-03-22:/ja/blog/everything-claude-code/</id>
     <link href="https://oikon48.dev/ja/blog/everything-claude-code/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: RAG パイプラインを捨てて claude -p に Grep させたら3時間で社内ナレッジ Bot が動いた</title>
+    <updated>2026-03-21T01:14:41Z</updated>
+    <id>tag:zenn.dev,2026-03-21:/kok1eeeee/articles/knowledge-chatbot-agentic-search</id>
+    <link href="https://zenn.dev/kok1eeeee/articles/knowledge-chatbot-agentic-search" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: AIで「他者の企画」を盗み、3万ビューを稼ぐ ― Unityroomで起きているAI盗用問題｜ゲーマーじゃない</title>
+    <updated>2026-03-22T02:21:21Z</updated>
+    <id>tag:note.com,2026-03-22:/right_orchid4615/n/n3960d5b51eb2</id>
+    <link href="https://note.com/right_orchid4615/n/n3960d5b51eb2" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「お金で解決」が全てではない！大規模WebアプリのCI高速化 #phperkaigi</title>
+    <updated>2026-03-22T11:49:46Z</updated>
+    <id>tag:speakerdeck.com,2026-03-22:/stefafafan/gha-ci-performance-tuning</id>
+    <link href="https://speakerdeck.com/stefafafan/gha-ci-performance-tuning" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: NHI（Non-Human Identity）管理が一気に立ち上がってきた件 | CloudNative BLOGs</title>
+    <updated>2026-03-22T01:40:45Z</updated>
+    <id>tag:blog.cloudnative.co.jp,2026-03-22:/articles/nhi-non-human-identity-management/</id>
+    <link href="https://blog.cloudnative.co.jp/articles/nhi-non-human-identity-management/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 裁判にAI、活用は可能？　最高裁で議論本格化（共同通信） - Yahoo!ニュース</title>
+    <updated>2026-03-22T14:56:08Z</updated>
+    <id>tag:news.yahoo.co.jp,2026-03-22:/articles/18ccb05e6341fdf68f83d05da47c66d500f73f42</id>
+    <link href="https://news.yahoo.co.jp/articles/18ccb05e6341fdf68f83d05da47c66d500f73f42" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: GitHub - hectorvent/floci: Light, fluffy, and always free - AWS Local Emulator</title>
+    <updated>2026-03-22T01:22:27Z</updated>
+    <id>tag:github.com,2026-03-22:/hectorvent/floci</id>
+    <link href="https://github.com/hectorvent/floci" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Claude Code のスキルとして動作する日報自動生成ツールを作った - じゃあ、おうちで学べる</title>
@@ -5242,22 +5272,10 @@
     <link href="https://note.com/rich_ruff7154/n/n3510da91605a" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: GitHub - hectorvent/floci: Light, fluffy, and always free - AWS Local Emulator</title>
-    <updated>2026-03-22T01:22:27Z</updated>
-    <id>tag:github.com,2026-03-22:/hectorvent/floci</id>
-    <link href="https://github.com/hectorvent/floci" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: RAG パイプラインを捨てて claude -p に Grep させたら3時間で社内ナレッジ Bot が動いた</title>
-    <updated>2026-03-21T01:14:41Z</updated>
-    <id>tag:zenn.dev,2026-03-21:/kok1eeeee/articles/knowledge-chatbot-agentic-search</id>
-    <link href="https://zenn.dev/kok1eeeee/articles/knowledge-chatbot-agentic-search" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド - Qiita</title>
-    <updated>2026-03-21T06:59:19Z</updated>
-    <id>tag:qiita.com,2026-03-21:/akira_papa_AI/items/0385b6d1468e6d564b50</id>
-    <link href="https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50" rel="alternate"></link>
+    <title>1:hatena_blog_it: Anthropic、“OpenClawキラー”の「Claude Code Channels」を発表 | XenoSpectrum</title>
+    <updated>2026-03-21T22:23:24Z</updated>
+    <id>tag:xenospectrum.com,2026-03-21:/claude-code-channels-telegram-discord-openclaw/</id>
+    <link href="https://xenospectrum.com/claude-code-channels-telegram-discord-openclaw/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: なぜ議員削減は危険なのか——海外事例が示す民主主義の共通構造</title>
@@ -5266,52 +5284,22 @@
     <link href="https://newshonyaku.com/cutting-lawmakers-democracy-risk-2/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: LLMをもっと賢くする：ナレッジグラフ実践入門</title>
-    <updated>2026-03-19T20:15:22Z</updated>
-    <id>tag:zenn.dev,2026-03-19:/knowledge_graph/books/knowledge-graph-llm-guide</id>
-    <link href="https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide" rel="alternate"></link>
+    <title>1:hatena_blog_it: AI時代の脳疲弊と向き合う ~言語学としてのPHP~</title>
+    <updated>2026-03-22T07:32:14Z</updated>
+    <id>tag:speakerdeck.com,2026-03-22:/sakuraikotone/aishi-dai-nonoy-pi-bi-toxiang-kihe-u-yan-yu-xue-tositenophp</id>
+    <link href="https://speakerdeck.com/sakuraikotone/aishi-dai-nonoy-pi-bi-toxiang-kihe-u-yan-yu-xue-tositenophp" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ナレッジグラフとは何か：知識をつながりで表現する｜LLMをもっと賢くする：ナレッジグラフ実践入門</title>
-    <updated>2026-03-20T19:01:10Z</updated>
-    <id>tag:zenn.dev,2026-03-20:/knowledge_graph/books/knowledge-graph-llm-guide/viewer/what-is-knowledge-graph</id>
-    <link href="https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide/viewer/what-is-knowledge-graph" rel="alternate"></link>
+    <title>1:hatena_blog_it: AIエージェントが「最初から戦力になる」リポジトリ設計 — AGENTS.md・ディレクトリ構造・バリデーション戦略の実践ガイド - Qiita</title>
+    <updated>2026-03-21T06:59:19Z</updated>
+    <id>tag:qiita.com,2026-03-21:/akira_papa_AI/items/0385b6d1468e6d564b50</id>
+    <link href="https://qiita.com/akira_papa_AI/items/0385b6d1468e6d564b50" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: [AI時代でも生き残る] シンプルに優秀な人がやっていること７選 - Qiita</title>
-    <updated>2026-03-11T08:50:09Z</updated>
-    <id>tag:qiita.com,2026-03-11:/taka_xin/items/d6a9842f477f0aa0b89e</id>
-    <link href="https://qiita.com/taka_xin/items/d6a9842f477f0aa0b89e" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Google AI Studio、Firebase機能統合でWebアプリ開発強化</title>
-    <updated>2026-03-20T23:36:03Z</updated>
-    <id>tag:www.watch.impress.co.jp,2026-03-20:/docs/news/2095052.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2095052.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: NHI（Non-Human Identity）管理が一気に立ち上がってきた件 | CloudNative BLOGs</title>
-    <updated>2026-03-22T01:40:45Z</updated>
-    <id>tag:blog.cloudnative.co.jp,2026-03-22:/articles/nhi-non-human-identity-management/</id>
-    <link href="https://blog.cloudnative.co.jp/articles/nhi-non-human-identity-management/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【技術屋の思考ログ #11】結合テスト（前編）：品質はテスト工程で作るものではない</title>
-    <updated>2026-03-21T05:03:22Z</updated>
-    <id>tag:zenn.dev,2026-03-21:/uragasumi25/articles/36df63371706f4</id>
-    <link href="https://zenn.dev/uragasumi25/articles/36df63371706f4" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「お金で解決」が全てではない！大規模WebアプリのCI高速化 #phperkaigi</title>
-    <updated>2026-03-22T11:49:46Z</updated>
-    <id>tag:speakerdeck.com,2026-03-22:/stefafafan/gha-ci-performance-tuning</id>
-    <link href="https://speakerdeck.com/stefafafan/gha-ci-performance-tuning" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: あの金はいったいどこへ消えたのか？――アメリカというポンジスキーム国家 » p2ptk[.]org</title>
-    <updated>2026-03-21T23:59:10Z</updated>
-    <id>tag:p2ptk.org,2026-03-21:/monopoly/5479</id>
-    <link href="https://p2ptk.org/monopoly/5479" rel="alternate"></link>
+    <title>1:hatena_blog_it: [Mac Studio vs DGX Spark] 同じモデルで2倍速 — ローカルLLM×Claude Codeの最適化で見えた本当のボトルネック - Qiita</title>
+    <updated>2026-03-22T08:20:37Z</updated>
+    <id>tag:qiita.com,2026-03-22:/Humanophilic_development/items/b416c443d9f52d04eaae</id>
+    <link href="https://qiita.com/Humanophilic_development/items/b416c443d9f52d04eaae" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Browser Use CLI - Browser Use</title>
@@ -5320,10 +5308,22 @@
     <link href="https://docs.browser-use.com/open-source/browser-use-cli" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Codex CLIのsubagentsを使って並列コードレビューを試す</title>
-    <updated>2026-03-22T02:38:09Z</updated>
-    <id>tag:blog.lai.so,2026-03-22:/codex-subagents/</id>
-    <link href="https://blog.lai.so/codex-subagents/" rel="alternate"></link>
+    <title>1:hatena_blog_it: マイクロソフト、Windows 11への不満を認め「もっと良くします」宣言　タスクバーの上部配置も復活</title>
+    <updated>2026-03-22T00:00:12Z</updated>
+    <id>tag:japan.cnet.com,2026-03-22:/article/35245310/</id>
+    <link href="https://japan.cnet.com/article/35245310/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ソフマップ池袋店、旧Macなどを展示する「Vintage Apple Collection」を展開 | Mac | Mac OTAKARA</title>
+    <updated>2026-03-22T07:27:14Z</updated>
+    <id>tag:www.macotakara.jp,2026-03-22:/macintosh/entry-50745.html</id>
+    <link href="https://www.macotakara.jp/macintosh/entry-50745.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Google AI Studio、Firebase機能統合でWebアプリ開発強化</title>
+    <updated>2026-03-20T23:36:03Z</updated>
+    <id>tag:www.watch.impress.co.jp,2026-03-20:/docs/news/2095052.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2095052.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Kongyo CSS - 画像→Pure CSS 変換</title>
@@ -5332,33 +5332,27 @@
     <link href="https://kongyo2.github.io/kongyo-css/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 行方不明のペットのAI生成画像を送りつける詐欺事件が発生（アメリカ）</title>
-    <updated>2026-03-21T13:29:09Z</updated>
-    <id>tag:karapaia.com,2026-03-21:/archives/591718.html</id>
-    <link href="https://karapaia.com/archives/591718.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 非デザイナーでもできる。Google Stitchがだいたい理解できるハンズオンマニュアル｜すぅ | AI駆動PM</title>
+    <updated>2026-03-21T05:05:33Z</updated>
+    <id>tag:note.com,2026-03-21:/suh_sunaneko/n/n9452278d1f2a</id>
+    <link href="https://note.com/suh_sunaneko/n/n9452278d1f2a" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: AIバグ発見システム「Sashiko」をJS/TS用にカスタマイズして使ってみる - プププなテクブ</title>
-    <updated>2026-03-21T14:29:30Z</updated>
-    <id>tag:blog.inorinrinrin.com,2026-03-21:/entry/2026/03/21/212624</id>
-    <link href="https://blog.inorinrinrin.com/entry/2026/03/21/212624" rel="alternate"></link>
+    <title>1:hatena_blog_it: あの金はいったいどこへ消えたのか？――アメリカというポンジスキーム国家 » p2ptk[.]org</title>
+    <updated>2026-03-21T23:59:10Z</updated>
+    <id>tag:p2ptk.org,2026-03-21:/monopoly/5479</id>
+    <link href="https://p2ptk.org/monopoly/5479" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: MacBook NeoはWindowsの利用でWindows PCを超える：各種ベンチが示すその“実用性” | XenoSpectrum</title>
-    <updated>2026-03-20T06:47:40Z</updated>
-    <id>tag:xenospectrum.com,2026-03-20:/macbook-neo-parallels-windows-duckdb-benchmark/</id>
-    <link href="https://xenospectrum.com/macbook-neo-parallels-windows-duckdb-benchmark/" rel="alternate"></link>
+    <title>1:hatena_blog_it: Codex CLIのsubagentsを使って並列コードレビューを試す</title>
+    <updated>2026-03-22T02:38:09Z</updated>
+    <id>tag:blog.lai.so,2026-03-22:/codex-subagents/</id>
+    <link href="https://blog.lai.so/codex-subagents/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【Figma株が8%落ちた理由】Google Stitch大型アップデート、5つの新機能を全解説｜KAWAI</title>
-    <updated>2026-03-19T04:57:55Z</updated>
-    <id>tag:note.com,2026-03-19:/kawaidesign/n/nf9f802d85d09</id>
-    <link href="https://note.com/kawaidesign/n/nf9f802d85d09" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: スクエニ、ドラクエ10にGoogle「Gemini」搭載　AIキャラ自然な会話 - 日本経済新聞</title>
-    <updated>2026-03-21T15:26:23Z</updated>
-    <id>tag:www.nikkei.com,2026-03-21:/article/DGXZQOUC212HX0R20C26A3000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC212HX0R20C26A3000000/" rel="alternate"></link>
+    <title>1:hatena_blog_it: 業務システムでも保守運用より構築スピードが大切になっている - きしだのHatena</title>
+    <updated>2026-03-22T02:18:31Z</updated>
+    <id>tag:nowokay.hatenablog.com,2026-03-22:/entry/2026/03/21/134008</id>
+    <link href="https://nowokay.hatenablog.com/entry/2026/03/21/134008" rel="alternate"></link>
   </entry>
 </feed>
