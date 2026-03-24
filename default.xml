@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>test Aggregated Feed - default</title>
   <id>https://a.example.com</id>
-  <updated>2026-03-24T12:57:48Z</updated>
+  <updated>2026-03-24T18:54:41Z</updated>
   <rights>triggerwaffle</rights>
   <subtitle>rss of default</subtitle>
   <link href="https://a.example.com"></link>
@@ -448,6 +448,12 @@
     <link href="https://qiita.com/Seine_A_Shintani/items/ee97411ce51d3890ab89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items" rel="alternate"></link>
   </entry>
   <entry>
+    <title>3:distrotube_youtube: Create Beautiful Websites With Hugo</title>
+    <updated>2026-03-24T13:01:29Z</updated>
+    <id>yt:video:onw826NsgWQ</id>
+    <link href="https://www.youtube.com/watch?v=onw826NsgWQ" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>3:distrotube_youtube: Taking Notes With Emacs Org Mode (It's Easy!)</title>
     <updated>2026-03-21T13:00:44Z</updated>
     <id>yt:video:NebhEVR44Jc</id>
@@ -530,12 +536,6 @@
     <updated>2026-02-16T14:00:11Z</updated>
     <id>yt:video:7HW1c-_mrrg</id>
     <link href="https://www.youtube.com/watch?v=7HW1c-_mrrg" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>3:distrotube_youtube: Hey, DT! You're Not Bald...But You Are Wide! (Plus Other Comments)</title>
-    <updated>2026-02-13T14:01:26Z</updated>
-    <id>yt:video:uGJ1Nao0E1Q</id>
-    <link href="https://www.youtube.com/watch?v=uGJ1Nao0E1Q" rel="alternate"></link>
   </entry>
   <entry>
     <title>3:atmarkit_security: 実態との差が明らかに　IPA「情報セキュリティ10大脅威」と日本企業警戒度トップ10</title>
@@ -988,6 +988,12 @@
     <link href="https://www.youtube.com/watch?v=UiTPkxB7W7g" rel="alternate"></link>
   </entry>
   <entry>
+    <title>2:publickey: マイクロソフト、Claude CodeやGitHub Copilotに「このアプリをデプロイせよ」と指示すればAIが最適なインフラ構成やサービスでデプロイしてくれる「Azure Skills Plugin」公開</title>
+    <updated>2026-03-24T15:34:04Z</updated>
+    <id>tag:www.publickey1.jp,2026://2.8527</id>
+    <link href="https://www.publickey1.jp/blog/26/claude_codegithub_copilotaiazure_skills_plugin.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>2:publickey: AWS、Claude Codeにアーキテクチャ設計、コスト見積もり、構成コード生成、デプロイ実行などの能力を組み込む「Agent Plugins for AWS」公開</title>
     <updated>2026-03-23T15:18:54Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8526</id>
@@ -1070,12 +1076,6 @@
     <updated>2026-03-11T15:42:09Z</updated>
     <id>tag:www.publickey1.jp,2026://2.8513</id>
     <link href="https://www.publickey1.jp/blog/26/javascriptspreadjsai.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>2:publickey: マイクロソフトが「.NET Skills」公開。AIエージェントの.NET開発能力を拡張</title>
-    <updated>2026-03-10T15:31:27Z</updated>
-    <id>tag:www.publickey1.jp,2026://2.8512</id>
-    <link href="https://www.publickey1.jp/blog/26/net_skillsainet.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>2:gihyo_site: Sakana AI、日本に特化させたオープンLLM「Namazu」とWeb検索機能を統合したチャットサービス「Sakana Chat」を公開</title>
@@ -5176,12 +5176,6 @@
     <link href="https://gihyo.jp/article/2025/04/daily-linux-250401?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
-    <title>2:gihyo_site: 第242回　MySQLのデッドロックに関するパラメーターとステータス</title>
-    <updated>2025-04-01T00:19:00Z</updated>
-    <id>urn:uuid:4a58e822-9623-b6a9-5ab9-048e135820c1</id>
-    <link href="https://gihyo.jp/article/2025/04/mysql-rcn0242?utm_source=feed" rel="alternate"></link>
-  </entry>
-  <entry>
     <title>2:gihyo_site: 第116回　日本MySQLユーザ会25周年&MySQL 30周年イベント、脆弱性が修正されたPostgreSQLの続報</title>
     <updated>2025-03-31T23:55:00Z</updated>
     <id>urn:uuid:8c3e565c-7c5a-e93a-de21-5032a3905dc3</id>
@@ -5242,46 +5236,16 @@
     <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0856?utm_source=feed" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: お客様のDMARC強化対応で「SPF/DKIM認証失敗」の調査依頼が来た話 - サーバーワークスエンジニアブログ</title>
+    <updated>2026-03-24T10:11:36Z</updated>
+    <id>tag:blog.serverworks.co.jp,2026-03-24:/dmarc-alignment-forwarding</id>
+    <link href="https://blog.serverworks.co.jp/dmarc-alignment-forwarding" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: Sonova、ゼンハイザーを含むコンシューマ事業を売却へ</title>
     <updated>2026-03-24T08:56:14Z</updated>
     <id>tag:av.watch.impress.co.jp,2026-03-24:/docs/news/2095827.html</id>
     <link href="https://av.watch.impress.co.jp/docs/news/2095827.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Sakana Chat</title>
-    <updated>2026-03-24T01:09:10Z</updated>
-    <id>tag:chat.sakana.ai,2026-03-24:/</id>
-    <link href="https://chat.sakana.ai/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 「Firefox」、全ユーザーに無料VPNの提供を開始--その信頼性は？</title>
-    <updated>2026-03-24T02:05:33Z</updated>
-    <id>tag:japan.zdnet.com,2026-03-24:/article/35245378/</id>
-    <link href="https://japan.zdnet.com/article/35245378/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: スマホ機種変更で「セットアップを完了させてください」と出たら、不要なアプリを大量に強制インストさせる極悪アプリだから気を付けて</title>
-    <updated>2026-03-24T08:13:40Z</updated>
-    <id>tag:togetter.com,2026-03-24:/li/2678205</id>
-    <link href="https://togetter.com/li/2678205" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 20人分の効率化。Y Combinator CEO独自開発のClaude Code用カスタムスキル「gstack」が無料公開。本業の傍ら1日1万行以上の実用的なコードを出力（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
-    <updated>2026-03-24T00:25:19Z</updated>
-    <id>tag:www.techno-edge.net,2026-03-24:/article/2026/03/24/4951.html</id>
-    <link href="https://www.techno-edge.net/article/2026/03/24/4951.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: WindowsはMacに比べて同一タスクの処理に約4倍ものメモリが必要？ 海外の検証結果が話題に【やじうまWatch】</title>
-    <updated>2026-03-24T02:49:49Z</updated>
-    <id>tag:internet.watch.impress.co.jp,2026-03-24:/docs/yajiuma/2095627.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2095627.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: iPhoneの裏をトントンするだけでここまでできる！知ってると超得な「背面タップ」便利ワザ | iPhone修理・ipad修理・スマホ修理やスイッチ修理のお役立ち総合情報サイト「スマテクマガジン」</title>
-    <updated>2026-03-24T02:00:06Z</updated>
-    <id>tag:smartcool-group.com,2026-03-24:/media/iphone-back-tap-custom/</id>
-    <link href="https://smartcool-group.com/media/iphone-back-tap-custom/" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: “サービス終了危機”だったゲームの開発元、「チームを約25人→3人に減らして生成AI導入で危機を脱した」手法を明かす。レイオフをせず、サービス終了もしないピンチ脱出術 - AUTOMATON</title>
@@ -5290,28 +5254,22 @@
     <link href="https://automaton-media.com/articles/newsjp/20260324-431748/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: ある神社の巫女さんが内職でCAT6AのLANケーブルを自作する光景「原因不明の通信障害に強そう」「加護欲しい」と話題になる</title>
-    <updated>2026-03-24T03:59:19Z</updated>
-    <id>tag:togetter.com,2026-03-24:/li/2678165</id>
-    <link href="https://togetter.com/li/2678165" rel="alternate"></link>
+    <title>1:hatena_blog_it: スマホ機種変更で「セットアップを完了させてください」と出たら、不要なアプリを大量に強制インストさせる極悪アプリだから気を付けて</title>
+    <updated>2026-03-24T08:13:40Z</updated>
+    <id>tag:togetter.com,2026-03-24:/li/2678205</id>
+    <link href="https://togetter.com/li/2678205" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 【社内勉強会】新年度からコーディングエージェントを使いこなす - 構造と制約で引き出すClaude Codeの実践知</title>
-    <updated>2026-03-23T11:31:36Z</updated>
-    <id>tag:speakerdeck.com,2026-03-23:/nwiizo/she-nei-mian-qiang-hui-xin-nian-du-karakodeinguezientowoshi-ikonasu-gou-zao-tozhi-yue-deyin-kichu-suclaude-codenoshi-jian-zhi</id>
-    <link href="https://speakerdeck.com/nwiizo/she-nei-mian-qiang-hui-xin-nian-du-karakodeinguezientowoshi-ikonasu-gou-zao-tozhi-yue-deyin-kichu-suclaude-codenoshi-jian-zhi" rel="alternate"></link>
+    <title>1:hatena_blog_it: 「Firefox」、全ユーザーに無料VPNの提供を開始--その信頼性は？</title>
+    <updated>2026-03-24T02:05:33Z</updated>
+    <id>tag:japan.zdnet.com,2026-03-24:/article/35245378/</id>
+    <link href="https://japan.zdnet.com/article/35245378/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: 「ANAモバイル」登場、月額料金の20％をマイルで還元</title>
-    <updated>2026-03-24T04:42:07Z</updated>
-    <id>tag:k-tai.watch.impress.co.jp,2026-03-24:/docs/news/2095710.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2095710.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: OpenAI、Metaの広告トップを引き抜き　ChatGPT広告の本格展開へ</title>
-    <updated>2026-03-24T01:04:07Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-03-24:/news/articles/2603/24/news067.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2603/24/news067.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: GitHub - k1LoW/mo: mo is a Markdown viewer that opens .md files in a browser.</title>
+    <updated>2026-02-28T01:27:16Z</updated>
+    <id>tag:github.com,2026-02-28:/k1LoW/mo</id>
+    <link href="https://github.com/k1LoW/mo" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: 高校教科書検定、令和書籍以外は合格　AI活用前提の記載少なく | 毎日新聞</title>
@@ -5320,28 +5278,112 @@
     <link href="https://mainichi.jp/articles/20260324/k00/00m/100/119000c" rel="alternate"></link>
   </entry>
   <entry>
+    <title>1:hatena_blog_it: Linuxカーネルの内部を知ると、エンジニアリングはもっと面白くなる── インフラ話題8選 - Findy Media</title>
+    <updated>2026-03-24T03:44:32Z</updated>
+    <id>tag:findy-code.io,2026-03-24:/media/articles/modoku-netmarkjp-202603</id>
+    <link href="https://findy-code.io/media/articles/modoku-netmarkjp-202603" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: WindowsはMacに比べて同一タスクの処理に約4倍ものメモリが必要？ 海外の検証結果が話題に【やじうまWatch】</title>
+    <updated>2026-03-24T02:49:49Z</updated>
+    <id>tag:internet.watch.impress.co.jp,2026-03-24:/docs/yajiuma/2095627.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2095627.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: マイクロソフト、Copilot Coworkを披露　AIで成果を出す方法</title>
+    <updated>2026-03-24T08:59:43Z</updated>
+    <id>tag:www.watch.impress.co.jp,2026-03-24:/docs/news/2095813.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2095813.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ある神社の巫女さんが内職でCAT6AのLANケーブルを自作する光景「原因不明の通信障害に強そう」「加護欲しい」と話題になる</title>
+    <updated>2026-03-24T03:59:19Z</updated>
+    <id>tag:togetter.com,2026-03-24:/li/2678165</id>
+    <link href="https://togetter.com/li/2678165" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 文書の内容を学習なしでLLMに反映、Sakana AIの新技術　RAG代替は可能か</title>
+    <updated>2026-03-23T22:43:17Z</updated>
+    <id>tag:xtech.nikkei.com,2026-03-23:/atcl/nxt/column/18/00001/11603/</id>
+    <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/11603/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 「ANAモバイル」登場、月額料金の20％をマイルで還元</title>
+    <updated>2026-03-24T04:42:07Z</updated>
+    <id>tag:k-tai.watch.impress.co.jp,2026-03-24:/docs/news/2095710.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/news/2095710.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Claude Codeでひとりチーム開発を回すための設定とワークフロー - Qiita</title>
+    <updated>2026-03-21T04:57:26Z</updated>
+    <id>tag:qiita.com,2026-03-21:/kei1-dev/items/c045233e1c4fb497c25d</id>
+    <link href="https://qiita.com/kei1-dev/items/c045233e1c4fb497c25d" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Sakana Chat</title>
+    <updated>2026-03-24T01:09:10Z</updated>
+    <id>tag:chat.sakana.ai,2026-03-24:/</id>
+    <link href="https://chat.sakana.ai/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 【独自】X、通信履歴保存延長を拒否　総務省要請、コスト負担に抵抗か | NEWSjp</title>
+    <updated>2026-03-24T09:02:00Z</updated>
+    <id>tag:news.jp,2026-03-24:/i/1409069980949185526</id>
+    <link href="https://news.jp/i/1409069980949185526?c=39550187727945729" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: なぜFirefox(Gecko)は必要なのか？をMozillaが解説</title>
+    <updated>2026-03-24T12:08:19Z</updated>
+    <id>tag:gigazine.net,2026-03-24:/news/20260324-mozilla-gecko/</id>
+    <link href="https://gigazine.net/news/20260324-mozilla-gecko/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: ネットワーク遅延を制覇したAppleの独自モデム「C1X」：Ooklaデータが解き明かすQualcomm一強体制の崩壊と「iPhone Air」の戦略的必然性 | XenoSpectrum</title>
+    <updated>2026-03-24T10:05:27Z</updated>
+    <id>tag:xenospectrum.com,2026-03-24:/apple-c1x-modem-ookla-latency-advantage/</id>
+    <link href="https://xenospectrum.com/apple-c1x-modem-ookla-latency-advantage/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 米国で「外国製ルーター」の輸入や販売が禁止に</title>
+    <updated>2026-03-24T08:10:46Z</updated>
+    <id>tag:japan.cnet.com,2026-03-24:/article/35245415/</id>
+    <link href="https://japan.cnet.com/article/35245415/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: OpenAI、Metaの広告トップを引き抜き　ChatGPT広告の本格展開へ</title>
+    <updated>2026-03-24T01:04:07Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-03-24:/news/articles/2603/24/news067.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2603/24/news067.html" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: Claudeで自分のPCを操作できる新機能やスマホからPC上のClaudeに指示できる新機能が登場</title>
+    <updated>2026-03-24T04:32:30Z</updated>
+    <id>tag:gigazine.net,2026-03-24:/news/20260324-claude-computer/</id>
+    <link href="https://gigazine.net/news/20260324-claude-computer/" rel="alternate"></link>
+  </entry>
+  <entry>
+    <title>1:hatena_blog_it: 20人分の効率化。Y Combinator CEO独自開発のClaude Code用カスタムスキル「gstack」が無料公開。本業の傍ら1日1万行以上の実用的なコードを出力（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+    <updated>2026-03-24T00:25:19Z</updated>
+    <id>tag:www.techno-edge.net,2026-03-24:/article/2026/03/24/4951.html</id>
+    <link href="https://www.techno-edge.net/article/2026/03/24/4951.html" rel="alternate"></link>
+  </entry>
+  <entry>
     <title>1:hatena_blog_it: DDD×仕様駆動で回す高品質開発のプロセス設計</title>
     <updated>2026-03-24T02:11:53Z</updated>
     <id>tag:speakerdeck.com,2026-03-24:/littlehands/dddxshi-yang-qu-dong-dehui-sugao-pin-zhi-kai-fa-nopurosesushe-ji</id>
     <link href="https://speakerdeck.com/littlehands/dddxshi-yang-qu-dong-dehui-sugao-pin-zhi-kai-fa-nopurosesushe-ji" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: DQ1の「ふっかつのじゅもん」の仕組みを全解説 - Qiita</title>
-    <updated>2025-08-06T12:02:52Z</updated>
-    <id>tag:qiita.com,2025-08-06:/musemyuzu/items/eb08f7790df356434e0f</id>
-    <link href="https://qiita.com/musemyuzu/items/eb08f7790df356434e0f" rel="alternate"></link>
+    <title>1:hatena_blog_it: 名大のスパコン「不老」3月末で運用終了　後継の「不老・弐」は10月運用開始</title>
+    <updated>2026-03-24T09:38:45Z</updated>
+    <id>tag:www.itmedia.co.jp,2026-03-24:/news/articles/2603/24/news121.html</id>
+    <link href="https://www.itmedia.co.jp/news/articles/2603/24/news121.html" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: UIに使用する色のコントラストをAIで検証、基準を満たしていないときはデザインに合った代替色を提案してくれる無料ツール</title>
-    <updated>2026-03-24T01:04:56Z</updated>
-    <id>tag:coliss.com,2026-03-24:/articles/build-websites/operation/work/ai-powered-wcag-color-contrast-checker.html</id>
-    <link href="https://coliss.com/articles/build-websites/operation/work/ai-powered-wcag-color-contrast-checker.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: Sakana AI、新AIモデル「Namazu」発表　AIチャット「Sakana Chat」も公開</title>
-    <updated>2026-03-24T01:41:51Z</updated>
-    <id>tag:www.itmedia.co.jp,2026-03-24:/news/articles/2603/24/news071.html</id>
-    <link href="https://www.itmedia.co.jp/news/articles/2603/24/news071.html" rel="alternate"></link>
+    <title>1:hatena_blog_it: 生成AI 学習での活用方法 初めて高校の教科書に | NHKニュース</title>
+    <updated>2026-03-24T10:30:15Z</updated>
+    <id>tag:news.web.nhk,2026-03-24:/newsweb/na/na-k10015082631000</id>
+    <link href="https://news.web.nhk/newsweb/na/na-k10015082631000" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: Peak Designの「アンカーリンクス」がスマホ用に小型化　スナップ機構はそのままに　耐荷重は約23kgを確保</title>
@@ -5356,63 +5398,15 @@
     <link href="https://gigazine.net/news/20260324-ai-child-abuse-increased/" rel="alternate"></link>
   </entry>
   <entry>
-    <title>1:hatena_blog_it: Linuxカーネルの内部を知ると、エンジニアリングはもっと面白くなる── インフラ話題8選 - Findy Media</title>
-    <updated>2026-03-24T03:44:32Z</updated>
-    <id>tag:findy-code.io,2026-03-24:/media/articles/modoku-netmarkjp-202603</id>
-    <link href="https://findy-code.io/media/articles/modoku-netmarkjp-202603" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: アイデアを入力するだけで国際会議レベルの学術論文を生成する「AutoResearchClaw」、PCが使われていない時を狙ってこっそり進化するAIエージェント「MetaClaw」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
-    <updated>2026-03-24T00:47:00Z</updated>
-    <id>tag:www.techno-edge.net,2026-03-24:/article/2026/03/24/4950.html</id>
-    <link href="https://www.techno-edge.net/article/2026/03/24/4950.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: KADOKAWAとnote、資本業務提携を締結　〜創作活動を支援する、次世代IP運用エコシステムの構築へ〜 | ニュースリリース | KADOKAWAグループ ポータルサイト</title>
-    <updated>2026-03-24T08:40:47Z</updated>
-    <id>tag:group.kadokawa.co.jp,2026-03-24:/information/news_release/2026032401.html</id>
-    <link href="https://group.kadokawa.co.jp/information/news_release/2026032401.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 発展途上国で技術指導に行ってた友人も言ってたな。まずは機械を使わない技術を教えないといけない。最新の機材とか持ち込んだ翌日には全部なくなってるなら何の意味もないって</title>
-    <updated>2026-03-24T06:27:28Z</updated>
-    <id>tag:posfie.com,2026-03-24:/@taimport/p/3cs4Ghl</id>
-    <link href="https://posfie.com/@taimport/p/3cs4Ghl" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 数億台のiPhoneをハックできるエクスプロイト「DarkSword」マルウェアが何者かによって公に流出</title>
-    <updated>2026-03-24T03:40:47Z</updated>
-    <id>tag:gigazine.net,2026-03-24:/news/20260324-darksword-ios-exploit-malware-released/</id>
-    <link href="https://gigazine.net/news/20260324-darksword-ios-exploit-malware-released/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 日本に拠点を置くAI企業のSakana AIが日本仕様の無料AIチャットサービス「Sakana Chat」を公開</title>
-    <updated>2026-03-24T05:10:55Z</updated>
-    <id>tag:gigazine.net,2026-03-24:/news/20260324-sakana-chat-ai-namazu/</id>
-    <link href="https://gigazine.net/news/20260324-sakana-chat-ai-namazu/" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: 【悲報】AIに仕事を奪われた話を書いた連載、終わる</title>
-    <updated>2026-03-23T23:10:56Z</updated>
-    <id>tag:atmarkit.itmedia.co.jp,2026-03-23:/ait/articles/2603/16/news010.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2603/16/news010.html" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: GitHub - MiniMax-AI/skills</title>
-    <updated>2026-03-22T10:47:58Z</updated>
-    <id>tag:github.com,2026-03-22:/MiniMax-AI/skills</id>
-    <link href="https://github.com/MiniMax-AI/skills" rel="alternate"></link>
+    <title>1:hatena_blog_it: AppleのDriverKitを利用し、macOS 26 Tahoeで非サポートとなったFireWireデバイスを最新のMacでも使えるようにするオープンソースプロジェクト「ASFireWire」が公開。</title>
+    <updated>2026-03-23T22:30:45Z</updated>
+    <id>tag:applech2.com,2026-03-23:/archives/20260323-firewire-support-on-macos-26-tahoe.html</id>
+    <link href="https://applech2.com/archives/20260323-firewire-support-on-macos-26-tahoe.html" rel="alternate"></link>
   </entry>
   <entry>
     <title>1:hatena_blog_it: LayerX バクラク事業にてGo To Marketエンジニアの採用を行います & 海外事例のご紹介｜numashi/LayerX バクラクVPoP</title>
     <updated>2026-03-24T06:48:23Z</updated>
     <id>tag:note.com,2026-03-24:/numashi_biz/n/n8a8db6828452</id>
     <link href="https://note.com/numashi_biz/n/n8a8db6828452" rel="alternate"></link>
-  </entry>
-  <entry>
-    <title>1:hatena_blog_it: マイクロソフト、Copilot Coworkを披露　AIで成果を出す方法</title>
-    <updated>2026-03-24T08:59:43Z</updated>
-    <id>tag:www.watch.impress.co.jp,2026-03-24:/docs/news/2095813.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2095813.html" rel="alternate"></link>
   </entry>
 </feed>
